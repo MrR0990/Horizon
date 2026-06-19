@@ -5,249 +5,303 @@ date: 2026-06-19
 lang: en
 ---
 
-> From 24 items, 11 important content pieces were selected
+> From 28 items, 16 important content pieces were selected
 
 ---
 
-1. [Safe GPU Kernel Programming in Rust with cuTile](#item-1) ⭐️ 9.0/10
-2. [Project Valhalla Arrives in JDK 28 After a Decade](#item-2) ⭐️ 8.0/10
-3. [Zero-Touch OAuth for MCP with ID-JAG Tokens](#item-3) ⭐️ 8.0/10
-4. [New Tool Probes LLM Training Data for Name Recognition](#item-4) ⭐️ 8.0/10
-5. [Tiny torch.compile: Operator Fusion Explained in 500 Lines](#item-5) ⭐️ 8.0/10
-6. [Conversation-level voice debugging beats isolated benchmarks](#item-6) ⭐️ 8.0/10
-7. [Advocating Proper Use of Well-Known URIs](#item-7) ⭐️ 7.0/10
-8. [Datasette Apps: Host sandboxed HTML apps with SQL queries](#item-8) ⭐️ 7.0/10
-9. [Essay Argues Profit Motive Fails to Create Essential Non-Market Spaces](#item-9) ⭐️ 7.0/10
-10. [AirPods as Social Signals of Unavailability](#item-10) ⭐️ 6.0/10
-11. [Datasette ACL 0.6a0 Expands to General Resource Sharing](#item-11) ⭐️ 6.0/10
+1. [Project Valhalla Arrives in JDK 28 After a Decade](#item-1) ⭐️ 9.0/10
+2. [Zero-Touch OAuth for MCP with ID-JAG Token](#item-2) ⭐️ 8.0/10
+3. [Tool probes LLM recognition of individuals](#item-3) ⭐️ 8.0/10
+4. [Merkle Tree Certificates: Faster, Safer Internet](#item-4) ⭐️ 8.0/10
+5. [Postgres 19 Beta: New Features Deep Dive](#item-5) ⭐️ 8.0/10
+6. [Best Practices for Defining Well-Known URIs](#item-6) ⭐️ 7.0/10
+7. [Datasette Apps: Sandboxed HTML/JS Apps Inside Datasette](#item-7) ⭐️ 7.0/10
+8. [Essay Argues Profit Motive Fails Social Infrastructure](#item-8) ⭐️ 7.0/10
+9. [Old Software Was Fast Due to Hardware Limits](#item-9) ⭐️ 7.0/10
+10. [Draft Chapter on CPU Cycle Costs for C++](#item-10) ⭐️ 7.0/10
+11. [How to Deadlock a Java ExecutorService](#item-11) ⭐️ 7.0/10
+12. [How Modern Indexing Works in PostgreSQL](#item-12) ⭐️ 7.0/10
+13. [AirPods Create Personal Acoustic Bubbles in Cities](#item-13) ⭐️ 6.0/10
+14. [Datasette-acl 0.6a0 expands to general resource-sharing](#item-14) ⭐️ 6.0/10
+15. [Build Your Own Vulnerability Harness Guide](#item-15) ⭐️ 6.0/10
+16. [Rethinking Modularity in Ruby Applications](#item-16) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Safe GPU Kernel Programming in Rust with cuTile](https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/) ⭐️ 9.0/10
+## [Project Valhalla Arrives in JDK 28 After a Decade](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 9.0/10
 
-cuTile Rust enables safe GPU kernel programming by extending Rust's ownership and borrow checking to GPU code, and the Grout inference engine built on it achieves competitive performance with vLLM and SGLang. This work addresses the growing trust bottleneck in AI-generated GPU code by providing compiler-verified memory safety and data-race freedom, potentially enabling safer and more reliable GPU programming at scale. Grout achieves 171 tok/s for Qwen3-4B on RTX 5090 and 82 tok/s for Qwen3-32B on B200 at batch-1 decode, with safe GEMM within 0.3% of hand-written low-level version on B200.
-
-reddit · r/MachineLearning · /u/Exciting_Suspect9088 · Jun 18, 21:36
-
-**Background**: GPU kernel programming traditionally relies on languages like CUDA C/C++ which lack built-in memory safety guarantees, making data races and memory errors common. Rust's ownership model enforces memory safety and thread safety at compile time, but extending it to GPU kernels has been challenging. cuTile Rust bridges this gap by using a tile-based programming model that lowers to CUDA Tile IR, carrying Rust's ownership semantics across the CPU-GPU boundary.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nvlabs.github.io/cutile-rs/">cuTile Rust — cuTile Rust</a></li>
-<li><a href="https://github.com/nvlabs/cutile-rs">GitHub - NVlabs/ cutile -rs: cuTile Rust provides a safe, tile-based...</a></li>
-<li><a href="https://docs.nvidia.com/cuda/tile-ir/latest/">Tile IR — Tile IR</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion is substantive, with users praising the technical depth and potential impact of combining Rust's safety guarantees with GPU programming. Some commenters note the NVIDIA-only limitation and the early stage of Grout as a research case study, but overall sentiment is positive and enthusiastic about the direction.
-
-**Tags**: `#Rust`, `#GPU`, `#concurrency`, `#machine learning`, `#inference`
-
----
-
-<a id="item-2"></a>
-## [Project Valhalla Arrives in JDK 28 After a Decade](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 8.0/10
-
-Project Valhalla introduces value types (inline classes) and heap flattening to the JVM in JDK 28, enabling objects to be stored without headers or indirection pointers for better memory density and performance. This is a major JVM enhancement after a decade of development, significantly improving memory layout and performance for Java applications, especially those dealing with large data structures. Heap flattening requires atomic reads and writes to avoid tearing, which may limit some use cases; also, objects larger than 64 bits cannot be fully flattened, as noted in community discussion.
+Project Valhalla's decade-long effort to add value types to Java culminates in JDK 28, introducing inline classes that enable flattened, dense data layouts without object headers for improved performance. This represents a major paradigm shift in Java's memory model, allowing developers to write more memory-efficient and faster applications, especially for data-intensive workloads. It bridges the gap between object-oriented expressiveness and low-level performance. Inline classes store values directly in arrays or fields without object headers, but require atomic access for flattened data to avoid tearing under concurrency. The design prioritizes simplicity for users over maximum performance ceiling.
 
 hackernews · philonoist · Jun 19, 06:35 · [Discussion](https://news.ycombinator.com/item?id=48595511)
 
-**Background**: In traditional JVM, every object has a header (metadata) and is accessed via a pointer, causing memory overhead and indirection. Value types allow objects to be stored inline in arrays or fields, eliminating headers and pointers for denser memory layout.
+**Background**: In Java, every object traditionally has a header (e.g., mark word, klass pointer) that adds memory overhead. Project Valhalla introduces value types (inline classes) that behave like primitives but can have methods and fields, enabling dense storage without indirection. This has been a long-awaited feature since the project's announcement in 2014.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Project_Valhalla_(Java_language)">Project Valhalla (Java language) - Wikipedia</a></li>
-<li><a href="https://www.jvm-weekly.com/p/project-valhalla-explained-how-a">Project Valhalla, Explained: How a Decade of... - JVM Weekly vol. 180</a></li>
-<li><a href="https://inside.java/2025/10/31/jvmls-jep-401/">Value Classes Heap Flattening - What to expect from JEP 401...</a></li>
+<li><a href="https://medium.com/@vishalpriyadarshi/project-valhalla-bringing-value-types-and-performance-efficiency-to-java-83b85e00b791">Project Valhalla : Bringing Value Types and Performance... | Medium</a></li>
+<li><a href="https://www.baeldung.com/java-valhalla-project">Java Valhalla Project | Baeldung</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments show mixed sentiment: some appreciate the performance gains but criticize the null-safety trade-offs and the limitation that objects >64 bits cannot be flattened. Others debate the complexity of the model and the atomicity requirement for flattened data.
+**Discussion**: Comments on Hacker News debate design trade-offs, such as null safety and atomicity requirements. Some users express concern that the atomicity constraint may limit performance gains for thread-unsafe use cases, while others appreciate the simplified model.
 
-**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#memory`
+**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#language design`
 
 ---
 
-<a id="item-3"></a>
-## [Zero-Touch OAuth for MCP with ID-JAG Tokens](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
+<a id="item-2"></a>
+## [Zero-Touch OAuth for MCP with ID-JAG Token](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
 
-Anthropic, Okta, Microsoft, and others introduced Zero-Touch OAuth for the Model Context Protocol (MCP), featuring a new token format called ID-JAG that isolates authentication outside the AI agent's context window. This simplifies and secures authentication for AI agents, improving user experience for enterprises and reducing security risks by keeping auth flows out of the agent's context window. ID-JAG is a JWT-based assertion token defined in an IETF draft, placed in the OAuth access_token field for compatibility, and can be used for secure data sharing across applications sharing the same SSO provider.
+Anthropic, Okta, Microsoft, Figma, and Linear have introduced Enterprise-Managed Authorization (EMA) for the Model Context Protocol (MCP), featuring a new token format called ID-JAG that enables zero-touch OAuth setup for AI agents. This simplifies and secures authentication in AI agent contexts by isolating the auth flow outside the agent's context window, improving both user experience and security for enterprise adoption of AI tools. ID-JAG tokens follow the format 'oauth-id-jag+jwt' and use the Token Exchange pattern without actor_token parameters, allowing secure data sharing between applications using the same SSO provider.
 
 hackernews · niyikiza · Jun 18, 21:54 · [Discussion](https://news.ycombinator.com/item?id=48592163)
 
-**Background**: The Model Context Protocol (MCP) enables AI agents to interact with external tools and data sources. Previously, authentication flows were handled within the agent's context window, leading to security and UX issues. OAuth 2.1 is the standard for delegated authorization, and ID-JAG extends it for AI agent scenarios.
+**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI applications connect to external systems. OAuth 2.0 is a widely used authorization framework that allows third-party applications to obtain limited access to user accounts. ID-JAG is a new token format designed for identity-aware data sharing across applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dev.to/kanywst/id-jag-deep-dive-1mhp">ID-JAG Deep Dive - DEV Community</a></li>
-<li><a href="https://techblog.lycorp.co.jp/en/20260417a">Why ID-JAG is the future of AI agent security</a></li>
-<li><a href="https://workos.com/blog/introduction-to-mcp-authentication">Introduction to MCP authentication — WorkOS</a></li>
+<li><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/">Enterprise-Managed Authorization: Zero - touch OAuth for MCP</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48592163">Zero - Touch OAuth for MCP | Hacker News</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members praised the collaboration between major companies and highlighted ID-JAG's broader applicability beyond MCP. Some developers expressed frustration with current Microsoft Entra ID integration, while Anthropic representatives welcomed feedback and noted plans to expand adoption.
+**Discussion**: Community members praised the isolation of auth flow outside the agent's context window as a valuable security improvement. One developer noted challenges with Microsoft Entra ID auth for MCP servers, particularly around indicating client_id. The ID-JAG format was highlighted as not MCP-specific, offering broader utility for secure data sharing.
 
 **Tags**: `#OAuth`, `#MCP`, `#authentication`, `#security`, `#AI agents`
 
 ---
 
-<a id="item-4"></a>
-## [New Tool Probes LLM Training Data for Name Recognition](https://www.intheweights.com/) ⭐️ 8.0/10
+<a id="item-3"></a>
+## [Tool probes LLM recognition of individuals](https://www.intheweights.com/) ⭐️ 8.0/10
 
-A new website, intheweights.com, lets users check how strongly frontier and small LLMs recognize their name, revealing traces left in model weights. It queries multiple models in parallel, clusters responses, and reports recognition strength. This tool highlights privacy and data leakage risks in LLMs, as models may memorize personal information from training data. It also exposes hallucination and bias issues, especially for non-English names, raising concerns about AI-driven identity verification. The tool queries frontier models (e.g., GPT-4) and small models (e.g., Llama 3.2 1B) in parallel, then clusters responses to distinguish consensus from hallucinations. False positives are not flagged as hallucinations, which can lead to alarming misidentifications, such as associating a user with a terrorist.
+A new website, intheweights.com, queries multiple large language models in parallel to check how strongly they recognize a given person, clustering responses to indicate recognition strength. It reveals whether a person's information is embedded in model weights, without using web search. This tool highlights privacy implications of LLMs retaining personal data in their weights, potentially exposing individuals to false positives or hallucinations. It raises awareness about how models may recognize or fabricate information about people, affecting trust and safety in AI systems. The tool queries frontier and small models in parallel, clusters responses, and classifies them as recognition or hallucination. Users report false positives, such as being misidentified as a terrorist, and hallucinations where models invent biographies.
 
 hackernews · turtlesoup · Jun 18, 20:49 · [Discussion](https://news.ycombinator.com/item?id=48591348)
 
-**Background**: Large Language Models (LLMs) are trained on vast text corpora that may include personal names and biographical details. When a model 'recognizes' a name, it may have memorized that information from training data, raising data leakage concerns. Small language models (SLMs) are smaller, specialized models, while frontier models are the largest, most capable ones. This tool probes both types to compare recognition patterns.
+**Background**: Large language models learn from vast datasets, and their weights encode knowledge about individuals, including public figures. This can lead to privacy risks when models recall or fabricate personal information without consent. The term 'in the weights' refers to information stored directly in model parameters, as opposed to retrieved via external tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/Archive/0_1_vulns/Data_Leakage.html">LLM02:2023 - Data Leakage</a></li>
-<li><a href="https://www.weboxx.org/blog/slm-vs-llm-vs-frontier-models-which-is-best-model">SLM vs LLM vs Frontier Models: How to choose the right AI</a></li>
-<li><a href="https://medium.com/@amjadkudsi/three-tiers-of-language-models-small-large-and-frontier-8cc467809dde">Three Tiers of Language Models: Small, Large, and Frontier | by Amjad Ali Kudsi | Medium</a></li>
+<li><a href="https://intheweights.com/about">IN THE WEIGHTS</a></li>
+<li><a href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/">LLMs can unmask pseudonymous users at scale with surprising accuracy - Ars Technica</a></li>
+<li><a href="https://minimaxir.com/2025/07/llms-identify-people/">LLMs can now identify public figures in images | Max Woolf's Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users reported mixed results: some found accurate recognition, while others experienced hallucinations and false positives. A user with an Arabic name was falsely identified as a terrorist, highlighting bias. Many expressed privacy concerns and refused to use their real names.
+**Discussion**: Community comments express mixed reactions: some find the tool revealing and concerning due to false positives and hallucinations, especially for individuals with common or Arabic names. Others note that the tool often hallucinates or misattributes information, raising questions about reliability and privacy risks.
 
-**Tags**: `#LLM`, `#privacy`, `#AI`, `#data leakage`, `#tool`
+**Tags**: `#LLM`, `#privacy`, `#AI`, `#tool`, `#hallucination`
+
+---
+
+<a id="item-4"></a>
+## [Merkle Tree Certificates: Faster, Safer Internet](https://www.reddit.com/r/programming/comments/1u9czhg/keeping_the_internet_fast_and_secure_introducing/) ⭐️ 8.0/10
+
+A new certificate format called Merkle Tree Certificates (MTCs) has been proposed to replace traditional X.509 certificates, integrating public logging similar to Certificate Transparency for faster and more secure validation. MTCs could significantly reduce the overhead of certificate validation, improving web performance and enabling efficient post-quantum cryptography adoption, which is critical for future-proofing internet security. Merkle Tree Certificates use Merkle trees to bundle multiple certificates, allowing a single proof to validate an entire chain, and they are designed to work with TLS 1.3 and post-quantum signatures.
+
+reddit · r/programming · /u/CircumspectCapybara · Jun 18, 17:41
+
+**Background**: Traditional X.509 certificates rely on a hierarchical chain of trust, where each certificate is signed by a higher authority, requiring multiple round trips for validation. Merkle trees are data structures that use cryptographic hashes to efficiently verify large sets of data, commonly used in blockchain. Merkle Tree Certificates combine these concepts to streamline certificate validation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Merkle_Tree_Certificates">Merkle Tree Certificates</a></li>
+<li><a href="https://www.ietf.org/ietf-ftp/internet-drafts/draft-davidben-tls-merkle-tree-certs-06.html">Merkle Tree Certificates</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle tree - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#certificates`, `#Merkle tree`, `#web performance`, `#cryptography`
 
 ---
 
 <a id="item-5"></a>
-## [Tiny torch.compile: Operator Fusion Explained in 500 Lines](https://www.reddit.com/r/MachineLearning/comments/1ua2hwj/how_does_torchcompile_achieve_massive_speedups/) ⭐️ 8.0/10
+## [Postgres 19 Beta: New Features Deep Dive](https://www.reddit.com/r/programming/comments/1u9aktp/whats_new_in_postgres_19_beta_release_deep_dive/) ⭐️ 8.0/10
 
-A developer created a minimal implementation of PyTorch's torch.compile in 500 lines of Python, demonstrating how operator fusion achieves massive speedups even over highly optimized NumPy functions. This hands-on explanation makes the complex concept of operator fusion accessible to a wider audience, helping developers understand and leverage torch.compile's optimizations for deep learning performance. The implementation is available as a GitHub repository with a Jupyter notebook, focusing on the core idea of operator fusion that underlies torch.compile's speedups.
+The Postgres 19 beta release introduces several new features including improved performance for parallel queries, enhanced logical replication, and new SQL/JSON capabilities. PostgreSQL is one of the most popular open-source databases, and each major release brings significant improvements that affect millions of developers and organizations worldwide. The beta release includes incremental sorting for window functions, better incremental view maintenance, and support for MERGE in foreign data wrappers.
 
-reddit · r/MachineLearning · /u/Other-Eye-8152 · Jun 19, 13:47
+reddit · r/programming · /u/craigkerstiens · Jun 18, 16:12
 
-**Background**: torch.compile is a PyTorch feature that compiles models to optimized kernels, using techniques like operator fusion to combine multiple operations into a single kernel, reducing memory overhead and launch latency. Operator fusion is a key optimization that merges sequential operations (e.g., activation functions, matrix multiplications) into one kernel, improving runtime efficiency. This is especially important for transformer-based architectures where operations like GELU are frequently used.
+**Background**: PostgreSQL is a powerful, open-source object-relational database system with over 30 years of active development. Major versions are released annually, with beta versions allowing the community to test new features before the final release.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://discuss.pytorch.org/t/fusing-operators-in-torch-compile-for-codegen/207956">Fusing operators in torch.compile for Codegen - torch._inductor - PyTorch Forums</a></li>
-<li><a href="https://pytorch.org/blog/accelerated-pytorch-inference/">Accelerated PyTorch inference with torch.compile on AWS Graviton processors – PyTorch</a></li>
-<li><a href="https://www.abhik.ai/articles/compiling-pytorch-kernel">PyTorch torch.compile: Kernel Optimization Deep Dive | Abhik Sarkar</a></li>
+**Discussion**: The Reddit discussion highlights excitement about parallel query improvements and logical replication enhancements, with some users expressing caution about beta stability.
 
-</ul>
-</details>
-
-**Tags**: `#PyTorch`, `#compiler optimization`, `#operator fusion`, `#deep learning`, `#performance`
+**Tags**: `#PostgreSQL`, `#database`, `#release`, `#beta`
 
 ---
 
 <a id="item-6"></a>
-## [Conversation-level voice debugging beats isolated benchmarks](https://www.reddit.com/r/MachineLearning/comments/1u99fe5/voice_debugging_at_the_conversation_level_seems/) ⭐️ 8.0/10
+## [Best Practices for Defining Well-Known URIs](https://mnot.net/blog/2026/well_known_uris) ⭐️ 7.0/10
 
-A Reddit user argues that conversation-level voice debugging is far more useful than isolated benchmark metrics for evaluating real-world multi-turn conversational systems, based on their experience testing large volumes of real interactions. This insight highlights a critical gap in current evaluation practices for conversational AI, where traditional benchmarks fail to capture emergent failures like timing issues, unnatural turn-taking, and friction from repeated confirmations, which degrade user experience in production. The user notes that small timing mistakes, repeated confirmations, and slightly unnatural turn-taking accumulate to create frustrating interactions, yet none of these issues show up in traditional benchmarks. They have shifted to automated conversation-level QA to identify recurring patterns rather than individual model failures.
+A technical blog post by Mark Nottingham explains the purpose and best practices for defining well-known URIs under the /.well-known/ path to avoid polluting the root namespace. This matters because improper use of the root namespace for discovery endpoints leads to conflicts and maintenance issues; adhering to the well-known URI standard (RFC 8615) ensures interoperability and future-proofing for web standards. The post emphasizes that well-known URIs should be registered with IANA and that multiple well-known URIs can coexist under /.well-known/ without conflict. It also warns against creating new root-level paths like 'llms.txt'.
 
-reddit · r/MachineLearning · /u/OwlZealousideal4779 · Jun 18, 15:29
+hackernews · ingve · Jun 19, 06:05 · [Discussion](https://news.ycombinator.com/item?id=48595331)
 
-**Background**: Conversational AI systems often rely on isolated benchmark metrics such as speech-to-text accuracy, latency, and task completion rates. However, these metrics do not capture emergent properties of multi-turn interactions, where each message depends on prior context. Specialized tools for voice debugging and multi-turn evaluation are emerging to address these challenges, focusing on conversation-level analysis and pattern detection.
+**Background**: Well-known URIs, standardized in RFC 5785 and updated by RFC 8615, provide a reserved path prefix (/.well-known/) for metadata and service discovery on web servers. Before this standard, each protocol defined its own arbitrary discovery path, causing namespace pollution and conflicts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.getmaxim.ai/articles/top-5-platforms-for-debugging-voice-agents/">Top 5 platforms for debugging voice agents</a></li>
-<li><a href="https://langfuse.com/blog/2025-10-09-evaluating-multi-turn-conversations">Evaluating Multi - Turn Conversations - Langfuse Blog</a></li>
-<li><a href="https://arxiv.org/html/2503.22458v1">Evaluating LLM-based Agents for Multi - Turn Conversations : A Survey</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Well-known_URI">Well - known URI - Wikipedia</a></li>
+<li><a href="https://http.dev/well-known-uris">Well - Known URIs explained</a></li>
+<li><a href="https://cameronrye.com/blog/well-known-uris-standardizing-web-metadata/">Well - known URIs : Standardizing Web Metadata... | Cameron Rye</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#conversational AI`, `#voice debugging`, `#benchmarking`, `#multi-turn systems`, `#QA`
+**Discussion**: Commenters generally agree on the problem of root namespace pollution, citing examples like 'llms.txt'. However, some criticize the post for lacking actionable advice and concrete examples, calling it superficial.
+
+**Tags**: `#web standards`, `#URI`, `#HTTP`, `#best practices`, `#IETF`
 
 ---
 
 <a id="item-7"></a>
-## [Advocating Proper Use of Well-Known URIs](https://mnot.net/blog/2026/well_known_uris) ⭐️ 7.0/10
+## [Datasette Apps: Sandboxed HTML/JS Apps Inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) ⭐️ 7.0/10
 
-A technical blog post by Mark Nottingham argues that web developers should use the /.well-known/ path prefix for standardized resources instead of placing them at the root of a domain, to avoid polluting the root namespace. This matters because root namespace pollution can lead to conflicts and maintenance issues as more services define custom paths. Following the well-known URI convention ensures interoperability and future-proofing for web standards. The /.well-known/ path prefix is defined in RFC 8615, which obsoletes RFC 5785. Examples of well-known URIs include security.txt, ACME challenges, and app-site-association files.
+The datasette-apps plugin allows hosting sandboxed HTML+JavaScript applications inside Datasette, enabling read-only SQL queries and optionally write queries via stored procedures. This plugin transforms Datasette into a platform for building custom, secure web applications directly on top of SQLite data, expanding its use cases beyond data exploration to full-fledged app hosting. Apps run in a sandboxed iframe with CSP headers that block external HTTP requests, preventing data exfiltration. Write queries require pre-configured stored procedures, adding a layer of security.
 
-hackernews · ingve · Jun 19, 06:05 · [Discussion](https://news.ycombinator.com/item?id=48595331)
+rss · Simon Willison · Jun 18, 23:58 · [Discussion](https://news.ycombinator.com/item?id=48593731)
 
-**Background**: A well-known URI is a standardized path prefix (/.well-known/) used in HTTP and HTTPS to locate metadata or configuration files for web services. This convention prevents different standards from conflicting by reserving a dedicated namespace under the root.
+**Background**: Datasette is an open-source tool for exploring and publishing data, providing a JSON API for custom frontends. The new plugin builds on this by allowing users to embed interactive apps directly within the Datasette interface, using a sandboxed iframe for security.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Well-known_URI">Well-known URI - Wikipedia</a></li>
-<li><a href="https://datatracker.ietf.org/doc/html/rfc8615">RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stored_procedure">Stored procedure - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion shows mixed reactions: some agree that root namespace pollution is a problem (citing llms.txt as an example), while others criticize the post for lacking substance and concrete examples. One commenter notes that the .well-known directory has become a 'junk drawer'.
+**Discussion**: Commenters noted parallels with other projects like Motherduck's 'dives' and discussed the security implications of write access via stored procedures, questioning who defines them and whether the restriction is truly enforceable.
 
-**Tags**: `#web standards`, `#URI`, `#HTTP`, `#API design`, `#best practices`
+**Tags**: `#datasette`, `#plugin`, `#sql`, `#web-applications`, `#sandbox`
 
 ---
 
 <a id="item-8"></a>
-## [Datasette Apps: Host sandboxed HTML apps with SQL queries](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) ⭐️ 7.0/10
+## [Essay Argues Profit Motive Fails Social Infrastructure](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) ⭐️ 7.0/10
 
-The new datasette-apps plugin for Datasette allows users to host custom HTML+JavaScript applications inside a sandboxed iframe, which can execute both read-only and write SQL queries against the underlying Datasette data. This plugin transforms Datasette from a data publishing tool into a platform for building interactive, custom UIs over databases, enabling a new pattern of BYO UI for data applications without sacrificing security. Apps run in an iframe with sandbox="allow-scripts allow-forms" and an injected CSP header that blocks outbound HTTP requests, preventing data exfiltration. Write queries are only allowed via pre-configured stored queries, not arbitrary SQL.
+An essay titled 'The room the economy can't see' argues that the profit motive systematically fails to produce essential social infrastructure like community spaces, and calls for containing markets within a broader social superstructure. This critique challenges the default assumption that markets efficiently allocate all valuable resources, highlighting a blind spot in economic thinking that affects community well-being and social cohesion. The essay uses the metaphor of 'the room' to represent non-monetized social spaces that are valuable but cannot be sold, such as places for lonely teenagers to gather. Community comments provide real-world examples like scouts gatherings, libraries, and parks.
 
-rss · Simon Willison · Jun 18, 23:58 · [Discussion](https://news.ycombinator.com/item?id=48593731)
+hackernews · Wilsoniumite · Jun 19, 10:16 · [Discussion](https://news.ycombinator.com/item?id=48596911)
 
-**Background**: Datasette is an open-source tool for exploring and publishing data as interactive websites and APIs. It supports SQLite databases and has a rich plugin ecosystem. The new plugin originated from an attempt to build a Claude Artifacts-like mechanism for Datasette Agent, but was generalized into a standalone feature.
+**Background**: Market failure occurs when the pursuit of profit does not lead to socially optimal outcomes, especially for public goods that are non-rivalrous and non-excludable. Social infrastructure includes physical and social spaces that foster community interaction and trust, which are often underprovided by markets.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://simonwillison.net/2026/Jun/18/datasette-apps/">Datasette Apps: Host custom HTML applications inside Datasette</a></li>
-<li><a href="https://github.com/datasette/datasette-apps">GitHub - datasette/datasette-apps: Apps that live inside Datasette · GitHub</a></li>
-<li><a href="https://fedi.simonwillison.net/@simon/116773831816049930">Simon Willison: "Just launched Datasette Apps -…" - Mastodon</a></li>
+**Discussion**: Commenters largely agree with the essay, sharing personal anecdotes about the value of slack and non-market spaces. One user notes that the market is actually optimizing when it disincentivizes such spending, but argues this shows the market should be contained within a social superstructure.
 
-</ul>
-</details>
-
-**Discussion**: Commenters noted parallels with other projects like Motherduck's "dives" and Louie.ai's patterns, suggesting a broader trend toward BYO UI over databases. Some raised security concerns about write query permissions, questioning whether stored queries truly prevent abuse if app authors can define them.
-
-**Tags**: `#datasette`, `#plugin`, `#sql`, `#web-applications`, `#data-publishing`
+**Tags**: `#economics`, `#social infrastructure`, `#market failure`, `#public goods`, `#community`
 
 ---
 
 <a id="item-9"></a>
-## [Essay Argues Profit Motive Fails to Create Essential Non-Market Spaces](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) ⭐️ 7.0/10
+## [Old Software Was Fast Due to Hardware Limits](https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/) ⭐️ 7.0/10
 
-An essay titled 'The room the economy can't see' argues that the profit motive systematically fails to produce essential non-market spaces and activities, such as community gathering places and care for lonely teenagers, and proposes that markets should be contained within a broader social superstructure. This essay challenges the default assumption that markets efficiently allocate all valuable resources, highlighting a blind spot in economic thinking that affects community well-being and social cohesion. It resonates with readers who experience the erosion of non-market spaces in their own lives. The essay uses the metaphor of a 'room' to represent non-market spaces that are valuable but cannot be sold, such as a place for lonely teenagers to feel less lonely. It argues that the market's optimization for profit actively disincentivizes investment in such spaces, and that this is a feature, not a bug, of the market system.
+A Reddit discussion argues that older software was faster because it had to run on limited hardware, contrasting with modern software that often prioritizes features and developer productivity over performance. This highlights a fundamental trade-off in software engineering: performance vs. development speed and feature richness, which affects user experience and system resource usage across the industry. The post notes that older software had no choice but to be efficient due to hardware constraints, while modern software often relies on faster hardware to compensate for inefficiencies introduced by high-level languages and frameworks.
 
-hackernews · Wilsoniumite · Jun 19, 10:16 · [Discussion](https://news.ycombinator.com/item?id=48596911)
+reddit · r/programming · /u/BlondieCoder · Jun 19, 13:52
 
-**Background**: In mainstream economics, markets are often seen as the primary mechanism for allocating resources efficiently based on supply and demand. However, certain goods and services—like public parks, community centers, or informal social gatherings—generate value that is not easily captured by market prices. This essay builds on a long tradition of critiquing market fundamentalism, arguing that some essential aspects of a good life lie outside the market's reach.
+**Background**: In the early days of computing, CPUs and memory were extremely limited, forcing developers to write highly optimized code. As hardware became more powerful, developers shifted focus to productivity and features, leading to software bloat. This discussion revisits that historical context to explain performance differences.
 
-**Discussion**: Commenters largely agree with the essay's thesis, sharing personal experiences of finding non-market spaces in scouts, libraries, and parks. One commenter notes that having financial 'slack' enabled them to contribute generously to non-market activities, while another highlights that the economic notion of value is wealth-weighted, which distorts what is considered valuable.
+**Discussion**: Commenters largely agree with the premise, adding examples like early video games and operating systems that ran on minimal hardware. Some note that modern software's inefficiency is acceptable given hardware advances, while others argue that bloat harms user experience on less powerful devices.
 
-**Tags**: `#economics`, `#market failure`, `#social infrastructure`, `#community`, `#essay`
+**Tags**: `#software performance`, `#systems design`, `#historical perspective`, `#engineering trade-offs`
 
 ---
 
 <a id="item-10"></a>
-## [AirPods as Social Signals of Unavailability](https://www.theescapenewsletter.com/p/the-airpods-effect) ⭐️ 6.0/10
+## [Draft Chapter on CPU Cycle Costs for C++](https://www.reddit.com/r/programming/comments/1u9yk1j/efficient_c_programming_for_modern_c_cpus_chapter/) ⭐️ 7.0/10
 
-An article titled 'The AirPods Effect' examines how Apple's AirPods have evolved from a tech accessory into a cultural symbol of social unavailability, sparking debate about the ethics of acoustic isolation in public spaces. This matters because it highlights a shift in social norms where wearing earbuds signals a desire to avoid interaction, affecting how people navigate urban environments and raising questions about the balance between personal comfort and social responsibility. The article notes that AirPods' design makes them highly visible, turning them into a clear 'do not disturb' signal. It also touches on how this behavior contrasts with the use of hearing aids, which are designed to enhance hearing rather than block it.
+The second part of Chapter 4 from the upcoming book 'Efficient C++ Programming for Modern 64-bit CPUs' has been published as a draft, featuring infographics and micro-research on the progress of MUL/DIV operations since 2017. This chapter provides valuable data on CPU cycle costs for arithmetic operations, helping C++ developers write more efficient code by understanding de-pessimization strategies rather than premature optimizations. The draft includes visualizations of operation costs in CPU clock cycles and micro-research on MUL/DIV improvements since 2017, but it is explicitly a book on de-pessimizations, not optimizations.
 
-hackernews · herbertl · Jun 18, 23:08 · [Discussion](https://news.ycombinator.com/item?id=48592832)
+reddit · r/programming · /u/no-bugs · Jun 19, 10:40
 
-**Background**: AirPods are wireless earbuds introduced by Apple in 2016. Their distinctive white design and seamless integration with Apple devices made them ubiquitous. The 'AirPods Effect' refers to the social phenomenon where wearing them signals unavailability, similar to wearing headphones but more conspicuous.
+**Background**: CPU cycle costs measure how many clock cycles an instruction takes to execute. Modern CPUs use pipelining and superscalar design to execute multiple instructions per cycle, but operations like multiplication and division are slower than addition. De-pessimization refers to avoiding coding practices that unnecessarily hurt performance, as opposed to optimization which actively improves it.
 
-**Discussion**: Commenters generally agree that using AirPods to block noise in loud urban environments is a natural response to unnatural settings. Some note that hearing aid users face a dilemma: modern hearing aids resemble AirPods, leading strangers to misinterpret their intent. Others argue that missing out on daydreaming time due to constant audio input is a bigger concern.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Instructions_per_cycle">Instructions per cycle - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cycles_per_instruction">Cycles per instruction - Wikipedia</a></li>
 
-**Tags**: `#social behavior`, `#technology and society`, `#human-computer interaction`, `#urban life`
+</ul>
+</details>
+
+**Discussion**: The Reddit discussion is active, with users providing feedback on the draft and requesting more visualizations. The author is committed to fixing issues highlighted in comments.
+
+**Tags**: `#C++`, `#CPU`, `#performance`, `#optimization`, `#programming`
 
 ---
 
 <a id="item-11"></a>
-## [Datasette ACL 0.6a0 Expands to General Resource Sharing](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) ⭐️ 6.0/10
+## [How to Deadlock a Java ExecutorService](https://www.reddit.com/r/programming/comments/1u9wq7z/how_to_deadlock_a_java_executorservice/) ⭐️ 7.0/10
 
-Datasette ACL 0.6a0 expands from table-only permissions toward a general resource-sharing system, allowing finer-grained control over access to various resources within multi-user Datasette instances. This release is significant because it transforms datasette-acl from a niche table-permission plugin into a foundational access-control layer for multi-user Datasette deployments, enabling more complex collaborative data publishing scenarios. The plugin is still under active development and previously only supported configuring permissions for individual tables (e.g., insert-row). Alex Garcia contributed most of the work for this alpha release.
+A Reddit post explains how submitting a task that waits for another task within the same fixed thread pool can cause a self-induced deadlock, and discusses ways to avoid it. This is a common concurrency pitfall that can silently freeze applications, and understanding it helps developers write more robust multithreaded code in Java. The deadlock occurs when a thread in the pool submits a subtask and calls get() on its Future, consuming the only available thread and blocking indefinitely. Using a larger pool, separate pools, or asynchronous techniques like CompletableFuture can prevent this.
+
+reddit · r/programming · /u/mlangc · Jun 19, 08:54
+
+**Background**: Java's ExecutorService manages a pool of threads to execute tasks concurrently. A fixed thread pool has a limited number of threads; if all threads are busy and a task waits for another task that is queued but cannot run because no thread is free, a deadlock occurs. This is known as a thread pool self-induced deadlock.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://dzone.com/articles/thread-pool-self-induced-deadlocks">Thread Pool Self-Induced Deadlocks</a></li>
+<li><a href="https://coderanch.com/t/662131/java/Deadlock-Executor-Service">Deadlock in Executor Service (Java in General forum at Coderanch)</a></li>
+<li><a href="https://javanexus.com/blog/solving-deadlock-java-executorservice">Solving Deadlock Problems in Java ExecutorService | Java Tech Blog</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Java`, `#Concurrency`, `#Deadlock`, `#ExecutorService`
+
+---
+
+<a id="item-12"></a>
+## [How Modern Indexing Works in PostgreSQL](https://www.reddit.com/r/programming/comments/1u9adv5/how_modern_indexing_works_in_postgresql_in_depth/) ⭐️ 7.0/10
+
+A detailed explanation of PostgreSQL indexing internals reveals that PostgreSQL uses io_uring for efficient synchronous I/O, fseek() for direct disk record retrieval, and binary search on leaf pages for in-memory traversal. It also maintains a dedicated index file with line pointers and TIDs (tuple IDs) to directly fetch records from disk. This deep dive helps developers understand PostgreSQL's performance advantages over other databases, especially in high-throughput scenarios. The use of modern OS calls like io_uring and optimized file structures can significantly reduce I/O latency and improve query speed. PostgreSQL always keeps a separate index file, unlike MySQL where clustered indexes are derived directly from the table. The index file's page 0 stores sorted data ranges, allowing PostgreSQL to quickly locate the correct page, load it into memory as a leaf page, and perform a binary search to find the exact TID.
+
+reddit · r/programming · /u/Ok_Stomach6651 · Jun 18, 16:05
+
+**Background**: Database indexing is a technique that speeds up data retrieval by reducing disk accesses. A B-tree index organizes data in a balanced tree structure, with leaf pages containing pointers to actual records. PostgreSQL has enhanced this with modern OS features like io_uring for asynchronous I/O and fseek() for direct file positioning, improving performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.phoronix.com/news/PostgreSQL-Lands-IO_uring">PostgreSQL Database Lands Initial Support For IO _ uring ... - Phoronix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Database_index">Database index - Wikipedia</a></li>
+<li><a href="https://www.alexstoica.com/blog/composite-index-storage">How Postgres Stores Composite Indexes on Disk | Alex’s nuggets of...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#PostgreSQL`, `#indexing`, `#database internals`, `#performance`
+
+---
+
+<a id="item-13"></a>
+## [AirPods Create Personal Acoustic Bubbles in Cities](https://www.theescapenewsletter.com/p/the-airpods-effect) ⭐️ 6.0/10
+
+An article titled 'The AirPods Effect' examines how people use earbuds like AirPods to carve out personal acoustic bubbles in noisy urban environments, sparking debate about social isolation and naturalness. This cultural commentary highlights a growing trend where technology mediates our sensory experience of public spaces, affecting social interactions and urban life norms. The article scored 6.0/10 with high engagement (223 points, 408 comments), indicating strong reader interest in the topic of earbuds and social behavior.
+
+hackernews · herbertl · Jun 18, 23:08 · [Discussion](https://news.ycombinator.com/item?id=48592832)
+
+**Background**: AirPods and similar wireless earbuds have become ubiquitous in cities, often used to listen to audio or simply block out noise. This has led to discussions about whether such isolation is natural or antisocial.
+
+**Discussion**: Commenters debated the naturalness of acoustic isolation, with some arguing that loud urban environments are themselves unnatural, and others noting that hearing aids can be mistaken for earbuds, complicating perceptions of rudeness.
+
+**Tags**: `#AirPods`, `#social behavior`, `#urban life`, `#technology and society`
+
+---
+
+<a id="item-14"></a>
+## [Datasette-acl 0.6a0 expands to general resource-sharing](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) ⭐️ 6.0/10
+
+Datasette-acl 0.6a0, released on June 18, 2026, expands from table-only permissions to a general resource-sharing system for multi-user Datasette instances. This release is significant for Datasette users who need fine-grained access control across various resources, enabling more secure and flexible multi-user data publishing. The plugin is still under active development, with Alex Garcia contributing most of the work for this alpha release. It currently supports configuring permissions for individual tables, controlling insert-row operations.
 
 rss · Simon Willison · Jun 18, 19:03
 
-**Background**: Datasette is an open-source multi-tool for exploring and publishing data, often used to turn SQLite databases into interactive websites with JSON APIs. The datasette-acl plugin aims to provide advanced permission management for multi-user Datasette instances, which previously lacked fine-grained access control beyond table-level permissions.
+**Background**: Datasette is an open-source multi-tool for exploring and publishing data, often used to turn SQLite databases into interactive websites with JSON APIs. The datasette-acl plugin provides advanced permission management, allowing administrators to control who can access or modify specific data resources.
 
 <details><summary>References</summary>
 <ul>
@@ -258,6 +312,40 @@ rss · Simon Willison · Jun 18, 19:03
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#access-control`, `#release`, `#plugin`
+**Tags**: `#datasette`, `#access-control`, `#plugin`, `#open-source`
+
+---
+
+<a id="item-15"></a>
+## [Build Your Own Vulnerability Harness Guide](https://www.reddit.com/r/programming/comments/1u9z8i8/build_your_own_vulnerability_harness/) ⭐️ 6.0/10
+
+Cloudflare published a detailed guide on building custom vulnerability harnesses for automated security testing, breaking down the multi-stage discovery and triage architecture. This enables developers and security teams to create tailored vulnerability discovery pipelines that can scale across diverse codebases, improving shift-left security practices. The harness uses a two-stage framework: Vulnerability Discovery Harness (VDH) and Vulnerability Validation System (VVS), with state controls and adversarial review to reduce false positives.
+
+reddit · r/programming · /u/CircumspectCapybara · Jun 19, 11:17
+
+**Background**: A vulnerability harness is an automated system that orchestrates security testing tools and processes to find and validate vulnerabilities. Cloudflare's approach integrates LLM-based skills for scanning, triage, and patching, as seen in their open-source reference harness on GitHub.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/build-your-own-vulnerability-harness/">Build your own vulnerability harness</a></li>
+<li><a href="https://github.com/anthropics/defending-code-reference-harness">GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize · GitHub</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#vulnerability`, `#harness`, `#programming`
+
+---
+
+<a id="item-16"></a>
+## [Rethinking Modularity in Ruby Applications](https://www.reddit.com/r/programming/comments/1u9x6ur/rethinking_modularity_in_ruby_applications/) ⭐️ 6.0/10
+
+A Reddit post titled 'Rethinking modularity in Ruby applications' explores new approaches to modular design in Ruby, though no specific technical details or concrete examples are provided in the summary. Modularity is crucial for maintainability and scalability in Ruby applications, and new perspectives could help developers improve code organization and reduce coupling. The post has a score of 6.0/10, indicating moderate interest, but no comments or additional context are available to assess the depth of the discussion.
+
+reddit · r/programming · /u/noteflakes · Jun 19, 09:21
+
+**Background**: Modularity in software refers to dividing a system into separate, interchangeable components. In Ruby, common modularity patterns include modules, classes, and gems, but large applications often face challenges like tight coupling and dependency management.
+
+**Tags**: `#Ruby`, `#software architecture`, `#modularity`
 
 ---
