@@ -60,5 +60,9 @@
     "category_groups": {},
     "default_group": "other",
     "default_group_limit": null
-  }
+  },
+  "languages": [
+    "en",
+    "zh"
+  ]
 }
