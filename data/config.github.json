@@ -104,6 +104,12 @@
         "url": "https://blog.langchain.dev/rss/",
         "enabled": true,
         "category": "ai-opensource"
+      },
+      {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/rss/",
+        "enabled": true,
+        "category": "hardware"
       }
     ],
     "reddit": {
@@ -189,7 +195,7 @@
         ]
       },
       "hardware": {
-        "limit": 4,
+        "limit": 5,
         "categories": [
           "hardware"
         ]
