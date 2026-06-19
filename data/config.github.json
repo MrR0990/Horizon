@@ -17,36 +17,132 @@
   "sources": {
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 100
+      "fetch_top_stories": 40,
+      "min_score": 80
     },
     "rss": [
+      {
+        "name": "Android Authority",
+        "url": "https://www.androidauthority.com/feed/",
+        "enabled": true,
+        "category": "android-ios"
+      },
+      {
+        "name": "9to5Google",
+        "url": "https://9to5google.com/feed/",
+        "enabled": true,
+        "category": "android-ios"
+      },
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/feed/",
+        "enabled": true,
+        "category": "android-ios"
+      },
+      {
+        "name": "MacRumors",
+        "url": "https://feeds.macrumors.com/MacRumors-All",
+        "enabled": true,
+        "category": "android-ios"
+      },
+      {
+        "name": "Anthropic Blog",
+        "url": "https://www.anthropic.com/rss.xml",
+        "enabled": true,
+        "category": "claude-ai"
+      },
       {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": "ai"
+        "category": "claude-ai"
+      },
+      {
+        "name": "The Pragmatic Engineer",
+        "url": "https://newsletter.pragmaticengineer.com/feed",
+        "enabled": true,
+        "category": "claude-ai"
       },
       {
         "name": "The Verge",
         "url": "https://www.theverge.com/rss/index.xml",
         "enabled": true,
-        "category": "tech"
+        "category": "hardware"
+      },
+      {
+        "name": "GSMArena",
+        "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+        "enabled": true,
+        "category": "hardware"
+      },
+      {
+        "name": "AnandTech",
+        "url": "https://www.anandtech.com/rss/",
+        "enabled": true,
+        "category": "hardware"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/feeds/all",
+        "enabled": true,
+        "category": "hardware"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "category": "ai-opensource"
+      },
+      {
+        "name": "Papers With Code",
+        "url": "https://paperswithcode.com/rss",
+        "enabled": true,
+        "category": "ai-opensource"
+      },
+      {
+        "name": "LangChain Blog",
+        "url": "https://blog.langchain.dev/rss/",
+        "enabled": true,
+        "category": "ai-opensource"
       }
     ],
     "reddit": {
       "enabled": true,
       "subreddits": [
         {
-          "subreddit": "MachineLearning",
+          "subreddit": "androiddev",
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
           "fetch_limit": 15,
+          "min_score": 30
+        },
+        {
+          "subreddit": "iOSProgramming",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 30
+        },
+        {
+          "subreddit": "MachineLearning",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 20,
           "min_score": 50
         },
         {
-          "subreddit": "programming",
+          "subreddit": "LocalLLaMA",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 20,
+          "min_score": 50
+        },
+        {
+          "subreddit": "hardware",
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
@@ -54,15 +150,46 @@
           "min_score": 100
         }
       ],
-      "fetch_comments": 5
+      "fetch_comments": 3
+    },
+    "ossinsight": {
+      "enabled": true,
+      "period": "past_24_hours",
+      "languages": [
+        "Python",
+        "TypeScript",
+        "Kotlin",
+        "Swift"
+      ],
+      "keywords": [
+        "llm",
+        "ai",
+        "android",
+        "ios"
+      ],
+      "min_stars": 20,
+      "max_items": 20
     }
   },
   "filtering": {
     "ai_score_threshold": 6.0,
     "time_window_hours": 24,
     "max_items": null,
-    "category_groups": {},
+    "category_groups": {
+      "android-ios": {
+        "limit": 5
+      },
+      "claude-ai": {
+        "limit": 4
+      },
+      "hardware": {
+        "limit": 4
+      },
+      "ai-opensource": {
+        "limit": 5
+      }
+    },
     "default_group": "other",
-    "default_group_limit": null
+    "default_group_limit": 3
   }
 }
