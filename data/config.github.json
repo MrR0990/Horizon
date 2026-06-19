@@ -176,17 +176,29 @@
     "time_window_hours": 24,
     "max_items": null,
     "category_groups": {
-      "android-ios": {
-        "limit": 5
+      "mobile": {
+        "limit": 5,
+        "categories": [
+          "android-ios"
+        ]
       },
-      "claude-ai": {
-        "limit": 4
+      "ai-tools": {
+        "limit": 4,
+        "categories": [
+          "claude-ai"
+        ]
       },
       "hardware": {
-        "limit": 4
+        "limit": 4,
+        "categories": [
+          "hardware"
+        ]
       },
-      "ai-opensource": {
-        "limit": 5
+      "ai-libs": {
+        "limit": 5,
+        "categories": [
+          "ai-opensource"
+        ]
       }
     },
     "default_group": "other",
