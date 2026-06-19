@@ -5,347 +5,373 @@ date: 2026-06-19
 lang: en
 ---
 
-> From 28 items, 16 important content pieces were selected
+> From 110 items, 16 important content pieces were selected
 
 ---
 
-1. [Project Valhalla Arrives in JDK 28 After a Decade](#item-1) ⭐️ 9.0/10
-2. [Zero-Touch OAuth for MCP with ID-JAG Token](#item-2) ⭐️ 8.0/10
-3. [Tool probes LLM recognition of individuals](#item-3) ⭐️ 8.0/10
-4. [Merkle Tree Certificates: Faster, Safer Internet](#item-4) ⭐️ 8.0/10
-5. [Postgres 19 Beta: New Features Deep Dive](#item-5) ⭐️ 8.0/10
-6. [Best Practices for Defining Well-Known URIs](#item-6) ⭐️ 7.0/10
-7. [Datasette Apps: Sandboxed HTML/JS Apps Inside Datasette](#item-7) ⭐️ 7.0/10
-8. [Essay Argues Profit Motive Fails Social Infrastructure](#item-8) ⭐️ 7.0/10
-9. [Old Software Was Fast Due to Hardware Limits](#item-9) ⭐️ 7.0/10
-10. [Draft Chapter on CPU Cycle Costs for C++](#item-10) ⭐️ 7.0/10
-11. [How to Deadlock a Java ExecutorService](#item-11) ⭐️ 7.0/10
-12. [How Modern Indexing Works in PostgreSQL](#item-12) ⭐️ 7.0/10
-13. [AirPods Create Personal Acoustic Bubbles in Cities](#item-13) ⭐️ 6.0/10
-14. [Datasette-acl 0.6a0 expands to general resource-sharing](#item-14) ⭐️ 6.0/10
-15. [Build Your Own Vulnerability Harness Guide](#item-15) ⭐️ 6.0/10
-16. [Rethinking Modularity in Ruby Applications](#item-16) ⭐️ 6.0/10
+1. [Unpatchable BootROM exploit usbliter8 targets Apple A12/A13 chips](#item-1) ⭐️ 9.0/10
+2. [Industry Giants Fabricate 2D Transistors at 50nm Pitch](#item-2) ⭐️ 9.0/10
+3. [Project Valhalla Arrives in JDK 28 with Value Types](#item-3) ⭐️ 8.0/10
+4. [Zero-Touch OAuth for MCP Enhances Security and UX](#item-4) ⭐️ 8.0/10
+5. [Apple Announces Major App Store Changes in Brazil](#item-5) ⭐️ 8.0/10
+6. [US Bans Anthropic's Fable Model, Signaling AI Regulation Shift](#item-6) ⭐️ 8.0/10
+7. [SK Telecom named in Anthropic Mythos export controls controversy](#item-7) ⭐️ 8.0/10
+8. [Tesco removes 40,000 servers from VMware amid Broadcom subscription shift](#item-8) ⭐️ 8.0/10
+9. [FERC Orders Fast-Track for AI Data Centers with Self-Power or Demand Cuts](#item-9) ⭐️ 8.0/10
+10. [MosaicLeaks: LLM Research Agents Leak Sensitive Data](#item-10) ⭐️ 8.0/10
+11. [Amazon in Talks to Sell AI Chips Competing with Nvidia](#item-11) ⭐️ 8.0/10
+12. [Datasette Apps: Sandboxed HTML+JS Apps Inside Datasette](#item-12) ⭐️ 7.0/10
+13. [Apple Explains Why watchOS 27 Drops Support for Five Models](#item-13) ⭐️ 7.0/10
+14. [Apple Confirms Consistent Siri AI Across All Devices](#item-14) ⭐️ 6.0/10
+15. [Joanna Stern Tests iOS 27 Siri AI: Impressive but Beta](#item-15) ⭐️ 6.0/10
+16. [datasette-acl 0.6a0 expands to resource-sharing system](#item-16) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Project Valhalla Arrives in JDK 28 After a Decade](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 9.0/10
+## [Unpatchable BootROM exploit usbliter8 targets Apple A12/A13 chips](https://9to5mac.com/2026/06/18/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips/) ⭐️ 9.0/10
 
-Project Valhalla's decade-long effort to add value types to Java culminates in JDK 28, introducing inline classes that enable flattened, dense data layouts without object headers for improved performance. This represents a major paradigm shift in Java's memory model, allowing developers to write more memory-efficient and faster applications, especially for data-intensive workloads. It bridges the gap between object-oriented expressiveness and low-level performance. Inline classes store values directly in arrays or fields without object headers, but require atomic access for flattened data to avoid tearing under concurrency. The design prioritizes simplicity for users over maximum performance ceiling.
+Security research firm Paradigm Shift disclosed usbliter8, an unpatchable BootROM exploit for Apple's A12 and A13 chips, enabling arbitrary code execution via a USB controller hardware bug. This is the first public BootROM exploit since checkm8 in 2019, affecting millions of iPhone XS to iPhone 11 devices that cannot be fixed via software updates, posing a permanent security risk. The exploit works by sending unusually small USB packets to manipulate a hardware pointer, allowing memory writes to unintended locations. On A13 devices, it bypasses Pointer Authentication Codes (PAC) through a multi-step process.
+
+rss · 9to5Mac · Jun 18, 21:21
+
+**Background**: BootROM (SecureROM) is the first code executed when an iPhone boots, stored in read-only memory. Vulnerabilities in BootROM are unpatchable because they are baked into the chip hardware. The previous major BootROM exploit was checkm8, which affected devices up to iPhone X.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/">Apple's A12 and A13 Chips Facing New Unpatchable Exploit - MacRumors</a></li>
+<li><a href="https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability">A12 & A13 Apple devices face an unpatchable SecureROM vulnerability</a></li>
+<li><a href="https://ps.tc/pages/blog-usbliter8.html">Paradigm Shift - Introducing usbliter 8</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#exploit`, `#Apple`, `#iOS`, `#vulnerability`
+
+---
+
+<a id="item-2"></a>
+## [Industry Giants Fabricate 2D Transistors at 50nm Pitch](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer) ⭐️ 9.0/10
+
+Imec, ASML, and TSMC have successfully fabricated complementary n-type and p-type transistors using atomically thin 2D materials on a single 300mm wafer, achieving a 50nm contacted gate pitch. This breakthrough demonstrates the feasibility of integrating 2D-material transistors at a pitch comparable to advanced silicon nodes, paving the way for continued transistor scaling beyond silicon's physical limits. The 50nm contacted gate pitch matches the Intel 4 process node, and the complementary transistor integration on a 300mm wafer is a critical step toward industrial-scale production of 2D-material-based logic circuits.
+
+rss · Tom's Hardware · Jun 19, 13:13
+
+**Background**: 2D materials, such as molybdenum disulfide (MoS₂), are atomically thin semiconductors that offer superior electrostatic control and can be processed at low temperatures, making them promising for future transistors. However, integrating both n-type and p-type 2D transistors on the same wafer has been a major challenge due to material and process incompatibilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/5_nm_process">5 nm process - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#2D materials`, `#transistor scaling`, `#nanotechnology`, `#chip manufacturing`
+
+---
+
+<a id="item-3"></a>
+## [Project Valhalla Arrives in JDK 28 with Value Types](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 8.0/10
+
+After a decade of development, Project Valhalla introduces value types and heap flattening in JDK 28, enabling dense memory layouts for the JVM. This significantly improves memory efficiency and performance for Java applications, especially for data-intensive workloads, by eliminating object headers and indirection pointers. Value types (inline classes) allow objects to be stored directly in arrays without per-element headers, but heap flattening is limited to objects with 64-bit or smaller representations to ensure atomic access.
 
 hackernews · philonoist · Jun 19, 06:35 · [Discussion](https://news.ycombinator.com/item?id=48595511)
 
-**Background**: In Java, every object traditionally has a header (e.g., mark word, klass pointer) that adds memory overhead. Project Valhalla introduces value types (inline classes) that behave like primitives but can have methods and fields, enabling dense storage without indirection. This has been a long-awaited feature since the project's announcement in 2014.
+**Background**: Project Valhalla is an OpenJDK project announced in 2014, led by Brian Goetz, aiming to bring value types to Java. Traditionally, Java objects have identity and are accessed via references, causing memory overhead. Value types lack identity and can be flattened in memory, similar to structs in C.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Project_Valhalla_(Java_language)">Project Valhalla (Java language) - Wikipedia</a></li>
-<li><a href="https://medium.com/@vishalpriyadarshi/project-valhalla-bringing-value-types-and-performance-efficiency-to-java-83b85e00b791">Project Valhalla : Bringing Value Types and Performance... | Medium</a></li>
+<li><a href="https://inside.java/2025/10/31/jvmls-jep-401/">Value Classes Heap Flattening - What to expect from JEP 401 #JVMLS – Inside.java</a></li>
 <li><a href="https://www.baeldung.com/java-valhalla-project">Java Valhalla Project | Baeldung</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments on Hacker News debate design trade-offs, such as null safety and atomicity requirements. Some users express concern that the atomicity constraint may limit performance gains for thread-unsafe use cases, while others appreciate the simplified model.
+**Discussion**: Comments show mixed sentiment: some appreciate the hard work but critique the complexity and limitations, such as the 64-bit atomicity constraint and the removal of null-freeness from the model. Others defend the project, noting Java's historical context and the value of incremental progress.
 
-**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#language design`
+**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#value types`
 
 ---
 
-<a id="item-2"></a>
-## [Zero-Touch OAuth for MCP with ID-JAG Token](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
+<a id="item-4"></a>
+## [Zero-Touch OAuth for MCP Enhances Security and UX](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
 
-Anthropic, Okta, Microsoft, Figma, and Linear have introduced Enterprise-Managed Authorization (EMA) for the Model Context Protocol (MCP), featuring a new token format called ID-JAG that enables zero-touch OAuth setup for AI agents. This simplifies and secures authentication in AI agent contexts by isolating the auth flow outside the agent's context window, improving both user experience and security for enterprise adoption of AI tools. ID-JAG tokens follow the format 'oauth-id-jag+jwt' and use the Token Exchange pattern without actor_token parameters, allowing secure data sharing between applications using the same SSO provider.
+Anthropic, in partnership with Okta, Microsoft, and others, has introduced Enterprise-Managed Authorization (EMA) for the Model Context Protocol (MCP), enabling zero-touch OAuth flows that isolate authentication from the agent's context window. This addresses a critical security and user experience issue in AI agent tool integration, making it easier for enterprises to adopt AI tools without per-app OAuth configuration, while reducing context bloat and improving security. The new EMA extension is now a stable part of the MCP specification, and it is powered by a new IETF token format called ID-JAG, which is not MCP-specific and can be used for secure data sharing across applications using the same SSO provider.
 
 hackernews · niyikiza · Jun 18, 21:54 · [Discussion](https://news.ycombinator.com/item?id=48592163)
 
-**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI applications connect to external systems. OAuth 2.0 is a widely used authorization framework that allows third-party applications to obtain limited access to user accounts. ID-JAG is a new token format designed for identity-aware data sharing across applications.
+**Background**: The Model Context Protocol (MCP) is an open standard for connecting AI assistants to data sources and tools. Previously, integrating authentication often required manual OAuth setup per application, leading to security risks and poor user experience. Zero-touch OAuth automates this process, allowing MCP servers to connect on first login with no configuration.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/">Enterprise-Managed Authorization: Zero - touch OAuth for MCP</a></li>
 <li><a href="https://news.ycombinator.com/item?id=48592163">Zero - Touch OAuth for MCP | Hacker News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members praised the isolation of auth flow outside the agent's context window as a valuable security improvement. One developer noted challenges with Microsoft Entra ID auth for MCP servers, particularly around indicating client_id. The ID-JAG format was highlighted as not MCP-specific, offering broader utility for secure data sharing.
+**Discussion**: Community members praised the initiative, with one noting that isolating auth flows outside the agent's context window is a key advantage of MCP over skills/CLI. Another developer shared real-world challenges with Microsoft Entra ID auth, while a contributor highlighted that ID-JAG tokens enable secure data sharing beyond MCP.
 
-**Tags**: `#OAuth`, `#MCP`, `#authentication`, `#security`, `#AI agents`
-
----
-
-<a id="item-3"></a>
-## [Tool probes LLM recognition of individuals](https://www.intheweights.com/) ⭐️ 8.0/10
-
-A new website, intheweights.com, queries multiple large language models in parallel to check how strongly they recognize a given person, clustering responses to indicate recognition strength. It reveals whether a person's information is embedded in model weights, without using web search. This tool highlights privacy implications of LLMs retaining personal data in their weights, potentially exposing individuals to false positives or hallucinations. It raises awareness about how models may recognize or fabricate information about people, affecting trust and safety in AI systems. The tool queries frontier and small models in parallel, clusters responses, and classifies them as recognition or hallucination. Users report false positives, such as being misidentified as a terrorist, and hallucinations where models invent biographies.
-
-hackernews · turtlesoup · Jun 18, 20:49 · [Discussion](https://news.ycombinator.com/item?id=48591348)
-
-**Background**: Large language models learn from vast datasets, and their weights encode knowledge about individuals, including public figures. This can lead to privacy risks when models recall or fabricate personal information without consent. The term 'in the weights' refers to information stored directly in model parameters, as opposed to retrieved via external tools.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://intheweights.com/about">IN THE WEIGHTS</a></li>
-<li><a href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/">LLMs can unmask pseudonymous users at scale with surprising accuracy - Ars Technica</a></li>
-<li><a href="https://minimaxir.com/2025/07/llms-identify-people/">LLMs can now identify public figures in images | Max Woolf's Blog</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments express mixed reactions: some find the tool revealing and concerning due to false positives and hallucinations, especially for individuals with common or Arabic names. Others note that the tool often hallucinates or misattributes information, raising questions about reliability and privacy risks.
-
-**Tags**: `#LLM`, `#privacy`, `#AI`, `#tool`, `#hallucination`
-
----
-
-<a id="item-4"></a>
-## [Merkle Tree Certificates: Faster, Safer Internet](https://www.reddit.com/r/programming/comments/1u9czhg/keeping_the_internet_fast_and_secure_introducing/) ⭐️ 8.0/10
-
-A new certificate format called Merkle Tree Certificates (MTCs) has been proposed to replace traditional X.509 certificates, integrating public logging similar to Certificate Transparency for faster and more secure validation. MTCs could significantly reduce the overhead of certificate validation, improving web performance and enabling efficient post-quantum cryptography adoption, which is critical for future-proofing internet security. Merkle Tree Certificates use Merkle trees to bundle multiple certificates, allowing a single proof to validate an entire chain, and they are designed to work with TLS 1.3 and post-quantum signatures.
-
-reddit · r/programming · /u/CircumspectCapybara · Jun 18, 17:41
-
-**Background**: Traditional X.509 certificates rely on a hierarchical chain of trust, where each certificate is signed by a higher authority, requiring multiple round trips for validation. Merkle trees are data structures that use cryptographic hashes to efficiently verify large sets of data, commonly used in blockchain. Merkle Tree Certificates combine these concepts to streamline certificate validation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://grokipedia.com/page/Merkle_Tree_Certificates">Merkle Tree Certificates</a></li>
-<li><a href="https://www.ietf.org/ietf-ftp/internet-drafts/draft-davidben-tls-merkle-tree-certs-06.html">Merkle Tree Certificates</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle tree - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#certificates`, `#Merkle tree`, `#web performance`, `#cryptography`
+**Tags**: `#MCP`, `#OAuth`, `#AI agents`, `#security`, `#authentication`
 
 ---
 
 <a id="item-5"></a>
-## [Postgres 19 Beta: New Features Deep Dive](https://www.reddit.com/r/programming/comments/1u9aktp/whats_new_in_postgres_19_beta_release_deep_dive/) ⭐️ 8.0/10
+## [Apple Announces Major App Store Changes in Brazil](https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/) ⭐️ 8.0/10
 
-The Postgres 19 beta release introduces several new features including improved performance for parallel queries, enhanced logical replication, and new SQL/JSON capabilities. PostgreSQL is one of the most popular open-source databases, and each major release brings significant improvements that affect millions of developers and organizations worldwide. The beta release includes incremental sorting for window functions, better incremental view maintenance, and support for MERGE in foreign data wrappers.
+Apple will allow alternative app marketplaces and third-party payments on iOS in Brazil starting with iOS 26.5, following regulatory pressure from Brazil's competition authority. This marks a significant regulatory-driven shift in Apple's App Store policies for a major market, potentially setting a precedent for other countries like the UK and Australia. Alternative marketplaces must be authorized by Apple and meet ongoing requirements; developers using the App Store can offer alternative payment links. Apple will charge a 5% Core Technology Commission on apps distributed outside the App Store.
 
-reddit · r/programming · /u/craigkerstiens · Jun 18, 16:12
+rss · MacRumors · Jun 18, 17:15
 
-**Background**: PostgreSQL is a powerful, open-source object-relational database system with over 30 years of active development. Major versions are released annually, with beta versions allowing the community to test new features before the final release.
+**Background**: Apple has previously allowed similar changes in the EU, Japan, and South Korea due to local regulations. The changes in Brazil are part of a global trend of regulators challenging Apple's control over iOS app distribution and payments.
 
-**Discussion**: The Reddit discussion highlights excitement about parallel query improvements and logical replication enhancements, with some users expressing caution about beta stability.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/">Apple announces changes to iOS in Brazil - Apple</a></li>
+<li><a href="https://developer.apple.com/support/alternative-app-marketplace-br/">Operating an alternative app marketplace in Brazil... - Apple Developer</a></li>
 
-**Tags**: `#PostgreSQL`, `#database`, `#release`, `#beta`
+</ul>
+</details>
+
+**Tags**: `#Apple`, `#App Store`, `#Brazil`, `#Regulation`, `#iOS`
 
 ---
 
 <a id="item-6"></a>
-## [Best Practices for Defining Well-Known URIs](https://mnot.net/blog/2026/well_known_uris) ⭐️ 7.0/10
+## [US Bans Anthropic's Fable Model, Signaling AI Regulation Shift](https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us) ⭐️ 8.0/10
 
-A technical blog post by Mark Nottingham explains the purpose and best practices for defining well-known URIs under the /.well-known/ path to avoid polluting the root namespace. This matters because improper use of the root namespace for discovery endpoints leads to conflicts and maintenance issues; adhering to the well-known URI standard (RFC 8615) ensures interoperability and future-proofing for web standards. The post emphasizes that well-known URIs should be registered with IANA and that multiple well-known URIs can coexist under /.well-known/ without conflict. It also warns against creating new root-level paths like 'llms.txt'.
+The US government has banned Anthropic's new AI model, Fable, marking a significant regulatory action against a frontier AI system. This move signals a major shift in US AI policy, potentially impacting future model releases and industry practices. This ban sets a precedent for government intervention in AI development, affecting how companies like Anthropic and others approach model safety and compliance. It could reshape the competitive landscape and accelerate discussions on AI governance globally. Fable, specifically Claude Fable 5, is Anthropic's highest-scoring model on FrontierBench, excelling at long-horizon reasoning and coding tasks. The ban's specific reasons are not detailed, but it likely relates to concerns over frontier model capabilities and national security.
 
-hackernews · ingve · Jun 19, 06:05 · [Discussion](https://news.ycombinator.com/item?id=48595331)
+rss · The Pragmatic Engineer · Jun 18, 17:11
 
-**Background**: Well-known URIs, standardized in RFC 5785 and updated by RFC 8615, provide a reserved path prefix (/.well-known/) for metadata and service discovery on web servers. Before this standard, each protocol defined its own arbitrary discovery path, causing namespace pollution and conflicts.
+**Background**: Anthropic is a leading AI safety company known for its Claude series of large language models. Fable represents a new generation of frontier models designed for autonomous knowledge work and coding, with pricing at $10 per million input tokens and $50 per million output tokens. The US government has been increasingly scrutinizing AI models for potential risks, leading to regulatory actions like this ban.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Well-known_URI">Well - known URI - Wikipedia</a></li>
-<li><a href="https://http.dev/well-known-uris">Well - Known URIs explained</a></li>
-<li><a href="https://cameronrye.com/blog/well-known-uris-standardizing-web-metadata/">Well - known URIs : Standardizing Web Metadata... | Cameron Rye</a></li>
+<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
+<li><a href="https://openrouter.ai/anthropic/claude-fable-5">Claude Fable 5 - API Pricing & Benchmarks | OpenRouter</a></li>
+<li><a href="https://replicate.com/anthropic/claude-fable-5">Claude Fable 5 | Anthropic</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally agree on the problem of root namespace pollution, citing examples like 'llms.txt'. However, some criticize the post for lacking actionable advice and concrete examples, calling it superficial.
-
-**Tags**: `#web standards`, `#URI`, `#HTTP`, `#best practices`, `#IETF`
+**Tags**: `#AI regulation`, `#Anthropic`, `#tech policy`, `#engineering culture`, `#acquisitions`
 
 ---
 
 <a id="item-7"></a>
-## [Datasette Apps: Sandboxed HTML/JS Apps Inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) ⭐️ 7.0/10
+## [SK Telecom named in Anthropic Mythos export controls controversy](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls) ⭐️ 8.0/10
 
-The datasette-apps plugin allows hosting sandboxed HTML+JavaScript applications inside Datasette, enabling read-only SQL queries and optionally write queries via stored procedures. This plugin transforms Datasette into a platform for building custom, secure web applications directly on top of SQLite data, expanding its use cases beyond data exploration to full-fledged app hosting. Apps run in a sandboxed iframe with CSP headers that block external HTTP requests, preventing data exfiltration. Write queries require pre-configured stored procedures, adding a layer of security.
+Wired identified SK Telecom as the South Korean carrier whose access to Anthropic's Claude Mythos model was revoked by the White House due to alleged ties to China, days before the White House took Mythos and Fable 5 offline for all foreign nationals. This incident highlights the tightening of US AI export controls, with concrete enforcement actions against a major telecom carrier, setting a precedent that frontier AI models are now subject to national security restrictions. The revocation occurred days before the White House issued a broader export control directive forcing Anthropic to suspend access to Mythos 5 and Fable 5 for any foreign national, including foreign national Anthropic employees.
 
-rss · Simon Willison · Jun 18, 23:58 · [Discussion](https://news.ycombinator.com/item?id=48593731)
+rss · Tom's Hardware · Jun 19, 10:54
 
-**Background**: Datasette is an open-source tool for exploring and publishing data, providing a JSON API for custom frontends. The new plugin builds on this by allowing users to embed interactive apps directly within the Datasette interface, using a sandboxed iframe for security.
+**Background**: Anthropic's Claude Mythos Preview, announced on April 7, 2026, is the company's most capable model to date, surpassing Claude Opus 4.6. The US government has increasingly used export controls to restrict access to advanced AI models, citing national security concerns over potential misuse by foreign adversaries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Stored_procedure">Stored procedure - Wikipedia</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls">Inside the fight over Claude Mythos 5 | The Verge</a></li>
+<li><a href="https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519">Inside the whirlwind 24 hours that led the White House to slap export ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters noted parallels with other projects like Motherduck's 'dives' and discussed the security implications of write access via stored procedures, questioning who defines them and whether the restriction is truly enforceable.
-
-**Tags**: `#datasette`, `#plugin`, `#sql`, `#web-applications`, `#sandbox`
+**Tags**: `#AI`, `#export controls`, `#Anthropic`, `#national security`, `#telecom`
 
 ---
 
 <a id="item-8"></a>
-## [Essay Argues Profit Motive Fails Social Infrastructure](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) ⭐️ 7.0/10
+## [Tesco removes 40,000 servers from VMware amid Broadcom subscription shift](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model) ⭐️ 8.0/10
 
-An essay titled 'The room the economy can't see' argues that the profit motive systematically fails to produce essential social infrastructure like community spaces, and calls for containing markets within a broader social superstructure. This critique challenges the default assumption that markets efficiently allocate all valuable resources, highlighting a blind spot in economic thinking that affects community well-being and social cohesion. The essay uses the metaphor of 'the room' to represent non-monetized social spaces that are valuable but cannot be sold, such as places for lonely teenagers to gather. Community comments provide real-world examples like scouts gatherings, libraries, and parks.
+Tesco, a major UK supermarket chain, has removed 40,000 servers from its VMware infrastructure, continuing a mass exodus driven by Broadcom's aggressive shift to a subscription licensing model. This move signals a major enterprise rejection of Broadcom's VMware pricing strategy, potentially accelerating a broader industry migration away from VMware and reshaping the virtualization market. The migration involves 40,000 servers, indicating a large-scale operation. Tesco's decision reflects growing dissatisfaction with Broadcom's elimination of perpetual licenses and aggressive subscription pricing.
 
-hackernews · Wilsoniumite · Jun 19, 10:16 · [Discussion](https://news.ycombinator.com/item?id=48596911)
+rss · Tom's Hardware · Jun 19, 10:00
 
-**Background**: Market failure occurs when the pursuit of profit does not lead to socially optimal outcomes, especially for public goods that are non-rivalrous and non-excludable. Social infrastructure includes physical and social spaces that foster community interaction and trust, which are often underprovided by markets.
+**Background**: VMware, a leader in virtualization software, was acquired by Broadcom in 2023. Broadcom subsequently shifted VMware's licensing from perpetual to subscription-only, significantly increasing costs for many customers. This has prompted numerous enterprises to explore alternative virtualization platforms or migrate to the cloud.
 
-**Discussion**: Commenters largely agree with the essay, sharing personal anecdotes about the value of slack and non-market spaces. One user notes that the market is actually optimizing when it disincentivizes such spending, but argues this shows the market should be contained within a social superstructure.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.computing.co.uk/news/4156147/broadcom-shifts-vmware-subscription-model-perpetual-license-sales">Broadcom shifts VMware to subscription model , ends perpetual...</a></li>
+<li><a href="https://redresscompliance.com/broadcom-vmware-licensing-changes-explained">Broadcom VMware Licensing 2026: Costs, Tiers, Renewals | Redress</a></li>
+<li><a href="https://licensefortress.com/broadcoms-strategy-unveiled-understanding-the-vmware-subscription-model-shift/">Broadcom 's Bold Move: VMware Shifts to Subscription Licensing</a></li>
 
-**Tags**: `#economics`, `#social infrastructure`, `#market failure`, `#public goods`, `#community`
+</ul>
+</details>
+
+**Tags**: `#VMware`, `#Broadcom`, `#virtualization`, `#enterprise IT`, `#cloud migration`
 
 ---
 
 <a id="item-9"></a>
-## [Old Software Was Fast Due to Hardware Limits](https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/) ⭐️ 7.0/10
+## [FERC Orders Fast-Track for AI Data Centers with Self-Power or Demand Cuts](https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand) ⭐️ 8.0/10
 
-A Reddit discussion argues that older software was faster because it had to run on limited hardware, contrasting with modern software that often prioritizes features and developer productivity over performance. This highlights a fundamental trade-off in software engineering: performance vs. development speed and feature richness, which affects user experience and system resource usage across the industry. The post notes that older software had no choice but to be efficient due to hardware constraints, while modern software often relies on faster hardware to compensate for inefficiencies introduced by high-level languages and frameworks.
+The U.S. Federal Energy Regulatory Commission (FERC) has ordered grid operators to expedite interconnection applications for AI data centers that either generate their own power or agree to reduce electricity usage during peak demand periods. Grid operators must implement these changes within 90 days. This policy shift directly impacts the rapid deployment of AI infrastructure, which has been straining the U.S. power grid. By incentivizing self-generation and demand response, FERC aims to balance AI growth with grid reliability, potentially setting a precedent for other regions. The order requires grid operators to propose specific procedures for fast-tracking data center connections, but it does not address underlying electricity supply shortages. The 90-day implementation timeline is notably aggressive for regulatory changes.
 
-reddit · r/programming · /u/BlondieCoder · Jun 19, 13:52
+rss · Tom's Hardware · Jun 19, 09:45
 
-**Background**: In the early days of computing, CPUs and memory were extremely limited, forcing developers to write highly optimized code. As hardware became more powerful, developers shifted focus to productivity and features, leading to software bloat. This discussion revisits that historical context to explain performance differences.
+**Background**: AI data centers consume enormous amounts of electricity, often requiring dedicated power plants or grid upgrades. FERC regulates interstate electricity transmission and has authority over grid interconnection policies. The order reflects growing tension between surging AI energy demand and aging grid infrastructure.
 
-**Discussion**: Commenters largely agree with the premise, adding examples like early video games and operating systems that ran on minimal hardware. Some note that modern software's inefficiency is acceptable given hardware advances, while others argue that bloat harms user experience on less powerful devices.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/">AI data centers just got a government-mandated fast lane to the grid</a></li>
+<li><a href="https://www.axios.com/2026/06/18/ai-data-centers-federal-commission-faster-connections">Energy regulators push for faster AI data center grid connections</a></li>
+<li><a href="https://www.engadget.com/ai/ai-data-centers-could-reduce-power-draw-on-demand-study-says-180628982.html">AI data centers could reduce power draw on demand , study says</a></li>
 
-**Tags**: `#software performance`, `#systems design`, `#historical perspective`, `#engineering trade-offs`
+</ul>
+</details>
+
+**Tags**: `#AI`, `#data centers`, `#energy regulation`, `#grid infrastructure`, `#policy`
 
 ---
 
 <a id="item-10"></a>
-## [Draft Chapter on CPU Cycle Costs for C++](https://www.reddit.com/r/programming/comments/1u9yk1j/efficient_c_programming_for_modern_c_cpus_chapter/) ⭐️ 7.0/10
+## [MosaicLeaks: LLM Research Agents Leak Sensitive Data](https://huggingface.co/blog/ServiceNow/mosaicleaks) ⭐️ 8.0/10
 
-The second part of Chapter 4 from the upcoming book 'Efficient C++ Programming for Modern 64-bit CPUs' has been published as a draft, featuring infographics and micro-research on the progress of MUL/DIV operations since 2017. This chapter provides valuable data on CPU cycle costs for arithmetic operations, helping C++ developers write more efficient code by understanding de-pessimization strategies rather than premature optimizations. The draft includes visualizations of operation costs in CPU clock cycles and micro-research on MUL/DIV improvements since 2017, but it is explicitly a book on de-pessimizations, not optimizations.
+Researchers introduced MosaicLeaks, a benchmark of 1,001 multi-hop questions that reveals how LLM-based research agents can inadvertently leak sensitive information through aggregated outputs, exploiting the mosaic effect. This vulnerability highlights a critical security gap in AI agents that perform open-ended research, as individual harmless queries can collectively expose private data, posing risks to enterprise and personal privacy. The MosaicLeaks benchmark simulates multi-hop queries that appear benign individually but reveal sensitive information when combined; the paper also proposes privacy-aware reinforcement learning to mitigate the risk.
 
-reddit · r/programming · /u/no-bugs · Jun 19, 10:40
+rss · Hugging Face Blog · Jun 18, 18:13
 
-**Background**: CPU cycle costs measure how many clock cycles an instruction takes to execute. Modern CPUs use pipelining and superscalar design to execute multiple instructions per cycle, but operations like multiplication and division are slower than addition. De-pessimization refers to avoiding coding practices that unnecessarily hurt performance, as opposed to optimization which actively improves it.
+**Background**: LLM-based research agents are AI systems that answer complex questions by retrieving and synthesizing information from multiple sources. The mosaic effect refers to the phenomenon where combining multiple pieces of non-sensitive information can reveal sensitive data. This work builds on concerns about data leakage in LLM applications, where models may inadvertently output private information from their training data or external sources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Instructions_per_cycle">Instructions per cycle - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cycles_per_instruction">Cycles per instruction - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2605.30727">[2605.30727] MosaicLeaks :Privacy Risks in Querying-in-the-Open for...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Reddit discussion is active, with users providing feedback on the draft and requesting more visualizations. The author is committed to fixing issues highlighted in comments.
-
-**Tags**: `#C++`, `#CPU`, `#performance`, `#optimization`, `#programming`
+**Tags**: `#LLM security`, `#data leakage`, `#AI safety`, `#research agents`, `#privacy`
 
 ---
 
 <a id="item-11"></a>
-## [How to Deadlock a Java ExecutorService](https://www.reddit.com/r/programming/comments/1u9wq7z/how_to_deadlock_a_java_executorservice/) ⭐️ 7.0/10
+## [Amazon in Talks to Sell AI Chips Competing with Nvidia](https://www.reddit.com/r/hardware/comments/1u9yixz/amazon_in_talks_to_sell_ai_chips_competing_with/) ⭐️ 8.0/10
 
-A Reddit post explains how submitting a task that waits for another task within the same fixed thread pool can cause a self-induced deadlock, and discusses ways to avoid it. This is a common concurrency pitfall that can silently freeze applications, and understanding it helps developers write more robust multithreaded code in Java. The deadlock occurs when a thread in the pool submits a subtask and calls get() on its Future, consuming the only available thread and blocking indefinitely. Using a larger pool, separate pools, or asynchronous techniques like CompletableFuture can prevent this.
+Amazon is in discussions to sell its custom AI chips, Trainium 2 and Inferentia, to other companies, directly competing with Nvidia's dominant AI hardware. This move could disrupt the AI chip market, reducing reliance on Nvidia and potentially lowering costs for AI workloads, affecting cloud providers and enterprises. Amazon's Trainium 2 and Inferentia chips are designed for training and inference respectively, and have already been adopted by Meta in a multiyear deal for hundreds of thousands of chips.
 
-reddit · r/programming · /u/mlangc · Jun 19, 08:54
+reddit · r/hardware · /u/sr_local · Jun 19, 10:38
 
-**Background**: Java's ExecutorService manages a pool of threads to execute tasks concurrently. A fixed thread pool has a limited number of threads; if all threads are busy and a task waits for another task that is queued but cannot run because no thread is free, a deadlock occurs. This is known as a thread pool self-induced deadlock.
+**Background**: Nvidia currently dominates the AI chip market with its GPUs, but high costs and supply constraints have pushed companies like Amazon to develop custom alternatives. Amazon's AWS already uses these chips internally, and now aims to sell them externally to diversify revenue and challenge Nvidia's monopoly.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dzone.com/articles/thread-pool-self-induced-deadlocks">Thread Pool Self-Induced Deadlocks</a></li>
-<li><a href="https://coderanch.com/t/662131/java/Deadlock-Executor-Service">Deadlock in Executor Service (Java in General forum at Coderanch)</a></li>
-<li><a href="https://javanexus.com/blog/solving-deadlock-java-executorservice">Solving Deadlock Problems in Java ExecutorService | Java Tech Blog</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lxcmJiLUVCRTBZcHNZYkZPYmx5Z0FQAQ?hl=en-GH&gl=GH&ceid=GH:en">Google News - Meta to use Amazon Graviton chips in multiyear AI ...</a></li>
+<li><a href="https://www.activecorefit.com/blog/amazon-challenges-nvidia-ai-chips">Amazon AI Chips Rival Nvidia | ActiveCoreFit</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Java`, `#Concurrency`, `#Deadlock`, `#ExecutorService`
+**Tags**: `#AI chips`, `#Amazon`, `#Nvidia`, `#hardware`, `#competition`
 
 ---
 
 <a id="item-12"></a>
-## [How Modern Indexing Works in PostgreSQL](https://www.reddit.com/r/programming/comments/1u9adv5/how_modern_indexing_works_in_postgresql_in_depth/) ⭐️ 7.0/10
+## [Datasette Apps: Sandboxed HTML+JS Apps Inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) ⭐️ 7.0/10
 
-A detailed explanation of PostgreSQL indexing internals reveals that PostgreSQL uses io_uring for efficient synchronous I/O, fseek() for direct disk record retrieval, and binary search on leaf pages for in-memory traversal. It also maintains a dedicated index file with line pointers and TIDs (tuple IDs) to directly fetch records from disk. This deep dive helps developers understand PostgreSQL's performance advantages over other databases, especially in high-throughput scenarios. The use of modern OS calls like io_uring and optimized file structures can significantly reduce I/O latency and improve query speed. PostgreSQL always keeps a separate index file, unlike MySQL where clustered indexes are derived directly from the table. The index file's page 0 stores sorted data ranges, allowing PostgreSQL to quickly locate the correct page, load it into memory as a leaf page, and perform a binary search to find the exact TID.
+The datasette-apps plugin allows users to host sandboxed HTML+JavaScript applications inside Datasette that can execute read-only and configured write SQL queries via iframes with CSP restrictions. This turns Datasette into a platform for custom interactive data apps, enabling users to build and share rich UIs directly alongside their data without external hosting or complex backend code. Apps run in a sandboxed iframe with allow-scripts and allow-forms but no access to cookies, localStorage, or external HTTP requests due to an injected CSP header. Write queries are only allowed through pre-configured stored queries.
 
-reddit · r/programming · /u/Ok_Stomach6651 · Jun 18, 16:05
+rss · Simon Willison · Jun 18, 23:58 · [Discussion](https://news.ycombinator.com/item?id=48593731)
 
-**Background**: Database indexing is a technique that speeds up data retrieval by reducing disk accesses. A B-tree index organizes data in a balanced tree structure, with leaf pages containing pointers to actual records. PostgreSQL has enhanced this with modern OS features like io_uring for asynchronous I/O and fseek() for direct file positioning, improving performance.
+**Background**: Datasette is an open-source tool for exploring and publishing data, providing a JSON API and a web interface. The datasette-apps plugin extends this by allowing custom HTML+JS apps to be embedded directly, inspired by the need for a Claude Artifacts-like mechanism for Datasette Agent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.phoronix.com/news/PostgreSQL-Lands-IO_uring">PostgreSQL Database Lands Initial Support For IO _ uring ... - Phoronix</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Database_index">Database index - Wikipedia</a></li>
-<li><a href="https://www.alexstoica.com/blog/composite-index-storage">How Postgres Stores Composite Indexes on Disk | Alex’s nuggets of...</a></li>
+<li><a href="https://simonwillison.net/2026/Jun/18/datasette-apps/">Datasette Apps : Host custom HTML applications inside Datasette</a></li>
+<li><a href="https://pypi.org/project/datasette-apps/">Create apps that live inside Datasette</a></li>
+<li><a href="https://docs.datasette.io/en/0.43/plugins.html">Plugins — Datasette documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PostgreSQL`, `#indexing`, `#database internals`, `#performance`
+**Discussion**: Commenters noted parallels with Motherduck's 'dives' and Louie.ai's patterns, suggesting a trend toward user-defined UIs over databases. Some raised concerns about write query permissions being honor-based if app authors can define stored queries themselves.
+
+**Tags**: `#datasette`, `#sql`, `#web-applications`, `#data-publishing`, `#plugins`
 
 ---
 
 <a id="item-13"></a>
-## [AirPods Create Personal Acoustic Bubbles in Cities](https://www.theescapenewsletter.com/p/the-airpods-effect) ⭐️ 6.0/10
+## [Apple Explains Why watchOS 27 Drops Support for Five Models](https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/) ⭐️ 7.0/10
 
-An article titled 'The AirPods Effect' examines how people use earbuds like AirPods to carve out personal acoustic bubbles in noisy urban environments, sparking debate about social isolation and naturalness. This cultural commentary highlights a growing trend where technology mediates our sensory experience of public spaces, affecting social interactions and urban life norms. The article scored 6.0/10 with high engagement (223 points, 408 comments), indicating strong reader interest in the topic of earbuds and social behavior.
+Apple has officially explained that watchOS 27 will not support the Apple Watch Series 6, 7, 8, SE 2, and original Ultra, citing performance requirements for new Siri AI features and a new tap gesture. This marks the first time Apple has dropped three years' worth of device support in a single watchOS update. This unprecedented support cut signals a shift in Apple's strategy to prioritize advanced AI features on newer hardware, potentially accelerating upgrade cycles for Apple Watch users. Developers will need to target newer models for AI-powered watchOS apps. Affected models will continue to receive security updates and work with iPhones running the latest iOS. watchOS 27 is currently in developer beta, with a public beta expected next month and official release in fall 2026.
 
-hackernews · herbertl · Jun 18, 23:08 · [Discussion](https://news.ycombinator.com/item?id=48592832)
+rss · MacRumors · Jun 19, 13:07
 
-**Background**: AirPods and similar wireless earbuds have become ubiquitous in cities, often used to listen to audio or simply block out noise. This has led to discussions about whether such isolation is natural or antisocial.
+**Background**: watchOS 27 introduces Siri AI, a new tap gesture, and a dynamic app grid, leveraging Apple Intelligence for on-device processing. The update aims to make the Apple Watch a true co-partner to the iPhone for AI tasks, requiring the more powerful S9 and later chips.
 
-**Discussion**: Commenters debated the naturalness of acoustic isolation, with some arguing that loud urban environments are themselves unnatural, and others noting that hearing aids can be mistaken for earbuds, complicating perceptions of rudeness.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cultofmac.com/news/watchos-27-new-apple-watch-features-siri-ai">watchOS 27 brings Siri AI , smarter Workout Buddy and... | Cult of Mac</a></li>
+<li><a href="https://au.lifehacker.com/apple/118768/siri-ai-a-dynamic-app-grid-and-more-new-features-coming-to-watchos-27">Siri AI , a Dynamic App Grid, and More New Features Coming to...</a></li>
+<li><a href="https://www.androidheadlines.com/2026/06/apple-announces-watchos-27-siri-ai-a-new-app-grid-and-even-more-convenience.html">Apple announces WatchOS 27 : Siri AI , a new app grid, and even...</a></li>
 
-**Tags**: `#AirPods`, `#social behavior`, `#urban life`, `#technology and society`
+</ul>
+</details>
+
+**Tags**: `#Apple Watch`, `#watchOS`, `#software support`, `#AI features`
 
 ---
 
 <a id="item-14"></a>
-## [Datasette-acl 0.6a0 expands to general resource-sharing](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) ⭐️ 6.0/10
+## [Apple Confirms Consistent Siri AI Across All Devices](https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/) ⭐️ 6.0/10
 
-Datasette-acl 0.6a0, released on June 18, 2026, expands from table-only permissions to a general resource-sharing system for multi-user Datasette instances. This release is significant for Datasette users who need fine-grained access control across various resources, enabling more secure and flexible multi-user data publishing. The plugin is still under active development, with Alex Garcia contributing most of the work for this alpha release. It currently supports configuring permissions for individual tables, controlling insert-row operations.
+Apple has confirmed that the new Siri AI, available in the iOS 27 beta, is designed to deliver a consistent experience across all Apple devices, including iPhone, iPad, Mac, Apple Watch, and HomePod. This addresses a long-standing user frustration where Siri behaved differently on different devices, making the assistant more reliable and seamless across the Apple ecosystem. The consistency is achieved through a unified AI backend, likely powered by Google's Gemini models, as reported in earlier leaks. The feature is currently in beta and expected to launch publicly later this year.
 
-rss · Simon Willison · Jun 18, 19:03
+rss · 9to5Mac · Jun 19, 15:01
 
-**Background**: Datasette is an open-source multi-tool for exploring and publishing data, often used to turn SQLite databases into interactive websites with JSON APIs. The datasette-acl plugin provides advanced permission management, allowing administrators to control who can access or modify specific data resources.
+**Background**: Siri has historically struggled with inconsistency across devices, often providing different answers or capabilities depending on the hardware. Apple's Siri AI overhaul, announced at WWDC 2026, represents a major shift toward a more intelligent and unified assistant, leveraging large language models and agent-based architecture.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pypi.org/project/datasette-acl/">datasette - acl · PyPI</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/18/datasette-acl/">Release: datasette - acl 0.6a0 | Simon Willison’s Weblog</a></li>
-<li><a href="https://datasette.io/">Datasette : An open source multi-tool for exploring and publishing data</a></li>
+<li><a href="https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/">Apple 's long-awaited AI Siri overhaul is finally here | TechCrunch</a></li>
+<li><a href="https://quaidtech.com/news/apple-wwdc-massive-siri-ai-overhaul/">Apple WWDC 2026: Massive Siri AI Overhaul Revealed</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#access-control`, `#plugin`, `#open-source`
+**Tags**: `#Apple`, `#Siri`, `#AI`, `#iOS`
 
 ---
 
 <a id="item-15"></a>
-## [Build Your Own Vulnerability Harness Guide](https://www.reddit.com/r/programming/comments/1u9z8i8/build_your_own_vulnerability_harness/) ⭐️ 6.0/10
+## [Joanna Stern Tests iOS 27 Siri AI: Impressive but Beta](https://9to5mac.com/2026/06/19/joanna-stern-spent-one-week-with-new-siri-ai-and-its-very-good/) ⭐️ 6.0/10
 
-Cloudflare published a detailed guide on building custom vulnerability harnesses for automated security testing, breaking down the multi-stage discovery and triage architecture. This enables developers and security teams to create tailored vulnerability discovery pipelines that can scale across diverse codebases, improving shift-left security practices. The harness uses a two-stage framework: Vulnerability Discovery Harness (VDH) and Vulnerability Validation System (VVS), with state controls and adversarial review to reduce false positives.
+Joanna Stern spent a week testing the new Siri AI in the iOS 27 beta and published a video overview of its strengths and shortcomings. This hands-on review from a credible journalist provides early insight into Apple's latest Siri AI improvements, which could significantly impact user experience if refined before public release. The review is based on the iOS 27 developer beta, which was released after WWDC26 in June 2026, and highlights both impressive capabilities and remaining issues.
 
-reddit · r/programming · /u/CircumspectCapybara · Jun 19, 11:17
+rss · 9to5Mac · Jun 19, 13:50
 
-**Background**: A vulnerability harness is an automated system that orchestrates security testing tools and processes to find and validate vulnerabilities. Cloudflare's approach integrates LLM-based skills for scanning, triage, and patching, as seen in their open-source reference harness on GitHub.
+**Background**: Siri is Apple's virtual assistant integrated into iOS and other platforms. iOS 27 introduces a new Siri AI powered by Apple Intelligence, aiming to make Siri more personal and capable. Beta versions allow developers and testers to try new features before public release.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/build-your-own-vulnerability-harness/">Build your own vulnerability harness</a></li>
-<li><a href="https://github.com/anthropics/defending-code-reference-harness">GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize · GitHub</a></li>
+<li><a href="https://www.youtube.com/watch?v=hF8swzNR1-o">Apple WWDC 2026 June 8: Introducing Siri AI and more - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#vulnerability`, `#harness`, `#programming`
+**Tags**: `#Siri`, `#iOS 27`, `#AI`, `#Apple`, `#voice assistant`
 
 ---
 
 <a id="item-16"></a>
-## [Rethinking Modularity in Ruby Applications](https://www.reddit.com/r/programming/comments/1u9x6ur/rethinking_modularity_in_ruby_applications/) ⭐️ 6.0/10
+## [datasette-acl 0.6a0 expands to resource-sharing system](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) ⭐️ 6.0/10
 
-A Reddit post titled 'Rethinking modularity in Ruby applications' explores new approaches to modular design in Ruby, though no specific technical details or concrete examples are provided in the summary. Modularity is crucial for maintainability and scalability in Ruby applications, and new perspectives could help developers improve code organization and reduce coupling. The post has a score of 6.0/10, indicating moderate interest, but no comments or additional context are available to assess the depth of the discussion.
+The datasette-acl plugin version 0.6a0 has been released, expanding from table-only permissions to a general resource-sharing system for multi-user Datasette instances. This update enables finer-grained access control across various Datasette resources, making it more suitable for collaborative data platforms and enterprise deployments. The release was primarily contributed by Alex Garcia, and the plugin is still under active development, with the goal of allowing multi-user Datasette instances to have finely grained control over resource access.
 
-reddit · r/programming · /u/noteflakes · Jun 19, 09:21
+rss · Simon Willison · Jun 18, 19:03
 
-**Background**: Modularity in software refers to dividing a system into separate, interchangeable components. In Ruby, common modularity patterns include modules, classes, and gems, but large applications often face challenges like tight coupling and dependency management.
+**Background**: Datasette is an open-source tool for exploring and publishing data. It has a built-in permissions system that can be extended by plugins. The datasette-acl plugin previously only supported configuring permissions for individual tables, but this release moves toward a more general resource-sharing model.
 
-**Tags**: `#Ruby`, `#software architecture`, `#modularity`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pypi.org/project/datasette-acl/">datasette - acl · PyPI</a></li>
+<li><a href="https://simonwillison.net/2026/Jun/18/datasette-acl/">Release: datasette -acl 0.6a0 | Simon Willison’s Weblog</a></li>
+<li><a href="https://docs.datasette.io/en/stable/authentication.html">Authentication and permissions - Datasette documentation</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#datasette`, `#access-control`, `#plugin`, `#release`
 
 ---
