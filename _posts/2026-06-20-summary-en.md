@@ -5,138 +5,130 @@ date: 2026-06-20
 lang: en
 ---
 
-> From 176 items, 18 important content pieces were selected
+> From 252 items, 29 important content pieces were selected
 
 ---
 
-1. [imec, ASML, TSMC achieve 2D transistor breakthrough at 50nm pitch](#item-1) ⭐️ 9.0/10
-2. [Norway Bans AI in Elementary Schools](#item-2) ⭐️ 8.0/10
-3. [ATProto Has No Instances: A Protocol Clarification](#item-3) ⭐️ 8.0/10
-4. [Project Valhalla Arrives in JDK 28 with Value Types](#item-4) ⭐️ 8.0/10
-5. [GLM-5.2 Tops Design Arena, Rivaling GPT and Claude](#item-5) ⭐️ 8.0/10
-6. [SK Telecom Named in Anthropic Mythos Export Controls Controversy](#item-6) ⭐️ 8.0/10
-7. [Tesco removes 40,000 servers from VMware due to Broadcom pricing](#item-7) ⭐️ 8.0/10
-8. [FERC orders faster grid access for self-powered AI data centers](#item-8) ⭐️ 8.0/10
-9. [IETF Standardizes HTTP QUERY Method for Complex Read-Only Requests](#item-9) ⭐️ 8.0/10
+1. [Project Valhalla's Value Types Arrive in JDK 28](#item-1) ⭐️ 9.0/10
+2. [Industry Giants Achieve 2D Transistor Breakthrough at 50nm Pitch](#item-2) ⭐️ 9.0/10
+3. [Norway Bans AI for Elementary Students](#item-3) ⭐️ 8.0/10
+4. [Bobby Prince, composer for Doom and Wolfenstein, dies](#item-4) ⭐️ 8.0/10
+5. [GLM-5.2 Tops Design Arena, Challenging GPT](#item-5) ⭐️ 8.0/10
+6. [Tesco removes 40,000 servers from VMware amid Broadcom pricing backlash](#item-6) ⭐️ 8.0/10
+7. [FERC Orders Fast-Track for AI Data Centers with Self-Generated Power](#item-7) ⭐️ 8.0/10
+8. [IETF Standardizes HTTP QUERY Method for Complex Read-Only Requests](#item-8) ⭐️ 8.0/10
+9. [Yuanxin Satellite achieves first unmodified phone-to-satellite call in China](#item-9) ⭐️ 8.0/10
 10. [Block Migrates 450 JVM Repos to Monorepo](#item-10) ⭐️ 8.0/10
-11. [OpenAI's Kepler Agent Queries 600+ Petabytes of Data](#item-11) ⭐️ 8.0/10
+11. [OpenAI's Kepler Agent Queries 600+ PB Data](#item-11) ⭐️ 8.0/10
 12. [Continuous Authorization Architecture for Cloud Systems](#item-12) ⭐️ 8.0/10
-13. [Azure Functions Launches Serverless Agents Runtime at Build 2026](#item-13) ⭐️ 8.0/10
-14. [Google AI Overviews Failure Rates Surprise in Tracking Study](#item-14) ⭐️ 7.0/10
-15. [MCP's Key Value: Auth Flow Isolation](#item-15) ⭐️ 7.0/10
-16. [Pixel Touchscreen Bugs After Android 17 Update](#item-16) ⭐️ 6.0/10
-17. [Apple Confirms Consistent Siri Experience Across All Devices](#item-17) ⭐️ 6.0/10
-18. [Apple Explains Why watchOS 27 Drops Support for Five Models](#item-18) ⭐️ 6.0/10
+13. [Microsoft MXC SDK Enhances Windows Security for AI Agents](#item-13) ⭐️ 8.0/10
+14. [Nobel Laureate John Jumper Leaves DeepMind for Anthropic](#item-14) ⭐️ 8.0/10
+15. [Context Window Tax: Longer Memory Hurts AI Agents](#item-15) ⭐️ 8.0/10
+16. [Google AI Overviews Failure Rates Surprise in Tracking Study](#item-16) ⭐️ 7.0/10
+17. [Apple Explains Why watchOS 27 Drops Support for Five Models](#item-17) ⭐️ 7.0/10
+18. [Meta Signs 1.6 GW AI Compute Deal with Crusoe](#item-18) ⭐️ 7.0/10
+19. [VLC Creator Builds Kyber for Real-Time Robot Control](#item-19) ⭐️ 7.0/10
+20. [Fusion Startups with Over $100M Raised](#item-20) ⭐️ 7.0/10
+21. [US claims ASML's top chip tool may be in China; ASML denies](#item-21) ⭐️ 7.0/10
+22. [Agent Sprawl Becomes an Operations Problem](#item-22) ⭐️ 7.0/10
+23. [Memory Systems for Long-Running AI Agents: Episodic to Procedural](#item-23) ⭐️ 7.0/10
+24. [Pixel Touchscreen Bugs After Android 17 Update](#item-24) ⭐️ 6.0/10
+25. [Apple Confirms Consistent Siri AI Across All Devices](#item-25) ⭐️ 6.0/10
+26. [Epic and CAF Criticize Apple's New Brazil App Store Terms](#item-26) ⭐️ 6.0/10
+27. [MCP's Key Value: Auth Isolation Outside Agent Context](#item-27) ⭐️ 6.0/10
+28. [Local LLM RAM Reality: 52% of PCs Have 16GB or Less](#item-28) ⭐️ 6.0/10
+29. [Azure AI Foundry: Enterprise AI Platform Insights from Production](#item-29) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [imec, ASML, TSMC achieve 2D transistor breakthrough at 50nm pitch](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer) ⭐️ 9.0/10
+## [Project Valhalla's Value Types Arrive in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 9.0/10
 
-Imec, ASML, and TSMC have successfully fabricated complementary n-type and p-type transistors using atomically thin 2D materials on a 300mm wafer, achieving a contacted poly pitch (CPP) of 50nm for the first time. This demonstration marks a significant step toward post-silicon scaling, showing that 2D transistors can be integrated at pitches comparable to advanced silicon nodes, potentially enabling continued Moore's Law beyond silicon's limits. The transistors use MoS₂ for n-type and WSe₂ or WS₂ for p-type channels, with a 28nm channel length defined by single EUV exposure. 94% of the transistors on the wafer are functional with an on/off ratio exceeding 100,000.
-
-rss · Tom's Hardware · Jun 19, 13:13
-
-**Background**: 2D materials like transition metal dichalcogenides (TMDs) are atomically thin semiconductors that offer superior gate control over silicon. Contacted poly pitch (CPP) is a key metric for transistor density, and achieving 50nm CPP brings 2D transistors into the range of current silicon technology (e.g., Intel's 10nm node has 54nm CPP).
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Two-dimensional_semiconductor">Two-dimensional semiconductor - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Transition_metal_dichalcogenide_monolayers">Transition metal dichalcogenide monolayers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#2D materials`, `#transistor scaling`, `#nanotechnology`, `#chip manufacturing`
-
----
-
-<a id="item-2"></a>
-## [Norway Bans AI in Elementary Schools](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) ⭐️ 8.0/10
-
-On June 19, 2026, Norway's government announced a near-total ban on generative AI use in elementary schools (grades 1-7, ages 6-13), with limited supervised use allowed for lower secondary students (ages 14-16). This is one of the most sweeping government-level AI restrictions in K-12 education globally, potentially influencing other countries' policies on AI in schools and sparking debate on balancing technological innovation with child development. The ban follows a previous smartphone and tablet ban in Norwegian classrooms. The government cited concerns that AI tools could negatively impact learning, especially foundational skills like reading, writing, and comprehension for younger students.
-
-hackernews · ilreb · Jun 19, 16:03 · [Discussion](https://news.ycombinator.com/item?id=48600093)
-
-**Background**: Generative AI tools like ChatGPT can produce human-like text, images, and code, raising concerns about academic integrity and skill development. Many educators worry that over-reliance on AI may hinder critical thinking and problem-solving abilities. Norway's decision reflects a cautious approach to integrating AI in education, prioritizing foundational learning over technological convenience.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://startupfortune.com/norway-bans-ai-from-primary-classrooms-and-the-rest-of-europe-may-not-be-far-behind/">Norway bans AI from primary classrooms and the rest of Europe ...</a></li>
-<li><a href="https://www.engadget.com/2198117/norway-imposes-broad-restrictions-on-ai-for-elementary-school-kids/">Norway imposes broad restrictions on AI for elementary school ...</a></li>
-<li><a href="https://www.globalbankingandfinance.com/norway-imposes-near-ban-ai-elementary-school/">Norway imposes near ban on AI in elementary school</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters largely support the ban, drawing analogies to not giving calculators before understanding arithmetic. Some highlight enforcement challenges, noting that banning AI in schools may increase educator workload without eliminating homework or reworking lesson plans. Others suggest AI could be beneficial in supervised, tutor-like roles with proper guardrails.
-
-**Tags**: `#AI policy`, `#education`, `#Norway`, `#generative AI`, `#regulation`
-
----
-
-<a id="item-3"></a>
-## [ATProto Has No Instances: A Protocol Clarification](https://overreacted.io/there-are-no-instances-in-atproto/) ⭐️ 8.0/10
-
-Dan Abramov published a blog post explaining that the concept of 'instances' does not apply to ATProto, the protocol behind Bluesky, contrasting it with Mastodon's ActivityPub model. This clarification addresses a common misconception in decentralized social media discussions, helping developers and users understand the fundamental architectural differences between ATProto and ActivityPub. In ATProto, Personal Data Servers (PDS) host user data, Relays index data, and AppViews provide user interfaces, all as separate services, unlike Mastodon where each instance bundles these functions.
-
-hackernews · danabramov · Jun 19, 15:10 · [Discussion](https://news.ycombinator.com/item?id=48599515)
-
-**Background**: ActivityPub, used by Mastodon, organizes users into servers called instances, each independently hosting data and serving its community. ATProto separates these roles into distinct services: PDS for storage, Relays for indexing, and AppViews for presentation, making the protocol more modular and scalable.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://atproto.com/guides/overview">Protocol Overview - AT Protocol</a></li>
-<li><a href="https://fediview.com/articles/activitypub-vs-atproto-understanding-protocols/">ActivityPub vs. ATProtocol: Understanding the Protocols ...</a></li>
-<li><a href="https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/">A conceptual model of ATProto and ActivityPub</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters debated the analogy to RSS and the practical centralization of Bluesky, with some arguing that the separation of services is elegant but noting that Bluesky Corporation still runs most infrastructure.
-
-**Tags**: `#ATProto`, `#Bluesky`, `#decentralization`, `#protocols`, `#ActivityPub`
-
----
-
-<a id="item-4"></a>
-## [Project Valhalla Arrives in JDK 28 with Value Types](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 8.0/10
-
-After a decade of development, Project Valhalla introduces value types to the JVM in JDK 28, enabling dense memory layouts without object headers for user-defined types. This is a fundamental evolution for Java, allowing developers to write high-performance code with predictable memory layouts, reducing garbage collection pressure and improving cache locality. Value types cannot be null by default and lack identity, meaning they cannot be used with synchronized or instanceof. The JVM stores them inline in arrays and fields, eliminating per-element object headers.
+After a decade of development, Project Valhalla's value types are finally integrated into JDK 28 via JEP 401, enabling dense memory layouts for objects and improved performance. This marks a major evolution in Java's memory model, allowing developers to define immutable, identity-free value objects that can be stored inline in arrays and fields, reducing memory footprint and cache misses. Value types are restricted to 64-bit representations for heap flattening; larger objects may not benefit fully. The Vector API is being rewritten to leverage value types for compact vector representations.
 
 hackernews · philonoist · Jun 19, 06:35 · [Discussion](https://news.ycombinator.com/item?id=48595511)
 
-**Background**: In traditional Java, every object has a header (12-16 bytes on 64-bit JVMs) that stores metadata like identity hash code and class pointer. This overhead makes arrays of small objects memory-inefficient. Project Valhalla introduces value types (also called inline classes) that behave like primitives but are user-defined, combining object-oriented abstraction with primitive performance.
+**Background**: Project Valhalla is an OpenJDK project that aims to augment Java's object model with value objects, combining object-oriented abstractions with primitive-like performance. Traditionally, Java objects carry identity and are heap-allocated with headers and pointers, causing memory overhead. Value types eliminate identity and allow objects to be stored directly in memory without indirection.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://openjdk.org/projects/valhalla/">Project Valhalla - OpenJDK</a></li>
-<li><a href="https://openjdk.org/jeps/450">JEP 450: Compact Object Headers (Experimental)</a></li>
-<li><a href="https://nipafx.dev/inside-java-newscast-48/">Save 10-20% Memory With Compact Headers - Inside Java Newscast #48 // nipafx</a></li>
+<li><a href="https://dasroot.net/posts/2026/06/jdk-28-jep-401-value-types-java-future/">JDK 28 and JEP 401: Java's Future · Technical news about AI ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments show mixed sentiment: some praise the technical achievement but criticize the complexity and null-handling trade-offs, while others defend the design as pragmatic. A recurring theme is that Java's evolution is often underestimated by those unfamiliar with its modern capabilities.
+**Discussion**: The community discussion is mixed: some appreciate the performance gains but express disappointment that null-safety and simpler mental models were not fully adopted. Others defend the project, noting Java's significant evolution and the practical trade-offs made. Overall, there is excitement about the performance improvements but debate about design compromises.
 
-**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#value types`, `#performance`
+**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#language design`
+
+---
+
+<a id="item-2"></a>
+## [Industry Giants Achieve 2D Transistor Breakthrough at 50nm Pitch](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer) ⭐️ 9.0/10
+
+Imec, ASML, and TSMC have successfully integrated complementary n-type and p-type transistors using atomically thin 2D materials on a 300mm wafer, achieving a contacted poly pitch (CPP) of 50nm for the first time. This milestone demonstrates that 2D-material transistors can be fabricated at dimensions comparable to advanced silicon nodes, paving the way for post-silicon logic scaling and potentially extending Moore's Law beyond the limits of silicon. The transistors use molybdenum disulfide (MoS₂) for n-type and tungsten diselenide (WSe₂) or tungsten disulfide (WS₂) for p-type, with a 28nm channel length defined by single EUV exposure. 94% of the integrated transistors function with an on/off ratio exceeding 100,000.
+
+rss · Tom's Hardware · Jun 19, 13:13
+
+**Background**: Contacted poly pitch (CPP) is a key transistor metric measuring the distance from one gate to the next, directly impacting transistor density. 2D transition metal dichalcogenides (TMDs) like MoS₂ are atomically thin semiconductors that offer superior electrostatic control compared to silicon, but integrating both n-type and p-type devices at scale has been challenging. This work overcomes contact resistance issues by using a reverse thin-film transistor process with bottom contacts.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.imec-int.com/en/press/asml-tsmc-and-imec-bring-industry-ready-2d-material-transistors-closer-breakthrough-300mm">2D-material transistors closer to industrial readiness | imec</a></li>
+<li><a href="https://www.techpowerup.com/349987/asml-tsmc-and-imec-achieve-300-mm-integration-of-2d-material-transistors-with-50-nm-pitch">ASML, TSMC, and imec Achieve 300 mm Integration of 2D ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transition_metal_dichalcogenide_monolayers">Transition metal dichalcogenide monolayers - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#2D materials`, `#transistors`, `#nanotechnology`, `#chip manufacturing`
+
+---
+
+<a id="item-3"></a>
+## [Norway Bans AI for Elementary Students](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) ⭐️ 8.0/10
+
+Norway's government announced a near-total ban on AI use for students aged 6 to 13, and restricted AI for ages 14 to 16 to supervised use only, effective from the 2026 school year. This policy sets a precedent for national-level regulation of AI in education, highlighting concerns that generative AI may hinder foundational skill development in reading, writing, and critical thinking. The ban applies to all AI tools, including generative AI like ChatGPT, and is based on recommendations from Norway's education authorities. Students aged 14-16 may use AI only under teacher supervision for specific learning tasks.
+
+hackernews · ilreb · Jun 19, 16:03 · [Discussion](https://news.ycombinator.com/item?id=48600093)
+
+**Background**: Generative AI tools like ChatGPT can produce human-like text, images, and code, raising concerns about academic integrity and learning outcomes. Many educators worry that over-reliance on AI may prevent students from developing essential cognitive skills. Norway's decision reflects a growing global debate on how to integrate AI into classrooms without undermining education quality.
+
+**Discussion**: Comments largely support the ban, with users comparing AI to calculators—useful only after mastering basics. Some educators note AI has been detrimental to student outcomes and enforcement is challenging. Others suggest AI could be beneficial as a tutor with proper safeguards.
+
+**Tags**: `#AI policy`, `#education`, `#Norway`, `#generative AI`, `#technology regulation`
+
+---
+
+<a id="item-4"></a>
+## [Bobby Prince, composer for Doom and Wolfenstein, dies](https://www.legacy.com/legacy/robert-bobby-prince-lll) ⭐️ 8.0/10
+
+Bobby Prince, the legendary composer behind the iconic soundtracks of Doom, Wolfenstein 3D, and Duke Nukem 3D, has passed away, as confirmed by his obituary on Legacy.com. Prince's music defined the atmosphere of early first-person shooters, influencing game audio design for decades. His passing marks the loss of a pioneer whose work remains beloved by millions of gamers worldwide. Prince composed for id Software's Wolfenstein 3D (1992) and Doom (1993), as well as 3D Realms' Duke Nukem 3D (1996). His tracks, such as "At Doom's Gate" and the Duke Nukem theme, are considered classics in video game music history.
+
+hackernews · pgrote · Jun 19, 19:35 · [Discussion](https://news.ycombinator.com/item?id=48602352)
+
+**Background**: Bobby Prince was a key figure in the early 1990s shareware era, creating music that ran on limited hardware like AdLib and Sound Blaster sound cards. His compositions often used MIDI to produce memorable melodies that enhanced the immersive experience of these groundbreaking games.
+
+**Discussion**: Community comments express deep gratitude and nostalgia, with users sharing favorite tracks and memories. Many highlight how his music contributed to the atmosphere of Doom and Duke Nukem 3D, with one commenter noting that the sound of Doom was a big part of its immersion.
+
+**Tags**: `#gaming`, `#music`, `#obituary`, `#retro`, `#FPS`
 
 ---
 
 <a id="item-5"></a>
-## [GLM-5.2 Tops Design Arena, Rivaling GPT and Claude](https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe) ⭐️ 8.0/10
+## [GLM-5.2 Tops Design Arena, Challenging GPT](https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe) ⭐️ 8.0/10
 
-GLM-5.2, an open-source model from Z.ai, achieved first place in the Design Arena benchmark for single-round HTML design, surpassing Claude Fable 5 and other proprietary models. This marks the first time an open-source model has topped this crowdsourced blind-test leaderboard. This demonstrates that open-source AI models are now competitive with proprietary frontier models in creative tasks, potentially democratizing access to high-quality AI design capabilities. The cost advantage of GLM-5.2 ($1.40–4.40 per million tokens vs. $10–50 for Fable 5) could accelerate adoption in resource-constrained settings. GLM-5.2 excels at using third-party libraries like chart.js and three.js, improving win rate by 6 percentage points, and uses TailwindCSS in 91% of sessions compared to Fable 5's 57%. It also supports a 1M-token context window, enabling long-horizon tasks.
+GLM-5.2, developed by Zhipu AI, achieved the top score in the Design Arena single-round HTML web design benchmark, surpassing models like Claude Fable 5. This marks the first time an open-source model has claimed the number one spot in this crowdsourced blind test. This milestone signals that open-source AI models are now competitive with proprietary frontier models in creative tasks like web design. It also highlights GLM-5.2's superior cost-efficiency, potentially accelerating adoption of open models in production. GLM-5.2's inference price is $1.40/$4.40 per million tokens, far lower than Fable 5's $10/$50. It effectively uses third-party libraries like chart.js and three.js, and employs TailwindCSS in 91% of sessions, contributing to its win.
 
-rss · Latent Space (AI Engineering) · Jun 19, 05:53
+rss · Latent Space · Jun 19, 05:53
 
-**Background**: Design Arena is a crowdsourced benchmark that evaluates AI-generated design quality through human preference voting. GLM-5.2 is the latest open-source model from Z.ai, building on the GLM-5 series with improved long-horizon capabilities. Claude Fable 5 is Anthropic's most intelligent generally available model for coding and agents.
+**Background**: Design Arena is the first crowdsourced benchmark for AI-generated design, widely regarded as an industry standard for evaluating aesthetic and practical design quality. GLM-5.2 is Z.ai's latest flagship model, featuring a 1M-token context and improved long-horizon task capabilities.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://huggingface.co/zai-org/GLM-5.2">zai-org/GLM-5.2 · Hugging Face</a></li>
 <li><a href="https://www.designarena.ai/">Design Arena</a></li>
-<li><a href="https://github.com/zai-org/GLM-5">GitHub - zai-org/GLM-5: GLM-5: From Vibe Coding to Agentic ...</a></li>
-<li><a href="https://openlm.ai/glm-5.2/">GLM-5.2 - openlm.ai</a></li>
 
 </ul>
 </details>
@@ -146,149 +138,150 @@ rss · Latent Space (AI Engineering) · Jun 19, 05:53
 ---
 
 <a id="item-6"></a>
-## [SK Telecom Named in Anthropic Mythos Export Controls Controversy](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls) ⭐️ 8.0/10
+## [Tesco removes 40,000 servers from VMware amid Broadcom pricing backlash](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model) ⭐️ 8.0/10
 
-Wired has identified SK Telecom as the South Korean carrier whose access to Anthropic's Claude Mythos model was revoked by the White House due to alleged ties to China, days before the White House took Mythos and Fable 5 offline for all foreign nationals. This incident highlights the increasing geopolitical tensions surrounding advanced AI models, where export controls are used as a tool for national security, affecting major tech companies and international partnerships. The White House ordered Anthropic to restrict export of its powerful AI models Fable and Mythos to anyone outside the United States, as well as foreign nationals inside the country, citing unspecified national security concerns.
+Tesco, a major UK supermarket chain, has migrated 40,000 servers off VMware infrastructure, continuing a mass exodus driven by Broadcom's aggressive subscription pricing model. This massive migration signals a significant shift in enterprise IT strategy, as organizations seek alternatives to VMware due to Broadcom's elimination of perpetual licenses and steep subscription cost increases. It could accelerate the adoption of competing virtualization platforms and reshape the data center market. The migration involves 40,000 servers, a scale that underscores the operational complexity and cost implications of moving away from VMware. Tesco's decision follows Broadcom's transition to a subscription-only model, which has sparked widespread customer dissatisfaction.
 
-rss · Tom's Hardware · Jun 19, 10:54
+rss · Tom's Hardware · Jun 19, 10:00
 
-**Background**: Claude Mythos is a series of large language models developed by Anthropic, an American AI company. The Trump administration imposed export controls on these models in June 2026, leading to a ban on access for foreign nationals. SK Telecom, a major South Korean telecom, was identified as the carrier whose access was revoked due to alleged China ties.
+**Background**: Broadcom acquired VMware in November 2023 and subsequently eliminated perpetual software licenses, requiring all customers to adopt annual subscriptions with mandatory renewals. This change has led to significant cost increases for many enterprises, prompting them to explore alternatives such as Nutanix, Microsoft Hyper-V, and open-source hypervisors like KVM.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">Encryption, spyware, and now Mythos : History shows... | TechCrunch</a></li>
-<li><a href="https://www.bbc.com/news/articles/crk1py1jgzko">What is Anthopic's Claude Mythos and what risks does it pose?</a></li>
+<li><a href="https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/vcenter-and-host-management/license-management-host-management/licensing-for-products-in-vsphere-host-management.html">Licensing and Subscription in vSphere - Broadcom TechDocs</a></li>
+<li><a href="https://trilio.io/resources/vmware-license-cost/">VMware License Cost Changes: What You Need to Know</a></li>
+<li><a href="https://news.broadcom.com/cloud/vmware-by-broadcom-business-transformation">VMware by Broadcom Dramatically Simplifies Offer Lineup and Licensing Model - Broadcom News and Stories</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#export controls`, `#geopolitics`, `#Anthropic`, `#national security`
+**Tags**: `#VMware`, `#Broadcom`, `#enterprise IT`, `#virtualization`, `#cloud migration`
 
 ---
 
 <a id="item-7"></a>
-## [Tesco removes 40,000 servers from VMware due to Broadcom pricing](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model) ⭐️ 8.0/10
+## [FERC Orders Fast-Track for AI Data Centers with Self-Generated Power](https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand) ⭐️ 8.0/10
 
-Tesco, a major UK supermarket chain, has removed 40,000 servers from its VMware infrastructure, continuing a mass exodus driven by Broadcom's aggressive subscription pricing model. This move signals a significant industry trend where large enterprises are abandoning VMware due to cost increases, potentially reshaping the virtualization and cloud infrastructure market. The migration involves 40,000 servers, indicating a massive-scale transition. Tesco likely moved to alternative platforms such as Nutanix AHV, Proxmox VE, or public cloud services like AWS.
+The U.S. Federal Energy Regulatory Commission (FERC) voted unanimously to order six regional grid operators to expedite interconnection for AI data centers that self-generate power or reduce demand during peak hours, with changes required within 90 days. This directive could reshape AI infrastructure deployment by incentivizing data centers to co-locate with power generation or adopt demand-response measures, alleviating strain on the aging U.S. grid and addressing growing opposition to data center energy and water consumption. The order applies to six grid operators serving about 200 million Americans (two-thirds of the U.S. population). FERC also invited utilities managing regional transmission systems to participate, and analysts expect the commission may later require more power companies to accelerate reforms.
 
-rss · Tom's Hardware · Jun 19, 10:00
+rss · Tom's Hardware · Jun 19, 09:45
 
-**Background**: Broadcom acquired VMware in 2023 and subsequently ended perpetual license sales, shifting to a subscription-only model. This change significantly increased costs for many enterprise customers, prompting them to explore alternatives like Nutanix AHV, Proxmox VE, and Hyper-V.
+**Background**: AI data centers are among the largest electricity consumers in U.S. history, with some using more power than a small city. According to the Electric Power Research Institute, data centers currently account for about 5% of U.S. electricity demand, a share that could triple by 2035. FERC's action follows pressure from Energy Secretary Chris Wright to boost U.S. competitiveness against China in AI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.turn-keytechnologies.com/blog/broadcom-ends-vmware-perpetual-license-sales-shifting-customers-and-partners-to-subscription-model">Broadcom Ends VMware Perpetual License Sales, Shifting Customers...</a></li>
-<li><a href="https://northflank.com/blog/best-vmware-alternatives-in-2026">Best VMware alternatives in 2026 | Blog — Northflank</a></li>
-<li><a href="https://aws.amazon.com/blogs/migration-and-modernization/simplify-server-migration-to-aws-with-aws-transform-for-vmware/">Simplify server migration to AWS with AWS Transform for VMware | Migration & Modernization</a></li>
+<li><a href="https://www.powermag.com/ferc-orders-all-six-regional-grid-operators-to-justify-or-rewrite-large-load-tariffs/">FERC Orders All Six Regional Grid Operators to Justify or Rewrite...</a></li>
+<li><a href="https://insideclimatenews.org/news/18062026/federal-energy-regulatory-commission-data-center-orders/">Federal Regulators Tell Electric Grid Operators ... - Inside Climate News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#VMware`, `#Broadcom`, `#enterprise IT`, `#cloud migration`, `#infrastructure`
+**Tags**: `#AI`, `#data centers`, `#energy policy`, `#grid regulation`, `#FERC`
 
 ---
 
 <a id="item-8"></a>
-## [FERC orders faster grid access for self-powered AI data centers](https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand) ⭐️ 8.0/10
-
-The U.S. Federal Energy Regulatory Commission (FERC) has ordered six regional grid operators to expedite interconnection for large electricity users, particularly AI data centers, requiring them to generate their own power or reduce demand during peak hours. The changes must be implemented within 90 days. This regulatory shift could accelerate AI infrastructure deployment while addressing grid stability concerns, as data center electricity demand is projected to triple by 2035. It also signals a policy push to enhance U.S. competitiveness in AI against China. The order applies to six regional grid operators serving about 200 million Americans, covering roughly two-thirds of the U.S. population. FERC also invited utility companies managing local transmission systems to participate, and analysts expect more power companies may be required to reform later.
-
-rss · Tom's Hardware · Jun 19, 09:45
-
-**Background**: FERC is an independent U.S. agency regulating interstate transmission and wholesale electricity sales. Regional transmission organizations (RTOs) and independent system operators (ISOs) manage multi-state grids to ensure reliable power delivery. AI data centers have become some of the largest electricity consumers in U.S. history, with some using more power than a small city.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission">Federal Energy Regulatory Commission - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regional_transmission_organization_(North_America)">Regional transmission organization (North America) - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2509.07218v1">Electricity Demand and Grid Impacts of AI Data Centers ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#energy`, `#regulation`, `#data centers`, `#infrastructure`
-
----
-
-<a id="item-9"></a>
 ## [IETF Standardizes HTTP QUERY Method for Complex Read-Only Requests](https://www.ithome.com/0/966/439.htm) ⭐️ 8.0/10
 
-The IETF has published RFC 10008, defining the new HTTP QUERY method as a proposed standard on June 16, 2026. This method allows safe, idempotent, and cacheable read-only queries with a request body, filling a gap between GET and POST. This standard provides a semantically correct way to perform complex read-only queries without misusing POST, improving API clarity and interoperability. It impacts web developers, API designers, and all HTTP-based services by offering a dedicated method for query operations. The QUERY method is defined as safe and idempotent, supporting caching via mechanisms like Accept-Query header and cacheable responses with assigned URIs. It is currently a proposed standard, meaning adoption depends on implementation by servers, proxies, and clients.
+The IETF has published RFC 10008, defining the new HTTP QUERY method as a proposed standard. This method allows complex read-only queries with a request body, filling a gap between GET and POST. This standardization provides a clear, safe, and idempotent alternative for APIs that need to send complex query parameters without misusing POST. It simplifies API design and improves interoperability across web services. QUERY is defined as safe and idempotent, supporting caching via assigned URIs and the new Accept-Query response header. It is currently a proposed standard, meaning implementation depends on future adoption by servers, clients, and tools.
 
 rss · IT之家 · Jun 19, 15:16
 
-**Background**: HTTP methods like GET and POST have distinct semantics: GET is safe and idempotent but cannot carry a request body, while POST can carry a body but is not guaranteed to be safe. For complex read-only queries (e.g., with large or structured parameters), developers had to either cram data into GET URLs or misuse POST, both with drawbacks. The QUERY method resolves this by combining the safety of GET with the body-carrying capability of POST.
+**Background**: HTTP methods like GET and POST have distinct semantics: GET is for retrieving data without side effects but cannot carry a request body, while POST can carry a body but is not guaranteed to be read-only. Developers often used POST for complex queries, which was semantically incorrect. The QUERY method resolves this by combining the safety of GET with the body-carrying capability of POST.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.rfc-editor.org/info/rfc10008/">RFC 10008 : The HTTP QUERY Method | RFC Editor</a></li>
+<li><a href="https://datatracker.ietf.org/doc/rfc10008/">RFC 10008 - The HTTP QUERY Method | IETF Datatracker</a></li>
 <li><a href="https://blainsmith.com/articles/rfc-10008-http-query-method/">RFC 10008 : The HTTP QUERY Method - Blain Smith</a></li>
-<li><a href="https://www.banandre.com/blog/rfc-10008-http-query-method-breakdown">RFC 10008 Just Gave HTTP a Fourth Read-Only Method ... - Banandre</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#HTTP`, `#Web Standards`, `#API Design`, `#IETF`
+**Tags**: `#HTTP`, `#IETF`, `#API design`, `#web standards`, `#RFC`
+
+---
+
+<a id="item-9"></a>
+## [Yuanxin Satellite achieves first unmodified phone-to-satellite call in China](https://www.ithome.com/0/966/433.htm) ⭐️ 8.0/10
+
+Yuanxin Satellite successfully completed China's first direct-to-satellite call using an unmodified commercial smartphone, with voice quality comparable to terrestrial 5G. The call was made on June 19, 2026, using the company's first direct-to-cell test satellite launched on June 9, 2026. This breakthrough demonstrates that standard smartphones can directly connect to satellites without hardware modifications, paving the way for ubiquitous satellite-terrestrial integration. It is a significant step toward 6G research and global connectivity, especially for remote areas. The system uses a domestic L-band full-digital phased array antenna with the largest aperture and array scale in China, along with a two-stage time-frequency offset compensation scheme and dynamic adaptive coding rate adjustment. The test satellite was launched on a Zhuque-2 improved Y6 rocket in a dual-satellite mission, also carrying the 'China Mobile 02' satellite.
+
+rss · IT之家 · Jun 19, 14:37
+
+**Background**: Direct-to-cell satellite communication aims to connect standard mobile phones directly to satellites, eliminating the need for specialized satellite phones. Yuanxin Satellite operates the 'Qianfan' (Spacesail) constellation, a Chinese low-Earth orbit satellite internet project similar to Starlink, which plans to deploy over 1,500 satellites by 2027 for global coverage.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ithome.com/0/966/433.htm">国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G国内...</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_33417901">松江企业垣信卫星迎重大突破！国内首例无改造手机直连卫星通话成功打...</a></li>
+<li><a href="https://www.jiemian.com/article/14617567.html">垣信完成首例无改造存量商用手机直连卫星通话|界面新闻 · 快讯</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#satellite communication`, `#direct-to-cell`, `#5G`, `#6G`, `#China`
 
 ---
 
 <a id="item-10"></a>
 ## [Block Migrates 450 JVM Repos to Monorepo](https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-Block, Inc. migrated approximately 450 JVM repositories across Cash App and Square into a single monorepo to reduce dependency drift and coordination overhead. The system now supports about 8,800 weekly builds with a p90 CI time of roughly 10 minutes. This migration demonstrates a large-scale, real-world solution to dependency drift, a common problem in polyrepo setups where dependencies fall out of sync. The approach improves developer productivity, build visibility, and cross-service change coordination, setting a precedent for other organizations considering monorepo adoption. The monorepo uses dependency graph–based builds and selective CI to ensure only affected components are rebuilt, achieving fast build times. Custom IDE tooling was also developed to help developers navigate the large codebase efficiently.
+Block, Inc. migrated approximately 450 JVM repositories across Cash App and Square engineering into a single monorepo to reduce dependency drift and coordination overhead, achieving ~8,800 weekly builds with a p90 CI time of ~10 minutes. This large-scale migration demonstrates a practical approach to managing dependency drift and improving developer productivity in a polyrepo environment, offering valuable insights for organizations considering monorepo adoption. The migration leveraged dependency graph–based builds, selective CI, and custom IDE tooling to maintain efficiency. The monorepo supports cross-service changes, improved build visibility, and enhanced developer experience.
 
 rss · InfoQ · Jun 19, 14:47
 
-**Background**: Dependency drift occurs when software dependencies fall behind the latest versions, leading to compatibility issues and build failures. In a polyrepo architecture, each repository manages its own dependencies independently, making it difficult to keep them synchronized. A monorepo consolidates all code into a single repository, enabling unified dependency management and more efficient builds through dependency graph analysis.
+**Background**: Dependency drift refers to the gradual divergence of dependency versions across multiple repositories, leading to compatibility issues and increased maintenance effort. Monorepos consolidate all code into a single repository, simplifying dependency management and enabling atomic cross-project changes, but require careful tooling to scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thoughtworks.com/radar/techniques/dependency-drift-fitness-function">Dependency drift fitness function | Technology Radar | Thoughtworks</a></li>
-<li><a href="https://www.aviator.co/blog/monorepo-vs-polyrepo/">Monorepo vs Polyrepo : Which Repository is Best?</a></li>
+<li><a href="https://nimbleindustries.io/2020/01/31/dependency-drift-a-metric-for-software-aging/">Dependency Drift: A Metric for Software Aging – Nimble Industries</a></li>
+<li><a href="https://github.com/joelparkerhenderson/monorepo-vs-polyrepo">GitHub - joelparkerhenderson/monorepo-vs-polyrepo: Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS) · GitHub</a></li>
 <li><a href="https://www.tweag.io/blog/2025-09-04-introduction-to-dependency-graph/">Introduction to the dependency graph - Tweag</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#monorepo`, `#JVM`, `#dependency management`, `#CI/CD`, `#software engineering`
+**Tags**: `#monorepo`, `#JVM`, `#CI/CD`, `#software engineering`, `#migration`
 
 ---
 
 <a id="item-11"></a>
-## [OpenAI's Kepler Agent Queries 600+ Petabytes of Data](https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
+## [OpenAI's Kepler Agent Queries 600+ PB Data](https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-OpenAI's Bonnie Xu presented Kepler, an internal AI data analyst agent that can query over 600 petabytes of data using MCP, automated code crawling, RAG, scoped semantic memory, and AST-based LLM grading. This presentation reveals how OpenAI tackles the challenge of querying massive datasets with LLMs, offering practical techniques that could influence the design of production-grade AI agents across the industry. Kepler uses the Model Context Protocol (MCP) to connect to data sources, automated code crawling to generate queries, and AST-based LLM grading to evaluate outputs without regression. Scoped semantic memory enables the agent to learn from past interactions within specific contexts.
+OpenAI's Bonnie Xu presented Kepler, an internal AI data analyst agent that queries over 600 petabytes of data using MCP, RAG, and scoped semantic memory, with an AST-based LLM grading pipeline for evaluation. This demonstrates a practical solution to context window limits in large-scale data analysis, showcasing how AI agents can be made self-learning and regression-free, which is crucial for enterprise AI adoption. Kepler uses MCP (Model Context Protocol) for standardized tool integration, RAG for retrieving relevant data, and scoped semantic memory for self-learning. The AST-based LLM grading pipeline ensures robust evaluation by parsing outputs into abstract syntax trees.
 
 rss · InfoQ · Jun 19, 12:02
 
-**Background**: Large language models (LLMs) have limited context windows, making it difficult to query petabytes of data directly. Techniques like RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) help bridge this gap by retrieving relevant information and standardizing tool integration. AST (Abstract Syntax Tree) grading uses the structure of code to evaluate LLM outputs more reliably than simple text comparison.
+**Background**: Large language models (LLMs) have limited context windows, making it hard to process massive datasets. MCP provides a standardized way for AI agents to connect to tools and data. RAG (Retrieval-Augmented Generation) fetches relevant information from external sources. Scoped semantic memory allows agents to retain and recall information across sessions. AST (Abstract Syntax Tree) grading uses the structure of code or queries to evaluate correctness.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://modelcontextprotocol.io/docs/getting-started/intro">What is the Model Context Protocol (MCP)?</a></li>
-<li><a href="https://blog.promptlayer.com/how-to-set-up-ai-evaluation-for-llm-apps/">Setting Up AI Evaluation for LLM Apps: Avoid Common Mistakes and...</a></li>
-<li><a href="https://arxiv.org/html/2603.07670v1">Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
+<li><a href="https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288">MCP Explained: The New Standard Connecting AI to... | Medium</a></li>
+<li><a href="https://www.emergentmind.com/topics/llm-based-grader">LLM - Based Grader : Automated Assessment Overview</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Agents`, `#Data Engineering`, `#LLM`, `#RAG`, `#OpenAI`
+**Tags**: `#AI Agents`, `#Data Analysis`, `#RAG`, `#LLM Evaluation`, `#OpenAI`
 
 ---
 
 <a id="item-12"></a>
 ## [Continuous Authorization Architecture for Cloud Systems](https://www.infoq.com/articles/continuous-authorization-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-Venkata Nedunoori proposes a continuous authorization architecture for cloud systems that evaluates every operation touching sensitive data, replacing static authentication with risk-tiered evaluation, behavioral baselines, and privacy-preserving audit trails. This architecture addresses a critical security gap in cloud systems where a single authorization decision at login leaves sessions vulnerable to breaches, especially in regulated industries handling sensitive data. The architecture includes risk-tiered evaluation, behavioral baselines, privacy-preserving audit trails, and a phased incremental rollout strategy to minimize disruption.
+Venkata Nedunoori proposes a continuous authorization architecture for cloud systems that moves beyond single login-time authorization, incorporating risk-tiered evaluation, behavioral baselines, and privacy-preserving audit trails. This architecture addresses a critical security gap in cloud systems where breaches often occur after initial authentication, especially for regulated industries. It provides a practical framework for real-time, adaptive access control that can significantly reduce the risk of unauthorized access. The architecture includes risk-tiered evaluation to classify requests by risk level, behavioral baselines to detect anomalies, and privacy-preserving audit trails for compliance. It also recommends a phased and incremental rollout strategy to minimize disruption.
 
 rss · InfoQ · Jun 19, 09:00
 
-**Background**: Traditional cloud systems perform authorization only at login, after which all actions are trusted based on that initial authentication. Continuous authorization re-evaluates permissions throughout a session by analyzing behavior and risk signals, aligning with zero-trust principles.
+**Background**: Traditional cloud systems perform authorization only at login, after which all actions are trusted based on that initial authentication. This static trust model is vulnerable to session hijacking, insider threats, and credential misuse. Continuous authorization evaluates access decisions throughout a session, using real-time context and behavior analysis to revoke access if anomalies are detected.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.infoq.com/articles/continuous-authorization-cloud/">Designing Continuous Authorization for Sensitive Cloud... - InfoQ</a></li>
-<li><a href="https://hoop.dev/blog/continuous-authorization-closing-the-dangerous-gaps-between-authentication-events">Continuous Authorization : Closing the Dangerous Gaps Between...</a></li>
+<li><a href="https://www.infoq.com/articles/continuous-authorization-cloud/">Designing Continuous Authorization for Sensitive Cloud Systems - InfoQ</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-031-76714-2_1">Continuous Authorization Architecture for Dynamic Trust Evaluation | Springer Nature Link</a></li>
+<li><a href="https://hoop.dev/blog/continuous-authorization-in-a-service-mesh-real-time-security-for-zero-trust-architecture">Continuous Authorization in a Service Mesh: Real-Time Security for Zero Trust Architecture</a></li>
 
 </ul>
 </details>
@@ -298,115 +291,354 @@ rss · InfoQ · Jun 19, 09:00
 ---
 
 <a id="item-13"></a>
-## [Azure Functions Launches Serverless Agents Runtime at Build 2026](https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
+## [Microsoft MXC SDK Enhances Windows Security for AI Agents](https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-At Build 2026, Azure Functions announced the public preview of a serverless agents runtime, where agents are defined in .agent.md markdown files with YAML triggers, MCP server access, and over 1,400 connectors. This new runtime enables developers to build AI agents as serverless functions without additional cold start overhead or billing premium, potentially simplifying serverless AI agent development and deployment. The runtime adds no cold start overhead and no billing premium beyond the standard Flex Consumption plan, and agents run in a sandboxed execution environment.
+Microsoft announced the Microsoft Execution Containers (MXC) SDK, a policy-driven execution layer integrated into Windows and WSL, to provide containment, identity, and manageability for AI agents. As AI agents become more autonomous and capable of running code, reading files, and calling networks, platform-level security is critical to prevent misuse. MXC positions Windows as a trustworthy OS for enterprise AI agents, addressing a key concern for developers and IT administrators. MXC is an early preview SDK that provides multiple containment backends—from OS-native process sandboxes to full VMs—behind a unified policy model. It runs on Windows, Linux, and macOS, and is designed to enforce boundaries on what AI agents can access at runtime.
 
-rss · InfoQ · Jun 19, 08:57
+rss · InfoQ · Jun 19, 08:00
 
-**Background**: Azure Functions is a serverless compute service that lets you run event-driven code without managing infrastructure. The Flex Consumption plan is a newer hosting option that offers more control over instance sizes and concurrency. MCP (Model Context Protocol) servers provide standardized access to AI models and tools.
+**Background**: AI agents are software programs that can autonomously perform tasks, such as executing code or accessing data, which introduces security risks if not properly contained. Microsoft has invested decades in Windows security and now extends that foundation to agentic AI through MXC, which uses policy-driven containment to limit agent actions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime">Serverless agents runtime in Azure Functions | Microsoft Learn</a></li>
-<li><a href="https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime">Build serverless agents using Azure Functions | Microsoft Learn</a></li>
-<li><a href="https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/">Azure Functions Ships Serverless Agents Runtime at Build... - InfoQ</a></li>
+<li><a href="https://github.com/microsoft/mxc">GitHub - microsoft/mxc: Policy-driven, layered isolation and containment · GitHub</a></li>
+<li><a href="https://blogs.windows.com/windowsdeveloper/2026/06/02/windows-platform-security-for-ai-agents/">Windows platform security for AI agents</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/windows-security-agents/">Windows Platform Security and the Race to Secure AI Agents</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Azure Functions`, `#serverless`, `#cloud computing`, `#Build 2026`
+**Tags**: `#AI Security`, `#Windows`, `#Microsoft`, `#Containers`, `#Autonomous Agents`
 
 ---
 
 <a id="item-14"></a>
-## [Google AI Overviews Failure Rates Surprise in Tracking Study](https://www.androidpolice.com/tracked-google-ai-overviews-see-when-results-fail-and-results-surprised/) ⭐️ 7.0/10
+## [Nobel Laureate John Jumper Leaves DeepMind for Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss) ⭐️ 8.0/10
 
-A tracking analysis of Google AI Overviews found that the AI-generated summaries fail at a surprising rate, contradicting expectations of high reliability. This matters because millions rely on Google Search for accurate information, and AI Overviews' failures could mislead users and reduce trust in AI-assisted search. The study tracked AI Overviews over time and found failure rates higher than previously reported, with errors including incorrect facts and misleading summaries.
+John Jumper, a Nobel Prize-winning chemist and lead of the AlphaFold team, announced on June 19 that he is leaving Google DeepMind to join AI startup Anthropic. This high-profile move signals Anthropic's growing influence in AI research and its ability to attract top talent, potentially accelerating its work on safe and interpretable AI systems. Jumper shared the 2024 Nobel Prize in Chemistry with Demis Hassabis and David Baker for protein structure prediction using AlphaFold. He had been at DeepMind for nearly nine years.
 
-rss · Android Police · Jun 19, 15:15
+rss · 36氪 · Jun 20, 00:42
 
-**Background**: Google AI Overviews is an AI feature that generates summaries of search results, launched in 2024. It has faced criticism for inaccuracies and reducing traffic to websites. Recent studies show AI search engines have error rates exceeding 60%.
+**Background**: AlphaFold is an AI system developed by DeepMind that predicts a protein's 3D structure from its amino acid sequence, revolutionizing computational biology. Anthropic is an AI safety and research company focused on building reliable, interpretable, and steerable AI systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Google_AI_Overviews">Google AI Overviews</a></li>
-<li><a href="https://www.techspot.com/news/107101-new-study-finds-ai-search-tools-60-percent.html">AI search engines fail accuracy test, study finds 60% error rate AI Hallucination Statistics 2026: 50+ Sourced Data Points ... AI Search Engines Stumble: A Study Exposes Alarming Error Rates AI search engines cite incorrect news sources at an alarming ... AI Search Engines Fail Accuracy Test: Study Reveals 60% Error ... Study Finds That AI Search Engines Are Wrong an Astounding ... AI Search Tools Exhibit Alarming Error Rates: New Study ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/John_M._Jumper">John M. Jumper - Wikipedia</a></li>
+<li><a href="https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6">Nobel-Winning AlphaFold Pioneer Leaves Google... - Business Insider</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Google`, `#search`, `#reliability`, `#analysis`
+**Tags**: `#AI`, `#talent movement`, `#Anthropic`, `#DeepMind`, `#Nobel laureate`
 
 ---
 
 <a id="item-15"></a>
-## [MCP's Key Value: Auth Flow Isolation](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) ⭐️ 7.0/10
+## [Context Window Tax: Longer Memory Hurts AI Agents](https://pub.towardsai.net/the-context-window-tax-why-longer-memory-is-making-agents-dumber-not-smarter-3470c4e7bf8f?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-Sean Lynch argues that the Model Context Protocol (MCP) primarily offers value by isolating authentication flows outside the agent's context window, potentially serving as an auth gateway for APIs. This perspective reframes MCP from a generic tool integration protocol to a security-focused abstraction, which could simplify agent authentication and reduce context window pollution. Lynch suggests that the idealized form of MCP might be just an auth gateway and nothing else, yet that alone would be a win. This contrasts with MCP's broader use for exposing file systems, databases, and other capabilities.
+A growing body of evidence shows that increasing context window size in LLMs leads to diminishing returns, higher costs, and worse agent performance due to the 'lost in the middle' problem, where models fail to utilize information in the middle of long prompts. This challenges the prevailing assumption that bigger context windows make AI agents smarter, urging engineers to prioritize better memory management (e.g., RAG, summarization) over raw capacity to avoid silent failures in production. The 'lost in the middle' phenomenon shows a U-shaped performance curve: models perform well on information at the beginning and end of prompts but poorly on middle content. This failure mode is especially dangerous in agentic systems because it produces fluent but incorrect answers without error signals.
 
-rss · Simon Willison · Jun 19, 22:45
+rss · Towards AI · Jun 19, 17:31
 
-**Background**: The Model Context Protocol (MCP) is an open standard developed by Anthropic that allows AI models to connect with external tools and data sources securely. In agent systems, authentication is challenging because agents need delegated access that persists beyond user sessions. Isolating auth flows outside the agent's context window can prevent credential leakage and reduce token consumption.
+**Background**: Large language models (LLMs) use attention mechanisms that spread a finite 'focus budget' across all tokens in the context window. As the window grows, attention is divided more thinly, making it harder to weigh all parts equally. Retrieval-Augmented Generation (RAG) pipelines were designed to fetch only relevant context, but some teams abandoned them in favor of larger windows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://modelcontextprotocol.io/docs/getting-started/intro">What is the Model Context Protocol (MCP)?</a></li>
-<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/model-context-protocol-mcp/">Model Context Protocol (MCP) - GeeksforGeeks</a></li>
-<li><a href="https://learn.microsoft.com/en-us/entra/agent-id/agent-oauth-protocols">Authentication protocols in agents - Microsoft Entra Agent ID</a></li>
+<li><a href="https://medium.com/write-a-catalyst/the-context-window-tax-why-more-ai-context-makes-answers-worse-da3a02e48adb">‘Why Adding More Context to AI Makes Answers Worse... | Medium</a></li>
+<li><a href="https://hackernoon.com/navigating-claude-code-the-context-window-tax?trk=public_post_comment-text">Navigating Claude Code: The Context Window Tax | HackerNoon</a></li>
+<li><a href="https://www.elvex.com/blog/optimize-context-windows-ai-performance">How to Optimize AI Context Windows : 7 Proven Strategies - elvex</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The comment by Sean Lynch on Hacker News received a score of 7.0/10, indicating strong agreement and interest. The discussion likely appreciates the novel insight that MCP's primary value may be security rather than tool integration.
-
-**Tags**: `#model-context-protocol`, `#llms`, `#ai`, `#authentication`, `#agent-systems`
+**Tags**: `#AI agents`, `#context window`, `#LLM performance`, `#memory management`, `#engineering trade-offs`
 
 ---
 
 <a id="item-16"></a>
-## [Pixel Touchscreen Bugs After Android 17 Update](https://www.androidpolice.com/android-17-touchscreen-bug/) ⭐️ 6.0/10
+## [Google AI Overviews Failure Rates Surprise in Tracking Study](https://www.androidpolice.com/tracked-google-ai-overviews-see-when-results-fail-and-results-surprised/) ⭐️ 7.0/10
 
-Pixel owners are reporting bizarre touchscreen bugs after updating to Android 17, prompting a warning to delay the update. This bug affects core device usability for Pixel users, and if widespread, could damage trust in Android updates. The bug is limited to Pixel devices and appears after installing Android 17; no official fix has been released yet.
+A detailed tracking study of Google AI Overviews found that the AI-generated search summaries fail at a surprisingly high rate, cautioning users against over-reliance on these results. This matters because Google AI Overviews are widely used across over 120 countries, and their unreliability could mislead users and reduce trust in AI-powered search features. The study tracked AI Overviews over time and documented specific instances where the summaries were inaccurate or misleading, though exact failure rates were not disclosed in the snippet.
 
-rss · Android Police · Jun 19, 20:49
+rss · Android Police · Jun 19, 15:15
 
-**Background**: Android 17 is the latest major version of Google's mobile operating system, released for Pixel devices first. Touchscreen bugs can render a phone nearly unusable, making this a critical issue for affected users.
+**Background**: Google AI Overviews is an AI feature integrated into Google Search that generates summaries of search results. It has been criticized for inaccuracies and for reducing traffic to websites. The feature is available in over 120 countries and 11 languages.
 
-**Tags**: `#Android`, `#bug`, `#Pixel`, `#touchscreen`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Google_AI_Overviews">Google AI Overviews</a></li>
+<li><a href="https://www.search.google/ways-to-search/ai-overviews/">Google AI Overviews - Search anything, effortlessly</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Google`, `#Search`, `#Reliability`, `#Analysis`
 
 ---
 
 <a id="item-17"></a>
-## [Apple Confirms Consistent Siri Experience Across All Devices](https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/) ⭐️ 6.0/10
+## [Apple Explains Why watchOS 27 Drops Support for Five Models](https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/) ⭐️ 7.0/10
 
-Apple has confirmed that the new Siri AI, introduced in iOS 27 beta, will provide a consistent experience across all devices, including iPhone, iPad, Mac, and Apple Watch. This addresses a long-standing user frustration where Siri behaved differently on different devices, making the assistant more reliable and seamless across the Apple ecosystem. The consistent experience was an intentional design goal, as revealed in a new interview with Apple's senior watchOS team. The feature is currently available in the iOS 27 beta.
-
-rss · 9to5Mac · Jun 19, 15:01
-
-**Background**: Siri AI is a major overhaul of Apple's voice assistant, aiming to improve intelligence and responsiveness. Previously, Siri's capabilities varied by device due to hardware and software differences, leading to inconsistent user experiences.
-
-**Tags**: `#Apple`, `#Siri`, `#AI`, `#iOS`
-
----
-
-<a id="item-18"></a>
-## [Apple Explains Why watchOS 27 Drops Support for Five Models](https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/) ⭐️ 6.0/10
-
-Apple announced that watchOS 27 will not support Apple Watch Series 6, 7, 8, SE 2, and the original Ultra, citing the need for more processing power to run new Siri AI features and the tap gesture. This is the first time Apple has dropped three years of device support in a single watchOS update, signaling a shift toward requiring newer hardware for AI-driven features and potentially accelerating upgrade cycles for Apple Watch users. Affected watches will continue to receive security updates and work with iPhones running the latest iOS, but will miss out on Siri AI, the new tap gesture, and other watchOS 27 features. The update is currently in developer beta, with a public beta expected next month and a fall release.
+Apple has officially explained that watchOS 27 will not support Apple Watch Series 6, 7, 8, SE 2, and the original Ultra, citing performance requirements for new Siri AI features and a new tap gesture. This marks the first time Apple has dropped three years of device support in a single watchOS update. This unprecedented cut signals a major shift in Apple's software strategy, prioritizing advanced AI features over backward compatibility. Users of affected models will miss out on the new Siri AI and must consider upgrading to continue receiving major watchOS updates. Affected watches will still receive basic security updates and remain functional when paired with an iPhone running the latest iOS. watchOS 27 is currently in developer beta, with a public beta expected next month and official release in fall 2026.
 
 rss · MacRumors · Jun 19, 13:07
 
-**Background**: watchOS 27, announced at WWDC 2026, introduces Siri AI — a conversational assistant with a dedicated app that syncs across Apple devices. The update also includes a dynamic app grid, a single-tap gesture, and new health features. Apple's S6 chip in the Series 6 and similar older chips lack the neural engine performance required for these on-device AI capabilities.
+**Background**: watchOS 27 introduces Siri AI, powered by Apple Intelligence, which requires the more powerful processors found in Apple Watch Series 9 and later, Ultra 2 and later, and SE 3. Apple's senior director of watchOS software engineering stated that the goal is to make Siri a consistent, intelligent assistant across iPhone and Apple Watch, with seamless handoff capabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lifehacker.com/tech/all-the-new-apple-watch-features-coming-to-watchos-27">Siri AI , a Dynamic App Grid, and More New Features ... | Lifehacker</a></li>
-<li><a href="https://gsm.cool/specs/apple-watch-series-6">Apple Watch Series 6 full specifications, pros and cons ... Apple Watch Series 6 Aluminum - Full phone specifications Apple Watch Series 6 - Full phone specifications Apple Watch Series 6 (Aluminum, GPS, 40 mm) Specs - EveryMac.com Apple Watch Series 6 - Specifications - Optus</a></li>
+<li><a href="https://www.macrumors.com/roundup/watchos-27/">watchOS 27: Everything We Know | MacRumors</a></li>
+<li><a href="https://www.apple.com/os/watchos/">OS - watchOS 27 - Apple</a></li>
 
 </ul>
 </details>
 
 **Tags**: `#Apple Watch`, `#watchOS`, `#software support`, `#AI features`
+
+---
+
+<a id="item-18"></a>
+## [Meta Signs 1.6 GW AI Compute Deal with Crusoe](https://36kr.com/newsflashes/3859409018770438?f=rss) ⭐️ 7.0/10
+
+Meta has signed a deal with data center company Crusoe to secure approximately 1.6 gigawatts (GW) of AI computing capacity across two sites in Childress, Texas and Warrenton, Missouri. This massive infrastructure investment underscores Meta's commitment to scaling AI capabilities and diversifying its compute supply chain amid power constraints. The deal advances Meta's $600 billion U.S. infrastructure plan, but delivery timelines and contract costs have not been disclosed.
+
+rss · 36氪 · Jun 19, 03:47
+
+**Background**: Crusoe is an energy-first AI infrastructure company that builds purpose-built data centers for high-performance workloads. Meta, like other tech giants, is rapidly expanding its AI compute capacity to support large language models and other AI services.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.crusoe.ai/">Crusoe | The energy-first AI factory company</a></li>
+<li><a href="https://rallies.ai/news/meta-secures-16-gw-ai-compute-capacity-from-crusoe-at-two-us-sites">Meta Secures 1.6 GW AI Compute Capacity from Crusoe at Two U ...</a></li>
+<li><a href="https://dailyalpha.us/news/meta-secures-16gw-ai-compute-capacity-from-crusoe-diversifying-supply-chain-amid-power-constraints-6a34684e5ab2894278956b26">Meta Secures 1.6GW AI Compute Capacity from Crusoe ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Meta`, `#AI infrastructure`, `#data center`, `#Crusoe`, `#compute`
+
+---
+
+<a id="item-19"></a>
+## [VLC Creator Builds Kyber for Real-Time Robot Control](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) ⭐️ 7.0/10
+
+Jean-Baptiste Kempf, the creator of VLC media player, is building Kyber, an infrastructure layer for real-time remote device control in robotics. Kempf's track record with VLC suggests Kyber could become a widely adopted open-source standard for real-time robotics control, potentially lowering barriers for developers and accelerating innovation in the field. Kyber focuses on low-latency, high-reliability communication for controlling remote devices, leveraging Kempf's expertise in real-time video streaming and cross-platform software.
+
+rss · TechCrunch · Jun 20, 00:47
+
+**Background**: Real-time remote device control is critical for applications like teleoperation, autonomous robotics, and industrial automation. Kempf's experience with VLC, which handles real-time video decoding across diverse platforms, provides a strong foundation for building robust infrastructure for robotics.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://f4.fund/startups/kyberlabs">KyberLabs — Robotics & Automation</a></li>
+<li><a href="https://www.cbinsights.com/company/kyber-labs">Kyber Labs - Products, Competitors, Financials, Employees, Headquarters Locations</a></li>
+<li><a href="https://www.deep-tech-week.com/organizations/kyber-labs">Kyber Labs | Deep Tech Week</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#open-source`, `#robotics`, `#real-time`, `#infrastructure`, `#VLC`
+
+---
+
+<a id="item-20"></a>
+## [Fusion Startups with Over $100M Raised](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) ⭐️ 7.0/10
+
+TechCrunch published an article summarizing fusion startups that have raised over $100 million, noting total industry funding of $7.1 billion. This overview highlights the growing investment in fusion energy, a potential clean energy source, and shows which companies are leading the race. The article aggregates funding data for fusion startups but lacks deep technical analysis. No specific company names or funding amounts are provided in the summary.
+
+rss · TechCrunch · Jun 19, 16:50
+
+**Background**: Nuclear fusion is the process that powers the sun, and if harnessed on Earth, it could provide nearly limitless clean energy. Startups are pursuing various approaches to achieve a net-positive energy reaction, with significant venture capital flowing into the sector.
+
+**Tags**: `#fusion energy`, `#startups`, `#funding`, `#clean energy`
+
+---
+
+<a id="item-21"></a>
+## [US claims ASML's top chip tool may be in China; ASML denies](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) ⭐️ 7.0/10
+
+U.S. Commerce Secretary Lutnick expressed concerns to ASML executives that China may possess an ASML extreme ultraviolet (EUV) lithography system, but ASML denied shipping such scanners to China, citing commercial logic against risking its export license. This dispute highlights ongoing tensions over advanced semiconductor technology exports to China, as EUV lithography is critical for producing the most advanced chips. The outcome could affect global chip supply chains and geopolitical dynamics. ASML has a global monopoly on EUV lithography systems, which use 13.5 nm light to print intricate chip patterns. The Dutch government controls ASML's export licenses, and any unauthorized shipment to China would risk revocation of those licenses.
+
+rss · TechCrunch · Jun 19, 07:59
+
+**Background**: Extreme ultraviolet (EUV) lithography is a cutting-edge technology used to manufacture the most advanced semiconductor chips, enabling continued scaling per Moore's Law. ASML is the sole supplier of EUV systems, which are subject to strict export controls under the Wassenaar Arrangement and Dutch regulations. The U.S. has been pressuring allies to restrict China's access to advanced chip-making equipment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography">Extreme ultraviolet lithography - Wikipedia</a></li>
+<li><a href="https://www.asml.com/en/products/euv-lithography-systems">EUV lithography systems – Products | ASML</a></li>
+<li><a href="https://www.theregister.com/on-prem/2024/09/06/dutch-government-takes-full-control-of-asml-export-measures/628495">Dutch government takes full control of ASML export measures</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#ASML`, `#export controls`, `#China`, `#geopolitics`
+
+---
+
+<a id="item-22"></a>
+## [Agent Sprawl Becomes an Operations Problem](https://pub.towardsai.net/agent-sprawl-has-become-an-operations-problem-742d8f8f4dec?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+The article highlights that AI agents are proliferating across organizations without proper operational controls, creating a new form of infrastructure debt. It calls for production controls and governance to manage agent sprawl before it leads to operational complexity and inefficiency. This matters because unmanaged agent sprawl can lead to redundant, fragmented systems that increase security risks, operational costs, and maintenance burden. As AI agents become more common, organizations must adopt centralized governance to avoid long-term infrastructure debt. The article uses the term "infrastructure debt" to describe the hidden costs of deploying AI agents without proper oversight. It emphasizes that agent sprawl mirrors earlier challenges with microservices and cloud resources, but with added complexity due to autonomous decision-making.
+
+rss · Towards AI · Jun 19, 22:01
+
+**Background**: AI agent sprawl occurs when autonomous systems are deployed across an organization without a unified strategy or governance, leading to silos and inefficiencies. Infrastructure debt refers to deficiencies in the underlying hardware, software, and network resources that support AI pipelines. Without proper controls, agent sprawl can compound technical debt and hinder scalability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ibm.com/think/topics/ai-agent-sprawl">What is AI Agent Sprawl? | IBM</a></li>
+<li><a href="https://www.gravitee.io/blog/ai-agent-sprawl-what-it-is-and-how-to-gain-control-over-it">AI Agent Sprawl: What It Is and How to Gain Control Over It</a></li>
+<li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/02/26/the-coming-crisis-of-agentic-ai-sprawl/">The Coming Crisis Of Agentic AI Sprawl - Forbes</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#operations`, `#infrastructure`, `#MLOps`, `#agent management`
+
+---
+
+<a id="item-23"></a>
+## [Memory Systems for Long-Running AI Agents: Episodic to Procedural](https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+The article explores how long-running AI agents can transition from episodic memory (recalling past experiences) to procedural memory (automating learned skills) to handle extended tasks across days. This addresses a critical limitation of current LLM-based agents that reset after each session, enabling more persistent and autonomous agents for real-world applications like customer support or personal assistants. The article likely discusses memory architectures that combine short-term context windows with long-term episodic storage and procedural skill compilation, though specific implementation details are not provided in the snippet.
+
+rss · Towards AI · Jun 19, 18:01
+
+**Background**: Episodic memory in AI agents allows them to recall specific past interactions, while procedural memory stores learned behaviors and workflows for automatic execution. Current LLM agents typically rely on a flat context window, losing all state after a session ends.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://atlan.com/know/episodic-memory-ai-agents/">Episodic Memory for AI Agents : How It Works</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agent-memory">What Is AI Agent Memory ? | IBM</a></li>
+<li><a href="https://medium.com/@gokcerbelgusen/memory-types-in-agentic-ai-a-breakdown-523c980921ec">Memory Types in Agentic AI : A Breakdown | by Gokcer... | Medium</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#memory systems`, `#LLM`, `#episodic memory`, `#procedural memory`
+
+---
+
+<a id="item-24"></a>
+## [Pixel Touchscreen Bugs After Android 17 Update](https://www.androidpolice.com/android-17-touchscreen-bug/) ⭐️ 6.0/10
+
+Pixel users are reporting bizarre touchscreen bugs after installing the Android 17 update, with warnings to delay updating. This issue affects a wide range of Pixel devices and could disrupt daily usage, highlighting potential quality control problems in Android updates. The bug manifests as erratic touch behavior, such as phantom taps or unresponsive areas, and no official fix has been released yet.
+
+rss · Android Police · Jun 19, 20:49
+
+**Background**: Android 17 is the latest major version of Google's mobile operating system, released for Pixel devices. Touchscreen bugs can stem from driver or firmware incompatibilities introduced by system updates.
+
+**Tags**: `#Android`, `#Pixel`, `#bug`, `#touchscreen`
+
+---
+
+<a id="item-25"></a>
+## [Apple Confirms Consistent Siri AI Across All Devices](https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/) ⭐️ 6.0/10
+
+Apple has confirmed that the new Siri AI, introduced in iOS 27 beta, will provide a consistent experience across all devices, including iPhone, iPad, Mac, and Apple Watch. This long-awaited improvement was highlighted in a recent interview with Apple's senior watchOS team. This consistency eliminates a major frustration for users who previously encountered different Siri capabilities depending on the device. It signals Apple's commitment to a unified AI assistant ecosystem, potentially improving user satisfaction and cross-device integration. The Siri AI overhaul was unveiled at WWDC 2026 and is currently available in the iOS 27 developer beta. The update emphasizes AI features, quality-of-life improvements, and enhanced privacy, with support for multi-step AI requests.
+
+rss · 9to5Mac · Jun 19, 15:01
+
+**Background**: Siri has long been criticized for inconsistent performance and limited capabilities compared to competitors like Google Assistant and Amazon Alexa. Apple previously promised a smarter Siri in 2024 but failed to deliver, making this overhaul a critical step to catch up in the AI assistant race.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/">Apple's long-awaited AI Siri overhaul is finally here | TechCrunch</a></li>
+<li><a href="https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of">Apple’s new Siri AI overhaul is here (sort of)</a></li>
+<li><a href="https://economictimes.indiatimes.com/news/international/us/ios-27-beta-arrives-with-siri-ai-upgrade-heres-the-list-of-supported-iphones-release-details-and-how-to-download-ios-27-beta-1/articleshow/131596127.cms">ios 27 beta : iOS 27 Beta arrives with Siri AI upgrade: Here's the list of.....</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple`, `#Siri`, `#AI`, `#iOS`
+
+---
+
+<a id="item-26"></a>
+## [Epic and CAF Criticize Apple's New Brazil App Store Terms](https://9to5mac.com/2026/06/18/epic-games-and-coalition-for-app-fairness-slam-new-app-store-terms-in-brazil/) ⭐️ 6.0/10
+
+Epic Games and the Coalition for App Fairness have publicly criticized Apple's new App Store terms in Brazil, which allow alternative marketplaces and payment methods but impose fees up to 25% and security warnings. This criticism highlights ongoing tensions between Apple and developers over app store monopolies, and Brazil's move could set a precedent for other countries seeking to regulate app store practices. Apple's new terms require developers to accept a fee structure and security warnings for alternative distribution, which critics argue undermines the intended competition. The changes apply to iOS 26.5 and later.
+
+rss · 9to5Mac · Jun 19, 02:32
+
+**Background**: The Coalition for App Fairness, founded by Epic Games, Spotify, and others, advocates for fairer app store policies. Brazil joins the EU and Japan in forcing Apple to open iOS to third-party app stores, following global regulatory pressure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Coalition_for_App_Fairness">Coalition for App Fairness</a></li>
+<li><a href="https://9to5mac.com/2026/06/18/altstore-pal-now-available-in-brazil-as-apple-flips-the-switch-on-alternative-marketplaces/">AltStore PAL now available in Brazil as Apple flips the... - 9to5Mac</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#App Store`, `#Regulation`, `#Epic Games`, `#Brazil`
+
+---
+
+<a id="item-27"></a>
+## [MCP's Key Value: Auth Isolation Outside Agent Context](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) ⭐️ 6.0/10
+
+Sean Lynch argues that the primary value of the Model Context Protocol (MCP) over traditional skills or CLI tools is its ability to isolate the authentication flow outside the agent's context window, potentially even outside the harness entirely. This insight highlights a critical security and architectural advantage of MCP, as it prevents sensitive auth tokens and flows from being exposed within the LLM's limited context window, reducing the risk of leakage and simplifying agent design. Lynch suggests that the idealized form of MCP could be nothing more than an auth gateway for the API, which alone would be a win. This perspective reframes MCP not as a general-purpose tool integration protocol but as a specialized security boundary.
+
+rss · Simon Willison · Jun 19, 22:45
+
+**Background**: The Model Context Protocol (MCP) is an open standard developed by Anthropic that enables AI models to connect with external tools and data sources in a secure, scalable way. Traditional approaches like skills or CLI tools often require the agent to handle authentication directly, which can clutter the context window and create security risks. MCP servers expose capabilities through standardized interfaces, allowing auth to be handled externally.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://modelcontextprotocol.io/docs/getting-started/intro">What is the Model Context Protocol (MCP)?</a></li>
+<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/model-context-protocol-mcp/">Model Context Protocol (MCP) - GeeksforGeeks</a></li>
+<li><a href="https://modelcontextprotocol.io/docs/learn/server-concepts">Understanding MCP servers - Model Context Protocol</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#model-context-protocol`, `#llms`, `#ai`, `#authentication`, `#agent`
+
+---
+
+<a id="item-28"></a>
+## [Local LLM RAM Reality: 52% of PCs Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4) ⭐️ 6.0/10
+
+A blog post on Towards AI highlights that 52% of PCs have 16GB RAM or less, making it challenging to run large language models locally, and explains how KV cache memory costs and Mac vs. PC memory architecture differences affect feasibility. This matters because local LLM adoption is growing, but most users lack sufficient RAM for models like Llama 3 70B, creating a hardware barrier that could slow adoption and push users toward cloud solutions or smaller quantized models. KV cache memory grows with context length; for a 7B model at 4-bit quantization with 4096 tokens, KV cache alone can consume ~1-2GB. Mac's unified memory architecture allows using system RAM for GPU tasks, giving Macs with 16GB an advantage over PCs with 16GB where only VRAM matters.
+
+rss · Towards AI · Jun 19, 23:01
+
+**Background**: Large language models (LLMs) require significant memory for weights and the key-value (KV) cache, which stores intermediate attention states during generation. Most consumer PCs have separate system RAM and GPU VRAM, limiting usable memory for LLMs, while Macs with Apple Silicon use unified memory accessible by both CPU and GPU.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pub.towardsai.net/614-vs-273-gb-s-why-a-macbook-still-beats-nvidias-new-rtx-spark-at-local-llms-4a6e77fdd53e">614 vs 273 GB/s: Why a MacBook Still Beats... | Towards AI</a></li>
+<li><a href="https://arxiv.org/abs/2407.18003">[2407.18003] Keep the Cost Down: A Review on Methods to ... KV Cache Explained — Why LLMs Eat So Much Memory Understanding KV Cache: The Hidden Memory Cost of Serving LLMs The KV Cache: The Memory Monster That Controls Every ... - Medium KV Caching in LLMs: A Guide for Developers How to Calculate Hardware Requirements for Running LLMs Locally</a></li>
+<li><a href="https://www.sotaaz.com/post/kv-cache-guide-en">KV Cache Explained — Why LLMs Eat So Much Memory</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#local LLMs`, `#RAM`, `#hardware`, `#machine learning`
+
+---
+
+<a id="item-29"></a>
+## [Azure AI Foundry: Enterprise AI Platform Insights from Production](https://pub.towardsai.net/azure-ai-foundry-the-architects-blueprint-for-building-enterprise-ai-at-scale-6af9d68dc1b1?source=rss----98111c9905da---4) ⭐️ 6.0/10
+
+An architect shares hands-on insights from using Azure AI Foundry in a BFSI reconciliation project, highlighting its strengths as a model serving platform while noting gaps in validation, auditing, and human-in-the-loop features. This practical evaluation helps enterprise architects understand where Azure AI Foundry excels and where additional architecture is needed for production readiness, guiding adoption decisions in regulated industries like banking. The article describes a Hub-and-Project organizational model where the Hub acts as a governance nucleus and Projects serve as isolated execution sandboxes, enabling centralized compliance while supporting decentralized development.
+
+rss · Towards AI · Jun 19, 19:01
+
+**Background**: Azure AI Foundry, formerly Azure AI Studio, is Microsoft's platform for managing models, hosting agents, orchestrating activities, and connecting to enterprise data sources. It was rebranded in late 2024 and offers ten distinct capabilities, though most teams only use a few. The BFSI (Banking, Financial Services, and Insurance) sector requires strict compliance and auditability, making human-in-the-loop validation critical.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Microsoft_Foundry_Agent_Service">Microsoft Foundry Agent Service</a></li>
+<li><a href="https://www.linkedin.com/pulse/harnessing-azure-ai-foundry-enterprise-digital-john-straumann-adhte">Harnessing Azure AI Foundry for Enterprise Digital Transformation</a></li>
+<li><a href="https://www.ibm.com/think/topics/human-in-the-loop">What Is Human In The Loop (HITL)? | IBM</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Azure AI Foundry`, `#Enterprise AI`, `#AI Platform`, `#Architecture`, `#BFSI`
 
 ---
