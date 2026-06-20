@@ -45,7 +45,11 @@ class RSSScraper(BaseScraper):
             if not source.enabled:
                 continue
 
-            feed_items = await self._fetch_feed(source, since)
+            feed_since = since
+            if source.lookback_hours is not None:
+                from datetime import timedelta
+                feed_since = datetime.now(timezone.utc) - timedelta(hours=source.lookback_hours)
+            feed_items = await self._fetch_feed(source, feed_since)
             items.extend(feed_items)
 
         return items
