@@ -156,7 +156,17 @@ class DailySummarizer:
                 else:
                     special_parts.append("\n")
 
-        return header + toc + "".join(parts) + "".join(special_parts)
+        # Special sections appear FIRST (after header), then main digest
+        special_block = "".join(special_parts)
+        main_block = toc + "".join(parts)
+        if special_block and main_block:
+            divider = "---\n\n"
+            if language == "zh":
+                digest_heading = "## 📰 技术资讯\n\n"
+            else:
+                digest_heading = "## 📰 Tech Digest\n\n"
+            return header + special_block + divider + digest_heading + main_block
+        return header + special_block + main_block
 
     def generate_webhook_overview(
         self,
