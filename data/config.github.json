@@ -378,19 +378,22 @@
         "limit": 5,
         "categories": [
           "ai-learning"
-        ]
+        ],
+        "ai_score_threshold": 3.5
       },
       "lang-skills": {
         "limit": 4,
         "categories": [
           "lang-skills"
-        ]
+        ],
+        "ai_score_threshold": 3.5
       },
       "unknown-unknowns": {
         "limit": 4,
         "categories": [
           "unknown-unknowns"
-        ]
+        ],
+        "ai_score_threshold": 3.5
       }
     },
     "default_group": "other",
