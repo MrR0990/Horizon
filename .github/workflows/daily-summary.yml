@@ -39,6 +39,14 @@ jobs:
       - name: Set date
         run: echo "DATE=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
+      - name: Commit article history
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/shown_articles.json
+          git diff --staged --quiet || git commit -m "chore: update discovery history"
+          git push || true
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
