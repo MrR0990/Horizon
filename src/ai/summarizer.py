@@ -62,9 +62,14 @@ LABELS = {
 
 
 SPECIAL_GROUPS = {
-    "ai-learning":    {"en": "\U0001f9e0 AI Learning",          "zh": "\U0001f9e0 AI \u5b66\u4e60"},
-    "lang-skills":    {"en": "\u270d\ufe0f Language & Expression", "zh": "\u270d\ufe0f \u8868\u8fbe\u63d0\u5347"},
-    "unknown-unknowns": {"en": "\U0001f52d Unknown Unknowns",   "zh": "\U0001f52d \u672a\u77e5\u7684\u672a\u77e5"},
+    "ai-learning":      {"en": "\U0001f9e0 AI Learning",            "zh": "\U0001f9e0 AI \u5b66\u4e60"},
+    "lang-skills":      {"en": "\u270d\ufe0f Language & Expression","zh": "\u270d\ufe0f \u8868\u8fbe\u63d0\u5347"},
+    "unknown-unknowns": {"en": "\U0001f52d Unknown Unknowns",       "zh": "\U0001f52d \u672a\u77e5\u7684\u672a\u77e5"},
+    "human-nature":     {"en": "\U0001f9ec Human Nature & Behavior","zh": "\U0001f9ec \u4eba\u6027\u4e0e\u884c\u4e3a"},
+    "history-wisdom":   {"en": "\U0001f4dc History & Patterns",     "zh": "\U0001f4dc \u5386\u53f2\u7684\u8282\u5f8b"},
+    "philosophy-life":  {"en": "\U0001f52e Philosophy & Life",      "zh": "\U0001f52e \u54f2\u5b66\u4e0e\u4eba\u751f"},
+    "health-longevity": {"en": "\U0001f4aa Health & Longevity",     "zh": "\U0001f4aa \u5065\u5eb7\u4e0e\u957f\u5bff"},
+    "wealth-systems":   {"en": "\U0001f4b0 Wealth & Compounding",   "zh": "\U0001f4b0 \u8d22\u5bcc\u4e0e\u590d\u5229"},
 }
 
 class DailySummarizer:
