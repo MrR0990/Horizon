@@ -8,7 +8,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, MofNCompleteColumn
 
 from .client import AIClient
-from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER
+from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER, CATEGORY_SCORING_PROMPTS
 from .utils import parse_json_response
 from ..models import ContentItem
 
@@ -139,9 +139,10 @@ class ContentAnalyzer:
             discussion_section=discussion_section
         )
 
-        # Get AI completion
+        # Get AI completion — use per-category system prompt if specified
+        system_prompt = item.metadata.get("_system_prompt") or CONTENT_ANALYSIS_SYSTEM
         response = await self.client.complete(
-            system=CONTENT_ANALYSIS_SYSTEM,
+            system=system_prompt,
             user=user_prompt,
         )
 
