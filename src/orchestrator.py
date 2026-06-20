@@ -587,6 +587,10 @@ class HorizonOrchestrator:
                 )
             self.console.print("")
 
+        # Tag each item with its resolved group so the summarizer can section them
+        for item, group_key in selected:
+            item.metadata["group"] = group_key
+
         return BalancedDigestResult(
             items=[item for item, _ in selected],
             enabled=True,
