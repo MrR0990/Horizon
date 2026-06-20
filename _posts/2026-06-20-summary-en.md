@@ -5,300 +5,289 @@ date: 2026-06-20
 lang: en
 ---
 
-> From 113 items, 16 important content pieces were selected
+> From 116 items, 13 important content pieces were selected
 
 ---
 
-1. [Intel and AMD Unite on ACE 1.15 to Boost x86 AI](#item-1) ⭐️ 8.0/10
-2. [Super Reefs Discovered Thriving in 2°C Warmer Waters](#item-2) ⭐️ 8.0/10
-3. [Kent Beck: Hire Juniors to Improve Teams, Not Just Tasks](#item-3) ⭐️ 7.0/10
-4. [MCP's Key Advantage: Isolating Auth from Agent Context](#item-4) ⭐️ 7.0/10
-5. [16-Year-Old 64GB SSD Survives 1PB Writes, 25x Its Rated TBW](#item-5) ⭐️ 7.0/10
-6. [Zhipu GLM 5.2 Tops Design Arena, Beats Claude Fable 5](#item-6) ⭐️ 7.0/10
-7. [visionOS 27 Brings Exclusive AI Features to M5 Vision Pro](#item-7) ⭐️ 7.0/10
-8. [VLC creator builds Kyber for real-time robot control](#item-8) ⭐️ 7.0/10
-9. [History Shows Export Controls on Cybersecurity Don't Work](#item-9) ⭐️ 6.0/10
-10. [Go's record IPO fuels robotaxi push in Japan](#item-10) ⭐️ 6.0/10
-11. [App Rejections Persist Despite Court Ruling on IAP](#item-11) ⭐️ 6.0/10
-12. [Headroom: Compress LLM Inputs by 60-95% Without Losing Accuracy](#item-12) ⭐️ 6.0/10
+1. [Pan's Team Builds Chip-Based Quantum Network Over 540km Fiber](#item-1) ⭐️ 9.0/10
+2. [CAS Demonstrates 4-Layer 3D 2T0C DRAM with 400s Retention](#item-2) ⭐️ 8.0/10
+3. [LM Studio and Apple Run Trillion-Parameter Kimi K2.6 on Mac Cluster](#item-3) ⭐️ 8.0/10
+4. [Caltech Begins Construction of Most Sensitive Radio Telescope Array](#item-4) ⭐️ 8.0/10
+5. [BabelTele: AI Language Compresses Text to 27.9% with 99.5% Accuracy](#item-5) ⭐️ 8.0/10
+6. [Claude Fable 5 on Bedrock Requires Data Sharing with Anthropic](#item-6) ⭐️ 8.0/10
+7. [New Quantum Sensor Detects Gravitational Waves and Dark Matter](#item-7) ⭐️ 8.0/10
+8. [3D Fiber Micro-Tweezers Exceed Traditional Optical Tweezers Force by 100,000x](#item-8) ⭐️ 8.0/10
+9. [Exploring Colors Beyond Screen Gamuts](#item-9) ⭐️ 7.0/10
+10. [Satellite study reveals GPS tampering far worse than expected](#item-10) ⭐️ 7.0/10
+11. [AWS Launches Multi-Region Replication for Cognito](#item-11) ⭐️ 7.0/10
+12. [Storing a Website in a Favicon via Pixel Encoding](#item-12) ⭐️ 6.0/10
+13. [UK Plans to Force Meta, YouTube to Boost Local News](#item-13) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Intel and AMD Unite on ACE 1.15 to Boost x86 AI](https://www.ithome.com/0/966/482.htm) ⭐️ 8.0/10
+## [Pan's Team Builds Chip-Based Quantum Network Over 540km Fiber](https://www.ithome.com/0/966/525.htm) ⭐️ 9.0/10
 
-The x86 Ecosystem Advisory Group (EAG), co-founded by Intel and AMD, has released version 1.15 of the AI Compute Extensions (ACE) specification, which introduces native matrix multiplication engines and low-precision data format support to enhance AI performance on x86 processors. This collaboration marks a historic alignment between Intel and AMD to standardize x86 AI extensions, addressing software fragmentation that previously plagued AVX-512 and ensuring long-term compatibility across future CPU generations. It promises significant performance gains for AI inference and training on commodity x86 hardware. ACE introduces tile registers (tmm0–tmm7) for matrix operations, integrates with AVX10 for format conversion, and supports a wide range of data types including INT8, BF16, FP16, FP8, and MX formats (MX FP8, MX FP6, MX FP4, MX INT8). AMD's roadmap indicates Zen 6 will add new AI data type support, while Zen 7 will feature a new matrix engine.
+Researchers led by Pan Jianwei demonstrated a chip-based quantum key distribution (QKD) network using the twin-field QKD (TF-QKD) protocol, achieving secure key generation over 540 km of optical fiber with a loss of 91.5 dB. The results were published in Nature Photonics on June 19, 2026. This work represents a major step toward practical, scalable quantum communication networks by integrating key components onto photonic chips, significantly reducing system complexity. It demonstrates that chip-based QKD can overcome the rate-loss limit and support many users, paving the way for secure quantum internet. The chip-based transmitter integrates a self-injection locking laser on a silicon nitride micro-ring resonator (linewidth ~100 Hz) and a thin-film lithium niobate (TFLN) photonic integrated circuit with modulators achieving 25 GHz bandwidth, 2.6 V half-wave voltage, and 34 dB extinction ratio. The network uses a quantum leaf-spine architecture to support flexible user connections and scalability.
 
-rss · IT之家 · Jun 20, 03:05
+rss · IT之家 · Jun 20, 07:51
 
-**Background**: ACE stands for AI Compute Extensions, a set of x86 instructions designed to accelerate AI and machine learning workloads, particularly matrix multiplication and low-precision computation. The x86 Ecosystem Advisory Group (EAG) was formed in 2024 by Intel and AMD to coordinate the future evolution of the x86 architecture and promote standardization, addressing the fragmentation caused by differing implementations of previous extensions like AVX-512.
+**Background**: Quantum key distribution (QKD) allows two parties to share a secret key with information-theoretic security. Twin-field QKD (TF-QKD) overcomes the fundamental rate-loss limit of conventional QKD, enabling longer distances without quantum repeaters. However, TF-QKD requires extremely stable lasers and precise interference, which has hindered practical deployment. Chip integration offers a path to reduce size, cost, and complexity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://x86ecosystem.org/wp-content/uploads/2026/06/ACE_v1_Specification_public_1_15.pdf">PDF AI Compute Extensions (ACE) Specification - x86ecosystem.org</a></li>
-<li><a href="https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf">PDF The AI Compute Extensions (ACE) for x86</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Advanced_Matrix_Extensions">Advanced Matrix Extensions - Wikipedia</a></li>
+<li><a href="https://www.nature.com/articles/s42005-020-00415-0?error=cookies_not_supported">Optimized protocol for twin-field quantum key distribution</a></li>
+<li><a href="https://arxiv.org/abs/2212.05730">[2212.05730] Recent Advances in Laser Self-Injection Locking to High-$Q$ Microresonators</a></li>
+<li><a href="https://www.nature.com/articles/s41467-023-40502-8">High density lithium niobate photonic integrated circuits | Nature Communications</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#x86`, `#AI`, `#Intel`, `#AMD`, `#instruction set`
+**Tags**: `#quantum communication`, `#quantum key distribution`, `#photonics`, `#chip integration`, `#network security`
 
 ---
 
 <a id="item-2"></a>
-## [Super Reefs Discovered Thriving in 2°C Warmer Waters](https://www.ithome.com/0/966/471.htm) ⭐️ 8.0/10
+## [CAS Demonstrates 4-Layer 3D 2T0C DRAM with 400s Retention](https://www.ithome.com/0/966/543.htm) ⭐️ 8.0/10
 
-Scientists have discovered 'super reefs' in the Marshall Islands that remain vibrant and healthy despite water temperatures 2°C higher than normal, using AI and robotic boats to study their resilience. This discovery offers hope for coral reef survival under climate change and could inform conservation strategies, such as creating a 'super reef blue corridor' to spread heat-resistant coral larvae across the Pacific. The team used an autonomous boat named 'Yellowfin' equipped with GoPro cameras to scan 40 miles of reef daily, capturing 20,000 images, which were used to train an AI model to assess bleaching and recovery.
+Researchers at the Chinese Academy of Sciences have demonstrated the first 4-layer 3D 2T0C DRAM structure using IGZO transistors, achieving 400-second data retention and 3 bits per cell. The work has been accepted at VLSI 2026. This breakthrough addresses the need for high-capacity, high-bandwidth memory in AI and HPC by enabling dense 3D integration of DRAM without capacitors. It could lead to more efficient on-chip memory solutions, reducing latency and improving performance. The 3D DRAM uses a vertical word line architecture and dual-gate 2T0C cell design, optimizing read margin and stability. The IGZO transistors enable both fast write and long retention (400 seconds), with 3-bit storage per cell to further increase density.
 
-rss · IT之家 · Jun 20, 01:28
+rss · IT之家 · Jun 20, 10:33
 
-**Background**: Coral bleaching occurs when corals expel symbiotic algae due to heat stress, turning white and becoming vulnerable. Since 2023, record marine heatwaves have caused over 80% of global reefs to bleach. The 'super reefs' in the Marshall Islands show exceptional heat tolerance, possibly due to genetic and environmental factors.
+**Background**: Traditional DRAM uses a 1T1C (one transistor, one capacitor) cell, which faces scaling challenges as capacitors become harder to fabricate at advanced nodes. 2T0C DRAM eliminates the capacitor, using two transistors (one for write, one for read) and the parasitic capacitance of the read transistor for storage. IGZO (indium gallium zinc oxide) is an oxide semiconductor with extremely low off-state current, making it ideal for capacitor-less DRAM. 3D stacking of memory layers can dramatically increase density, similar to 3D NAND.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/大堡礁">大堡礁 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://zh.wikipedia.org/zh-hans/無人水面載具">无人水面载具 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.science.org/doi/10.1126/sciadv.adu4323">3D stacked IGZO 2T0C DRAM array with multibit capability for computing in memory applications | Science Advances</a></li>
+<li><a href="https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology">Disrupting the DRAM roadmap with capacitor-less IGZO- ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#marine biology`, `#AI`, `#climate change`, `#robotics`, `#conservation`
+**Tags**: `#DRAM`, `#3D integration`, `#IGZO`, `#semiconductor`, `#memory technology`
 
 ---
 
 <a id="item-3"></a>
-## [Kent Beck: Hire Juniors to Improve Teams, Not Just Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) ⭐️ 7.0/10
+## [LM Studio and Apple Run Trillion-Parameter Kimi K2.6 on Mac Cluster](https://www.ithome.com/0/966/539.htm) ⭐️ 8.0/10
 
-Kent Beck argues that junior engineers should focus on improving team capabilities rather than just completing tasks, categorizing them into A (improves team), B (neutral), and C (creates extra work). This perspective challenges conventional hiring wisdom and sparks debate about junior engineer growth in an era of short tenures and LLM tools, affecting how companies evaluate and develop early-career talent. Beck's framework emphasizes that even a junior who makes mistakes but helps the team improve is valuable, while a highly productive junior who creates extra work for others is not. The article has 133 points and 65 comments on Hacker News.
+LM Studio and Apple successfully ran the trillion-parameter Kimi K2.6 model on a cluster of four Mac Studios at WWDC 2026, using memory pooling and Thunderbolt 5 RDMA, and enabled secure remote access via LM Link from MacBook Neo and iPhone. This demonstrates that consumer-grade Apple hardware can handle frontier-scale AI models locally, reducing reliance on expensive GPU clusters and advancing privacy-preserving local AI deployment. It also highlights the growing ecosystem for on-device AI inference. The Kimi K2.6 model has 1 trillion total parameters with 32 billion activated via MoE architecture, and the four Mac Studios achieved a unified memory pool of about 1.5 TB. In similar tests, inference speed reached approximately 28 tokens per second with lower power consumption than traditional GPU clusters.
 
-hackernews · rrvsh · Jun 20, 00:11 · [Discussion](https://news.ycombinator.com/item?id=48604851)
+rss · IT之家 · Jun 20, 09:37
 
-**Background**: Kent Beck is a legendary software engineer known for pioneering Test-Driven Development (TDD) and Extreme Programming (XP). His views on software engineering philosophy often influence industry practices. The article reflects his long-standing belief that engineering is a team sport, where individual contributions must be measured by their impact on the team's overall effectiveness.
+**Background**: Mixture-of-Experts (MoE) is a neural network architecture that activates only a subset of parameters per input, enabling larger models with lower computational cost. RDMA (Remote Direct Memory Access) over Thunderbolt 5 allows multiple Macs to share memory with low latency, effectively pooling their unified memory for large model inference. LM Link is a secure remote access feature that creates end-to-end encrypted connections to LM Studio instances.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/">Facebook Engineering Process with Kent Beck</a></li>
-<li><a href="https://thakicloud.github.io/en/news/kent-beck-tdd-ai-agents-coding-evolution/">Kent Beck on Coding in the AI Era: Why TDD Becomes a ‘Superpower’</a></li>
-<li><a href="https://www.linkedin.com/pulse/junior-developers-only-llm-era-your-moment-maciek-borówka-aa8ef">Junior developers (and not only developers), the LLM era is your...</a></li>
+<li><a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/">1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5 - Jeff Geerling</a></li>
+<li><a href="https://stabilise.io/blog-pages/blog/apples-rdma-revolution-how-mac-clusters-are-changing-local-ai-hosting">Apple's RDMA Revolution: How Mac Clusters Are Changing Local AI Hosting | Stabilise</a></li>
+<li><a href="https://ubos.tech/news/tailscale-and-lm-studio-launch-lm‑link-for-encrypted-point‑to‑point-gpu-access/">Tailscale and LM Studio Launch LM ‑ Link for Encrypted... - UBOS</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are divided: some agree with Beck's ideal but question its applicability in short-tenure environments and the LLM era, while others argue companies hire juniors for junior-level tasks, not long-term development. A few criticize the article's tone as elitist.
-
-**Tags**: `#software engineering`, `#career development`, `#hiring`, `#engineering culture`
+**Tags**: `#AI`, `#Apple`, `#Large Language Models`, `#Local Deployment`, `#Hardware`
 
 ---
 
 <a id="item-4"></a>
-## [MCP's Key Advantage: Isolating Auth from Agent Context](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) ⭐️ 7.0/10
+## [Caltech Begins Construction of Most Sensitive Radio Telescope Array](https://www.ithome.com/0/966/530.htm) ⭐️ 8.0/10
 
-Sean Lynch argues that the Model Context Protocol (MCP) offers a unique advantage over traditional skills or CLI tools by isolating the authentication flow outside the agent's context window, potentially serving as a pure auth gateway for APIs. This insight reframes MCP's value proposition, highlighting its potential to simplify and secure API authentication in AI agent systems, which could accelerate adoption of MCP as a standard for agent-tool integration. Lynch suggests that the idealized form of MCP might be nothing more than an auth gateway for APIs, which would still be a win. This contrasts with current approaches where authentication is handled within the agent's context, consuming limited context window space.
+Caltech has started construction of the Deep Synoptic Array (DSA), which upon completion in 2029 will consist of 1,650 dishes and become the most sensitive and fastest survey radio telescope array ever built. DSA is expected to discover billions of new radio sources in its first survey, revolutionizing our understanding of fast radio bursts, pulsars, and dark energy, and will provide real-time open data to the global community. Each dish is 6.1 meters in diameter, spread over a 19.3×16.1 km area in a remote Nevada desert. The array uses 0.7–2 GHz frequency range and is built with cost-saving measures like using cake pan molds from Fat Daddio’s for antenna components.
 
-rss · Simon Willison · Jun 19, 22:45
+rss · IT之家 · Jun 20, 08:25
 
-**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI systems connect with external tools and data sources. Traditional integration methods like skills or CLI tools often require authentication to be handled within the agent's context window, which is a limited resource. MCP aims to replace fragmented integrations with a universal protocol.
+**Background**: Radio telescope arrays combine signals from multiple antennas to achieve high resolution, but they are less sensitive to faint signals than single large dishes. DSA's vast number of dishes and wide area coverage enable both high sensitivity and fast survey speed, ideal for studying transient phenomena like fast radio bursts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
-<li><a href="https://www.anthropic.com/news/model-context-protocol">Introducing the Model Context Protocol \ Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deep_Synoptic_Array">Deep Synoptic Array - Wikipedia</a></li>
+<li><a href="https://www.deepsynoptic.org/overview">DSA -2000 — Deep Synoptic Array ( DSA )</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fast_radio_burst">Fast radio burst - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News comment by Sean Lynch received positive attention for its nuanced technical insight. Commenters generally agreed that auth isolation is a compelling use case for MCP, though some noted that implementing it as a pure gateway may introduce new challenges.
-
-**Tags**: `#model-context-protocol`, `#llms`, `#ai`, `#authentication`, `#agent-systems`
+**Tags**: `#radio astronomy`, `#telescope array`, `#Caltech`, `#astrophysics`, `#deep space survey`
 
 ---
 
 <a id="item-5"></a>
-## [16-Year-Old 64GB SSD Survives 1PB Writes, 25x Its Rated TBW](https://www.ithome.com/0/966/478.htm) ⭐️ 7.0/10
+## [BabelTele: AI Language Compresses Text to 27.9% with 99.5% Accuracy](https://www.ithome.com/0/966/529.htm) ⭐️ 8.0/10
 
-A YouTube channel, WolfyTech, stress-tested a 16-year-old SanDisk P4 64GB SSD by writing 1PB (1,000 TB) of data to it, which is 25 times its rated 40 TBW, and the drive still functioned. This test challenges the common belief that TBW is a hard lifespan limit for SSDs, suggesting it is more of a warranty guideline. It provides reassurance to users that SSDs may last far longer than their rated endurance, especially older MLC-based drives. The tested drive uses 32nm 2D MLC NAND flash, which has larger cells and more stable voltages than modern 3D TLC/QLC NAND, contributing to its exceptional endurance. The test involved writing 1PB over an extended period, and the drive remained operational without immediate failure.
+Researchers from multiple Chinese universities and the University of Sydney proposed BabelTele, a text compression method that converts natural language into a dense, model-readable format, achieving 27.9% of original size while retaining 99.5% semantic accuracy for LLMs. This research challenges the assumption that LLMs require human-readable prompts, potentially reducing token costs and improving efficiency in multi-agent communication and long-context processing. BabelTele fuses multilingual vocabulary, mathematical symbols, logical operators, and emojis to create a dense representation. It outperforms traditional summarization and prompt compression tools like LLMLingua-2 on benchmarks such as MeetingBank and QuALITY.
 
-rss · IT之家 · Jun 20, 02:32
+rss · IT之家 · Jun 20, 08:18
 
-**Background**: TBW (Terabytes Written) is a metric used by SSD manufacturers to indicate the total amount of data that can be written to the drive under warranty. It is not a precise death limit; exceeding TBW may cause gradual slowdowns or instability but not instant failure. Older MLC (2-bit per cell) NAND, especially in 2D planar form, typically offers higher endurance than modern TLC (3-bit) or QLC (4-bit) NAND used in 3D architectures.
+**Background**: Current LLMs interact using natural language designed for humans, which contains significant redundancy. BabelTele is a model-oriented representation that sacrifices human readability to achieve higher information density, enabling zero-shot transfer between different LLMs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.silicon-power.com/definition-detail/tbw/">TBW -Silicon Power</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Multi-level_cell">Multi - level cell - Wikipedia</a></li>
-<li><a href="https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand">2 D vs 3 D NAND : Differences Between SLC... - Kingston Technology</a></li>
+<li><a href="https://arxiv.org/list/cs/new">Computer Science - arXiv</a></li>
+<li><a href="https://www.alphaxiv.org/?organizations=["Tsinghua+University","Zhipu+AI","Beijing+Jiaotong+University","University+of+Science+and+Technology+of+China","Northeastern+University","Sapient+Intelligence","Pazhou+Laboratory","Nanjing+University","Princeton+AI+Lab","National+University+of+Singapore","Peking+University","Shanghai+AI+Lab","DeepSeek","University+of+Manchester","ShengShu","Google+Cloud+AI+Research","Fudan+University"]">Ask or search anything... - alphaXiv</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SSD`, `#storage`, `#hardware testing`, `#lifespan`
+**Tags**: `#LLM`, `#text compression`, `#AI efficiency`, `#natural language processing`, `#research`
 
 ---
 
 <a id="item-6"></a>
-## [Zhipu GLM 5.2 Tops Design Arena, Beats Claude Fable 5](https://www.ithome.com/0/966/458.htm) ⭐️ 7.0/10
+## [Claude Fable 5 on Bedrock Requires Data Sharing with Anthropic](https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-Zhipu AI's GLM 5.2 model has achieved the top score in the Design Arena single-round HTML web design benchmark, surpassing Claude Fable 5, Opus 4.6, and Opus 4.7. This marks the first time a Chinese model has topped this crowdsourced blind-testing benchmark. This achievement demonstrates that Chinese AI models can compete with and even outperform leading Western models in creative design tasks, while offering significantly lower inference costs. It could accelerate adoption of AI-powered web design tools and reshape the competitive landscape of generative AI. GLM 5.2 costs $1.40/$4.40 per million tokens, far cheaper than Fable 5's $10/$50. It effectively uses third-party libraries like chart.js and three.js, and employs TailwindCSS in 91% of sessions, compared to Fable 5's 57%.
+Amazon Bedrock now requires customers using Claude Fable 5 or Mythos 5 to opt into provider_data_share, sending prompts and outputs to Anthropic for 30-day retention with human review, breaking from previous models that kept inference data within AWS. Three days after launch, Anthropic requested AWS to revoke access to both models due to US export control compliance. This change signals a shift in data privacy practices for enterprise AI deployments on AWS, potentially affecting compliance-sensitive industries. The export control revocation highlights growing geopolitical constraints on advanced AI model access. The provider_data_share mandate applies specifically to the Mythos-class tier, currently Fable 5 and Mythos 5. At launch, the models were available in US East (N. Virginia) and Europe (Stockholm) regions.
 
-rss · IT之家 · Jun 20, 00:04
+rss · InfoQ · Jun 20, 09:03
 
-**Background**: Design Arena is a crowdsourced benchmark that evaluates AI-generated design quality through blind testing, widely regarded as an industry standard for aesthetic and practical design. GLM 5.2 is a Mixture-of-Experts model with 744B total parameters (40B active) and a 1M-token context window, optimized for long-horizon coding and agentic tasks.
+**Background**: Amazon Bedrock is a managed service that provides access to foundation models from various providers via API. Previously, inference data for Bedrock models remained within the AWS boundary, ensuring data privacy. The new data-sharing requirement for certain Anthropic models represents a departure from that practice. US export controls, governed by regulations like EAR, restrict the transfer of sensitive technologies, including advanced AI models, to certain countries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.toolify.ai/tool/design-arena">Design Arena : Global crowdsourced benchmark for evaluating and...</a></li>
-<li><a href="https://docs.together.ai/docs/glm-5.2-quickstart">Get the most out of GLM - 5 . 2 for long-horizon coding and agentic tasks.</a></li>
-<li><a href="https://unsloth.ai/docs/models/glm-5.2">Run the new GLM - 5 . 2 model by Z.ai on local hardware!</a></li>
+<li><a href="https://www.creativeainews.com/articles/claude-fable-5-bedrock-data-sharing-2026/">Claude Fable 5 on Bedrock Forces Data Sharing</a></li>
+<li><a href="https://aws.amazon.com/bedrock/faqs/">Find answers to frequently asked questions about Amazon Bedrock .</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#LLM`, `#web design`, `#benchmark`, `#GLM`
+**Tags**: `#AI`, `#AWS`, `#data privacy`, `#export control`, `#Anthropic`
 
 ---
 
 <a id="item-7"></a>
-## [visionOS 27 Brings Exclusive AI Features to M5 Vision Pro](https://www.ithome.com/0/966/454.htm) ⭐️ 7.0/10
+## [New Quantum Sensor Detects Gravitational Waves and Dark Matter](https://36kr.com/newsflashes/3861211883607305?f=rss) ⭐️ 8.0/10
 
-visionOS 27, shipping this fall, introduces two exclusive features for the M5 Vision Pro: Siri Voice Customization and the on-device AFM 3 Core Advanced AI model. M2 Vision Pro models will receive most other updates but not these two capabilities. This marks a clear hardware-dependent capability gap between M2 and M5 Vision Pro, as the M5 chip's stronger compute power is required for the advanced local AI model. It signals Apple's strategy to differentiate high-end hardware with exclusive on-device AI features. AFM 3 Core Advanced is a 20-billion-parameter model with sparse architecture, activating only 1 to 4 billion parameters per request, enabling native multimodal capabilities. Apple has not yet detailed a cloud-based AI fallback for M2 devices.
+A new quantum sensor, based on an atom interferometer, eliminates background noise from laser pulses to detect extremely weak signals, as reported in Nature by Imperial College London. This breakthrough enables detection of faint signals previously inaccessible, aiding the study of gravitational waves, dark matter, and the formation of supermassive black holes. The sensor uses atom interferometry, which measures interference of atomic matter waves, but laser pulses used in the process introduce noise; the new design cancels this noise to achieve higher sensitivity.
 
-rss · IT之家 · Jun 19, 23:23
+rss · 36氪 · Jun 20, 09:05
 
-**Background**: Apple's Foundation Models (AFM) are on-device AI models designed for privacy and performance. The third generation includes AFM 3 Core (3 billion parameters) and the more powerful AFM 3 Core Advanced (20 billion parameters). Sparse architecture allows efficient inference by activating only a subset of parameters per task.
+**Background**: Atom interferometers measure tiny forces by splitting and recombining atomic wave packets using laser pulses. However, the laser pulses themselves introduce phase noise that can mask weak signals. The new sensor employs a technique to cancel this noise, allowing detection of signals like gravitational waves and dark matter interactions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models">Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research</a></li>
-<li><a href="https://www.macstories.net/linked/the-third-generation-of-apples-foundation-models-and-afm-core-advanced/">The Third Generation of Apple’s Foundation Models and AFM Core Advanced - MacStories</a></li>
-<li><a href="https://9to5mac.com/2026/06/19/visionos-27-gives-the-m5-vision-pro-two-unique-new-advantages/">visionOS 27 gives the M 5 Vision Pro two unique new... - 9to5Mac</a></li>
+<li><a href="https://wuli.iphy.ac.cn/cn/article/id/29243">原 子 干 涉 仪 和 原 子 光学研究的最新进展</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#visionOS`, `#Apple`, `#AI`, `#Vision Pro`, `#M5`
+**Tags**: `#quantum sensor`, `#gravitational waves`, `#dark matter`, `#physics`, `#astrophysics`
 
 ---
 
 <a id="item-8"></a>
-## [VLC creator builds Kyber for real-time robot control](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) ⭐️ 7.0/10
+## [3D Fiber Micro-Tweezers Exceed Traditional Optical Tweezers Force by 100,000x](https://36kr.com/newsflashes/3861209206740228?f=rss) ⭐️ 8.0/10
 
-Jean-Baptiste Kempf, the creator of VLC media player, is building Kyber, an infrastructure layer for real-time remote device control, aiming to enable low-latency operation of robots and other devices over the internet. This project brings Kempf's expertise in optimizing video playback to robotics, potentially solving the latency and reliability challenges that have hindered widespread adoption of remote robot control. It could accelerate the development of teleoperation, autonomous fleets, and industrial automation. Kyber is described as an infrastructure layer, not a specific product, suggesting it may provide APIs and protocols for developers to build real-time control applications. Details on the technology stack, latency targets, and open-source status are not yet disclosed.
+Researchers from Anhui University and the University of Science and Technology of China have developed a femtosecond laser composite fabrication method to build 3D fiber micro-tweezers on the tip of commercial optical fibers, achieving over 100,000 times the output force of traditional optical tweezers. The work was published in Nature. This breakthrough enables high-precision, low-damage, and programmable three-dimensional manipulation of micrometer-scale objects, with potential applications in micro-assembly, biophysics, and integrated photonics. The dramatically increased force output overcomes a key limitation of traditional optical tweezers, expanding the range of manipulable objects. The 3D fiber micro-tweezers are fabricated using a femtosecond laser composite manufacturing method directly on the end face of a commercial optical fiber. The device can precisely manipulate micrometer-scale targets and accurately assemble complex microstructures.
 
-rss · TechCrunch · Jun 20, 00:47
+rss · 36氪 · Jun 20, 08:42
 
-**Background**: Real-time remote device control requires extremely low latency to ensure responsive operation, especially for robots that need immediate feedback. Existing solutions like remote desktop software (e.g., AnyDesk, AnyViewer) focus on screen sharing and may not meet the sub-millisecond requirements for precise robot control. Kempf's background with VLC, which handles real-time video decoding efficiently, positions him well to tackle similar challenges in robotics.
+**Background**: Optical tweezers use a highly focused laser beam to trap and manipulate microscopic particles, typically exerting forces on the order of piconewtons. Traditional optical tweezers require bulky optics and are limited in force output. Fiber-based optical tweezers integrate the trapping functionality onto an optical fiber tip, offering a more compact and flexible solution. The femtosecond laser fabrication method allows precise three-dimensional structuring of polymer materials on fiber tips, enabling complex geometries that enhance trapping force.
 
-**Tags**: `#open-source`, `#robotics`, `#real-time`, `#infrastructure`, `#remote control`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.light-am.com/en/article/doi/10.37188/lam.2022.005">Design and realization of 3D printed fiber-tip microcantilever probes ...</a></li>
+<li><a href="https://www.illord.com/en/article/doi/10.37188/CO.2023-0016">Advances in optical fiber tweezer technology based on hetero-core fiber</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#optical tweezers`, `#femtosecond laser`, `#micro-manipulation`, `#Nature`, `#fiber optics`
 
 ---
 
 <a id="item-9"></a>
-## [History Shows Export Controls on Cybersecurity Don't Work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) ⭐️ 6.0/10
+## [Exploring Colors Beyond Screen Gamuts](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) ⭐️ 7.0/10
 
-A TechCrunch article draws parallels between past failed export controls on PGP encryption and spyware and the recent White House order restricting Anthropic's Mythos AI model exports, arguing such controls are ineffective. This matters because it questions the efficacy of current U.S. export controls on advanced AI models like Mythos, potentially influencing future policy debates on AI regulation and national security. The White House ordered Anthropic to restrict exports of its Fable and Mythos models to non-U.S. persons, citing national security concerns, but the article argues that similar controls on encryption and spyware in the past failed to stop proliferation.
+An article by Moultano explores colors that typical screens cannot reproduce, using CIE chromaticity diagrams and real-world examples like ultramarine blue and CRT phosphors. This deep dive highlights fundamental limitations of display technology, affecting fields from digital art to color-critical industries, and underscores the gap between physical colors and screen reproduction. The CIE 1931 chromaticity diagram is used to visualize color gamuts, but it overemphasizes certain blue-green colors that humans cannot distinguish well. The sRGB color space particularly struggles with saturated orange, red, and purple colors.
 
-rss · TechCrunch · Jun 19, 22:40
+hackernews · moultano · Jun 20, 03:36 · [Discussion](https://news.ycombinator.com/item?id=48606140)
 
-**Background**: Export controls are government restrictions on the transfer of certain technologies or information to foreign entities. Historically, the U.S. attempted to control the export of strong encryption like PGP in the 1990s, but the source code spread globally regardless. Similarly, controls on spyware have been circumvented. The article applies this historical lesson to Anthropic's Mythos, a powerful AI model for cybersecurity.
+**Background**: A color gamut is the range of colors a device can reproduce, often shown as a triangle on the CIE diagram. The CIE 1931 color space is a standard model of human color vision, but it is not perceptually uniform. Ultramarine blue is a deep blue pigment historically made from lapis lazuli, known for its vividness that screens cannot fully capture.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">Encryption, spyware, and now Mythos: History shows... | TechCrunch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CIE_diagram">CIE diagram</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Color_gamut">Color gamut</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ultramarine_blue">Ultramarine blue</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#export controls`, `#cybersecurity`, `#encryption`, `#Anthropic`, `#Mythos`
+**Discussion**: Commenters noted that the CIE diagram overemphasizes some colors, and that sRGB's main defect is poor reproduction of saturated orange/red/purple. Real-world examples like ultramarine blue and CRT phosphors were shared, with one user mentioning that CRT phosphors can produce intense cyan not seen on modern screens.
+
+**Tags**: `#color science`, `#display technology`, `#color gamut`, `#visual perception`
 
 ---
 
 <a id="item-10"></a>
-## [Go's record IPO fuels robotaxi push in Japan](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) ⭐️ 6.0/10
+## [Satellite study reveals GPS tampering far worse than expected](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) ⭐️ 7.0/10
 
-Go, Japan's largest ride-hailing app, completed an ¥88.6 billion IPO on Tuesday, the country's biggest in 2026, and announced plans to use the funds to expand into robotaxis and acquisitions to combat a severe driver shortage. This IPO provides Go with the capital needed to address Japan's existential driver shortage, which threatens the taxi industry, and positions the company to lead the country's transition to autonomous mobility. Go has 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan's taxi app market by usage time, covering 46 of 47 prefectures. The company was founded in 1977 as a traditional taxi operator.
+A satellite-based study has revealed that GPS signal tampering, including jamming and spoofing, is far more widespread than previously estimated, posing serious safety risks to aviation and other critical infrastructure. This finding highlights a growing vulnerability in global navigation systems that could lead to aviation accidents, maritime incidents, and disruptions to financial networks, demanding urgent attention from regulators and industry. The study used data from a satellite-based sensor network to map GPS interference globally, finding that jamming and spoofing incidents are concentrated in conflict zones and along major shipping routes. The research was conducted by a company that also offers mitigation solutions, leading to some skepticism about potential bias.
 
-rss · TechCrunch · Jun 19, 21:45
+hackernews · y1n0 · Jun 20, 04:07 · [Discussion](https://news.ycombinator.com/item?id=48606271)
 
-**Background**: Japan faces a worsening driver shortage due to population decline and stricter overtime regulations. Robotaxis are seen as a potential solution, with companies like Uber, Wayve, and Nissan planning a Tokyo pilot by late 2026. Go's IPO funds will support its entry into this space.
+**Background**: GPS (Global Positioning System) is a satellite-based navigation system used by billions of devices worldwide. Jamming involves broadcasting noise on GPS frequencies to drown out legitimate signals, while spoofing transmits fake GPS signals to trick receivers into believing they are at a different location. Both techniques can disrupt critical systems like aircraft navigation and timing for financial transactions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/">Go eyes robotaxis and acquisitions after Japan 's biggest... | TechCrunch</a></li>
-<li><a href="https://go.goinc.jp/en">Most used taxi app in Japan Taxi App GO GO Inc.</a></li>
-<li><a href="https://www.stocktitan.net/news/UBER/wayve-uber-and-nissan-announce-collaboration-on-wroh1kfld0t7.html">Uber, Wayve, Nissan plan Tokyo robotaxi pilot by 2026 | UBER Stock...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11397858/">Detecting and Mitigating Attacks on GPS Devices - PMC</a></li>
+<li><a href="https://flyapg.com/blog/what-is-gps-spoofing">Aviations GPS Spoofing & How to Avoid It - Aircraft Performance Group</a></li>
+<li><a href="https://positioningservices.trimble.com/blog/positioning/en-US/article/understanding-gps-jamming-versus-gps-spoofing">GPS jamming vs spoofing : Why is prevention critical?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#IPO`, `#robotaxis`, `#Japan`, `#ride-hailing`, `#autonomous vehicles`
+**Discussion**: Community comments express mixed reactions: some highlight the real safety concerns for aviation, especially regarding Ground Proximity Warning System failures, while others question the study's objectivity due to the company's commercial interest in selling mitigation technology. There is also frustration with the article's website usability.
+
+**Tags**: `#GPS`, `#cybersecurity`, `#aviation`, `#satellite`, `#signal tampering`
 
 ---
 
 <a id="item-11"></a>
-## [App Rejections Persist Despite Court Ruling on IAP](https://www.reddit.com/r/iOSProgramming/comments/1uajfb9/in_app_purchases/) ⭐️ 6.0/10
+## [AWS Launches Multi-Region Replication for Cognito](https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-A developer reports that their app continues to be rejected by Apple for offering web-based subscription payments, despite a US court ruling that Apple's requirement for in-app purchases is illegal. This highlights the ongoing tension between Apple's App Store policies and legal rulings, affecting developers who seek alternative payment methods and potentially impacting consumer choice and pricing. The developer references a US court ruling that declared Apple's IAP requirement illegal, but Apple's guidelines still restrict linking to external payments without a specific entitlement. The rejection suggests Apple may not be fully complying with the court order.
+AWS has introduced multi-region replication for Amazon Cognito, automatically replicating user identities and user pool configurations from a primary region to a secondary region, enabling automatic failover during outages. This feature significantly improves application resilience by providing native disaster recovery for authentication, eliminating the need for custom replication and failover mechanisms, which is a common pain point for cloud architects. The replication includes users, credentials, MFA settings, app clients, and configurations, and requires a custom AWS KMS key for encryption. The feature is available in all AWS commercial regions.
 
-reddit · r/iOSProgramming · /u/JediMedic1369 · Jun 20, 01:21
+rss · InfoQ · Jun 20, 07:40
 
-**Background**: Apple's App Store requires developers to use its in-app purchase (IAP) system for digital goods, with Apple taking a commission of up to 30%. In April 2025, a US judge ruled that Apple violated a court order to allow alternative payment methods, and referred Apple to federal prosecutors. However, Apple has updated its guidelines to allow external purchases but still charges a fee, and the legal battle continues.
+**Background**: Amazon Cognito is a managed identity service for web and mobile applications. Previously, achieving multi-region failover required complex custom solutions using DynamoDB streams or other workarounds. This new native replication simplifies high-availability setups.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases">Apple's App Store Guidelines updated to reflect court order over external purchases</a></li>
-<li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/us-judge-rules-apple-violated-order-reform-app-store-2025-04-30/">US judge rules Apple violated order to reform App Store | Reuters</a></li>
-<li><a href="https://forgeasc.com/blog/app-store-rejection-reasons">Top 10 App Store Rejection Reasons in 2026 (And How to Avoid Every One) — Forge</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/">Improve your application resilience with Amazon Cognito ...</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/cognito-replication-aws/">AWS Adds Multi - Region Replication to Amazon Cognito ... - InfoQ</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#iOS`, `#App Store`, `#In-App Purchases`, `#Legal`
+**Tags**: `#AWS`, `#Cognito`, `#multi-region replication`, `#disaster recovery`, `#cloud`
 
 ---
 
 <a id="item-12"></a>
-## [Headroom: Compress LLM Inputs by 60-95% Without Losing Accuracy](https://github.com/chopratejas/headroom) ⭐️ 6.0/10
+## [Storing a Website in a Favicon via Pixel Encoding](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) ⭐️ 6.0/10
 
-A new open-source Python tool called Headroom compresses tool outputs, logs, files, and RAG chunks before sending them to LLMs, reducing token usage by 60-95% while preserving answer quality. This tool directly addresses the high cost of LLM API calls by drastically reducing input tokens, making LLM-powered applications more economical and scalable for developers and businesses. Headroom is available as a Python library, a proxy, and an MCP server, offering flexible integration options. It claims to achieve 60-95% token reduction without affecting the correctness of LLM answers.
+A developer demonstrated a technique to encode an entire website's content into a favicon image by mapping data to pixel colors, then extracting it with JavaScript. This creative hack highlights unconventional data storage methods in web development, sparking discussions on alternative approaches and potential security risks like favicon cache fingerprinting. The technique uses a 16x16 pixel favicon where each pixel stores a character via RGB values, achieving a storage capacity of 768 bytes. The extraction script reads the favicon canvas and reconstructs the original content.
 
-ossinsight · chopratejas · Jun 20, 05:33
+hackernews · theanonymousone · Jun 20, 05:33 · [Discussion](https://news.ycombinator.com/item?id=48606619)
 
-**Background**: LLMs charge based on the number of tokens (words or subwords) in the input and output. Reducing input tokens lowers costs and speeds up processing. RAG (Retrieval-Augmented Generation) systems often include large document chunks, which can be compressed. MCP (Model Context Protocol) is a standard for connecting LLMs with external tools and data sources.
+**Background**: Favicons are small icons displayed in browser tabs, typically 16x16 or 32x32 pixels. They are loaded from a website's root directory and can be dynamically changed. Encoding data into images is a known steganography technique, but applying it to favicons for website storage is novel.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://dev523.medium.com/rag-chunking-strategies-whats-the-optimal-chunk-size-2a0c336c55e3">RAG Chunking Strategies: What’s the Optimal Chunk Size? | Medium</a></li>
-<li><a href="https://mcpservers.org/">Awesome MCP Servers</a></li>
+**Discussion**: Commenters suggested alternative methods like using SVG favicons to directly embed markup, or storing data in PNG comment chunks. One commenter noted that favicon caches can be exploited for cross-domain tracking, posing a fingerprinting risk.
 
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#token compression`, `#Python`, `#RAG`, `#tool`
+**Tags**: `#favicon`, `#data storage`, `#web development`, `#hacking`
 
 ---
 
----
+<a id="item-13"></a>
+## [UK Plans to Force Meta, YouTube to Boost Local News](https://36kr.com/newsflashes/3861056590222342?f=rss) ⭐️ 6.0/10
 
-## 🧠 AI Learning
+The UK government plans to mandate social media platforms like Meta and YouTube to increase the visibility of local news content, with a public consultation expected as early as this month. This regulation could reshape how news is distributed online, potentially ensuring local journalism reaches wider audiences amid declining traditional media revenues. The rules would also require public service broadcasters like BBC, ITV, and Channel 4 to increase news content supply, and may extend to national and regional newspapers. Details are still being finalized.
 
-- [Local LLM RAM Limits: 52% of PCs Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4) ⭐️ 7.0/10
+rss · 36氪 · Jun 20, 07:33
 
-  > An article highlights that 52% of PCs have 16GB RAM or less, which severely limits the size of local LLMs they can run, and explains the impact of KV cache costs on memory usage. This matters because local LLM deployment is growing, but most users lack sufficient RAM to run larger models, creating a practical barrier for developers and enthusiasts. The article notes that Mac and PC with the same 16GB RAM are not equal due to unified memory on Apple Silicon, which allows better utilization for LLMs. KV cache can consume significant memory during inference, especially for long sequences.
+**Background**: Social media platforms have increasingly become primary news sources for many users, but algorithms often prioritize viral or divisive content over local news. The UK government's move aims to counter this trend and support public service journalism.
 
-- [Agent Sprawl Becomes an Operations Problem](https://pub.towardsai.net/agent-sprawl-has-become-an-operations-problem-742d8f8f4dec?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > The article highlights that uncontrolled proliferation of AI agents, known as agent sprawl, is creating operational problems and infrastructure debt, and argues for production controls to manage it. As organizations deploy more AI agents, agent sprawl can lead to governance strain, security risks, and increased costs, making production controls essential for sustainable operations. The article suggests that without proper tracking and governance, agent sprawl accumulates as infrastructure debt, similar to technical debt, and recommends controls like kill switches, approval gates, and rate limits.
-
-- [10 Scenario-Based Questions for Embedding Model Selection](https://pub.towardsai.net/embedding-model-selection-10-scenario-based-questions-solutions-c6fd49c384e8?source=rss----98111c9905da---4) ⭐️ 5.0/10
-
-  > A new article presents 10 scenario-based questions and solutions for selecting embedding models, designed to help AI engineers prepare for interviews. This resource provides practical, interview-focused guidance on embedding model selection, a critical skill for building retrieval-augmented generation (RAG) and search systems. The questions cover various scenarios such as multilingual support, domain-specific tasks, and trade-offs between model size and performance, but the article lacks technical depth and novelty.
+**Tags**: `#regulation`, `#social media`, `#news`, `#UK`
 
 ---
-
-## 🔭 Unknown Unknowns
-
-- [The Dilution of 'Trauma' in Modern Language](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 4.0/10
-
-  > Lily Dunn's essay argues that the word 'trauma' has been overused and diluted, losing its original meaning for genuine psychological experiences. This matters because language shapes perception; reclaiming precise terms like 'trauma' is crucial for accurately describing and addressing serious psychological conditions. The essay highlights that 'trauma' is now applied to minor inconveniences, which trivializes genuine suffering and undermines clinical understanding.
