@@ -23,7 +23,7 @@
     "rss": [
       {
         "name": "Android Authority",
-        "url": "https://www.androidauthority.com/feed/",
+        "url": "https://feeds.feedburner.com/AndroidAuthority",
         "enabled": true,
         "category": "android-ios"
       },
@@ -46,8 +46,8 @@
         "category": "android-ios"
       },
       {
-        "name": "Anthropic Blog",
-        "url": "https://www.anthropic.com/rss.xml",
+        "name": "Latent Space (AI Engineering)",
+        "url": "https://www.latent.space/feed",
         "enabled": true,
         "category": "claude-ai"
       },
