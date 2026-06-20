@@ -103,16 +103,26 @@ class HorizonOrchestrator:
             analyzed_items = await self._analyze_content(merged_items)
             self.console.print(f"🤖 Analyzed {len(analyzed_items)} items with AI\n")
 
-            # 5. Filter by score threshold
-            threshold = self.config.filtering.ai_score_threshold
-            important_items = [
-                item for item in analyzed_items
-                if item.ai_score and item.ai_score >= threshold
-            ]
+            # 5. Filter by score threshold (global or per-group override)
+            global_threshold = self.config.filtering.ai_score_threshold
+            _groups = self.config.filtering.category_groups
+            _cat_threshold: Dict[str, float] = {}
+            for _gk, _gv in _groups.items():
+                if _gv.ai_score_threshold is not None:
+                    for _cat in _gv.categories:
+                        _cat_threshold[_cat] = _gv.ai_score_threshold
+            important_items = []
+            for _item in analyzed_items:
+                if not _item.ai_score:
+                    continue
+                _cat = _item.metadata.get("category")
+                _thr = _cat_threshold.get(_cat, global_threshold) if isinstance(_cat, str) else global_threshold
+                if _item.ai_score >= _thr:
+                    important_items.append(_item)
             important_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
 
             self.console.print(
-                f"⭐️ {len(important_items)} items scored ≥ {threshold}\n"
+                f"⭐️ {len(important_items)} items passed threshold\n"
             )
 
             # 5.5 Semantic deduplication: drop items covering the same topic
