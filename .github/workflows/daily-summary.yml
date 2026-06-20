@@ -2,7 +2,9 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 1 * * *'   # 09:00 Beijing (morning)
+    - cron: '0 5 * * *'   # 13:00 Beijing (noon)
+    - cron: '0 11 * * *'  # 19:00 Beijing (evening)
   workflow_dispatch:
 
 jobs:
@@ -32,10 +34,10 @@ jobs:
       - name: Run Horizon
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: uv run horizon --hours 24
+        run: uv run horizon --hours 8
 
       - name: Set date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "DATE=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -43,6 +45,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
           keep_files: true
-          commit_message: "Daily Summary: ${{ env.DATE }}"
+          commit_message: "Summary: ${{ env.DATE }}"
           publish_branch: gh-pages
           enable_jekyll: true
+
