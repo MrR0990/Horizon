@@ -369,6 +369,7 @@ class CategoryGroupConfig(BaseModel):
     limit: int = Field(gt=0)
     categories: List[str] = Field(min_length=1)
     ai_score_threshold: Optional[float] = None
+    scoring_prompt: Optional[str] = None
 
 
 class FilteringConfig(BaseModel):
