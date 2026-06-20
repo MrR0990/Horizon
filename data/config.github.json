@@ -22,8 +22,8 @@
     },
     "rss": [
       {
-        "name": "Android Authority",
-        "url": "https://feeds.feedburner.com/AndroidAuthority",
+        "name": "Android Police",
+        "url": "https://www.androidpolice.com/feed/",
         "enabled": true,
         "category": "android-ios"
       },
