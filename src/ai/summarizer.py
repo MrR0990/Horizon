@@ -61,6 +61,12 @@ LABELS = {
 }
 
 
+SPECIAL_GROUPS = {
+    "ai-learning":    {"en": "\U0001f9e0 AI Learning",          "zh": "\U0001f9e0 AI \u5b66\u4e60"},
+    "lang-skills":    {"en": "\u270d\ufe0f Language & Expression", "zh": "\u270d\ufe0f \u8868\u8fbe\u63d0\u5347"},
+    "unknown-unknowns": {"en": "\U0001f52d Unknown Unknowns",   "zh": "\U0001f52d \u672a\u77e5\u7684\u672a\u77e5"},
+}
+
 class DailySummarizer:
     """Generates daily Markdown summaries from pre-analyzed content items."""
 
@@ -92,26 +98,60 @@ class DailySummarizer:
         if not items:
             return self._generate_empty_summary(date, total_fetched, labels)
 
+        # Separate items into main digest vs special-group sections
+        main_items = []
+        special_buckets: dict = {}
+        for item in items:
+            group = item.metadata.get("group")
+            if group in SPECIAL_GROUPS:
+                special_buckets.setdefault(group, []).append(item)
+            else:
+                main_items.append(item)
+
         header = (
             f"# {labels['header']} - {date}\n\n"
             f"> {labels['selected_items'].format(total=total_fetched, selected=len(items))}\n\n"
             "---\n\n"
         )
 
-        # TOC
+        # Main digest TOC + items
         toc_entries = []
-        for i, item in enumerate(items):
+        for i, item in enumerate(main_items):
             _t = item.metadata.get(f"title_{language}") or item.title
             t = str(_t).replace("[", "(").replace("]", ")")
             if language == "zh":
                 t = _pangu(t)
             score = item.ai_score or "?"
             toc_entries.append(f"{i + 1}. [{t}](#item-{i + 1}) \u2b50\ufe0f {score}/10")
-        toc = "\n".join(toc_entries) + "\n\n---\n\n"
+        toc = "\n".join(toc_entries) + "\n\n---\n\n" if toc_entries else ""
 
-        parts = [self._format_item(item, labels, language, i + 1) for i, item in enumerate(items)]
+        parts = [self._format_item(item, labels, language, i + 1) for i, item in enumerate(main_items)]
 
-        return header + toc + "".join(parts)
+        # Special group sections appended after main digest
+        special_parts = []
+        for group_key, group_items in special_buckets.items():
+            section_title = SPECIAL_GROUPS[group_key].get(language, SPECIAL_GROUPS[group_key]["en"])
+            special_parts.append(f"---\n\n## {section_title}\n\n")
+            for j, item in enumerate(group_items):
+                _t = item.metadata.get(f"title_{language}") or item.title
+                t = str(_t).replace("[", "(").replace("]", ")")
+                if language == "zh":
+                    t = _pangu(t)
+                score = item.ai_score or "?"
+                special_parts.append(f"- [{t}]({item.url}) ⭐️ {score}/10\n")
+                summary = (
+                    item.metadata.get(f"detailed_summary_{language}")
+                    or item.metadata.get("detailed_summary")
+                    or item.ai_summary or ""
+                )
+                if summary:
+                    if language == "zh":
+                        summary = _pangu(summary)
+                    special_parts.append(f"\n  > {summary}\n\n")
+                else:
+                    special_parts.append("\n")
+
+        return header + toc + "".join(parts) + "".join(special_parts)
 
     def generate_webhook_overview(
         self,
