@@ -255,6 +255,120 @@
         "enabled": true,
         "category": "unknown-unknowns",
         "lookback_hours": 720
+      },
+      {
+        "name": "Behavioral Scientist",
+        "url": "https://behavioralscientist.org/feed/",
+        "category": "human-nature",
+        "lookback_hours": 720
+      },
+      {
+        "name": "BPS Research Digest",
+        "url": "https://digest.bps.org.uk/feed/",
+        "category": "human-nature",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Astral Codex Ten",
+        "url": "https://astralcodexten.substack.com/feed",
+        "category": "human-nature",
+        "lookback_hours": 720
+      },
+      {
+        "name": "LessWrong",
+        "url": "https://www.lesswrong.com/feed.xml",
+        "category": "human-nature",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/feed",
+        "category": "history-wisdom",
+        "lookback_hours": 720
+      },
+      {
+        "name": "JSTOR Daily",
+        "url": "https://daily.jstor.org/feed/",
+        "category": "history-wisdom",
+        "lookback_hours": 720
+      },
+      {
+        "name": "HistoryExtra",
+        "url": "https://www.historyextra.com/feed/",
+        "category": "history-wisdom",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Smithsonian History",
+        "url": "https://www.smithsonianmag.com/rss/history-archaeology/",
+        "category": "history-wisdom",
+        "lookback_hours": 720
+      },
+      {
+        "name": "3 Quarks Daily",
+        "url": "https://www.3quarksdaily.com/3quarksdaily/atom.xml",
+        "category": "philosophy-life",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Philosophy Now",
+        "url": "https://philosophynow.org/rss/articles",
+        "category": "philosophy-life",
+        "lookback_hours": 720
+      },
+      {
+        "name": "The Point Magazine",
+        "url": "https://thepointmag.com/feed/",
+        "category": "philosophy-life",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Peter Attia",
+        "url": "https://peterattia.com/feed/",
+        "category": "health-longevity",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Examine.com",
+        "url": "https://examine.com/feed/",
+        "category": "health-longevity",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Found My Fitness",
+        "url": "https://www.foundmyfitness.com/feed",
+        "category": "health-longevity",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Chris Masterjohn",
+        "url": "https://chrismasterjohnphd.substack.com/feed",
+        "category": "health-longevity",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Collaborative Fund",
+        "url": "https://collabfund.com/blog/rss/",
+        "category": "wealth-systems",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Of Dollars and Data",
+        "url": "https://ofdollarsanddata.com/feed/",
+        "category": "wealth-systems",
+        "lookback_hours": 720
+      },
+      {
+        "name": "The Irrelevant Investor",
+        "url": "https://theirrelevantinvestor.com/feed/",
+        "category": "wealth-systems",
+        "lookback_hours": 720
+      },
+      {
+        "name": "Morgan Housel",
+        "url": "https://www.morganhousel.com/feed/",
+        "category": "wealth-systems",
+        "lookback_hours": 720
       }
     ],
     "reddit": {
@@ -406,6 +520,51 @@
         ],
         "ai_score_threshold": 3.5,
         "scoring_prompt": "unknown-unknowns"
+      },
+      "human-nature": {
+        "name": "人性与行为科学",
+        "limit": 2,
+        "categories": [
+          "human-nature"
+        ],
+        "ai_score_threshold": 5.0,
+        "scoring_prompt": "human-nature"
+      },
+      "history-wisdom": {
+        "name": "历史的节律",
+        "limit": 2,
+        "categories": [
+          "history-wisdom"
+        ],
+        "ai_score_threshold": 5.0,
+        "scoring_prompt": "history-wisdom"
+      },
+      "philosophy-life": {
+        "name": "哲学与人生",
+        "limit": 2,
+        "categories": [
+          "philosophy-life"
+        ],
+        "ai_score_threshold": 5.0,
+        "scoring_prompt": "philosophy-life"
+      },
+      "health-longevity": {
+        "name": "健康与长寿",
+        "limit": 2,
+        "categories": [
+          "health-longevity"
+        ],
+        "ai_score_threshold": 5.0,
+        "scoring_prompt": "health-longevity"
+      },
+      "wealth-systems": {
+        "name": "财富与复利",
+        "limit": 2,
+        "categories": [
+          "wealth-systems"
+        ],
+        "ai_score_threshold": 5.0,
+        "scoring_prompt": "wealth-systems"
       }
     },
     "default_group": "other",
