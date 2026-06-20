@@ -169,83 +169,92 @@
         "name": "Sebastian Raschka",
         "url": "https://magazine.sebastianraschka.com/feed",
         "enabled": true,
-        "category": "ai-learning"
+        "category": "ai-learning",
+        "lookback_hours": 720
       },
       {
         "name": "fast.ai Blog",
         "url": "https://www.fast.ai/atom.xml",
         "enabled": true,
-        "category": "ai-learning"
+        "category": "ai-learning",
+        "lookback_hours": 720
       },
       {
         "name": "Machine Learning Mastery",
         "url": "https://machinelearningmastery.com/blog/feed/",
         "enabled": true,
-        "category": "ai-learning"
+        "category": "ai-learning",
+        "lookback_hours": 720
       },
       {
         "name": "Towards AI",
         "url": "https://pub.towardsai.net/feed",
         "enabled": true,
-        "category": "ai-learning"
+        "category": "ai-learning",
+        "lookback_hours": 720
       },
       {
         "name": "Paul Graham Essays",
         "url": "http://paulgraham.com/articles.rss",
         "enabled": true,
-        "category": "lang-skills"
+        "category": "lang-skills",
+        "lookback_hours": 720
       },
       {
         "name": "Farnam Street",
         "url": "https://fs.blog/feed/",
         "enabled": true,
-        "category": "lang-skills"
+        "category": "lang-skills",
+        "lookback_hours": 720
       },
       {
         "name": "少数派",
         "url": "https://sspai.com/feed",
         "enabled": true,
-        "category": "lang-skills"
+        "category": "lang-skills",
+        "lookback_hours": 720
       },
       {
         "name": "David Perell",
         "url": "https://perell.com/rss/",
         "enabled": true,
-        "category": "lang-skills"
+        "category": "lang-skills",
+        "lookback_hours": 720
       },
       {
         "name": "Ness Labs",
         "url": "https://nesslabs.com/feed",
         "enabled": true,
-        "category": "lang-skills"
+        "category": "lang-skills",
+        "lookback_hours": 720
       },
       {
         "name": "Aeon Magazine",
         "url": "https://aeon.co/feed.rss",
         "enabled": true,
         "category": "unknown-unknowns",
-        "lookback_hours": 36
+        "lookback_hours": 720
       },
       {
         "name": "Nautilus",
         "url": "https://nautil.us/feed/",
         "enabled": true,
         "category": "unknown-unknowns",
-        "lookback_hours": 36
+        "lookback_hours": 720
       },
       {
         "name": "Marginalian",
         "url": "https://www.themarginalian.org/feed/",
         "enabled": true,
         "category": "unknown-unknowns",
-        "lookback_hours": 36
+        "lookback_hours": 720
       },
       {
         "name": "Longreads",
         "url": "https://longreads.com/feed/",
         "enabled": true,
         "category": "unknown-unknowns",
-        "lookback_hours": 36
+        "lookback_hours": 720
       }
     ],
     "reddit": {
@@ -379,21 +388,24 @@
         "categories": [
           "ai-learning"
         ],
-        "ai_score_threshold": 3.5
+        "ai_score_threshold": 3.5,
+        "scoring_prompt": "ai-learning"
       },
       "lang-skills": {
         "limit": 4,
         "categories": [
           "lang-skills"
         ],
-        "ai_score_threshold": 3.5
+        "ai_score_threshold": 3.5,
+        "scoring_prompt": "lang-skills"
       },
       "unknown-unknowns": {
         "limit": 4,
         "categories": [
           "unknown-unknowns"
         ],
-        "ai_score_threshold": 3.5
+        "ai_score_threshold": 3.5,
+        "scoring_prompt": "unknown-unknowns"
       }
     },
     "default_group": "other",
