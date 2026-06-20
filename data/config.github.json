@@ -110,6 +110,36 @@
         "url": "https://www.ithome.com/rss/",
         "enabled": true,
         "category": "hardware"
+      },
+      {
+        "name": "Eugene Yan (AI Engineering)",
+        "url": "https://eugeneyan.com/rss/",
+        "enabled": true,
+        "category": "ai-engineering"
+      },
+      {
+        "name": "Chip Huyen (AI Systems)",
+        "url": "https://huyenchip.com/feed.xml",
+        "enabled": true,
+        "category": "ai-engineering"
+      },
+      {
+        "name": "GitLab Blog",
+        "url": "https://about.gitlab.com/atom.xml",
+        "enabled": true,
+        "category": "devops"
+      },
+      {
+        "name": "LeadDev",
+        "url": "https://leaddev.com/feed",
+        "enabled": true,
+        "category": "devops"
+      },
+      {
+        "name": "InfoQ",
+        "url": "https://feed.infoq.com/",
+        "enabled": true,
+        "category": "devops"
       }
     ],
     "reddit": {
@@ -204,6 +234,18 @@
         "limit": 5,
         "categories": [
           "ai-opensource"
+        ]
+      },
+      "ai-eng": {
+        "limit": 4,
+        "categories": [
+          "ai-engineering"
+        ]
+      },
+      "devops": {
+        "limit": 4,
+        "categories": [
+          "devops"
         ]
       }
     },
