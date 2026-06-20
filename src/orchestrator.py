@@ -280,7 +280,7 @@ class HorizonOrchestrator:
     # ── Article history helpers ───────────────────────────────────────────────
 
     _HISTORY_PATH = Path("data/shown_articles.json")
-    _DISCOVERY_CATS = {"unknown-unknowns", "ai-learning", "lang-skills"}
+    _DISCOVERY_CATS = {"unknown-unknowns", "ai-learning", "lang-skills", "human-nature", "history-wisdom", "philosophy-life", "health-longevity", "wealth-systems"}
 
     def _load_shown_history(self) -> dict:
         """Load URL → date history for discovery categories."""
