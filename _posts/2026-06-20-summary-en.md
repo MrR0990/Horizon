@@ -5,214 +5,274 @@ date: 2026-06-20
 lang: en
 ---
 
-> From 99 items, 18 important content pieces were selected
+> From 100 items, 20 important content pieces were selected
 
 ---
 
-1. [New Bipartisan Bill Targets Government Coercion of Online Speech](#item-1) ⭐️ 8.0/10
-2. [Nobel laureate John Jumper leaves DeepMind for Anthropic](#item-2) ⭐️ 8.0/10
-3. [$1800 4x RTX 5060 Ti 16GB runs Qwen 27B at 55 tok/s](#item-3) ⭐️ 8.0/10
-4. [SpaceX index inclusion stirs unease over retirement savings](#item-4) ⭐️ 7.0/10
-5. [NASA Picks Relativity Space for 2028 Mars Mission](#item-5) ⭐️ 7.0/10
-6. [Zhipu GLM 5.2 Tops Design Arena, Surpasses Claude Fable 5](#item-6) ⭐️ 7.0/10
-7. [visionOS 27 Brings Exclusive AI to M5 Vision Pro](#item-7) ⭐️ 7.0/10
-8. [VLC creator builds Kyber for real-time robot control](#item-8) ⭐️ 7.0/10
-9. [Local LLM RAM Reality: 52% of PCs Have 16GB or Less](#item-9) ⭐️ 7.0/10
-10. [Agent Sprawl Becomes Operations Problem](#item-10) ⭐️ 7.0/10
-11. [Memory Systems for Long-Running AI Agents](#item-11) ⭐️ 7.0/10
-12. [Context Window Tax: Longer Memory Hurts AI Agents](#item-12) ⭐️ 7.0/10
-13. [Pixel owners report touchscreen and 5G bugs after Android 17 update](#item-13) ⭐️ 6.0/10
-14. [MCP's Key Value: Isolating Auth Outside Agent Context](#item-14) ⭐️ 6.0/10
-15. [AMD to Restore TSME Memory Encryption on Ryzen 9000 via July BIOS Update](#item-15) ⭐️ 6.0/10
-16. [Anthropic to Reopen Mythos and Fable 5 Models Outside US Soon](#item-16) ⭐️ 6.0/10
-17. [Go's record IPO fuels robotaxi push in Japan](#item-17) ⭐️ 6.0/10
-18. [Azure AI Foundry: Enterprise AI Platform Review](#item-18) ⭐️ 6.0/10
+1. [EFF Argues PACER Court Records Should Be Free](#item-1) ⭐️ 8.0/10
+2. [NASA Picks Relativity Space for 2028 Mars Mission](#item-2) ⭐️ 8.0/10
+3. [Nobel laureate John Jumper leaves DeepMind for Anthropic](#item-3) ⭐️ 8.0/10
+4. [Context Window Tax: Why Longer Memory Hurts AI Agents](#item-4) ⭐️ 8.0/10
+5. [Bobby Prince, Composer for Doom and Wolfenstein, Dies](#item-5) ⭐️ 7.0/10
+6. [Americans uneasy over SpaceX's influence on retirement savings](#item-6) ⭐️ 7.0/10
+7. [Android 17 tightens app memory limits, adds local network permission](#item-7) ⭐️ 7.0/10
+8. [Zhipu GLM 5.2 Tops Design Arena Web Design AI Benchmark](#item-8) ⭐️ 7.0/10
+9. [visionOS 27 Brings Exclusive AI Features to M5 Vision Pro](#item-9) ⭐️ 7.0/10
+10. [VLC Creator Builds Kyber for Real-Time Robot Control](#item-10) ⭐️ 7.0/10
+11. [History Shows Cyber Export Controls Fail, Mythos Case in Point](#item-11) ⭐️ 7.0/10
+12. [Local LLMs Face RAM Crunch: 52% of PCs Have ≤16GB](#item-12) ⭐️ 7.0/10
+13. [Memory Systems for Long-Running AI Agents](#item-13) ⭐️ 7.0/10
+14. [Android 17 update causes touchscreen and 5G bugs on Pixel phones](#item-14) ⭐️ 6.0/10
+15. [Wear OS 7 Update Rolls Out to Pixel Watch 2, 3, 4](#item-15) ⭐️ 6.0/10
+16. [MCP's Key Value: Auth Isolation Outside Context Window](#item-16) ⭐️ 6.0/10
+17. [AMD to restore TSME memory encryption on Ryzen 9000 via July BIOS update](#item-17) ⭐️ 6.0/10
+18. [Go's Record IPO Fuels Robotaxi and Acquisition Plans](#item-18) ⭐️ 6.0/10
+19. [Agent Sprawl Emerges as Critical Operations Problem](#item-19) ⭐️ 6.0/10
+20. [Azure AI Foundry: Enterprise AI Platform Shift](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [New Bipartisan Bill Targets Government Coercion of Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) ⭐️ 8.0/10
+## [EFF Argues PACER Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free) ⭐️ 8.0/10
 
-Senators Ron Wyden and Ted Cruz introduced a bipartisan bill, named JAWBONE, to curb government pressure on platforms to silence lawful online speech. The Electronic Frontier Foundation (EFF) praised the bill and announced its support. This bill addresses a growing concern over government coercion of online platforms, which can chill free expression without formal legal process. If passed, it would strengthen protections for lawful speech and limit executive overreach. The bill's acronym JAWBONE stands for 'Justice Against Weaponized Bureaucratic Overreach to Networked Expression.' EFF noted that it represents a rare bipartisan effort on digital rights, with both progressive and conservative sponsors.
+The Electronic Frontier Foundation (EFF) published an article arguing that the PACER system's per-page fees for accessing federal court records are unjust and that these records should be free to the public. This debate affects public access to legal information, which is fundamental to transparency and the rule of law. Free access would empower citizens, journalists, and researchers to monitor the judicial system without financial barriers. PACER charges $0.10 per page (capped at $3.00 per document), generating over $100 million annually, which funds the judiciary's technology needs. Critics argue that since taxpayers already fund the courts, they should not have to pay again to access public records.
 
-hackernews · hn_acker · Jun 19, 17:34 · [Discussion](https://news.ycombinator.com/item?id=48600950)
+hackernews · hn_acker · Jun 19, 17:34 · [Discussion](https://news.ycombinator.com/item?id=48600946)
 
-**Background**: Governments sometimes pressure social media platforms to remove content through informal requests, threats, or other coercive tactics, bypassing judicial oversight. This can lead to censorship of lawful speech, particularly on controversial topics like immigration enforcement. The EFF has been fighting such coercion, including representing the creator of ICEBlock, an app for reporting immigration activity.
+**Background**: PACER (Public Access to Court Electronic Records) is the federal judiciary's system for electronic access to case and docket information. It was created to improve efficiency but has been criticized for its fee structure, which some view as a barrier to justice. The EFF has long advocated for free access to legal documents.
 
-**Discussion**: Commenters largely supported the bill, with one praising the acronym JAWBONE and noting the bipartisan sponsorship. Some expressed skepticism about Cruz's motives, while others highlighted the need for such protections given past government pressure on fact-checking platforms.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pacer.uscourts.gov/">Public Access to Court Electronic Records | PACER: Federal ...</a></li>
+<li><a href="https://www.eff.org/about">About EFF | Electronic Frontier Foundation</a></li>
 
-**Tags**: `#online speech`, `#government pressure`, `#bipartisan bill`, `#EFF`, `#privacy`
+</ul>
+</details>
+
+**Discussion**: Comments on Hacker News highlight personal experiences with high court record fees (e.g., $10 per page in Idaho) and propose solutions like CourtListener and Recap, which automatically share purchased PACER documents. Some users argue that financial costs are one of many ways the government limits access to rights.
+
+**Tags**: `#legal tech`, `#public policy`, `#open access`, `#PACER`, `#civic tech`
 
 ---
 
 <a id="item-2"></a>
-## [Nobel laureate John Jumper leaves DeepMind for Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss) ⭐️ 8.0/10
+## [NASA Picks Relativity Space for 2028 Mars Mission](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) ⭐️ 8.0/10
 
-John Jumper, a Nobel Prize-winning co-creator of AlphaFold, announced on June 19 that he is leaving Google DeepMind to join AI startup Anthropic. This high-profile talent move signals Anthropic's growing influence in AI research and may shift priorities toward AI safety and protein-related applications. Jumper shared the 2024 Nobel Prize in Chemistry with Demis Hassabis and David Baker for protein structure prediction via AlphaFold. He had been at DeepMind for nearly nine years.
-
-rss · 36氪 · Jun 20, 00:42
-
-**Background**: AlphaFold is an AI system developed by DeepMind that predicts protein 3D structures from amino acid sequences, achieving breakthrough accuracy. Anthropic is an AI safety-focused company founded by former OpenAI members, known for its Claude language models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AlphaFold">AlphaFold</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#talent movement`, `#Anthropic`, `#Google DeepMind`, `#AlphaFold`
-
----
-
-<a id="item-3"></a>
-## [$1800 4x RTX 5060 Ti 16GB runs Qwen 27B at 55 tok/s](https://www.reddit.com/r/LocalLLaMA/comments/1uah3oc/1800_in_gpu_cost_running_with_p2p_running/) ⭐️ 8.0/10
-
-A Reddit user shared a $1,800 setup using four RTX 5060 Ti 16GB GPUs with P2P and vLLM to run Qwen 27B FP8 at 55 tok/s with 262K context length and BF16 KV cache. This demonstrates a cost-effective multi-GPU inference setup for large language models, making high-performance local inference accessible to enthusiasts and small teams without expensive enterprise hardware. The setup uses tensor parallelism across 4 GPUs, P2P enabled via NCCL, and vLLM with speculative decoding (Qwen3 next MTP) achieving 65.25% acceptance rate. The benchmark used 40 prompts with 4K input and 1K output tokens.
-
-reddit · r/LocalLLaMA · /u/joorklee · Jun 19, 23:30
-
-**Background**: Large language models like Qwen 27B require significant GPU memory; FP8 quantization reduces memory footprint while maintaining accuracy. P2P (peer-to-peer) over NVLink or PCIe enables fast GPU-to-GPU communication, essential for tensor parallelism. vLLM is an inference engine that optimizes throughput and latency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.vllm.ai/en/stable/serving/parallelism_scaling/">Parallelism and Scaling - vLLM</a></li>
-<li><a href="https://www.baseten.co/blog/33-faster-llm-inference-with-fp8-quantization/">33% faster LLM inference with FP8 quantization</a></li>
-<li><a href="https://smcleod.net/2026/02/patching-nvidias-driver-and-vllm-to-enable-p2p-on-consumer-gpus/">Patching NVIDIA's driver and vLLM to enable P2P on consumer GPUs | smcleod.net</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#local-llm`, `#gpu-inference`, `#cost-optimization`, `#vllm`, `#multi-gpu`
-
----
-
-<a id="item-4"></a>
-## [SpaceX index inclusion stirs unease over retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk) ⭐️ 7.0/10
-
-SpaceX's rapid inclusion in major stock indices like the Russell and Nasdaq-100 after its June 2026 IPO has forced passive index funds to buy its shares, potentially exposing millions of Americans' retirement savings to the volatile, Elon Musk-controlled company. This development raises concerns about corporate governance and risk concentration, as index fund investors—including those with 401(k) plans—have no choice but to hold SpaceX shares, which carry unique risks due to Musk's control and the company's volatile valuation. SpaceX was not added to the S&P 500, as S&P Global rejected a rule waiver request, but it entered the Russell indexes and Nasdaq-100, triggering forced buying by funds tracking those benchmarks. The company's dual-class share structure gives Musk outsized voting power, limiting shareholder influence.
-
-hackernews · ValentineC · Jun 19, 22:45 · [Discussion](https://news.ycombinator.com/item?id=48604186)
-
-**Background**: Index funds passively track market benchmarks like the S&P 500 or Russell 2000, automatically buying all included stocks. When a large company like SpaceX (valued at $1.75 trillion at IPO) joins an index, funds must purchase its shares, creating a forced bid that can distort prices and expose investors to risks they did not choose.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.morningstar.com/funds/spacex-ipo-how-index-funds-are-adapting">The SpaceX IPO: How Index Funds Are Adapting - Morningstar</a></li>
-<li><a href="https://hmaquant.substack.com/p/the-30-trillion-forced-bid-what-spacexs">The $30 Trillion Forced Bid: What SpaceX's Index Inclusion Actually ...</a></li>
-<li><a href="https://spotgamma.com/spacex-ipo-index-changes-spotgamma/">SpaceX IPO Index Inclusion: How Rule Changes for SPY, QQQ, and IWM ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters debated the implications: some noted the irony of 'privatize profits, socialize losses' as index funds force broad exposure, while others argued that index inclusion was inevitable and the rule changes merely accelerated it. A few pointed out that SpaceX is not in the S&P 500, questioning the article's premise.
-
-**Tags**: `#SpaceX`, `#index funds`, `#retirement savings`, `#corporate governance`, `#Elon Musk`
-
----
-
-<a id="item-5"></a>
-## [NASA Picks Relativity Space for 2028 Mars Mission](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) ⭐️ 7.0/10
-
-NASA has selected Relativity Space, led by former Google CEO Eric Schmidt, to launch the Aeolus payload to Mars in 2028 under a public-private partnership. This marks a significant step in NASA's use of public-private partnerships for deep space missions, potentially reducing costs and accelerating Mars exploration. Relativity Space will provide the spacecraft, rocket, and cruise operations, while NASA supplies the Aeolus instrument suite to study Martian winds and climate.
+NASA has selected Relativity Space, led by former Google CEO Eric Schmidt, to launch the Aeolus payload to Mars in 2028 under a public-private partnership. This marks a significant public-private partnership that could reduce costs and accelerate Mars exploration, while also validating Relativity Space's 3D-printed rocket technology for deep space missions. Relativity Space will provide the spacecraft, rocket, and cruise operations, while NASA supplies the Aeolus instrument suite to measure Martian winds, temperature, and water-ice clouds.
 
 rss · The Verge · Jun 19, 18:41
 
-**Background**: Relativity Space, founded in 2015, specializes in 3D-printed rockets and has developed reusable launch vehicles. The Aeolus mission aims to provide the first global, seasonal, and diurnal data on Martian winds and climate.
+**Background**: Relativity Space is an American aerospace company known for using 3D printing to manufacture rockets, including the in-development Terran R. The Aeolus mission aims to provide the first global, seasonal, and diurnal data on Martian winds and climate.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/">NASA Announces Public-Private Partnership to Advance Mars Science - NASA</a></li>
-<li><a href="https://www.executivegov.com/articles/nasa-relativity-space-aeolus-atmospheric-science-mars-mission">NASA, Relativity Space Combine Capabilities for 2028 Aeolus Mars Mission</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Relativity_Space">Relativity Space</a></li>
 <li><a href="https://ntrs.nasa.gov/citations/20200000616">The Aeolus Mission Concept, an Innovative Mission to Study the Winds and Climate of Mars - NASA Technical Reports Server (NTRS)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#space exploration`, `#NASA`, `#Mars mission`, `#public-private partnership`, `#Relativity Space`
+**Tags**: `#NASA`, `#Mars mission`, `#Relativity Space`, `#public-private partnership`, `#space exploration`
+
+---
+
+<a id="item-3"></a>
+## [Nobel laureate John Jumper leaves DeepMind for Anthropic](https://36kr.com/newsflashes/3860793998267653?f=rss) ⭐️ 8.0/10
+
+John Jumper, a Nobel Prize-winning scientist known for leading the development of AlphaFold, announced on June 19 that he is leaving Google DeepMind to join AI startup Anthropic. This high-profile talent move signals Anthropic's growing influence in AI research and may shift priorities toward AI safety and protein-related applications, given Jumper's expertise. Jumper shared the 2024 Nobel Prize in Chemistry with Demis Hassabis and David Baker for protein structure prediction via AlphaFold. He had been at DeepMind for nearly nine years.
+
+rss · 36氪 · Jun 20, 00:42
+
+**Background**: AlphaFold is an AI system developed by DeepMind that predicts protein 3D structures from amino acid sequences, solving a 50-year-old grand challenge in biology. Anthropic is an AI safety company founded by former OpenAI employees, known for its Claude large language models. Jumper's move from a major tech lab to a startup reflects a broader trend of top AI talent joining younger companies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/John_M._Jumper">John M. Jumper - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#talent movement`, `#Anthropic`, `#DeepMind`, `#Nobel laureate`
+
+---
+
+<a id="item-4"></a>
+## [Context Window Tax: Why Longer Memory Hurts AI Agents](https://pub.towardsai.net/the-context-window-tax-why-longer-memory-is-making-agents-dumber-not-smarter-3470c4e7bf8f?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+An article argues that increasing context window size in AI models degrades agent performance, raises costs, and causes silent failures, challenging the prevailing assumption that more context equals more intelligence. This matters because many engineering teams are blindly adopting larger context windows, leading to unreliable agents that miss critical instructions in production, wasting resources and eroding trust in AI systems. The article highlights the 'lost in the middle' problem, where models perform worse on information in the middle of long contexts, and notes that failures are silent—agents produce fluent but incorrect answers without errors.
+
+rss · Towards AI · Jun 19, 17:31
+
+**Background**: Transformer-based LLMs use attention mechanisms that distribute a finite focus budget across all tokens. As context windows grow, attention is spread thinner, making it harder to weigh all parts equally. This contradicts the common mental model that treats context like uniform RAM.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents \ Anthropic</a></li>
+<li><a href="https://vinithavn.medium.com/advancing-agentic-memory-an-overview-of-modern-memory-management-architectures-in-llm-agents-8df87b0da58f">Advancing Agentic Memory : An Overview of Modern... | Medium</a></li>
+<li><a href="https://www.lyzr.ai/blog/lyzr-ai-blog-context-aware-ai-agents/">Context-Aware AI Agents: Why Your "Smart" Tools Are Actually Giving You Amnesia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#context window`, `#LLM limitations`, `#memory management`, `#engineering pitfalls`
+
+---
+
+<a id="item-5"></a>
+## [Bobby Prince, Composer for Doom and Wolfenstein, Dies](https://www.legacy.com/legacy/robert-bobby-prince-lll) ⭐️ 7.0/10
+
+Bobby Prince, the legendary composer behind the iconic soundtracks of Doom, Wolfenstein 3D, and Duke Nukem 3D, has passed away, as confirmed by his obituary on Legacy.com. Prince's music defined the atmosphere of early first-person shooters and influenced a generation of game composers and players, making his loss deeply felt in the gaming community. Prince composed for multiple classic titles including Major Stryker, and his Doom soundtrack was notable for its heavy metal-inspired tracks that enhanced the game's immersive horror experience.
+
+hackernews · pgrote · Jun 19, 19:35 · [Discussion](https://news.ycombinator.com/item?id=48602352)
+
+**Background**: Bobby Prince was a key figure in the golden age of shareware gaming, creating memorable MIDI-based music for id Software and Apogee games. His work on Doom and Wolfenstein 3D helped establish video game music as a crucial element of game design, blending aggressive riffs with atmospheric tones.
+
+**Discussion**: Community comments express deep sadness and gratitude, with many sharing personal memories of how Prince's music influenced their childhood and love for gaming. Commenters highlight the immersive power of his Doom soundtrack and the lasting impact of his work.
+
+**Tags**: `#gaming`, `#music`, `#obituary`, `#retro gaming`, `#game development`
 
 ---
 
 <a id="item-6"></a>
-## [Zhipu GLM 5.2 Tops Design Arena, Surpasses Claude Fable 5](https://www.ithome.com/0/966/458.htm) ⭐️ 7.0/10
+## [Americans uneasy over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk) ⭐️ 7.0/10
 
-On June 20, 2026, Design Arena announced that Zhipu's GLM 5.2 model achieved the highest overall score in the single-round HTML web design evaluation, surpassing Claude Fable 5, Opus 4.6, and Opus 4.7. This marks the first time a Chinese AI model tops a respected AI design benchmark, demonstrating strong competitiveness in aesthetic and practical web design. Additionally, GLM 5.2's inference price is significantly lower than its rivals, offering a compelling cost-performance advantage. GLM 5.2 improved its ranking by 5 places compared to its predecessor GLM 5.1. It effectively uses third-party libraries like chart.js and three.js, boosting win rate by 6.0 percentage points, and employs TailwindCSS in 91% of sessions and font-awesome in 51%.
+Americans are expressing unease over the potential inclusion of SpaceX in retirement savings index funds, driven by concerns about corporate governance and Elon Musk's outsized influence. This matters because index funds are a cornerstone of retirement savings for millions of Americans, and any governance issues at a major index constituent could affect their financial security. SpaceX has not been added to the S&P 500; the article discusses a broader unease about its potential future inclusion and the influence of Elon Musk's other ventures like X and xAI.
+
+hackernews · ValentineC · Jun 19, 22:45 · [Discussion](https://news.ycombinator.com/item?id=48604186)
+
+**Background**: Index funds are investment funds that track a market index, such as the S&P 500, and are popular for retirement savings due to their low costs and diversification. Corporate governance concerns arise when a company's leadership has excessive control or conflicts of interest, potentially harming minority shareholders.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Index_fund">Index fund</a></li>
+<li><a href="https://corpgov.law.harvard.edu/2025/01/31/thoughts-for-boards-key-issues-in-corporate-governance-for-2025/">Thoughts for Boards: Key Issues in Corporate Governance for 2025</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters debate whether the unease is justified, with some arguing that index funds should include all market components and that SpaceX's eventual inclusion is inevitable. Others express frustration over limited fund choices and suggest shorting SpaceX as a hedge.
+
+**Tags**: `#SpaceX`, `#index funds`, `#retirement savings`, `#corporate governance`, `#finance`
+
+---
+
+<a id="item-7"></a>
+## [Android 17 tightens app memory limits, adds local network permission](https://www.ithome.com/0/966/464.htm) ⭐️ 7.0/10
+
+Android 17 introduces four hidden improvements, including automatic termination of memory-hogging apps, a new ACCESS_LOCAL_NETWORK permission, stricter dynamic code loading, and default Certificate Transparency. These changes significantly enhance system fluency and user privacy, forcing developers to optimize memory usage and respect local network access. Users gain more control over app behavior and protection against malicious activities. The memory limit is based on device total RAM and targets extreme leaks, not legitimate high-memory apps like games. The local network permission is off by default and required for scanning LAN devices. Dynamic code loading now requires native libraries to be read-only before execution.
+
+rss · IT之家 · Jun 20, 00:37
+
+**Background**: Android has long struggled with memory management and privacy issues. Memory-hungry apps can cause system slowdowns and battery drain. Local network access was previously unrestricted, allowing apps to scan home devices without user consent. Dynamic code loading has been exploited by malware to inject code after installation. Certificate Transparency helps prevent forged certificates used in phishing and MITM attacks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.android.com/about/versions/17/behavior-changes-all">Behavior changes: all apps | Android Developers</a></li>
+<li><a href="https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html">Prioritizing Memory Efficiency: Essential Steps for Android 17</a></li>
+<li><a href="https://developer.android.com/privacy-and-security/local-network-permission">Local network permission | Privacy | Android Developers</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Android`, `#memory management`, `#privacy`, `#mobile OS`
+
+---
+
+<a id="item-8"></a>
+## [Zhipu GLM 5.2 Tops Design Arena Web Design AI Benchmark](https://www.ithome.com/0/966/458.htm) ⭐️ 7.0/10
+
+Zhipu AI's GLM-5.2 model has surpassed Claude Fable 5 and other models to claim the top spot in the Design Arena single-round HTML web design benchmark, achieving the highest overall score with significantly lower inference costs. This marks a significant milestone in AI-generated web design, as GLM-5.2 not only outperforms leading models on a respected crowdsourced benchmark but also offers much better cost efficiency, potentially accelerating adoption of AI in web design workflows. GLM-5.2 uses third-party libraries like chart.js and three.js more effectively, improving win rate by 6 percentage points, and adopts TailwindCSS in 91% of sessions compared to Fable 5's 57%. Its inference price is $1.40/$4.40 per million tokens, far lower than Fable 5's $10/$50.
 
 rss · IT之家 · Jun 20, 00:04
 
-**Background**: Design Arena is the world's first crowdsourced blind-test benchmark for evaluating AI-generated design quality, widely regarded as an authoritative indicator of aesthetic and practical design. GLM 5.2 is Zhipu's latest flagship model, known for strong performance on long-horizon tasks and coding benchmarks, and is open-source.
+**Background**: Design Arena is the world's first crowdsourced benchmark for evaluating AI-generated design quality, using blind tests to rank models. GLM-5.2 is the latest open-source model from Zhipu AI, building on the GLM-5 series with improvements in long-horizon tasks and coding benchmarks.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.designarena.ai/">Design Arena</a></li>
 <li><a href="https://openlm.ai/glm-5.2/">GLM-5.2 | OpenLM.ai</a></li>
-<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
+<li><a href="https://github.com/zai-org/GLM-5">GitHub - zai-org/GLM-5: GLM-5: From Vibe Coding to Agentic ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#LLM`, `#benchmark`, `#web design`, `#GLM`
-
----
-
-<a id="item-7"></a>
-## [visionOS 27 Brings Exclusive AI to M5 Vision Pro](https://www.ithome.com/0/966/454.htm) ⭐️ 7.0/10
-
-Apple announced that visionOS 27, arriving this fall, will bring Siri Voice Customization and the AFM 3 Core Advanced local AI model exclusively to the M5 Vision Pro, while M2 models will not support these features. This marks a clear hardware-driven capability gap between M2 and M5 Vision Pro, highlighting that future AI advancements may require the latest chips. It also signals Apple's commitment to on-device AI with powerful local models. The AFM 3 Core Advanced model has 20 billion parameters and uses a sparse architecture, activating only 1-4 billion parameters per request for efficiency. M2 users will still receive most visionOS 27 updates, and Apple promises a cloud-based AI compromise for them later.
-
-rss · IT之家 · Jun 19, 23:23
-
-**Background**: Apple's Foundation Models (AFM) are a family of on-device AI models designed for privacy and performance. The third-generation AFM 3 Core Advanced is optimized for Apple's most capable chips, like the M5. Sparse architecture means the model only uses a subset of its parameters per task, reducing compute load while maintaining capability.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models">Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research</a></li>
-<li><a href="https://www.macstories.net/linked/the-third-generation-of-apples-foundation-models-and-afm-core-advanced/">The Third Generation of Apple’s Foundation Models and AFM Core Advanced - MacStories</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#visionOS`, `#Apple`, `#AI`, `#Vision Pro`, `#M5`
-
----
-
-<a id="item-8"></a>
-## [VLC creator builds Kyber for real-time robot control](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) ⭐️ 7.0/10
-
-Jean-Baptiste Kempf, the lead developer of VLC media player, is building Kyber, an open-source infrastructure layer for real-time control of remote devices, targeting robotics and IoT applications. Kempf's track record with VLC (over six billion downloads) gives Kyber significant credibility, potentially accelerating the development of reliable, low-latency remote control systems for robotics and IoT. Kyber aims to provide a real-time control layer that can handle the latency and reliability requirements of remote device operation, similar to how VLC optimized video playback across diverse hardware.
-
-rss · TechCrunch · Jun 20, 00:47
-
-**Background**: Jean-Baptiste Kempf is a French computer engineer and entrepreneur, best known as the lead developer of VLC media player, an open-source multimedia player with over six billion downloads. He is also the president of the VideoLAN non-profit organization. Kyber is his new project focusing on real-time remote device control, leveraging his experience in building robust, cross-platform open-source software.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Jean-Baptiste_Kempf">Jean - Baptiste Kempf - Wikipedia</a></li>
-<li><a href="https://jbkempf.com/">Jean - Baptiste Kempf — VLC, VideoLAN, Kyber & Open Source</a></li>
-<li><a href="https://github.com/jbkempf">jbkempf ( Jean - Baptiste Kempf ) · GitHub</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#open-source`, `#robotics`, `#real-time`, `#infrastructure`, `#IoT`
+**Tags**: `#AI`, `#LLM`, `#web design`, `#benchmark`, `#智谱`
 
 ---
 
 <a id="item-9"></a>
-## [Local LLM RAM Reality: 52% of PCs Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4) ⭐️ 7.0/10
+## [visionOS 27 Brings Exclusive AI Features to M5 Vision Pro](https://www.ithome.com/0/966/454.htm) ⭐️ 7.0/10
 
-An article highlights that 52% of PCs have 16GB RAM or less, limiting the size of local LLMs they can run, and explains how KV cache consumes memory and why Mac and PC 16GB are not equivalent. This matters because local LLM deployment is increasingly popular, but most users face hardware constraints; understanding RAM requirements helps developers set realistic expectations and optimize models for broader accessibility. The KV cache grows with sequence length and model size, often consuming gigabytes of memory; Macs with unified memory architecture can use system RAM for GPU tasks more efficiently than PCs with separate VRAM.
+Apple's upcoming visionOS 27 update will introduce Siri Voice Customization and the AFM 3 Core Advanced on-device AI model exclusively for the M5 Vision Pro headset, while M2 models will not receive these features. This marks a clear hardware-dependent capability gap, positioning the M5 chip as a prerequisite for Apple's most advanced on-device AI, potentially driving upgrades and shaping the future of spatial computing. The AFM 3 Core Advanced model is a 20-billion-parameter sparse on-device model that activates only 1–4 billion parameters per prompt, enabling native multimodal capabilities. M2 users will still receive most visionOS 27 visual and interaction upgrades, with Apple promising future cloud-based AI compromises.
 
-rss · Towards AI · Jun 19, 23:01
+rss · IT之家 · Jun 19, 23:23
 
-**Background**: Local LLMs require significant RAM to load model weights and store the KV cache during inference. The KV cache stores intermediate key-value vectors to avoid recomputation, speeding up generation but increasing memory usage. Apple's M-series chips use unified memory, allowing the GPU to access all system RAM, whereas PCs typically have separate VRAM limited to 8-24GB.
+**Background**: Apple's third-generation foundation models, announced at WWDC 2026, include AFM 3 Core (3B dense) and AFM 3 Core Advanced (20B sparse). The sparse architecture uses techniques like Instruction-Following Pruning to activate only a subset of parameters per task, balancing performance and efficiency. The M5 chip, with its enhanced compute and neural engine, is required to run this model locally.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://medium.com/data-science-collective/understanding-the-kv-cache-in-llms-822446560161">Understanding the KV - Cache In LLMs | by Dr. Leon Eversberg | Medium</a></li>
-<li><a href="https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms">Understanding and Coding the KV Cache in LLMs from Scratch</a></li>
-<li><a href="https://pub.towardsai.net/614-vs-273-gb-s-why-a-macbook-still-beats-nvidias-new-rtx-spark-at-local-llms-4a6e77fdd53e">614 vs 273 GB/s: Why a MacBook Still Beats... | Towards AI</a></li>
+<li><a href="https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models">Introducing the Third Generation of Apple’s Foundation Models</a></li>
+<li><a href="https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/">Apple’s third-generation Foundation Models explained - 9to5Mac</a></li>
+<li><a href="https://www.tomsguide.com/computing/vr-ar/m5-apple-vision-pro-vs-m2-apple-vision-pro-all-the-biggest-upgrades">M 5 Apple Vision Pro vs M2 Apple Vision Pro : All the... | Tom's Guide</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#visionOS`, `#Apple`, `#Vision Pro`, `#AI`, `#M5`
+
+---
+
+<a id="item-10"></a>
+## [VLC Creator Builds Kyber for Real-Time Robot Control](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) ⭐️ 7.0/10
+
+Jean-Baptiste Kempf, the creator of VLC media player, is building Kyber, an infrastructure layer for real-time remote device control, targeting robotics and IoT applications. This project could revolutionize how robots and IoT devices are controlled remotely, leveraging Kempf's expertise in building reliable, high-performance open-source software. Kyber aims to provide a low-latency, secure infrastructure layer for controlling devices in real time, similar to how VLC handles video playback smoothly across platforms.
+
+rss · TechCrunch · Jun 20, 00:47
+
+**Background**: Jean-Baptiste Kempf is the lead developer of VLC media player, a widely used open-source video player known for its smooth playback and broad format support. Kyber is a new infrastructure layer designed to enable real-time remote control of devices, which is critical for robotics, autonomous systems, and IoT applications where low latency and reliability are essential.
+
+**Tags**: `#open-source`, `#robotics`, `#infrastructure`, `#real-time`, `#IoT`
+
+---
+
+<a id="item-11"></a>
+## [History Shows Cyber Export Controls Fail, Mythos Case in Point](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) ⭐️ 7.0/10
+
+A TechCrunch article argues that historical evidence from encryption and spyware controls shows cyber export controls are ineffective, questioning their application to Anthropic's unreleased AI model Mythos. This matters because it challenges the prevailing policy approach of restricting powerful AI models like Mythos, suggesting that such controls may not prevent misuse and could hinder beneficial research. Mythos is an AI model that Anthropic deems too dangerous to release publicly, but the article argues that past attempts to control encryption and spyware have failed to stop proliferation.
+
+rss · TechCrunch · Jun 19, 22:40
+
+**Background**: Export controls are government regulations that restrict the distribution of sensitive technologies to foreign entities. Historically, controls on encryption software in the 1990s were largely circumvented by open-source distribution, and spyware controls have similarly been ineffective. The debate now extends to AI models like Mythos, which have dual-use potential for cybersecurity and bioweapons.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">Encryption, spyware, and now Mythos: History shows why cyber ...</a></li>
+<li><a href="https://www.anthropic.com/claude/mythos">Claude Mythos \ Anthropic</a></li>
+<li><a href="https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/">What is Mythos, Anthropic’s unreleased AI model, and how ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#export control`, `#AI policy`, `#encryption`, `#Anthropic`
+
+---
+
+<a id="item-12"></a>
+## [Local LLMs Face RAM Crunch: 52% of PCs Have ≤16GB](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+An article highlights that 52% of PCs have 16GB RAM or less, which severely limits the size of local LLMs that can be run, and explains the impact of KV cache memory costs on model fitting. This matters because many developers and enthusiasts want to run LLMs locally, but RAM constraints often prevent them from using larger, more capable models, and the KV cache further increases memory pressure. The KV cache memory cost scales linearly with context length, making long-context inference especially memory-intensive; additionally, Mac's unified memory architecture provides more usable memory for LLMs than equivalent PC RAM due to different memory management.
+
+rss · Towards AI · Jun 19, 23:01
+
+**Background**: Local LLMs require significant RAM to load model weights and maintain the KV cache during inference. The KV cache stores key-value pairs from previous tokens to avoid recomputation, but its size grows with sequence length. Macs with Apple Silicon use unified memory, which allows the GPU to access system RAM directly, while PCs typically have separate VRAM for the GPU, creating a hard ceiling.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://datasciencedojo.com/blog/kv-cache-how-to-speed-up-llm-inference/">Unlocking the Power of KV Cache: How to Speed Up LLM ...</a></li>
+<li><a href="https://www.sitepoint.com/local-llm-hardware-requirements-mac-vs-pc-2026/">Local LLM Hardware Requirements: Mac vs PC 2026 - SitePoint</a></li>
+<li><a href="https://llmhardware.io/guides/mac-vs-pc-for-llms">Mac vs PC for Local LLMs: Which Should You Buy? (2026)</a></li>
 
 </ul>
 </details>
@@ -221,200 +281,170 @@ rss · Towards AI · Jun 19, 23:01
 
 ---
 
-<a id="item-10"></a>
-## [Agent Sprawl Becomes Operations Problem](https://pub.towardsai.net/agent-sprawl-has-become-an-operations-problem-742d8f8f4dec?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-The article argues that the uncontrolled proliferation of AI agents is creating operational debt, and calls for production controls to manage infrastructure effectively. As enterprises deploy more AI agents, agent sprawl can lead to governance strain, security risks, and infrastructure inefficiency, making production controls essential for sustainable operations. Agent sprawl refers to the uncontrolled growth of AI agents without tracking or governance, creating isolated contexts and operational debt. The article emphasizes the need for production controls before agents become infrastructure debt.
-
-rss · Towards AI · Jun 19, 22:01
-
-**Background**: AI agents are systems that autonomously perform tasks by designing workflows with available tools. As enterprises move agents from experimentation to production, security concerns shift from model behavior to governance, identity, and authorization. Agent sprawl occurs when multiple agents operate without centralized oversight, leading to context sprawl and governance strain.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.okta.com/de-de/identity-101/what-is-agent-sprawl/">What is Agent Sprawl ? | Okta</a></li>
-<li><a href="https://atlan.com/know/ai-agent/agent-sprawl/">Agent Sprawl and Context Sprawl : Causes, Risks, Fix [2026]</a></li>
-<li><a href="https://tfir.io/tetrate-ory-ai-agent-security-runtime-authorization/">Tetrate and Ory Partner to Secure AI Agents in Production</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#operations`, `#infrastructure`, `#agent sprawl`, `#production controls`
-
----
-
-<a id="item-11"></a>
+<a id="item-13"></a>
 ## [Memory Systems for Long-Running AI Agents](https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-The article proposes a structured memory architecture for long-running AI agents that transitions from episodic memory (recalling specific past experiences) to procedural memory (automating learned skills), enabling persistent learning and adaptation across sessions. This addresses a critical limitation of current LLM-based agents that rely on flat context windows, which reset after each session. By implementing multi-tier memory, agents can accumulate knowledge and improve over time, making them more practical for real-world, long-term tasks. The architecture includes short-term memory for immediate context, episodic memory for storing specific events, semantic memory for general knowledge, and procedural memory for learned behaviors. The transition from episodic to procedural memory allows agents to automate frequently used workflows, reducing cognitive load.
+The article explores memory architectures for long-running AI agents, proposing a transition from episodic memory (recalling past experiences) to procedural memory (storing learned skills and action sequences) to improve persistence and tool use across sessions. This addresses a critical limitation of current LLM-based agents that reset after each session, hindering long-term tasks. By enabling agents to accumulate and reuse procedural knowledge, it could unlock more autonomous, efficient, and personalized AI assistants. The article distinguishes between episodic memory (specific past events) and procedural memory (how to perform tasks), and discusses how procedural memory can be stored as structured prompts or modules that are loaded at session start and updated via feedback.
 
 rss · Towards AI · Jun 19, 18:01
 
-**Background**: Current AI agents, such as chatbots, typically use a flat context window that limits memory to a single session. Long-running agents need persistent memory to retain information across days. Episodic memory stores specific past experiences, while procedural memory encodes skills and routines that can be executed automatically. Combining these memory types enables agents to learn from experience and improve performance over time.
+**Background**: Current AI agents often rely on a flat context window that resets each session, limiting their ability to learn from past interactions. Inspired by cognitive science, researchers are exploring memory types like episodic and procedural memory to give agents long-term persistence. Episodic memory stores specific experiences, while procedural memory encodes reusable skills and procedures.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://atlan.com/know/episodic-memory-ai-agents/">Episodic Memory for AI Agents : How It Works</a></li>
-<li><a href="https://www.ibm.com/think/topics/ai-agent-memory">What Is AI Agent Memory ? | IBM</a></li>
-<li><a href="https://medium.com/@gokcerbelgusen/memory-types-in-agentic-ai-a-breakdown-523c980921ec">Memory Types in Agentic AI : A Breakdown | by Gokcer... | Medium</a></li>
+<li><a href="https://arxiv.org/abs/2510.04851">LEGOMem: Modular Procedural Memory for Multi-agent LLM ... [2602.01869v1] ProcMEM: Learning Reusable Procedural Memory ... Procedural Memory Is Not All You Need: - ACM Digital Library Semantic vs Episodic vs Procedural Memory in AI Agents LLM Procedural Memory: Teaching AI Agents How to Do … LEGOMem: Modular Procedural Memory for Multi-agent LLM ... A Practical Guide to Memory for Autonomous LLM Agents</a></li>
+<li><a href="https://arxiv.org/abs/2602.01869v1">[2602.01869v1] ProcMEM: Learning Reusable Procedural Memory ... Procedural Memory Is Not All You Need: - ACM Digital Library Semantic vs Episodic vs Procedural Memory in AI Agents LLM Procedural Memory: Teaching AI Agents How to Do … LEGOMem: Modular Procedural Memory for Multi-agent LLM ... A Practical Guide to Memory for Autonomous LLM Agents</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#memory systems`, `#LLM`, `#episodic memory`, `#procedural memory`
+**Tags**: `#AI agents`, `#memory systems`, `#LLM`, `#agent architecture`, `#procedural memory`
 
 ---
 
-<a id="item-12"></a>
-## [Context Window Tax: Longer Memory Hurts AI Agents](https://pub.towardsai.net/the-context-window-tax-why-longer-memory-is-making-agents-dumber-not-smarter-3470c4e7bf8f?source=rss----98111c9905da---4) ⭐️ 7.0/10
+<a id="item-14"></a>
+## [Android 17 update causes touchscreen and 5G bugs on Pixel phones](https://www.androidpolice.com/android-17-touchscreen-bug/) ⭐️ 6.0/10
 
-A growing body of research and practical experience shows that increasing context window sizes in LLMs degrades agent reliability, increases costs, and causes silent failures, challenging the assumption that more context equals more intelligence. This insight is critical for engineers building LLM-based agents, as it reveals that blindly scaling context windows leads to performance degradation and hidden errors, shifting the focus toward better memory management and retrieval strategies. The article highlights the 'lost in the middle' problem, where models perform worse on information in the middle of long prompts, and notes that silent failures—where the model produces fluent but incorrect answers—are particularly dangerous in production systems.
-
-rss · Towards AI · Jun 19, 17:31
-
-**Background**: Large language models (LLMs) use attention mechanisms that distribute a finite 'focus budget' across all tokens in the context window. As the window grows, attention becomes thinner, leading to degraded performance on mid-context information. This is analogous to a tax: you pay in latency, cost, and correctness.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medium.com/write-a-catalyst/the-context-window-tax-why-more-ai-context-makes-answers-worse-da3a02e48adb">‘Why Adding More Context to AI Makes Answers Worse... | Medium</a></li>
-<li><a href="https://unagent.eu/2025/04/22/misleading-promises-of-long-context-llm/">Misleading Promises of Long Context LLM . – Unagent</a></li>
-<li><a href="https://www.cekura.ai/blogs/llm-failures">Why Ignoring LLM Failures Can Break Your Conversational AI Agent</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#context window`, `#AI agents`, `#memory management`, `#engineering trade-offs`
-
----
-
-<a id="item-13"></a>
-## [Pixel owners report touchscreen and 5G bugs after Android 17 update](https://www.androidpolice.com/android-17-touchscreen-bug/) ⭐️ 6.0/10
-
-Following the Android 17 update, Pixel users are experiencing touchscreen unresponsiveness or reversed scrolling direction, as well as 5G connectivity loss and eSIM disappearance on various models including Pixel 10, 9, 8, and 7 series. These bugs affect a wide range of recent Pixel devices, potentially disrupting daily use for many users. Google's prompt acknowledgment and temporary fix suggest the company is working on a permanent solution, but users are advised to delay the update. The touchscreen bug manifests as either no response or reversed vertical scrolling, affecting Pixel 10, 9, 8, and 7 series but not Pixel 6. The 5G issue can be temporarily resolved by resetting mobile network settings via Settings > System > Reset options > Reset mobile network settings, though this clears Wi-Fi and Bluetooth configurations.
+Pixel users report touchscreen unresponsiveness and inverted scrolling after updating to Android 17, along with 5G connectivity loss and eSIM issues. Google has acknowledged the bug and provided a temporary workaround. This affects a wide range of Pixel models, including the latest Pixel 10 series, potentially disrupting daily use for many users. The bugs highlight the risks of early adoption and the need for thorough testing before major OS updates. Affected models include Pixel 10, 9, 8, and 7 series, but Pixel 6 series appears unaffected. The 5G bug impacts Pixel 9 Pro, 9 Pro XL, 8 Pro, 8a, and 6a, and can be temporarily fixed by resetting mobile network settings.
 
 rss · Android Police · Jun 19, 20:49
 
-**Background**: Android 17 is the latest major version of Google's mobile operating system, released in 2025. Pixel devices are the first to receive updates, and such post-update bugs are not uncommon. The touchscreen and connectivity issues reported are reminiscent of similar problems in previous Android versions.
+**Background**: Android 17 is the latest major version of Google's mobile operating system, rolling out to Pixel devices in June 2025. Touchscreen bugs and connectivity issues are not uncommon after major OS updates, but the severity and range of affected models here are notable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.androidauthority.com/android-17-scrolling-bug-3679483/">Android 17 is causing scrolling issues on some... - Android Authority</a></li>
+<li><a href="https://www.androidpolice.com/android-17-touchscreen-bug/">Pixel owners report bizarre touchscreen bugs following ...</a></li>
+<li><a href="https://www.androidauthority.com/android-17-scrolling-bug-3679483/">Android 17 is causing scrolling issues on some Pixel phones ...</a></li>
 <li><a href="https://www.androidauthority.com/android-17-knocks-off-5g-3679536/">Android 17 appears to have broken 5 G for some Pixel owners</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android`, `#Pixel`, `#bug`, `#mobile`
+**Tags**: `#Android`, `#bug`, `#Pixel`, `#mobile`
 
 ---
 
-<a id="item-14"></a>
-## [MCP's Key Value: Isolating Auth Outside Agent Context](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) ⭐️ 6.0/10
+<a id="item-15"></a>
+## [Wear OS 7 Update Rolls Out to Pixel Watch 2, 3, 4](https://9to5google.com/2026/06/19/pixel-watch-wear-os-7-june-2026-update/) ⭐️ 6.0/10
 
-Sean Lynch suggests that the Model Context Protocol (MCP) offers a unique capability over traditional skills/CLI by isolating the authentication flow outside the agent's context window, and potentially outside the harness entirely. He speculates that the idealized form of MCP might simply be an auth gateway for APIs. This insight reframes MCP's value proposition, highlighting that even if MCP only simplifies authentication for AI agents, it would still be a significant win. It could reduce security risks and complexity in agent-based systems, making them more practical for real-world deployments. The comment was made on Hacker News in response to a discussion about MCP. Lynch contrasts MCP with traditional skills/CLI approaches, where auth flows typically reside within the agent's context, potentially exposing credentials or requiring complex handling.
+Google is rolling out the Wear OS 7 update to Pixel Watch 4, 3, and 2 following its June 2026 announcement. This update brings new features and improvements to Pixel Watch users, enhancing the smartwatch experience and keeping the devices up-to-date with the latest Wear OS capabilities. The update is available for Pixel Watch 4, 3, and 2, but not for the original Pixel Watch. Specific new features were detailed in the earlier announcement on June 16, 2026.
+
+rss · 9to5Google · Jun 19, 18:34
+
+**Background**: Wear OS is Google's operating system for smartwatches, competing with Apple's watchOS and Samsung's Tizen. Pixel Watch is Google's own smartwatch line, running Wear OS. The June 2026 update marks a new version of the OS, bringing incremental improvements.
+
+**Tags**: `#Wear OS`, `#Pixel Watch`, `#Google`, `#smartwatch`, `#software update`
+
+---
+
+<a id="item-16"></a>
+## [MCP's Key Value: Auth Isolation Outside Context Window](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) ⭐️ 6.0/10
+
+Sean Lynch suggests that the Model Context Protocol (MCP) offers a key advantage over traditional skills or CLI tools by isolating the authentication flow outside the agent's context window, and potentially outside the harness entirely. He proposes that the idealized form of MCP might be just an auth gateway for APIs. This insight highlights a practical benefit of MCP that reduces the cognitive load on LLMs by offloading authentication, which could improve agent reliability and simplify integration. It reframes MCP's value proposition from a general-purpose tool integration standard to a focused security layer, potentially influencing how developers design AI agent systems. Lynch's comment was made on Hacker News in response to a discussion about MCP, emphasizing that even if MCP only served as an auth gateway, it would still be a win. The context window limitation of LLMs makes in-context authentication handling inefficient and error-prone.
 
 rss · Simon Willison · Jun 19, 22:45
 
-**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI systems like LLMs connect to external tools and data. It aims to replace ad-hoc integrations with a unified protocol, enabling agents to access databases, APIs, and services seamlessly. An auth gateway is a common architectural pattern that centralizes authentication and authorization for API access, often using standards like OAuth 2.0 or JWT.
+**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI systems like LLMs integrate with external tools and data sources. A context window in LLMs refers to the maximum amount of text the model can process at once, which is a critical limitation. An auth gateway is a common pattern in API management where authentication is centralized at a single entry point, reducing complexity for downstream services.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
+<li><a href="https://www.ibm.com/think/topics/context-window">What is a context window? - IBM</a></li>
 <li><a href="https://apisix.apache.org/">Apache APISIX - Open Source API Gateway & AI Gateway</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News comment thread likely discussed MCP's merits, with Lynch's comment receiving attention for its focused perspective. No other comments are provided, so overall sentiment cannot be fully assessed.
+**Discussion**: The Hacker News comment thread likely discussed the trade-offs of MCP versus traditional approaches, with Lynch's comment receiving positive attention for its clarity. No other comments are provided, so the overall sentiment is not fully known.
 
-**Tags**: `#model-context-protocol`, `#llms`, `#ai`, `#authentication`, `#agent`
-
----
-
-<a id="item-15"></a>
-## [AMD to Restore TSME Memory Encryption on Ryzen 9000 via July BIOS Update](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback) ⭐️ 6.0/10
-
-AMD announced it will reinstate Transparent Secure Memory Encryption (TSME) on non-PRO Ryzen 9000 desktop CPUs through a BIOS update in July 2026, after previously removing the feature via an earlier firmware update. This reversal addresses security concerns from the community, as TSME protects against physical attacks like cold boot attacks by encrypting all data in RAM. The decision highlights the impact of user feedback on AMD's firmware policies. The BIOS update is scheduled for July 2026 and applies only to non-PRO Ryzen 9000 series CPUs. TSME encrypts the entire contents of system memory using a hardware-generated key that changes on every boot.
-
-rss · Tom's Hardware · Jun 19, 21:02
-
-**Background**: Transparent Secure Memory Encryption (TSME) is a hardware-based feature that encrypts all data stored in RAM, making it unreadable to attackers who gain physical access to the memory. AMD had previously disabled TSME on consumer Ryzen CPUs via a firmware update, drawing criticism from security-conscious users. The Ryzen 9000 series is AMD's latest desktop processor lineup based on the Zen 5 architecture.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Users cry foul after AMD stripped memory crypto from... - Ars Technica</a></li>
-<li><a href="https://cryptobriefing.com/amd-removes-memory-encryption-consumer-cpus/">AMD removes memory encryption from consumer CPUs, users react</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD`, `#Ryzen`, `#security`, `#BIOS`, `#memory encryption`
-
----
-
-<a id="item-16"></a>
-## [Anthropic to Reopen Mythos and Fable 5 Models Outside US Soon](https://www.ithome.com/0/966/466.htm) ⭐️ 6.0/10
-
-Anthropic's international managing director Chris Ciauri stated at a press conference in Seoul that the company is confident it will restore access to its Claude Mythos and Claude Fable 5 models outside the United States within the next few days. This reopening signals Anthropic's commitment to global availability of its frontier AI models while navigating US security directives, and it underscores the growing importance of the Korean market as one of Anthropic's fastest-growing regions. The models were temporarily blocked due to US White House security directives. Anthropic also announced Project Glasswing, a cybersecurity initiative with about 150 partners including Google, Nvidia, Microsoft, Apple, Samsung, SK Hynix, and SK Telecom, which provides limited access to Mythos for security testing.
-
-rss · IT之家 · Jun 20, 00:48
-
-**Background**: Claude Mythos and Claude Fable 5 are Anthropic's most advanced AI models, with Fable 5 being a Mythos-class general model that excels at vision tasks and can reconstruct web app source code from screenshots. Anthropic temporarily restricted access to these models outside the US following a US government directive, citing safety and national security concerns.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model ) - Wikipedia</a></li>
-<li><a href="https://www.anthropic.com/claude/mythos">Claude Mythos \ Anthropic</a></li>
-<li><a href="https://www.datacamp.com/blog/claude-fable-5">Claude Fable 5 : A Mythos-Class Model You Can Use | DataCamp</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Anthropic`, `#AI models`, `#regulatory compliance`, `#Claude`
+**Tags**: `#model-context-protocol`, `#llms`, `#ai`, `#authentication`, `#agent-tooling`
 
 ---
 
 <a id="item-17"></a>
-## [Go's record IPO fuels robotaxi push in Japan](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) ⭐️ 6.0/10
+## [AMD to restore TSME memory encryption on Ryzen 9000 via July BIOS update](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback) ⭐️ 6.0/10
 
-Go, Japan's largest taxi-hailing app, raised ¥88.6 billion ($553 million) in its IPO on Tuesday, marking Japan's biggest IPO of 2026. The company plans to use the funds to expand its robotaxi business and pursue acquisitions to address the country's driver shortage. This IPO provides Go with the capital needed to tackle Japan's severe driver shortage, which threatens the taxi industry. By investing in robotaxis and acquisitions, Go could reshape urban mobility in Japan and set a precedent for other ride-hailing firms facing similar demographic challenges. Go has 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan's taxi app market by usage time, covering 46 of 47 prefectures. The company was founded in 1977 as a traditional taxi operator before launching its app.
+AMD announced it will reinstate Transparent Secure Memory Encryption (TSME) on non-PRO Ryzen 9000 desktop CPUs through a BIOS update in July 2025, following its removal in an earlier firmware update. This reversal restores hardware-level memory encryption for consumer Ryzen users, protecting against physical attacks like cold boot attacks, and shows AMD's responsiveness to community feedback. The TSME feature, branded as Memory Guard on Ryzen PRO CPUs, encrypts all RAM contents with a hardware-generated key that changes on every boot. The BIOS update is expected in July 2025.
 
-rss · TechCrunch · Jun 19, 21:45
+rss · Tom's Hardware · Jun 19, 21:02
 
-**Background**: Japan faces a chronic shortage of taxi drivers due to an aging population and strict regulations. Robotaxis are seen as a potential solution, with companies like Cruise, Wayve, and Nuro also testing autonomous services in Japan. Go's IPO capitalizes on this trend, positioning it to compete in the emerging robotaxi market.
+**Background**: Transparent Secure Memory Encryption (TSME) is a hardware feature that encrypts the entire contents of system memory, making data inaccessible to attackers with physical access, such as via cold boot attacks. AMD had quietly disabled TSME on consumer Ryzen CPUs through an AGESA firmware update, which sparked backlash from the community. The upcoming BIOS update will restore this feature on Ryzen 9000 series processors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/">Go eyes robotaxis and acquisitions after Japan 's biggest IPO of 2026.</a></li>
-<li><a href="https://go.goinc.jp/en">Most used taxi app in Japan Taxi App GO GO Inc.</a></li>
-<li><a href="https://www.theverge.com/2023/10/19/23923882/gm-honda-launch-cruise-robotaxis-japan-2026">GM and Honda to launch Cruise robotaxis in Japan by... | The Verge</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback">AMD will reinstate memory encryption on Ryzen 9000 CPUs ...</a></li>
+<li><a href="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Users cry foul after AMD stripped memory crypto from... - Ars Technica</a></li>
+<li><a href="https://www.techspot.com/news/112791-amd-quietly-disabled-ram-encryption-consumer-ryzen-cpus.html">AMD quietly disabled RAM encryption on some consumer Ryzen ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#robotaxis`, `#IPO`, `#Japan`, `#mobility`, `#acquisitions`
+**Tags**: `#AMD`, `#CPU`, `#security`, `#BIOS`, `#memory encryption`
 
 ---
 
 <a id="item-18"></a>
-## [Azure AI Foundry: Enterprise AI Platform Review](https://pub.towardsai.net/azure-ai-foundry-the-architects-blueprint-for-building-enterprise-ai-at-scale-6af9d68dc1b1?source=rss----98111c9905da---4) ⭐️ 6.0/10
+## [Go's Record IPO Fuels Robotaxi and Acquisition Plans](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) ⭐️ 6.0/10
 
-Azure AI Foundry, evolved from Azure AI Studio in late 2024, is a unified platform for managing enterprise AI models, agents, and orchestration, as detailed in a practitioner's review of a BFSI reconciliation project. This review highlights Foundry's practical strengths and architectural gaps, offering valuable guidance for enterprise architects adopting AI at scale, especially in regulated industries like banking. The platform introduces a Hub-and-Project structure: Hub serves as a centralized governance and infrastructure boundary, while Projects are isolated business solutions. The review notes that Foundry requires additional architecture for production readiness, such as validation logic and human-in-the-loop processes.
+Go, Japan's leading taxi-hailing app, raised ¥88.6 billion in the country's largest IPO of 2026 and announced plans to invest in robotaxis and acquisitions to address driver shortages. This IPO provides Go with the capital needed to tackle Japan's severe driver shortage, potentially transforming urban mobility through robotaxis and strategic acquisitions, and setting a precedent for Japan's tech IPO market. Go's IPO is Japan's biggest in 2026, and the company plans to use the funds to expand robotaxi services and pursue acquisitions, as ride-share services in Japan remain limited and require drivers to be employed by taxi companies.
 
-rss · Towards AI · Jun 19, 19:01
+rss · TechCrunch · Jun 19, 21:45
 
-**Background**: Azure AI Foundry is Microsoft's platform for building, evaluating, and deploying AI models, offering a model catalog of 1,800+ models, Prompt Flow for orchestration, and integration with enterprise data sources. It targets developers and data scientists, providing a unified experience through portal, SDK, or CLI.
+**Background**: Japan faces a growing shortage of taxi drivers due to an aging population and strict regulations. Go is the most used taxi app in Japan, serving 45 of 47 prefectures. Robotaxis are seen as a potential solution to automate transportation and reduce reliance on human drivers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/architecture">Azure AI Foundry architecture - Azure AI Foundry | Microsoft Learn</a></li>
-<li><a href="https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat">Baseline Microsoft Foundry Chat Reference Architecture - Azure ...</a></li>
-<li><a href="https://www.qservicesit.com/azure-ai-foundry-openai-service">Azure AI Foundry vs Azure OpenAI: Pick the Right One</a></li>
+<li><a href="https://stockpil.com/go-ipo-robotaxi-japan-2026/">Go eyes robotaxis and acquisitions after Japan’s biggest IPO ...</a></li>
+<li><a href="https://cambridgeanalytica.org/big-tech-stories/go-ipo-robotaxi-japan-2026-51130/">Go just raised ¥88.6 billion in Japan’s biggest 2026 IPO ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Azure AI Foundry`, `#Enterprise AI`, `#Cloud AI Platform`, `#AI Architecture`
+**Tags**: `#IPO`, `#robotaxis`, `#Japan`, `#ride-hailing`, `#acquisitions`
+
+---
+
+<a id="item-19"></a>
+## [Agent Sprawl Emerges as Critical Operations Problem](https://pub.towardsai.net/agent-sprawl-has-become-an-operations-problem-742d8f8f4dec?source=rss----98111c9905da---4) ⭐️ 6.0/10
+
+The article highlights that the uncontrolled proliferation of AI agents—termed 'agent sprawl'—is creating significant operational challenges, including infrastructure debt and security risks from shadow agents. As enterprises increasingly deploy AI agents for automated workflows, unmanaged agent sprawl can lead to degraded system performance, increased costs, and security vulnerabilities, making production controls essential. The article notes that operations teams are managing a growing pile of agents, prompts, connectors, and credentials, while business teams build agents using low-code tools, resulting in 'rogue AI' instances that security teams may not know about.
+
+rss · Towards AI · Jun 19, 22:01
+
+**Background**: AI agents are software programs that autonomously perform tasks, such as responding to queries or executing workflows. Agent sprawl refers to the uncontrolled growth of these agents across an organization, often without centralized oversight, leading to operational and security issues similar to 'shadow IT'.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.martintechlabs.com/blog/why-agent-sprawl-becomes-an-operations-problem-fast">Why Agent Sprawl Becomes an Operations Problem Fast</a></li>
+<li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/02/26/the-coming-crisis-of-agentic-ai-sprawl/">The Coming Crisis Of Agentic AI Sprawl - Forbes</a></li>
+<li><a href="https://www.apica.io/blog/infrastructure-debt-agentic-ai-telemetry/">The Infrastructure Debt of Agentic AI Infrastructure | Omdia Research</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#operations`, `#infrastructure`, `#MLOps`
+
+---
+
+<a id="item-20"></a>
+## [Azure AI Foundry: Enterprise AI Platform Shift](https://pub.towardsai.net/azure-ai-foundry-the-architects-blueprint-for-building-enterprise-ai-at-scale-6af9d68dc1b1?source=rss----98111c9905da---4) ⭐️ 6.0/10
+
+Azure AI Foundry, formerly Azure AI Studio, launched in late 2024 as a unified platform for managing models, hosting agents, orchestrating activities, and securing enterprise AI workloads. A practitioner's guide details its Hub-and-Project architecture and highlights the need for additional validation, governance, and auditing layers for production readiness. This matters because Azure AI Foundry represents a strategic shift from a collection of separate AI services to an integrated platform, enabling enterprises to scale AI applications with centralized governance. However, the guide reveals that architects must supplement Foundry with custom validation and auditing to meet enterprise compliance requirements, which is critical for regulated industries like BFSI. The platform is organized into two levels: Hub (centralized governance and shared resources) and Projects (isolated AI initiatives). The guide emphasizes that most teams use only two or three of Foundry's ten capabilities, but the most successful teams leverage all ten deliberately.
+
+rss · Towards AI · Jun 19, 19:01
+
+**Background**: Azure AI Foundry is Microsoft's platform for building, deploying, and managing enterprise AI applications, offering access to over 11,000 models and tools like Prompt Flow. It was rebranded from Azure AI Studio in late 2024 to reflect a broader platform vision. The BFSI (Banking, Financial Services, and Insurance) sector requires strict compliance with regulations like RBI and PMLA, making governance and auditing essential.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Microsoft_Foundry_Agent_Service">Microsoft Foundry Agent Service</a></li>
+<li><a href="https://medium.com/@edward.benitez.melendez/azure-ai-foundery-prompt-flow-fast-ideation-93a928216a8e">Azure AI Foundry Prompt Flow — Fast ideation | by Edward... | Medium</a></li>
+<li><a href="https://prima.systems/industries/bfsi/reconciliation/">Financial Reconciliation Services - Prima Systems</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Azure AI Foundry`, `#Enterprise AI`, `#Cloud Computing`, `#AI Platform`
 
 ---
