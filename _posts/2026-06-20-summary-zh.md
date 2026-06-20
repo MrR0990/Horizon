@@ -5,40 +5,38 @@ date: 2026-06-20
 lang: zh
 ---
 
-> 从 116 条内容中筛选出 13 条重要资讯。
+> 从 124 条内容中筛选出 13 条重要资讯。
 
 ---
 
-1. [潘建伟团队构建芯片化量子通信网络，突破 540 公里光纤](#item-1) ⭐️ 9.0/10
-2. [中科院展示 4 层 3D 2T0C DRAM，数据保持 400 秒](#item-2) ⭐️ 8.0/10
-3. [LM Studio 与苹果在 Mac 集群上运行万亿参数 Kimi K2.6](#item-3) ⭐️ 8.0/10
-4. [加州理工学院开建史上最灵敏射电望远镜阵列](#item-4) ⭐️ 8.0/10
-5. [BabelTele：AI 语言将文本压缩至 27.9%，语义保留 99.5%](#item-5) ⭐️ 8.0/10
-6. [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](#item-6) ⭐️ 8.0/10
-7. [新型量子传感器可探测引力波和暗物质](#item-7) ⭐️ 8.0/10
-8. [三维光纤微镊输出力超传统光镊十万倍](#item-8) ⭐️ 8.0/10
-9. [探索屏幕无法显示的颜色](#item-9) ⭐️ 7.0/10
-10. [卫星研究显示 GPS 信号篡改远超预期](#item-10) ⭐️ 7.0/10
-11. [AWS 推出 Cognito 多区域复制功能](#item-11) ⭐️ 7.0/10
-12. [通过像素编码将网站存储在图标中](#item-12) ⭐️ 6.0/10
-13. [英国拟强制 Meta 和 YouTube 推广本地新闻](#item-13) ⭐️ 6.0/10
+1. [芯片化量子通信网络突破 540 公里光纤传输距离](#item-1) ⭐️ 9.0/10
+2. [苹果发布 Core AI，实现设备端生成式 AI](#item-2) ⭐️ 9.0/10
+3. [英特尔与 AMD 推出 ACE 扩展，提升 x86 AI 效率](#item-3) ⭐️ 8.0/10
+4. [英国团队攻克量子传感器激光噪声难题](#item-4) ⭐️ 8.0/10
+5. [三维光纤微镊实现精密微操控](#item-5) ⭐️ 8.0/10
+6. [中科院突破 3D DRAM 技术，展示 4 层 IGZO 2T0C 结构](#item-6) ⭐️ 8.0/10
+7. [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](#item-7) ⭐️ 8.0/10
+8. [AWS 为 Cognito 增加多区域复制功能](#item-8) ⭐️ 7.0/10
+9. [GLM 5.2：高努力级别用一半 Token 保留 98%智能](#item-9) ⭐️ 7.0/10
+10. [在 24GB AMD GPU 上运行 Qwen 27B 模型并支持 131k 上下文](#item-10) ⭐️ 7.0/10
+11. [用自然语言战术指令控制多智能体足球 AI](#item-11) ⭐️ 7.0/10
+12. [英国拟强制社交平台推广本地新闻](#item-12) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [潘建伟团队构建芯片化量子通信网络，突破 540 公里光纤](https://www.ithome.com/0/966/525.htm) ⭐️ 9.0/10
+## [芯片化量子通信网络突破 540 公里光纤传输距离](https://www.ithome.com/0/966/525.htm) ⭐️ 9.0/10
 
-潘建伟领导的研究团队展示了基于双场量子密钥分发（TF-QKD）协议的芯片化量子密钥分发网络，在总损耗达 91.5dB 的 540 公里光纤上实现了安全密钥生成。该成果于 2026 年 6 月 19 日发表在《自然·光子学》上。 这项工作通过将关键组件集成到光子芯片上，显著降低了系统复杂度，是迈向实用化、可扩展量子通信网络的重要一步。它证明了基于芯片的 QKD 能够突破速率-损耗极限并支持多用户，为安全量子互联网铺平了道路。 芯片化发送端集成了基于氮化硅微环谐振腔的自注入锁定激光器（线宽约 100Hz）和薄膜铌酸锂（TFLN）光子集成芯片，其调制器实现了 25GHz 带宽、2.6V 半波电压和 34dB 消光比。网络采用量子叶脊架构，支持灵活的用户连接和可扩展性。
+潘建伟团队成功演示了基于双场量子密钥分发（TF-QKD）协议的芯片化量子密钥分发网络，在 540 公里超低损耗光纤上实现了 2.93 bps 的安全成码率，超过无中继密钥容量 9 倍。该成果于 2026 年 6 月 19 日发表在《自然·光子学》上。 这一突破通过将关键组件集成到光子芯片上，降低了系统复杂度和成本，极大推动了量子通信的实用化部署。它为可扩展的、安全的量子网络铺平了道路，能够在城域和城际距离上服务大量用户。 芯片化发送端集成了基于氮化硅（Si3N4）微环谐振腔的自注入锁定激光器（线宽 100 Hz）和薄膜铌酸锂（TFLN）光子芯片（调制器带宽 25 GHz，半波电压 2.6 V，消光比 34 dB）。网络采用量子叶脊架构，支持灵活的用户连接和可扩展性。
 
 rss · IT之家 · 6月20日 07:51
 
-**背景**: 量子密钥分发（QKD）允许两方以信息论安全性共享密钥。双场 QKD（TF-QKD）克服了传统 QKD 的基本速率-损耗极限，无需量子中继器即可实现更远距离。然而，TF-QKD 需要极其稳定的激光器和精确的干涉，这阻碍了实际部署。芯片集成提供了一条减小尺寸、成本和复杂性的途径。
+**背景**: 量子密钥分发（QKD）允许两方以信息论安全的方式共享密钥。双场 QKD（TF-QKD）突破了传统 QKD 的速率-距离限制，可实现更远距离，但要求两个独立激光器之间实现极其稳定的单光子干涉。芯片集成旨在减小 QKD 系统的尺寸、成本和复杂度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s42005-020-00415-0?error=cookies_not_supported">Optimized protocol for twin-field quantum key distribution</a></li>
-<li><a href="https://arxiv.org/abs/2212.05730">[2212.05730] Recent Advances in Laser Self-Injection Locking to High-$Q$ Microresonators</a></li>
-<li><a href="https://www.nature.com/articles/s41467-023-40502-8">High density lithium niobate photonic integrated circuits | Nature Communications</a></li>
+<li><a href="https://mozi.ustc.edu.cn/detail/418">量 子 密 钥 分 发 ：从BB84到 TF - QKD （上）</a></li>
+<li><a href="https://www.nsfc.gov.cn/publish/portal0/tab1358/info93612.htm">我国学者成功实现基于本地频率参考的 双 场 量 子 密 钥 分 发</a></li>
 
 </ul>
 </details>
@@ -48,246 +46,242 @@ rss · IT之家 · 6月20日 07:51
 ---
 
 <a id="item-2"></a>
-## [中科院展示 4 层 3D 2T0C DRAM，数据保持 400 秒](https://www.ithome.com/0/966/543.htm) ⭐️ 8.0/10
+## [苹果发布 Core AI，实现设备端生成式 AI](https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 9.0/10
 
-中国科学院研究人员首次展示了基于 IGZO 晶体管的 4 层 3D 2T0C DRAM 结构，实现了 400 秒数据保持和每单元 3 比特存储。该成果已被 VLSI 2026 接收。 这一突破通过实现无电容 DRAM 的密集 3D 集成，满足了 AI 和高性能计算对高容量、高带宽存储器的需求。它可能带来更高效的片上存储方案，降低延迟并提升性能。 该 3D DRAM 采用垂直字线架构和双栅 2T0C 单元设计，优化了读取裕度和稳定性。IGZO 晶体管实现了快速写入和长保持时间（400 秒），每单元 3 比特存储进一步提升了密度。
+在 WWDC 26 上，苹果宣布了 Core AI 框架，它取代了 Core ML，使开发者能够在设备端完全运行大语言模型和生成式 AI，无需任何服务器依赖。 这标志着从云端 AI 向设备端处理的重大转变，增强了隐私性、降低了延迟并消除了 token 成本，可能加速生成式 AI 在 iOS 和 macOS 应用中的普及。 Core AI 支持自定义转换的 PyTorch 模型和预优化的开源模型，专为 Apple Silicon 设计，并提供现代、内存安全的 Swift API。
 
-rss · IT之家 · 6月20日 10:33
+rss · InfoQ · 6月20日 11:00
 
-**背景**: 传统 DRAM 采用 1T1C（一个晶体管、一个电容器）单元，在先进制程下电容器制造困难，面临缩放挑战。2T0C DRAM 去除了电容器，使用两个晶体管（一个写入、一个读取），利用读取晶体管的寄生电容存储数据。IGZO（铟镓锌氧化物）是一种氧化物半导体，具有极低的关态电流，非常适合无电容 DRAM。3D 堆叠存储层可大幅提升密度，类似于 3D NAND。
+**背景**: Core ML 是苹果在 2017 年推出的机器学习框架，主要用于传统 ML 模型。随着生成式 AI 和大语言模型的兴起，苹果开发了 Core AI，以利用 Apple Silicon 的统一内存架构和神经网络引擎提供优化的设备端推理。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.science.org/doi/10.1126/sciadv.adu4323">3D stacked IGZO 2T0C DRAM array with multibit capability for computing in memory applications | Science Advances</a></li>
-<li><a href="https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology">Disrupting the DRAM roadmap with capacitor-less IGZO- ...</a></li>
+<li><a href="https://developer.apple.com/core-ai/">Core AI - Apple Developer</a></li>
+<li><a href="https://www.everydev.ai/tools/apple-core-ai">Core AI - Apple On-Device AI Framework | EveryDev. ai</a></li>
+<li><a href="https://www.aimadetools.com/blog/core-ai-vs-core-ml/">Core AI vs Core ML: Which Apple Framework Should You Use in 2026?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#DRAM`, `#3D integration`, `#IGZO`, `#semiconductor`, `#memory technology`
+**标签**: `#Apple`, `#Generative AI`, `#On-Device ML`, `#Core AI`, `#WWDC`
 
 ---
 
 <a id="item-3"></a>
-## [LM Studio 与苹果在 Mac 集群上运行万亿参数 Kimi K2.6](https://www.ithome.com/0/966/539.htm) ⭐️ 8.0/10
+## [英特尔与 AMD 推出 ACE 扩展，提升 x86 AI 效率](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient) ⭐️ 8.0/10
 
-在 WWDC 2026 上，LM Studio 与苹果成功在四台 Mac Studio 集群上运行了万亿参数的 Kimi K2.6 模型，利用内存池化和 Thunderbolt 5 RDMA 技术，并通过 LM Link 实现了从 MacBook Neo 和 iPhone 的安全远程访问。 这表明消费级苹果硬件能够本地运行前沿规模 AI 模型，减少对昂贵 GPU 集群的依赖，推动隐私保护的本地 AI 部署。同时也突显了设备端 AI 推理生态系统的日益壮大。 Kimi K2.6 模型总参数 1 万亿，通过 MoE 架构激活 320 亿参数，四台 Mac Studio 形成约 1.5TB 的统一内存池。类似测试中，推理速度达到约 28 tokens/s，功耗低于传统 GPU 集群。
+英特尔和 AMD 联合宣布为 x86 处理器推出 AI 计算扩展（ACE），这是一套新的指令集，旨在加速矩阵乘法并支持低精度数据格式，从而提升 AI 工作负载的功耗和密度效率。 ACE 将原生 AI 加速引入通用 x86 CPU，减少了许多机器学习任务对独立 GPU 或专用加速器的依赖，这有望降低成本并扩大 AI 在数据中心和边缘设备中的采用。 ACE 与现有的 AVX10 向量扩展集成，专注于高效的矩阵乘法和低精度（如 INT8、BF16）数据类型，这些对神经网络推理和训练至关重要。
 
-rss · IT之家 · 6月20日 09:37
+rss · Tom's Hardware · 6月20日 12:00
 
-**背景**: 混合专家（MoE）是一种神经网络架构，每次输入仅激活部分参数，从而以较低计算成本实现更大模型。Thunderbolt 5 上的 RDMA（远程直接内存访问）允许多台 Mac 以低延迟共享内存，有效池化统一内存用于大模型推理。LM Link 是一项安全远程访问功能，可创建到 LM Studio 实例的端到端加密连接。
+**背景**: 矩阵乘法是神经网络等 AI 工作负载的核心运算。传统的 x86 CPU 通过通用指令处理，效率较低。之前的扩展如英特尔的 AMX（高级矩阵扩展）已针对此问题，但 ACE 是英特尔和 AMD 的跨厂商标准，确保了 x86 平台上更广泛的兼容性和优化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/">1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5 - Jeff Geerling</a></li>
-<li><a href="https://stabilise.io/blog-pages/blog/apples-rdma-revolution-how-mac-clusters-are-changing-local-ai-hosting">Apple's RDMA Revolution: How Mac Clusters Are Changing Local AI Hosting | Stabilise</a></li>
-<li><a href="https://ubos.tech/news/tailscale-and-lm-studio-launch-lm‑link-for-encrypted-point‑to‑point-gpu-access/">Tailscale and LM Studio Launch LM ‑ Link for Encrypted... - UBOS</a></li>
+<li><a href="https://overclock3d.net/news/cpu_mainboard/amd-and-intel-confirm-ace-ai-compute-extensions-for-x86/">AMD and Intel confirm "ACE" AI Compute Extensions for x86 - OC3D</a></li>
+<li><a href="https://www.digitalcitizen.life/amd-and-intel-prepare-ace-extensions-to-make-future-x86-cpus-better-at-ai-workloads/">AMD And Intel Prepare ACE Extensions To Make Future x86 CPUs Better At AI Workloads</a></li>
+<li><a href="https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf">The AI Compute Extensions (ACE) for x86</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Apple`, `#Large Language Models`, `#Local Deployment`, `#Hardware`
+**标签**: `#CPU`, `#AI`, `#x86`, `#instruction set`, `#matrix multiplication`
 
 ---
 
 <a id="item-4"></a>
-## [加州理工学院开建史上最灵敏射电望远镜阵列](https://www.ithome.com/0/966/530.htm) ⭐️ 8.0/10
+## [英国团队攻克量子传感器激光噪声难题](https://www.ithome.com/0/966/546.htm) ⭐️ 8.0/10
 
-加州理工学院已开始建设深度巡天阵列（DSA），该阵列计划于 2029 年完工，由 1650 面天线组成，将成为史上灵敏度最高、巡天速度最快的射电望远镜阵列。 DSA 预计在首次巡天中发现数十亿个新射电源，将彻底改变我们对快速射电暴、脉冲星和暗能量的理解，并向全球实时开放数据。 每面天线直径 6.1 米，分布在内华达州偏远沙漠中 19.3×16.1 公里的区域。阵列工作频率为 0.7–2 GHz，并采用成本控制措施，例如使用 Fat Daddio's 蛋糕烤盘模具制造天线部件。
+由英国帝国理工学院领导的一个合作团队展示了一种差分测量技术，可消除原子干涉仪中的激光相位噪声，即使在单台设备测量被噪声淹没时也能恢复信号。该成果于 2026 年 6 月 17 日发表在《自然》杂志上。 这一突破消除了建造大规模量子传感器的主要障碍，使得探测来自暗物质和早期宇宙引力波的超弱信号成为可能。它为公里级原子干涉仪铺平了道路，这类设备有望探索标准模型之外的物理。 研究团队使用两团超冷锶-87 原子作为独立的干涉仪，共享同一台超稳定时钟激光。通过比较它们的输出，共同激光噪声被抵消，即使在故意加入额外噪声的情况下，灵敏度也达到了量子极限。
 
-rss · IT之家 · 6月20日 08:25
+rss · IT之家 · 6月20日 11:43
 
-**背景**: 射电望远镜阵列通过组合多面天线的信号实现高分辨率，但对微弱信号的灵敏度不如单面大型天线。DSA 凭借大量天线和广阔覆盖面积，兼具高灵敏度和快速巡天能力，非常适合研究快速射电暴等瞬变现象。
+**背景**: 原子干涉仪利用激光脉冲操控原子，测量由重力或加速度等力引起的微小相位偏移。然而，激光相位噪声通常远大于目标信号，限制了灵敏度。AION（原子干涉仪观测站与网络）项目旨在建造大规模干涉仪，以搜寻暗物质和引力波。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Deep_Synoptic_Array">Deep Synoptic Array - Wikipedia</a></li>
-<li><a href="https://www.deepsynoptic.org/overview">DSA -2000 — Deep Synoptic Array ( DSA )</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Fast_radio_burst">Fast radio burst - Wikipedia</a></li>
+<li><a href="https://www.hep.ph.ic.ac.uk/AION-Project/">AION @ Imperial: Home</a></li>
+<li><a href="https://quantumzeitgeist.com/atom-interferometer-ukri-funds-aion/">UKRI Funds AION to Build First Large-Scale Atom Interferometer</a></li>
 
 </ul>
 </details>
 
-**标签**: `#radio astronomy`, `#telescope array`, `#Caltech`, `#astrophysics`, `#deep space survey`
+**标签**: `#quantum sensing`, `#atomic interferometer`, `#dark matter`, `#gravitational waves`, `#physics research`
 
 ---
 
 <a id="item-5"></a>
-## [BabelTele：AI 语言将文本压缩至 27.9%，语义保留 99.5%](https://www.ithome.com/0/966/529.htm) ⭐️ 8.0/10
+## [三维光纤微镊实现精密微操控](https://www.ithome.com/0/966/545.htm) ⭐️ 8.0/10
 
-来自多所中国高校及悉尼大学的研究人员提出了 BabelTele，一种将自然语言转换为密集、模型可读格式的文本压缩方法，可将文本压缩至原始大小的 27.9%，同时为 LLM 保留 99.5%的语义准确性。 这项研究挑战了 LLM 需要人类可读提示的假设，有望降低 Token 成本，提升多智能体通信和长文本处理的效率。 BabelTele 融合多语言词汇、数学符号、逻辑运算符和表情符号，形成密集表示。在 MeetingBank 和 QuALITY 等基准测试中，其表现优于传统摘要和 LLMLingua-2 等提示压缩工具。
+安徽大学与中国科学技术大学的研究团队利用飞秒激光 3D 打印技术研制出三维光纤微镊（OFG），相关成果于 2026 年 6 月 17 日发表在《自然》期刊上。该器件集光学与机械功能于一体，实现了高性能微操控。 这一突破填补了光镊与机械夹持器之间的空白，输出力是传统光镊的十万倍以上。它能够在受限空间内精确操控不透明物体和单细胞，在生物医学、先进制造和光子学等领域具有潜在应用。 该微镊尺寸为 38×38×61 μm³，通过双光子聚合 3D 打印技术在商用光纤端部一次性制造而成。它由刚性光刻胶微爪和掺杂银纳米颗粒的温敏响应水凝胶“肌肉”构成，力质量比达到约 340 μN/mg，较此前报道的光纤集成微镊提升了一到两个数量级。
 
-rss · IT之家 · 6月20日 08:18
+rss · IT之家 · 6月20日 11:23
 
-**背景**: 当前 LLM 使用为人类设计的自然语言进行交互，其中包含大量冗余。BabelTele 是一种面向模型的表示方法，牺牲人类可读性以实现更高信息密度，并支持不同 LLM 之间的零样本传递。
+**背景**: 光镊技术利用聚焦光束形成光学势阱来捕获微粒，但作用力较弱且无法操控不透明物体；传统微夹持器虽能提供较大作用力，但体积大、系统复杂。飞秒激光 3D 打印基于双光子聚合原理，能够以亚微米分辨率制造任意三维微结构。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/list/cs/new">Computer Science - arXiv</a></li>
-<li><a href="https://www.alphaxiv.org/?organizations=["Tsinghua+University","Zhipu+AI","Beijing+Jiaotong+University","University+of+Science+and+Technology+of+China","Northeastern+University","Sapient+Intelligence","Pazhou+Laboratory","Nanjing+University","Princeton+AI+Lab","National+University+of+Singapore","Peking+University","Shanghai+AI+Lab","DeepSeek","University+of+Manchester","ShengShu","Google+Cloud+AI+Research","Fudan+University"]">Ask or search anything... - alphaXiv</a></li>
+<li><a href="https://www.nature.com/articles/s41586-026-10673-7">Optical fibre gripper for high-performance 3D micromanipulation</a></li>
+<li><a href="https://www.azom.com/article.aspx?ArticleID=21355">What is Femtosecond Laser-Based 3D Printing?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Two-photon_polymerization">Two-photon polymerization</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#text compression`, `#AI efficiency`, `#natural language processing`, `#research`
+**标签**: `#micromanipulation`, `#optical fiber`, `#femtosecond laser`, `#Nature`, `#nanotechnology`
 
 ---
 
 <a id="item-6"></a>
-## [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
+## [中科院突破 3D DRAM 技术，展示 4 层 IGZO 2T0C 结构](https://www.ithome.com/0/966/543.htm) ⭐️ 8.0/10
 
-Amazon Bedrock 现在要求使用 Claude Fable 5 或 Mythos 5 的客户选择加入 provider_data_share，将提示和输出发送给 Anthropic 进行 30 天保留并接受人工审核，这与之前将推理数据保留在 AWS 内部的模型不同。发布三天后，Anthropic 以美国出口管制合规为由要求 AWS 撤销对这两个模型的访问权限。 这一变化标志着 AWS 上企业 AI 部署的数据隐私实践发生转变，可能影响对合规敏感的行业。出口管制撤销凸显了先进 AI 模型访问面临日益增长的地缘政治限制。 provider_data_share 强制要求仅适用于 Mythos 级别，目前包括 Fable 5 和 Mythos 5。发布时，这些模型在美国东部（弗吉尼亚北部）和欧洲（斯德哥尔摩）区域可用。
+中国科学院微电子研究所联合北京超弦设备研究院，首次展示了基于 IGZO 晶体管的 4 层 3D 2T0C DRAM，实现了 400 秒的数据保持时间和每单元 3 比特存储，相关成果已被 VLSI 2026 接收。 这一突破通过实现无电容器的单片 3D DRAM 集成，满足了 AI 和高性能计算对高密度、高带宽存储器的迫切需求，有望推动更紧凑、高效的存储方案，缩小逻辑与存储之间的性能差距。 新型 3D DRAM 采用双栅 IGZO 2T0C 单元和垂直字线架构，优化了读取裕度和稳定性。400 秒的数据保持时间远超传统 DRAM（毫秒级），而每单元 3 比特存储进一步提升了密度。
 
-rss · InfoQ · 6月20日 09:03
+rss · IT之家 · 6月20日 10:33
 
-**背景**: Amazon Bedrock 是一项托管服务，通过 API 提供来自不同提供商的基础模型访问。此前，Bedrock 模型的推理数据保留在 AWS 内部，确保数据隐私。针对某些 Anthropic 模型的新数据共享要求背离了这一做法。美国出口管制（如 EAR 法规）限制敏感技术（包括先进 AI 模型）向某些国家的转移。
+**背景**: 传统 DRAM 采用 1T1C（一个晶体管、一个电容器）单元，电容器限制了微缩。2T0C（两个晶体管、零电容器）架构去除了电容器，利用 IGZO 晶体管极低的关态电流来存储电荷，从而可以在逻辑芯片上直接堆叠多层，实现更高的存储密度和带宽。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.creativeainews.com/articles/claude-fable-5-bedrock-data-sharing-2026/">Claude Fable 5 on Bedrock Forces Data Sharing</a></li>
-<li><a href="https://aws.amazon.com/bedrock/faqs/">Find answers to frequently asked questions about Amazon Bedrock .</a></li>
+<li><a href="https://www.electronicspecifier.com/products/memory/novel-2t0c-dynamic-random-access-memory-cell-architecture/">Novel 2 T 0 C dynamic random - access memory cell architecture</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12101486/">3D stacked IGZO 2 T 0 C DRAM array with multibit capability for...</a></li>
+<li><a href="https://semiengineering.com/baby-steps-towards-3d-dram/">Baby Steps Toward 3D DRAM</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#AWS`, `#data privacy`, `#export control`, `#Anthropic`
+**标签**: `#3D DRAM`, `#IGZO`, `#semiconductor`, `#memory technology`, `#VLSI`
 
 ---
 
 <a id="item-7"></a>
-## [新型量子传感器可探测引力波和暗物质](https://36kr.com/newsflashes/3861211883607305?f=rss) ⭐️ 8.0/10
+## [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-英国帝国理工学院在《自然》杂志上报告了一种新型量子传感器，它基于原子干涉仪，能消除激光脉冲的背景噪声，从而探测极微弱的信号。 这一突破使得探测以往无法触及的微弱信号成为可能，有助于研究引力波、暗物质以及超大质量黑洞的形成。 该传感器利用原子干涉测量技术，通过原子物质波的干涉进行测量，但过程中使用的激光脉冲会引入噪声；新设计消除了这种噪声，从而实现了更高的灵敏度。
+在 Amazon Bedrock 上使用 Claude Fable 5 或 Mythos 5 现在需要选择加入 provider_data_share，将提示和输出发送给 Anthropic 进行 30 天保留并接受人工审查。发布三天后，Anthropic 因美国出口管制合规要求 AWS 撤销了对这两个模型的访问权限。 这打破了之前推理数据保留在 AWS 边界内的惯例，给企业带来了重大的数据隐私和合规问题。突然的访问撤销也削弱了信任，可能影响 Anthropic 模型在 Bedrock 上的采用。 数据共享必须通过 Data Retention API 启用，启动时没有控制台界面。Anthropic 以美国出口管制合规为由撤销访问权限，但未详细说明具体的出口管制担忧。
 
-rss · 36氪 · 6月20日 09:05
+rss · InfoQ · 6月20日 09:03
 
-**背景**: 原子干涉仪通过激光脉冲分裂和重组原子波包来测量微小的力。然而，激光脉冲本身会引入相位噪声，可能掩盖微弱信号。新传感器采用一种技术来消除这种噪声，从而能够探测引力波和暗物质相互作用等信号。
+**背景**: Amazon Bedrock 是一项托管服务，通过 API 提供对来自不同提供商的基础模型的访问。此前，Bedrock 不与第三方模型提供商共享推理数据，AWS 声明其不存储或共享客户数据。Anthropic 的 Claude 模型以注重安全的设计而闻名，但这一数据共享要求代表了政策上的转变。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wuli.iphy.ac.cn/cn/article/id/29243">原 子 干 涉 仪 和 原 子 光学研究的最新进展</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/">Claude Fable 5 on Bedrock Requires Sharing Inference Data ...</a></li>
+<li><a href="https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-fable-5.html">Claude Fable 5 - Amazon Bedrock</a></li>
+<li><a href="https://www.repost.aws/knowledge-center/amazon-bedrock-model-data-use">Does Amazon Bedrock share input and output data with model ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#quantum sensor`, `#gravitational waves`, `#dark matter`, `#physics`, `#astrophysics`
+**标签**: `#AI`, `#data privacy`, `#AWS`, `#Anthropic`, `#compliance`
 
 ---
 
 <a id="item-8"></a>
-## [三维光纤微镊输出力超传统光镊十万倍](https://36kr.com/newsflashes/3861209206740228?f=rss) ⭐️ 8.0/10
+## [AWS 为 Cognito 增加多区域复制功能](https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-安徽大学与中国科学技术大学的研究团队提出了一种飞秒激光复合制造方法，在商用光纤端部构建了三维光纤微镊，其输出力是传统光镊的十万倍以上。该成果发表于《自然》期刊。 这一突破实现了对微米尺度目标的高精度、低损伤和可编程三维操控，在微组装、生物物理和集成光子学等领域具有潜在应用。输出力的大幅提升克服了传统光镊的关键限制，扩展了可操控物体的范围。 三维光纤微镊通过飞秒激光复合制造方法直接在商用光纤端面上制备而成。该器件能够精准操控微米尺度目标，并精确装配复杂微结构。
+AWS 为 Amazon Cognito 引入了多区域复制功能，能够将近实时地将用户身份和用户池配置从主区域自动同步到备用区域。 该功能可在区域故障期间实现用户身份验证的自动故障转移，无需自定义复制和故障转移机制，从而显著提升 AWS 客户应用的韧性。 复制内容包括用户凭证、用户池配置和联合身份设置，在故障转移期间用户无需强制重置密码即可继续验证。
 
-rss · 36氪 · 6月20日 08:42
+rss · InfoQ · 6月20日 07:40
 
-**背景**: 光镊利用高度聚焦的激光束捕获和操控微观粒子，通常产生的力在皮牛顿量级。传统光镊需要庞大的光学系统，且输出力有限。光纤光镊将捕获功能集成到光纤端部，提供更紧凑灵活的解决方案。飞秒激光加工方法可在光纤端部对聚合物材料进行精确三维结构加工，实现增强捕获力的复杂几何形状。
+**背景**: Amazon Cognito 是一项面向 Web 和移动应用的托管身份服务。此前，Cognito 用户池是区域资源，没有内置的全局复制功能，多区域灾难恢复较为困难。新功能通过提供自动复制和故障转移填补了这一空白。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.light-am.com/en/article/doi/10.37188/lam.2022.005">Design and realization of 3D printed fiber-tip microcantilever probes ...</a></li>
-<li><a href="https://www.illord.com/en/article/doi/10.37188/CO.2023-0016">Advances in optical fiber tweezer technology based on hetero-core fiber</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/">Improve your application resilience with Amazon Cognito multi-Region replication | Amazon Web Services</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/">Amazon Cognito now supports multi-Region replication - AWS</a></li>
+<li><a href="https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-multi-region.html">Multi-Region replication for user pools - Amazon Cognito</a></li>
 
 </ul>
 </details>
 
-**标签**: `#optical tweezers`, `#femtosecond laser`, `#micro-manipulation`, `#Nature`, `#fiber optics`
+**标签**: `#AWS`, `#Cognito`, `#multi-region replication`, `#disaster recovery`, `#authentication`
 
 ---
 
 <a id="item-9"></a>
-## [探索屏幕无法显示的颜色](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) ⭐️ 7.0/10
+## [GLM 5.2：高努力级别用一半 Token 保留 98%智能](https://www.reddit.com/r/LocalLLaMA/comments/1uar4e2/glm_52_98_of_max_level_intelligence_with_less/) ⭐️ 7.0/10
 
-Moultano 的一篇文章通过 CIE 色度图和实际例子（如群青蓝和 CRT 荧光粉）探讨了典型屏幕无法再现的颜色。 这篇深度文章揭示了显示技术的根本局限，影响从数字艺术到色彩关键行业，并强调了物理颜色与屏幕再现之间的差距。 CIE 1931 色度图用于可视化色域，但它过度强调了某些人类难以区分的蓝绿色。sRGB 色彩空间尤其难以再现饱和的橙色、红色和紫色。
+GLM 5.2 的“高”努力级别使用的 Token 不到“最高”级别的一半，同时在编码任务中达到最高级别智能的 98%，如 z.ai 技术报告所示。 这种 Token 效率使 GLM 5.2 对硬件有限的本地用户更易用，减少了等待时间和计算成本，同时保持接近最高的性能。 “高”努力级别使用约 6k Token，而“最高”级别使用 36.7k Token，实际答案质量差异通常可忽略不计。但结果可能因量化（如 Q4）和具体任务而异。
 
-hackernews · moultano · 6月20日 03:36 · [社区讨论](https://news.ycombinator.com/item?id=48606140)
+reddit · r/LocalLLaMA · /u/perelmanych · 6月20日 08:19
 
-**背景**: 色域是设备能再现的颜色范围，通常在 CIE 图上显示为三角形。CIE 1931 色彩空间是人类颜色视觉的标准模型，但它在感知上并不均匀。群青蓝是一种由青金石制成的深蓝色颜料，以其屏幕无法完全捕捉的鲜艳度而闻名。
+**背景**: GLM 5.2 是一个开源大语言模型，拥有 1M Token 的上下文窗口，专为长周期编码任务设计。它使用推理 Token 进行思维链处理，其努力级别控制允许用户在能力与速度、成本之间进行权衡。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/CIE_diagram">CIE diagram</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Color_gamut">Color gamut</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ultramarine_blue">Ultramarine blue</a></li>
+<li><a href="https://openlm.ai/glm-5.2/">GLM-5.2 | OpenLM.ai</a></li>
+<li><a href="https://z.ai/blog/glm-5.2">GLM-5.2: Built for Long-Horizon Tasks - z.ai</a></li>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM-5.2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者指出 CIE 图过度强调某些颜色，而 sRGB 的主要缺陷是难以再现饱和的橙色/红色/紫色。用户分享了群青蓝和 CRT 荧光粉等实际例子，其中一位提到 CRT 荧光粉能产生现代屏幕无法呈现的强烈青色。
+**社区讨论**: Reddit 用户报告称，经过测试，对于一道数学题，“高”级别产生的答案与“最高”级别非常相似，主要区别在于呈现方式而非正确性。他们建议日常使用“高”级别，仅在需要完美结果时使用“最高”级别。
 
-**标签**: `#color science`, `#display technology`, `#color gamut`, `#visual perception`
+**标签**: `#GLM 5.2`, `#token efficiency`, `#local LLM`, `#reasoning tokens`, `#AI inference`
 
 ---
 
 <a id="item-10"></a>
-## [卫星研究显示 GPS 信号篡改远超预期](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) ⭐️ 7.0/10
+## [在 24GB AMD GPU 上运行 Qwen 27B 模型并支持 131k 上下文](https://www.reddit.com/r/LocalLLaMA/comments/1uar6in/7900xtx_24gb_vram_can_finally_fit_q6kmtp_with/) ⭐️ 7.0/10
 
-一项基于卫星的研究显示，GPS 信号篡改（包括干扰和欺骗）的规模远超此前预期，对航空和其他关键基础设施构成严重安全风险。 这一发现凸显了全球导航系统日益增长的脆弱性，可能导致航空事故、海上事件以及金融网络中断，亟需监管机构和行业紧急关注。 该研究利用基于卫星的传感器网络数据绘制了全球 GPS 干扰地图，发现干扰和欺骗事件集中在冲突地区和主要航运路线沿线。该研究由一家同时提供缓解方案的公司进行，引发了对潜在偏见的质疑。
+该方法显著扩展了消费级 AMD GPU 上本地 LLM 推理的实际上下文窗口，使得无需依赖云端即可进行长文档分析或长时间对话等任务。 用户使用 -DGGML_CUDA_FA_ALL_QUANTS=true 编译 llama.cpp，并采用 -ctk q5_0 -ctv q4_0 进行 KV 缓存量化，相比 Q8 减少了约 12%的显存占用，精度损失仅为 1.6%。
 
-hackernews · y1n0 · 6月20日 04:07 · [社区讨论](https://news.ycombinator.com/item?id=48606271)
+reddit · r/LocalLLaMA · /u/soyalemujica · 6月20日 08:23
 
-**背景**: GPS（全球定位系统）是一种基于卫星的导航系统，全球数十亿设备使用。干扰是指在 GPS 频率上广播噪声以淹没合法信号，而欺骗则是发送虚假 GPS 信号，使接收器误以为处于不同位置。这两种技术都可能破坏飞机导航和金融交易计时等关键系统。
+**背景**: 大型语言模型需要大量显存来存储模型权重和键值（KV）缓存，后者随上下文长度增长。KV 缓存量化通过使用更低精度的数字来减少缓存的内存占用，从而在有限硬件上支持更长的上下文。Q6K 量化是一种 GGUF 格式，在模型大小和质量之间取得平衡。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11397858/">Detecting and Mitigating Attacks on GPS Devices - PMC</a></li>
-<li><a href="https://flyapg.com/blog/what-is-gps-spoofing">Aviations GPS Spoofing & How to Avoid It - Aircraft Performance Group</a></li>
-<li><a href="https://positioningservices.trimble.com/blog/positioning/en-US/article/understanding-gps-jamming-versus-gps-spoofing">GPS jamming vs spoofing : Why is prevention critical?</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">GitHub - ggml-org/llama.cpp: LLM inference in C/C++</a></li>
+<li><a href="https://huggingface.co/blog/kv-cache-quantization">Unlocking Longer Generation with Key-Value Cache Quantization</a></li>
+<li><a href="https://ggufbench.com/knowledge/quantization/">Understanding Quantization — GGUF Bench</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论反应不一：一些人强调航空领域的真实安全担忧，尤其是近地告警系统失效问题；另一些人则因该公司在销售缓解技术方面的商业利益而质疑研究的客观性。此外，还有人对文章网站的可用性表示不满。
-
-**标签**: `#GPS`, `#cybersecurity`, `#aviation`, `#satellite`, `#signal tampering`
+**标签**: `#local-llm`, `#amd-gpu`, `#vram-optimization`, `#llama.cpp`, `#qwen`
 
 ---
 
 <a id="item-11"></a>
-## [AWS 推出 Cognito 多区域复制功能](https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
+## [用自然语言战术指令控制多智能体足球 AI](https://www.reddit.com/r/LocalLLaMA/comments/1uawkdg/research_project_injecting_naturallanguage/) ⭐️ 7.0/10
 
-AWS 为 Amazon Cognito 推出了多区域复制功能，自动将用户身份和用户池配置从主区域复制到辅助区域，从而在中断期间实现自动故障转移。 该功能通过为身份验证提供原生灾难恢复能力，显著提升了应用程序的韧性，消除了自定义复制和故障转移机制的需求，这是云架构师常见的痛点。 复制内容包括用户、凭证、MFA 设置、应用客户端和配置，并且需要使用自定义 AWS KMS 密钥进行加密。该功能在所有 AWS 商业区域可用。
+一个名为 Football Tactical AI 的研究项目探索使用自然语言指令（如“积极逼抢”）来指导多智能体足球策略，AI 球员根据人类的高层意图调整行为。 这项工作连接了自然语言处理和多智能体强化学习，为足球之外的复杂团队协调任务提供了更直观的人机交互范式。 该项目将人类意图视为持续的控制接口而非一次性命令，要求智能体在遵循战术目标的同时保持对局部情况的适应性。测试环境选择足球，因其时间跨度长且需要团队级协调。
 
-rss · InfoQ · 6月20日 07:40
+reddit · r/LocalLLaMA · /u/Working_Original9624 · 6月20日 13:24
 
-**背景**: Amazon Cognito 是面向 Web 和移动应用程序的托管身份服务。此前，实现多区域故障转移需要借助 DynamoDB 流或其他变通方案构建复杂的自定义解决方案。这项新的原生复制功能简化了高可用性配置。
+**背景**: 多智能体强化学习（MARL）训练多个智能体在共享环境中协作或竞争。近期工作如 LangMARL 使用自然语言进行信用分配和策略改进。该项目将这一思路扩展为人类在环教练场景中的高层控制接口。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/">Improve your application resilience with Amazon Cognito ...</a></li>
-<li><a href="https://www.infoq.com/news/2026/06/cognito-replication-aws/">AWS Adds Multi - Region Replication to Amazon Cognito ... - InfoQ</a></li>
+<li><a href="https://github.com/Yabyeab9/football-tactical-ai">GitHub - Yabyeab9/ football - tactical - ai : AI platform for tactical style...</a></li>
+<li><a href="https://arxiv.org/abs/2604.00722">LangMARL: Natural Language Multi-Agent Reinforcement Learning Safe Multi-agent Reinforcement Learning with Natural Language ... A hierarchical multi-agent reinforcement learning framework ... TalkToAgent: A multi-agent LLM Framework for natural language ... GitHub - yuqian2003/Co_Learning: This repository hosts the ... Multi-Agent Reinforcement Learning in AI - GeeksforGeeks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AWS`, `#Cognito`, `#multi-region replication`, `#disaster recovery`, `#cloud`
+**标签**: `#multi-agent systems`, `#natural language processing`, `#reinforcement learning`, `#AI research`
 
 ---
 
 <a id="item-12"></a>
-## [通过像素编码将网站存储在图标中](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) ⭐️ 6.0/10
+## [英国拟强制社交平台推广本地新闻](https://36kr.com/newsflashes/3861056590222342?f=rss) ⭐️ 6.0/10
 
-一位开发者展示了一种技术，通过将数据映射到像素颜色，将整个网站内容编码到 favicon 图像中，然后使用 JavaScript 提取出来。 这一创意技巧突显了 Web 开发中非常规的数据存储方法，引发了关于替代方案和潜在安全风险（如 favicon 缓存指纹识别）的讨论。 该技术使用 16x16 像素的 favicon，每个像素通过 RGB 值存储一个字符，存储容量达到 768 字节。提取脚本读取 favicon 画布并重建原始内容。
-
-hackernews · theanonymousone · 6月20日 05:33 · [社区讨论](https://news.ycombinator.com/item?id=48606619)
-
-**背景**: Favicon 是浏览器标签页中显示的小图标，通常为 16x16 或 32x32 像素。它们从网站的根目录加载，并且可以动态更改。将数据编码到图像中是一种已知的隐写术技术，但将其应用于 favicon 来存储网站内容则是一种新颖的做法。
-
-**社区讨论**: 评论者提出了替代方法，例如使用 SVG favicon 直接嵌入标记，或将数据存储在 PNG 注释块中。一位评论者指出，favicon 缓存可能被利用进行跨域跟踪，构成指纹识别风险。
-
-**标签**: `#favicon`, `#data storage`, `#web development`, `#hacking`
-
----
-
-<a id="item-13"></a>
-## [英国拟强制 Meta 和 YouTube 推广本地新闻](https://36kr.com/newsflashes/3861056590222342?f=rss) ⭐️ 6.0/10
-
-英国政府计划强制 Meta 和 YouTube 等社交媒体平台提升本地新闻内容的曝光权重，预计最早于本月展开公众咨询。 这项法规可能重塑新闻在线分发方式，在传统媒体收入下滑的背景下，有望确保本地新闻触达更广泛的受众。 相关规则还将要求 BBC、ITV 和 Channel 4 等公共服务广播机构增加新闻内容供给，并可能延伸至全国性和区域性报纸。细节仍在最终敲定中。
+英国政府计划强制 YouTube、Meta 等社交媒体平台提升本地新闻内容的曝光权重，预计最早于本月就相关规则展开公众咨询。 这项政策可能重塑新闻在线分发方式，有望扩大地方新闻的覆盖面，同时给全球科技平台带来新的义务。 相关规则将要求 BBC、ITV、Channel 4 等公共服务广播机构增加新闻内容供给，并可能延伸至全国性及区域性报纸。细节仍在最终敲定中。
 
 rss · 36氪 · 6月20日 07:33
 
-**背景**: 社交媒体平台已成为许多用户的主要新闻来源，但算法往往优先推荐病毒式或争议性内容而非本地新闻。英国政府的此举旨在扭转这一趋势，支持公共服务新闻业。
+**背景**: 社交媒体平台因优先展示用户生成内容而减少新闻（尤其是地方新闻）的曝光度而受到批评。英国一直积极监管在线平台，包括《在线安全法》。此举旨在支持面临财务困境的地方新闻业。
 
-**标签**: `#regulation`, `#social media`, `#news`, `#UK`
+**标签**: `#policy`, `#social media`, `#news`, `#UK`, `#regulation`
 
 ---
+
+---
+
+## 🔭 未知的未知
+
+- [“创伤”一词在现代语言中的滥用](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 4.0/10
+
+  > 莉莉·邓恩的文章指出，“创伤”一词在流行话语中被过度使用和稀释，失去了其原本指代真实心理体验的含义。 这很重要，因为语言塑造了我们理解和回应痛苦的方式；重新定义“创伤”有助于保留其临床意义，防止对严重经历的轻描淡写。 文章对比了真正的创伤（如战争或虐待所致）与如今被贴上“创伤”标签的日常压力，并呼吁回归精确的语言使用。
