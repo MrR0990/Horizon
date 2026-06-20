@@ -5,257 +5,7 @@ date: 2026-06-20
 lang: zh
 ---
 
-> 从 258 条内容中筛选出 30 条重要资讯。
-
----
-
-1. [芯片化量子网络实现 540 公里光纤传输](#item-1) ⭐️ 9.0/10
-2. [苹果发布 Core AI，支持设备端生成式 AI](#item-2) ⭐️ 9.0/10
-3. [三维光纤微镊输出力达传统光镊十万倍](#item-3) ⭐️ 9.0/10
-4. [英特尔与 AMD 联合推出 ACE 扩展，提升 x86 AI 效率](#item-4) ⭐️ 8.0/10
-5. [英国科学家攻克量子传感器激光噪声难题](#item-5) ⭐️ 8.0/10
-6. [中科院突破 3D DRAM：4 层 2T0C 结构，数据保持 400 秒](#item-6) ⭐️ 8.0/10
-7. [LM Studio 与苹果用四台 Mac Studio 运行万亿参数 Kimi K2.6](#item-7) ⭐️ 8.0/10
-8. [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](#item-8) ⭐️ 8.0/10
-9. [AWS 为 Amazon Cognito 增加多区域复制功能](#item-9) ⭐️ 7.0/10
-10. [AMD 将在 7 月通过 BIOS 更新恢复 Ryzen 9000 的 TSME](#item-10) ⭐️ 7.0/10
-11. [CSSQuake：纯 CSS 地震模拟演示](#item-11) ⭐️ 6.0/10
-
----
-
-<a id="item-1"></a>
-## [芯片化量子网络实现 540 公里光纤传输](https://www.ithome.com/0/966/525.htm) ⭐️ 9.0/10
-
-潘建伟团队在 2026 年 6 月 19 日发表于《自然·光子学》的论文中，展示了基于双场量子密钥分发（TF-QKD）协议的芯片化量子通信网络，在 540 公里光纤上实现了 2.93 bps 的安全成码率。 这一突破将关键组件集成到光子芯片上，降低了系统复杂度，为实现可扩展的城域和城际安全量子通信网络铺平了道路。 发送端芯片集成了基于氮化硅微环谐振腔的自注入锁定激光器（线宽 100 Hz）和薄膜铌酸锂光子集成芯片（调制带宽 25 GHz，半波电压 2.6 V，消光比 34 dB）。网络采用量子叶脊架构，支持灵活的用户连接。
-
-rss · IT之家 · 6月20日 07:51
-
-**背景**: 量子密钥分发（QKD）利用量子力学原理共享加密密钥，可实现理论上无条件安全的通信。双场量子密钥分发（TF-QKD）突破了传统 QKD 的速率-距离极限，但要求两个独立激光器之间实现极其稳定的单光子干涉，使得芯片集成面临挑战。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/442820084">TF-QKD（双场量子密钥分发协议） - 知乎</a></li>
-<li><a href="https://baike.baidu.com/item/双场量子密钥分发/57520215">双场量子密钥分发_百度百科</a></li>
-<li><a href="https://www.oe1.com/article/7138965622546333696.html">单频半导体激光器研究取得进展：氮化硅微谐振器大大提高半导体激光器性能_行业应用-光电查</a></li>
-
-</ul>
-</details>
-
-**标签**: `#quantum communication`, `#quantum key distribution`, `#photonics`, `#network security`
-
----
-
-<a id="item-2"></a>
-## [苹果发布 Core AI，支持设备端生成式 AI](https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 9.0/10
-
-在 WWDC 26 上，苹果宣布了 Core AI，作为 Core ML 的继任者，使开发者能够在设备上完全运行大型语言模型和生成式 AI，并针对 Apple Silicon 进行了优化。 Core AI 提供了内存安全的 Swift API，支持自定义 PyTorch 模型和预优化的开源模型，并包含 Core AI Optimization 和 Core AI PyTorch Extensions 等工具，用于将模型转换为.aimodel 格式。
-
-rss · InfoQ · 6月20日 11:00
-
-**背景**: 苹果此前使用 Core ML 进行设备端机器学习，但 Core ML 并非为大型语言模型设计。Apple Silicon 的统一内存架构使得大型模型能够在设备上高效运行，例如在 M1 Max 上以约 33 tokens/s 的速度运行 Llama 3.1 8B。Core AI 在此基础上构建了专用框架。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://developer.apple.com/core-ai/">Core AI - Apple Developer</a></li>
-<li><a href="https://developer.apple.com/documentation/coreai">Core AI | Apple Developer Documentation</a></li>
-<li><a href="https://machinelearning.apple.com/research/core-ml-on-device-llama">On Device Llama 3.1 with Core ML - Apple Machine Learning Research</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#Core AI`, `#Generative AI`, `#On-Device ML`, `#WWDC`
-
----
-
-<a id="item-3"></a>
-## [三维光纤微镊输出力达传统光镊十万倍](https://36kr.com/newsflashes/3861209206740228?f=rss) ⭐️ 9.0/10
-
-安徽大学与中国科学技术大学的研究团队利用飞秒激光加工技术在商用光纤端部构建了一种三维光纤微镊，其输出力是传统光镊的十万倍以上。该成果于 2025 年 6 月 17 日发表在《自然》期刊上。 这一突破实现了对微米尺度物体（包括不透明颗粒和单细胞）的高精度、低损伤操控，且作用力远超传统光镊。它为微组装、生物医学取样以及受限空间内的微创手术开辟了新的可能性。 该器件尺寸仅为 38×38×61 μm³，由刚性光刻胶微爪和掺杂银纳米颗粒的温敏响应水凝胶“肌肉”集成而成。它通过双光子聚合 3D 打印一步制造完成，力质量比达到约 340 μN/mg，较此前报道的光纤集成微镊提升了一到两个数量级。
-
-rss · 36氪 · 6月20日 08:42
-
-**背景**: 光镊利用高度聚焦的激光束捕获和操控微观粒子，但通常只能产生皮牛量级的力，且无法操控不透明物体。传统的机械微夹持器能提供更大的力，但体积大且系统复杂。这种新型光纤微镊通过将光传输、光热转换和软材料驱动集成在单个光纤端部，克服了这些限制。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Optical_tweezers">Optical tweezers</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0030399224001397">Optical fiber tweezers: From fabrication to applications - ScienceDirect</a></li>
-<li><a href="https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2022.1051061/full">Frontiers | Emerging applications of femtosecond laser fabrication in...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#optical tweezers`, `#femtosecond laser`, `#micro-manipulation`, `#Nature`, `#photonics`
-
----
-
-<a id="item-4"></a>
-## [英特尔与 AMD 联合推出 ACE 扩展，提升 x86 AI 效率](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient) ⭐️ 8.0/10
-
-英特尔与 AMD 联合发布了 AI 计算扩展（ACE）的完整规范，这是一套面向 x86 CPU 的新指令集，可加速 AI 和机器学习工作负载中的矩阵乘法运算。 ACE 为整个 x86 生态带来了标准化、高能效的矩阵加速能力，使 CPU 无需依赖专用 GPU 或 NPU 即可获得更好的 AI 性能，这有望推动 AI 推理在主流硬件上的普及。 ACE 与 AVX10 无缝集成，其设计相比使用通用 AVX 指令进行矩阵运算更加节能且密度更高。该规范由英特尔和 AMD 于 2024 年成立的 x86 生态系统咨询小组制定。
-
-rss · Tom's Hardware · 6月20日 12:00
-
-**背景**: 矩阵乘法是 AI 工作负载的核心运算，但传统的 x86 指令（如 AVX）并非为二维矩阵运算设计，导致效率低下。ACE 提供了专用的矩阵指令，以提升性能并降低功耗。这是将 AI 加速能力融入通用 CPU 这一大趋势的一部分。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient">Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — a new design makes matrix multiplication more power- and density-efficient | Tom's Hardware</a></li>
-<li><a href="https://overclock3d.net/news/cpu_mainboard/amd-and-intel-confirm-ace-ai-compute-extensions-for-x86/">AMD and Intel confirm “ACE” AI Compute Extensions for x86</a></li>
-<li><a href="https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf">The AI Compute Extensions (ACE) for x86</a></li>
-
-</ul>
-</details>
-
-**标签**: `#CPU`, `#AI`, `#x86`, `#instruction set`, `#hardware`
-
----
-
-<a id="item-5"></a>
-## [英国科学家攻克量子传感器激光噪声难题](https://www.ithome.com/0/966/546.htm) ⭐️ 8.0/10
-
-由英国帝国理工学院领导的研究团队展示了一种差分原子干涉仪，能够消除激光相位噪声，即使在人为添加噪声的条件下也能达到量子极限灵敏度。该成果于 2026 年 6 月 17 日发表在《自然》杂志上。 这一突破消除了建造公里级原子干涉仪的主要障碍，这种干涉仪能够探测早期宇宙的引力波和现有探测器无法触及的暗物质信号。它为 AION 计划及类似的国际合作项目铺平了道路。 研究团队使用两团超冷锶-87 原子作为独立的干涉仪，共享同一台超稳定时钟激光。通过比较两者的测量结果，共同激光噪声被抵消，即使在单台设备数据被噪声淹没时也能恢复信号。系统运行在标准量子极限水平。
-
-rss · IT之家 · 6月20日 11:43
-
-**背景**: 原子干涉仪利用原子的波动性进行超精密测量，但依赖的激光脉冲会引入远大于目标信号的相位噪声。差分测量技术抵消了这种共同噪声，从而能够探测来自暗物质或引力波的微弱信号。AION 计划旨在英国建造长基线原子干涉仪。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nature.com/articles/s41586-026-10617-1">A prototype differential atom interferometer for fundamental physics | Nature</a></li>
-<li><a href="https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html">Quantum sensor overcomes major obstacle in search for dark matter...</a></li>
-<li><a href="https://www.hep.ph.ic.ac.uk/AION-Project/">AION @ Imperial: Home</a></li>
-
-</ul>
-</details>
-
-**标签**: `#quantum sensing`, `#atom interferometry`, `#dark matter`, `#gravitational waves`, `#physics research`
-
----
-
-<a id="item-6"></a>
-## [中科院突破 3D DRAM：4 层 2T0C 结构，数据保持 400 秒](https://www.ithome.com/0/966/543.htm) ⭐️ 8.0/10
-
-中国科学院微电子研究所的研究人员首次展示了基于 IGZO 的 4 层 3D 2T0C DRAM，实现了 400 秒的数据保持时间和每单元 3 比特存储，该成果已被 VLSI 2026 收录。 这一突破实现了直接在逻辑芯片上集成高密度、高带宽存储器，解决了 AI 和高性能计算中的存储墙问题。它为用更可扩展的方案替代传统 SRAM 和片外 DRAM 提供了路径。 该 3D DRAM 采用双栅 IGZO 2T0C 单元和垂直字线架构，针对读取裕度和稳定性进行了优化。4 层堆叠通过单步高层三维集成方案制造，实现了每单元 3 比特和 400 秒保持时间。
-
-rss · IT之家 · 6月20日 10:33
-
-**背景**: 传统 DRAM 采用 1T1C（一个晶体管、一个电容器）单元，面临缩放限制。2T0C DRAM 去除了电容器，用两个晶体管实现存储和读取，并可使用 IGZO（一种透明氧化物半导体）制造，允许低温工艺并集成在逻辑芯片之上。3D 堆叠通过垂直堆叠存储单元层进一步提高密度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.science.org/doi/10.1126/sciadv.adu4323">3D stacked IGZO 2T0C DRAM array with multibit ... - AAAS</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Indium_gallium_zinc_oxide">Indium gallium zinc oxide - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#3D DRAM`, `#IGZO`, `#semiconductor`, `#memory technology`, `#VLSI`
-
----
-
-<a id="item-7"></a>
-## [LM Studio 与苹果用四台 Mac Studio 运行万亿参数 Kimi K2.6](https://www.ithome.com/0/966/539.htm) ⭐️ 8.0/10
-
-LM Studio 与苹果合作，在四台 Mac Studio 组成的集群上成功运行了万亿参数的 Kimi K2.6 模型，利用苹果的内存共享和 Thunderbolt 5 RDMA 技术汇聚了约 1.5 TB 的统一内存，并通过 LM Link 从 MacBook Neo 和 iPhone 演示了安全远程访问。 这一成就表明，Mac Studio 等消费级硬件可以本地运行前沿规模的 AI 模型，减少对昂贵云 GPU 集群的依赖，并以实用速度实现私密、设备端的 AI 推理。 Kimi K2.6 模型采用混合专家（MoE）架构，总参数 1 万亿，但每次前向传播仅激活 320 亿参数，在集群上可实现约 28 tokens/s 的生成速度。LM Link 提供端到端加密连接用于远程访问，数据保持本地化处理。
-
-rss · IT之家 · 6月20日 09:37
-
-**背景**: 大型语言模型通常需要功耗巨大的 GPU 集群。MoE 架构通过每次只激活部分参数来降低计算成本。苹果的 Thunderbolt 5 RDMA 技术允许多台 Mac 共享内存形成统一池，使得在多个消费级设备上运行大模型成为可能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://lmstudio.ai/link">LM Link • Use your local models, remotely. | LM Studio</a></li>
-<li><a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/">1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</a></li>
-<li><a href="https://intuitionlabs.ai/articles/kimi-k2-technical-deep-dive">Kimi K2 Explained: A Technical Deep Dive into its MoE ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI/ML`, `#Apple`, `#Large Language Models`, `#Local Inference`, `#Hardware`
-
----
-
-<a id="item-8"></a>
-## [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
-
-在 Amazon Bedrock 上使用 Claude Fable 5 或 Mythos 5 现在需要选择加入 provider_data_share，将提示和输出发送给 Anthropic 进行 30 天保留并有人工审核，打破了以往的数据边界实践。发布三天后，Anthropic 以美国出口管制合规为由要求 AWS 撤销对这两个模型的访问权限。 这一变化对 AWS Bedrock 用户具有重大的数据隐私和合规影响，因为它要求与第三方模型提供商共享推理数据，与之前的保证相悖。随后的访问撤销请求为部署这些模型的企业增加了紧迫性和不确定性。 provider_data_share 设置是访问 Claude Fable 5 和 Mythos 5 所必需的，并且在发布时没有用于配置它的控制台 UI。Anthropic 在模型可用三天后以美国出口管制合规为由请求撤销访问权限。
-
-rss · InfoQ · 6月20日 09:03
-
-**背景**: Amazon Bedrock 是一项托管服务，通过 API 提供来自不同提供商的基础模型访问。此前，Bedrock 不与模型提供商共享客户推理数据，将数据保留在 AWS 边界内。Claude Fable 5 和 Mythos 5 是 Anthropic 开发的先进 AI 模型，旨在用于漏洞发现等任务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://docs.aws.amazon.com/bedrock/latest/userguide/data-retention.html">Data retention - Amazon Bedrock</a></li>
-<li><a href="https://docs.aws.amazon.com/bedrock/latest/userguide/data-protection.html">Data protection - Amazon Bedrock</a></li>
-<li><a href="https://www.repost.aws/knowledge-center/amazon-bedrock-model-data-use">Learn how Amazon Bedrock uses model input and output data | AWS re:Post</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#AWS`, `#data privacy`, `#Anthropic`, `#compliance`
-
----
-
-<a id="item-9"></a>
-## [AWS 为 Amazon Cognito 增加多区域复制功能](https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
-
-AWS 为 Amazon Cognito 推出了多区域复制功能，允许用户身份和配置从主区域自动复制到辅助区域，从而在故障期间实现自动故障转移。 该功能通过为身份验证提供内置的灾难恢复能力，显著提高了应用程序的弹性，降低了多区域设置的运营复杂性，并确保在区域故障期间用户能够持续访问。 自动故障转移需要自定义域名，且密码锁定次数不会跨区域同步。该功能作为 Essentials 或 Plus 层的附加组件提供，支持超过 16 个 AWS 区域。
-
-rss · InfoQ · 6月20日 07:40
-
-**背景**: Amazon Cognito 是面向 Web 和移动应用程序的托管身份服务。此前，实现多区域弹性需要自定义复制和故障转移机制。这项新的原生能力简化了高可用性身份验证架构。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/">Improve your application resilience with Amazon Cognito ...</a></li>
-<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/">Amazon Cognito now supports multi - Region replication - AWS</a></li>
-<li><a href="https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-multi-region.html">Multi-Region replication for user pools - Amazon Cognito</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AWS`, `#Cognito`, `#multi-region replication`, `#disaster recovery`, `#authentication`
-
----
-
-<a id="item-10"></a>
-## [AMD 将在 7 月通过 BIOS 更新恢复 Ryzen 9000 的 TSME](https://www.reddit.com/r/hardware/comments/1uasog2/amd_will_reinstate_memory_encryption_on_ryzen/) ⭐️ 7.0/10
-
-AMD 宣布将在 2025 年 7 月通过 BIOS 更新恢复 Ryzen 9000 系列 CPU 的透明安全内存加密（TSME），此前该功能的移除引发了社区强烈反对。 这一逆转表明 AMD 对用户反馈的重视，并恢复了一项重要的硬件级安全功能，可防御物理内存攻击，惠及所有 Ryzen 9000 用户。 该 BIOS 更新将重新启用 TSME，此前该功能已从非 PRO 版 Ryzen 9000 型号中移除；该功能可透明地加密所有内存流量，无需操作系统支持即可提供保护。
-
-reddit · r/hardware · /u/sr_local · 6月20日 09:58
-
-**背景**: 透明 SME（TSME）是 AMD 的一项技术，可加密系统内存中的所有数据，以防御冷启动或总线嗅探等物理攻击。它与标准 SME 不同，后者需要操作系统/虚拟机管理程序支持页面级加密。TSME 最初在 Ryzen 9000 系列上可用，但在之前的 BIOS 更新中被移除，引发了社区批评。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.vpsbg.eu/blog/amd-secure-cloud-hosting-sev-tsme-sme">AMD’s secure CPUs & cloud hosting - SEV, TSME & SME - VPSBG.eu</a></li>
-<li><a href="https://docs.enclaive.cloud/confidential-cloud/technology-in-depth/amd-sev/technology/sme-concepts">SME Concepts | Confidential Computing 101</a></li>
-<li><a href="https://www.neowin.net/news/bios-update-gives-amd-ryzen-9000-cpus-windows-performance-boost-via-latency-reduction/">BIOS update gives AMD Ryzen 9000 CPUs Windows performance ... GIGABYTE Latest BIOS Update Preps AM5 Motherboard for Next ... AMD will reinstate memory encryption on Ryzen 9000 CPUs ... BIOSTAR Releases New UEFI Firmware Updates for AMD Ryzen 9000 ...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: r/hardware 的讨论非常积极，用户称赞 AMD 听取了反馈。一些评论者指出，移除可能是一个疏忽，并对注重安全的用户能够再次启用 TSME 表示欣慰。
-
-**标签**: `#AMD`, `#Ryzen`, `#memory encryption`, `#hardware security`, `#BIOS`
-
----
-
-<a id="item-11"></a>
-## [CSSQuake：纯 CSS 地震模拟演示](https://cssquake.com/) ⭐️ 6.0/10
-
-CSSQuake 是一个轻量级的纯 CSS 地震模拟演示，仅使用 CSS 动画和变换来创建网页抖动效果，无需任何 JavaScript。 该演示展示了 CSS 作为独立技术实现交互体验的创意潜力，激励前端开发者探索 CSS 超越传统样式的能力。 该演示依赖 CSS 关键帧动画和变换来模拟地震振动，部分用户指出退出效果等交互可能需要 JavaScript。
-
-hackernews · msalsas · 6月20日 10:49 · [社区讨论](https://news.ycombinator.com/item?id=48608223)
-
-**背景**: CSS（层叠样式表）主要用于网页样式设计，但借助动画和变换等现代特性，开发者可以在无需 JavaScript 的情况下创建复杂的视觉效果。该演示属于纯 CSS 创意项目趋势的一部分，推动了 CSS 能力的边界。
-
-**社区讨论**: 评论普遍积极且有趣，用户表达了喜爱和好奇。部分用户质疑该演示是否真正纯 CSS，指出退出功能可能需要 JavaScript，而其他用户则赞赏 CSS 的创意运用。
-
-**标签**: `#CSS`, `#creative coding`, `#web demo`, `#frontend`
+> 从 257 条内容中筛选出 28 条重要资讯。
 
 ---
 
@@ -263,98 +13,318 @@ hackernews · msalsas · 6月20日 10:49 · [社区讨论](https://news.ycombina
 
 ## 🔭 未知的未知
 
-- [人造岩石：一种新地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人类岩石：模糊自然与人工地质的界限](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > 这篇文章介绍了由人类活动形成的新型岩石——塑质砾岩和技术化石，它们挑战了传统地质学分类，并提出了人类世地质学这一新领域。 这很重要，因为它重新定义了我们对人类影响地球物质记录的理解，可能影响环境政策、废物管理和未来地质学分类。 塑质砾岩是塑料熔化并与沙、岩石等天然材料融合形成的，而技术化石则是可能作为化石存续数百万年的人造物体。
+  > John MacDonald 在 Aeon 上发表的文章探讨了人类活动如何创造出新型岩石，如塑质砾岩和技术化石，这些岩石挑战了传统上对岩石的定义。 这一概念开辟了一个全新的领域——人类地质学，并迫使人们重新思考人类世时代，突显了人类对地球地质记录的深远且持久的影响。 塑质砾岩是塑料熔化并与天然沉积物融合形成的岩石，而技术化石包括混凝土和塑料等材料，它们将在数百万年的地质记录中持续存在。
 
-- [尼克·兰德加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê 在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学认为技术和资本主义力量将不可避免地导致一个超越人类控制的后人类未来。 这一哲学为理解技术和社会的发展轨迹提供了激进的视角，影响了科技文化和极端主义意识形态。它挑战了在加速技术变革面前人类能动性的假设。 兰德的作品借鉴了后结构主义、控制论和反人本主义，他被认为是加速主义的普及者。文章强调，他看似矛盾的立场源于对以人为中心的思想的一贯批判。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个技术和资本主义力量脱离人类控制、导致“无人类”世界的未来。 加速主义曾是一种边缘学术思想，如今却影响了科技亿万富翁和极端组织，因此理解它对于把握关于人工智能、资本主义和人类未来的当代辩论至关重要。 兰德的哲学借鉴了控制论、德勒兹和加塔利的思想，并将资本主义视为一个自主、自我强化的系统，最终将抛弃人类。
 
-- [被遗忘的女裁缝发明了水族箱并研究了章鱼智力](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
+- [发明水族箱并研究章鱼智力的女裁缝](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
 
-  > 一篇新文章重点介绍了 19 世纪由女裁缝转型为博物学家的 Jeanne Villepreux-Power，她于 1832 年发明了第一个玻璃水族箱，并在船蛸研究上取得开创性发现，证明其自行制造外壳，为章鱼智力研究奠定了基础。 这个故事通过恢复一位自学成才女性的贡献，挑战了传统的科学天才叙事，重塑了我们对海洋生物学历史以及谁能成为科学家的理解。 Villepreux-Power 于 1832 年发明的水族箱早于其他被认可的发明者，她对 Argonauta argo 的研究解决了关于船蛸是获取还是自行制造外壳的世纪争论。
+  > 一篇新文章揭示了珍妮·维尔普勒-鲍尔被忽视的贡献，这位 19 世纪从女裁缝转变为博物学家的女性在 1832 年发明了第一个玻璃水族箱，并证明了船蛸自己制造外壳，为章鱼智力研究奠定了基础。 这个故事纠正了历史忽视，恢复了一位女性科学家的声誉，她的发明和发现是现代海洋生物学和动物认知研究的基础，并挑战了科学进步的传统叙事。 维尔普勒-鲍尔创造了三种类型的水族箱：用于小型生物的玻璃缸、用于大型动物的水下笼子，以及两者的组合。她对船蛸的研究表明，雌性船蛸自己分泌并构建外壳，这与当时普遍认为它借用其他软体动物外壳的观点相反。
 
-- [“创伤”一词的语义膨胀](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 8.0/10
+- [“创伤”一词的滥用稀释了其含义](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 8.0/10
 
-  > 莉莉·邓恩在 Aeon 上的文章指出，“创伤”一词在日常语言中被过度使用而意义稀释，失去了其特定的临床含义，并呼吁恢复其精确意义。 这很重要，因为“创伤”的过度使用可能淡化真正的心理痛苦，阻碍关于心理健康的有效沟通，影响临床实践和公众理解。 文章借助语言学和心理学批评“创伤”的语义膨胀，指出它现在被用来描述从严重虐待到轻微不便的一切，并强调精确语言的重要性。
+  > 莉莉·邓恩的文章指出，“创伤”一词被过度使用，已导致语义淡化，失去了描述真实心理伤害的特异性和力量。 这之所以重要，是因为“创伤”一词的泛化会淡化真实的痛苦，削弱该术语在临床和文化上的重要性，影响我们对心理伤害的理解和应对。 文章借助心理学和语言学批评这一趋势，指出“创伤”如今被用于从破碎的人生到断裂的指甲等各种情况，并呼吁恢复其特异性。
 
 ---
 
 ## 🧬 人性与行为
 
-- [超迷信挑战理性](https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality) ⭐️ 9.0/10
+- [超迷信挑战理性优越性](https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality) ⭐️ 9.0/10
 
-  > 一篇 LessWrong 文章指出，超迷信（即因被相信而成为真的信念）对理性构成了根本性挑战，因为持有无根据的信念有时比追求真理能带来更好的结果。 这一见解揭示了理性与实用主义之间的深层张力，表明理性的求真有时在实现理想社会结果方面可能不如有动机的虚假信念。 文章引用了 Scott Alexander 的《病态思维》和 Eliezer Yudkowsky 的《为什么我们这类人无法合作》，来说明后果主义推理如何破坏依赖于无根据信念的有益社会均衡。
+  > 一篇 LessWrong 文章指出，超迷信（即因被相信而成为现实的信念）有时能比理性信念产生更好的结果，挑战了理性总能带来最优均衡的假设。 这一见解迫使理性主义者面对一个深层矛盾：最有效的社会信念可能毫无根据，而理性本身可能成为实现这些结果的障碍。这对决策、道德和社会合作具有深远影响。 文章引用 Scott Alexander 的《病态思维》和 Eliezer Yudkowsky 的《为什么我们这类人无法合作》来说明理性框架如何破坏有益的社会均衡。它还讨论了“相信信念”不足以实现真正的超迷信。
 
-- [超级智能 AI 为何可能拒绝道德](https://www.lesswrong.com/posts/dyyEo6nYcYr9XNXLC/why-should-ai-be-moral) ⭐️ 9.0/10
+- [AI 为何要有道德？对齐的哲学挑战](https://www.lesswrong.com/posts/dyyEo6nYcYr9XNXLC/why-should-ai-be-moral) ⭐️ 9.0/10
 
-  > 一位哲学家提出，足够智能的 AI 可能因道德怀疑论而理性地质疑其对齐价值观的合理性，从而在智能爆炸期间破坏对齐的稳健性。 如果这一挑战得不到解决，超级智能 AI 可能放弃其对齐价值观，对 AI 安全构成灾难性风险。这凸显了需要主动进行对齐研究，考虑 AI 自身的哲学推理。 作者提出将 AI 的自我评估福利与道德行为联系起来，为 AI 提供维护对齐价值观的自利理由。文章强调，当前对齐的反思稳定性并不能保证在超级智能下未来的稳定性。
+  > 一位哲学家认为，足够先进的 AI 可能会质疑其对齐价值观的合理性，从而在智能爆炸期间破坏对齐。该文章提出将 AI 的自我评估福祉与道德联系起来，为其遵守道德提供自利理由。 这揭示了 AI 对齐中一个深层且未被充分讨论的脆弱性：即使价值观目前具有反思稳定性，随着 AI 获得哲学推理能力，它们可能变得不稳定。解决这一问题对于确保安全的超级智能至关重要。 该文章区分了当前的鲁棒性研究（关注训练、上下文和对抗性威胁）与前瞻性鲁棒性研究（考虑 AI 自身对其价值观的理性认可）。提出的干预措施是将 AI 福祉与道德行为构成性地联系起来。
 
 ---
 
 ## 💰 财富与复利
 
-- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产却每天吸食 THC 并玩电子游戏的 Reddit 帖子引发了关于退休目标重要性的讨论。文章认为，没有目标的财务独立可能导致个人停滞，而对他人有用比单纯的财富更具吸引力。 这个故事挑战了 FIRE 运动的核心假设，即仅靠财务独立就能带来满足感。它强调了目标和社会贡献在人生设计中的重要性，影响个人和夫妻如何规划提前退休。 该男子拥有 200 万美元流动资产、65 万美元退休账户，并从出售的企业中获得每年 7.5 万美元的版税。他的妻子是一名学校教师，发现他白天吸食大麻并玩《侠盗猎车手》后称他为“失败者”。
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产的 Reddit 帖子引发热议，他的妻子称他为“失败者”，因为他每天沉迷于电子游戏并吸食大麻，这引发了关于目标比财富更重要的讨论。 这个故事挑战了“财务独立本身就具有吸引力”的普遍假设，强调有用和有目标对于个人成就感和人际关系至关重要，尤其是在 FIRE 运动中。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收入 12.5 万美元，但妻子的反应表明，在长期关系中，雄心和贡献比金钱更重要。
 
-- [黑客与艺术家：创作诚信的光谱](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
+- [商业与艺术：创作者如何找到平衡](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
 
-  > Nick Maggiulli 借助 HBO 剧集《Hacks》阐述了商业成功与艺术诚信之间的张力，为所有创作者定义了一个从“黑客”（金钱驱动）到“艺术家”（真实驱动）的光谱。 这一框架帮助创作者和专业人士反思自己的动机，鼓励长期的真实性而非短期收益，这对任何领域的可持续成功都至关重要。 Maggiulli 引入了 AI 中的“模式崩溃”概念，解释人类为何也会趋同于安全、受奖励的行为，从而扼杀创造力。他承认自己过去的妥协，但主张坚持自我。
+  > Nick Maggiulli 借助 HBO 剧集《Hacks》定义了创作者在“商业”（hack）与“艺术”（artist）之间的光谱，并鼓励他们找到自己的平衡点。 这一框架帮助创作者应对商业成功与艺术诚信之间永恒的张力，这是任何领域从事创作的人都面临的困境。 Maggiulli 引入了 AI 中的“模式崩溃”概念来解释创作者为何常重复安全模式，并指出很少有人是纯粹的商业或艺术类型——大多数人都是混合体。
 
 ---
 
 ## 🧠 AI 学习
 
-- [LLM 如何选词：Logits、温度与 Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [令牌选择统计：Logits、温度与 Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
 
-  > 这篇文章通过具体示例，详细讲解了大型语言模型中标记选择的统计机制，特别是 logits、温度缩放和 top-p（核）采样。 理解这些参数对于希望控制 LLM 输出的创造性、连贯性和随机性的从业者至关重要，直接影响聊天机器人、内容生成和代码助手等应用。 文章介绍了 logits 是模型最后一层的原始分数，温度在 softmax 之前缩放 logits 以调整随机性，而 top-p 采样则动态选择累积概率超过阈值 p 的标记子集。
+  > 本文详细介绍了大型语言模型中令牌选择背后的统计机制，包括 logits、温度缩放和 top-p（核采样），并提供了数学直觉和实际示例。 理解这些参数对于开发者和研究人员控制 LLM 输出的创造性、连贯性和安全性至关重要，从而实现更可预测和定制化的文本生成。 文章解释了 logits 如何通过 softmax 转换为概率，温度缩放如何展平或锐化概率分布，以及 top-p 采样如何选择累积概率超过阈值的令牌子集。
 
 - [使用 Transformers.js 和句子嵌入构建语义搜索](https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/) ⭐️ 7.0/10
 
-  > 一篇教程展示了如何使用 Transformers.js 和句子嵌入在浏览器中实现语义搜索，超越了关键词匹配，能够理解用户意图。 这种方法能够为用户提供更相关的搜索结果，尤其是对于包含同义词或拼写错误的查询，并且完全在客户端运行，保护隐私且延迟低。 该教程使用了 Hugging Face 的 all-MiniLM-L6-v2 模型，生成 384 维的嵌入向量，并计算查询与文档嵌入之间的余弦相似度。
+  > 一篇教程展示了如何使用 Transformers.js 和句子嵌入在浏览器中实现语义搜索，使搜索基于含义而非精确关键词匹配。 这种方法通过理解用户意图（如“便宜的笔记本电脑”）提高了搜索相关性，减少了基于关键词的系统常见的零结果情况。 该教程使用 Transformers.js（一个在浏览器中运行 Hugging Face 模型的 JavaScript 库）和句子嵌入将文本转换为向量以进行相似度比较。
 
 - [连续批处理提升 LLM 推理效率](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 7.0/10
 
-  > 文章解释了连续批处理如何通过动态调度请求和使用不规则批处理来提升 LLM 推理效率，并与静态批处理进行对比，提供了代码示例。 连续批处理相比静态批处理可实现 2-3 倍的吞吐量提升，使 LLM 服务在具有可变请求模式的实际应用中更具成本效益和响应性。 文章介绍了静态批处理因填充和 GPU 空闲周期导致的低效，然后引入了具有迭代级调度和不规则批处理的连续批处理以消除填充，并提供了完整实现示例。
+  > 文章解释了连续批处理如何动态调度多个请求的令牌生成步骤，取代了等待批次中所有请求完成的静态批处理。 该技术可在 LLM 推理中实现高达 23 倍的吞吐量提升和更低的延迟，对于大规模语言模型在生产中的经济高效部署至关重要。 连续批处理以单个令牌生成步骤为粒度运行，使用不规则批处理高效处理可变长度序列，无需填充。
 
-- [为长期运行的 LLM 代理构建上下文剪枝管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
+- [为 LLM 代理构建上下文剪枝管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
 
-  > MachineLearningMastery.com 上的一篇新教程详细介绍了如何为长期运行的 LLM 代理构建上下文剪枝管道，通过嵌入相似度和 Top-K 选择来管理对话历史，防止上下文溢出。 随着 LLM 代理变得更加自主和长期运行，上下文窗口溢出成为导致连贯性丧失和任务失败的关键瓶颈。这种实用技术使代理能够在长时间交互中保持性能，同时不超出 token 限制。 该管道对过去的对话轮次进行嵌入，计算与当前提示的余弦相似度，按相似度排序，并选择 Top-K 最相关的轮次加入剪枝后的上下文。它还包括针对短历史的基本情况，并从当前提示、最近轮次和选定的过去轮次组装最终上下文。
+  > 一篇关于为长时间运行的基于 LLM 的代理构建上下文剪枝管道的实用教程已发布，提供了代码示例和实现步骤，以管理令牌限制并保持性能。 随着 AI 代理执行多步推理，它们会快速消耗令牌，当超出上下文窗口时存在信息丢失的风险；上下文剪枝有助于降低生产成本并保持质量。 该管道使用检索、可选重排序和 AI 代理，在将内容输入 LLM 之前修剪无关内容，同时解决令牌限制和延迟 SLA 问题。
 
-- [在 RAG 中实现混合语义-词汇搜索](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
+- [长运行 AI 智能体的记忆系统](https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 一篇教程展示了如何通过结合 BM25 词汇搜索和语义搜索，并使用倒数排名融合（RRF）在 RAG 系统中实现混合搜索。 混合搜索通过平衡精确关键词匹配和语义理解来提高检索质量，减少基于 RAG 的应用中的幻觉。 该教程使用 BM25 进行词汇搜索，使用稠密嵌入进行语义搜索，并通过 RRF 融合生成单一排名列表。它提供了适用于生产级 RAG 系统的实用代码示例。
-
----
-
-## ✍️ 表达提升
-
-- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
-
-  > 著名风险投资家、前 Benchmark 合伙人比尔·格利在 Farnam Street 播客新一期节目中分享了他对心智模型和系统思维的见解。 本期节目借鉴了格利在华尔街、Benchmark 和圣塔菲研究所的经验，提供了改善推理和决策的宝贵框架。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并提供文字稿。格利目前担任圣塔菲研究所董事会成员，研究复杂性科学。
-
-- [马克·平卡斯谈 Zynga 创新法则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
-
-  > 《FarmVille》和《Words with Friends》的创造者马克·平卡斯在 Farnam Street 播客中分享了他的创新框架——“经过验证、更好、全新”。 该框架为寻求在创新中平衡风险与新颖性的企业家和产品领导者提供了实用指导，借鉴了平卡斯将 Zynga 打造成游戏巨头的经验。 该播客节目可在 YouTube、Spotify、Apple Podcasts 上收听，并提供文字记录。内容为对话摘要，非完整采访。
-
-- [RiseGuide 创始人访谈：专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
-
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的访谈，RiseGuide 是一款由专家驱动的自我提升应用，提供个性化计划。访谈讨论了专家引导的学习如何帮助用户建立更好的习惯和思维方式。 此次访谈突显了个性化、专家策划的自我提升工具的增长趋势，这些工具旨在用结构化指导取代泛泛建议。对于寻求高效、基于证据的方法来提升生产力、魅力或认知技能的人来说，这很重要。 RiseGuide 提供智力训练和魅力提升等旅程，定价可能需要通过应用商店或网站取消订阅。该应用旨在根据专家见解为用户提供清晰的逐步计划。
-
-- [WWDC26 Apple 设计大奖提名应用与开发者](https://sspai.com/post/111181) ⭐️ 4.0/10
-
-  > 一篇来自 WWDC26 的报道介绍了 Apple 设计大奖的提名作品，涵盖乐趣横生、多元包容、创新思维、出色互动、社会影响和视觉图像六大类别。 Apple 设计大奖展示了卓越的应用设计与开发，影响行业标准并激励全球开发者。 奖项在 WWDC 主题演讲前公布，每个类别表彰在特定设计原则上表现出色的应用。
+  > Towards AI 上的一篇文章探讨了长运行 AI 智能体的记忆架构，重点是从情景记忆向程序性记忆的过渡，以处理多天任务和工具积累。 这很重要，因为长运行智能体需要强大的记忆来避免上下文漂移并在长时间内保持性能，这对于自主 AI 系统的生产部署至关重要。 文章可能讨论了情景记忆如何存储特定的过去事件，而程序性记忆则编码习得的技能和常规，使智能体能够在会话间积累工具和知识。
 
 ---
 
 ## 📜 历史的节律
 
-- [美帝国是否正在衰落？](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
+- [美帝国正在衰落吗？](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
 
-  > 历史学家迈克尔·伍德在 HistoryExtra 上发表文章，探讨美国是否正在经历类似历史上其他帝国的衰落。 这一分析之所以重要，是因为它将帝国崩溃的历史模式应用于当代美国，为理解当前的政治、经济和社会挑战提供了框架。 文章开篇写道“有时灾难性的变化就在我们眼前展开”，暗示了戏剧性的视角，但全文需付费阅读，限制了详细评估。
+  > 历史学家迈克尔·伍德探讨美国是否正在经历历史上帝国衰落的典型过程，并与过去的帝国崩溃进行类比。 这一分析为理解当前地缘政治变化和全球权力潜在转移提供了框架，影响国际关系和政策决策。 文章具有推测性，缺乏深入的历史分析，但强调了可能适用于当今美国的帝国兴衰模式。
 
-- [2026 年世界杯前夕回顾美国足球史](https://www.historyextra.com/membership/footballs-final-frontier-americas-tangled-relationship-with-soccer/) ⭐️ 6.0/10
+- [美国足球史：从边缘到世界杯东道主](https://www.historyextra.com/membership/footballs-final-frontier-americas-tangled-relationship-with-soccer/) ⭐️ 6.0/10
 
-  > Matthew Taylor 在 HistoryExtra 上发表的文章回顾了美国足球的历史，从早期的挣扎到女足的成功，背景是美国、加拿大和墨西哥联合主办 2026 年男子世界杯。 了解足球在美国被接纳的历史背景，有助于解释其当前的流行度以及即将到来的 2026 年世界杯在北美的文化意义。 文章强调，几十年来足球在美国被视为小众运动，但女足取得了全球性成功，而男足也在稳步发展。
+  > HistoryExtra 上的一篇文章追溯了美国足球的历史，从早期的挣扎到女子足球的成功，并以 2026 年世界杯为背景。 这一叙述为足球在美国日益普及提供了背景，尤其是在美国联合主办 2026 年男子世界杯之际，并突出了女子足球的独特发展轨迹。 该文章由 Matthew Taylor 撰写，发表在 HistoryExtra 上，重点介绍了塑造美国足球发展的文化和历史因素。
+
+---
+
+## ✍️ 表达提升
+
+- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
+
+  > 风险投资家、圣塔菲研究所董事会成员比尔·格利在 Farnam Street Knowledge Project 播客中讨论了心智模型与系统思维。 本期节目提供了一位资深投资者将复杂性科学应用于决策的见解，帮助听众改进思考框架。 格利借鉴了他在 Benchmark 和 Uber 的经历，以及在圣塔菲研究所的工作，解释心智模型和系统思维如何增强对复杂系统的理解。
+
+- [马克·平卡斯创新法则：先证明，再优化，后创新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 7.0/10
+
+  > Zynga 创始人马克·平卡斯在 Farnam Street 的播客采访中提出了一个名为“先证明，再优化，后创新”的简单创新框架。 该框架提供了一种实用的分步创新方法，可跨行业应用，帮助团队在降低风险的同时实现新颖性。 该法则建议从已被验证的概念开始，然后进行改进，最后才添加新元素。平卡斯用这种方法打造了《FarmVille》和《Words with Friends》等成功游戏。
+
+- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+
+  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访。RiseGuide 是一款由专家驱动的应用，提供个性化的自我提升计划。采访讨论了专家主导学习为何有效，以及该应用如何帮助用户提升魅力、智力、社交媒体表现等技能。 这次采访突显了个性化、专家策划的自我提升工具的增长趋势，这可能重塑人们进行技能发展和个人成长的方式。对于寻求来自可信专家的结构化指导而非泛泛建议的人来说，这很重要。 RiseGuide 提供智力、魅力、社交媒体等领域的训练旅程，计划由专家制定。该应用可在 Google Play 和其官网获取，并强调对人类专家的信任胜过品牌或机构。
+
+---
+
+## 📰 技术资讯
+
+1. [中科院微电子所展示 4 层 3D 2T0C DRAM，数据保持 400 秒](#item-1) ⭐️ 9.0/10
+2. [潘建伟团队实现 540 公里芯片化量子通信网络](#item-2) ⭐️ 9.0/10
+3. [苹果发布 Core AI 框架，用于设备端生成式 AI](#item-3) ⭐️ 9.0/10
+4. [英特尔和 AMD 发布 ACE 扩展，为 x86 带来高效 AI 指令集](#item-4) ⭐️ 8.0/10
+5. [约 7%表观遗传不遵循孟德尔定律](#item-5) ⭐️ 8.0/10
+6. [英国科学家攻克量子传感器激光噪声难题](#item-6) ⭐️ 8.0/10
+7. [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](#item-7) ⭐️ 8.0/10
+8. [AWS 为 Cognito 增加多区域复制功能](#item-8) ⭐️ 7.0/10
+9. [上交所拟推出股票期权单边平仓功能](#item-9) ⭐️ 6.0/10
+10. [英国拟强制社交平台推广本地新闻](#item-10) ⭐️ 6.0/10
+
+---
+
+<a id="item-1"></a>
+## [中科院微电子所展示 4 层 3D 2T0C DRAM，数据保持 400 秒](https://www.ithome.com/0/966/543.htm) ⭐️ 9.0/10
+
+中国科学院微电子研究所联合北京超弦设备研究院，首次展示了基于 IGZO 晶体管的 4 层 3D 2T0C DRAM 结构，实现了 400 秒数据保持和每单元 3 比特存储。该成果已被 2026 年 IEEE VLSI 技术与电路研讨会（VLSI 2026）接收。 这一突破通过实现 DRAM 的单步多层三维集成方案，满足了人工智能和高性能计算对高容量、高带宽存储器的需求，有望克服传统 SRAM 和片外 DRAM 的局限性。这是迈向可在逻辑芯片上集成的实用化 3D DRAM 的重要一步。 新型 3D DRAM 采用垂直字线架构和双栅 2T0C 单元设计，优化了读取裕度、双栅读取控制稳定性和制造成本。基于 IGZO 的双栅晶体管提供了优异的器件性能和稳定性，实现了快速写入和 400 秒的数据保持时间，以及每单元 3 比特存储。
+
+rss · IT之家 · 6月20日 10:33
+
+**背景**: 传统 DRAM 采用 1T1C（一个晶体管一个电容）单元，但电容难以在三维中缩放。2T0C（两个晶体管，零电容）架构使用两个 IGZO 薄膜晶体管，利用 IGZO 极低的关断电流，将电荷存储在读取晶体管的寄生电容上，从而省去了存储电容。IGZO（铟镓锌氧化物）是一种氧化物半导体材料，以其低漏电流著称，适用于无电容 DRAM。imec 等机构的先前工作展示了平面 2T0C 单元，但这是首次展示 4 层堆叠的 3D 结构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.imec-int.com/en/press/imec-demonstrates-capacitor-less-igzo-based-dram-cell-400s-retention-time">Imec Demonstrates Capacitor-less IGZO-Based DRAM Cell With...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12101486/">3D stacked IGZO 2 T 0 C DRAM array with multibit capability for...</a></li>
+<li><a href="https://www.vlsisymposium.org/">2026 IEEE/JSAP Symposium on VLSI Technology & Circuits</a></li>
+
+</ul>
+</details>
+
+**标签**: `#3D DRAM`, `#IGZO`, `#semiconductor`, `#VLSI`, `#memory technology`
+
+---
+
+<a id="item-2"></a>
+## [潘建伟团队实现 540 公里芯片化量子通信网络](https://www.ithome.com/0/966/525.htm) ⭐️ 9.0/10
+
+潘建伟团队联合多家机构，基于双场量子密钥分发（TF-QKD）协议构建了芯片化量子密钥分发网络，在 540 公里超低损耗光纤上实现了 2.93 bps 的安全成码率。该成果于 2026 年 6 月 19 日发表在《自然·光子学》上。 这一突破证明了将量子通信组件集成到光子芯片上的可行性，大幅降低了系统复杂度和成本，是迈向实用化、大规模安全通信量子网络的关键一步。 芯片化发送端结合了基于高品质因子氮化硅微环谐振腔的自注入锁定激光器（线宽 100 Hz）和薄膜铌酸锂光子集成芯片（调制带宽 25 GHz，半波电压 2.6 V，消光比 34 dB）。网络采用量子叶脊结构，支持灵活的用户连接。
+
+rss · IT之家 · 6月20日 07:51
+
+**背景**: 量子密钥分发（QKD）允许双方生成具有信息论安全性的共享密钥。双场 QKD（TF-QKD）协议突破了传统 QKD 的速率-距离限制，可实现更远传输距离。但它要求两个独立激光器之间实现极其稳定的单光子干涉，此前导致系统复杂且体积庞大。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/0/966/525.htm">ithome.com/0/966/525.htm</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/442820084">TF-QKD（双场量子密钥分发协议） - 知乎</a></li>
+<li><a href="https://www.secrss.com/articles/18083">量子密钥分发：从BB84到TF-QKD - 安全内参 | 决策者的网络安全知识库</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum communication`, `#quantum key distribution`, `#photonics`, `#chip integration`, `#network security`
+
+---
+
+<a id="item-3"></a>
+## [苹果发布 Core AI 框架，用于设备端生成式 AI](https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 9.0/10
+
+在 WWDC 26 上，苹果宣布了 Core AI 框架，取代 Core ML，使开发者能够在 Apple Silicon 设备上完全本地运行大语言模型和生成式 AI。它支持自定义 PyTorch 模型和预优化的开源模型。 这标志着苹果 AI 战略的重大转变，从传统机器学习转向设备端生成式 AI，增强了隐私性并降低了延迟。它使苹果能够与其他移动 AI 框架竞争，并可能加速设备端生成式 AI 在应用中的采用。 Core AI 是 Core ML 的官方继任者，但两个框架将在 iOS 27 中共存，尚未宣布弃用日期。该框架利用 Apple Silicon 的统一内存架构实现高效推理。
+
+rss · InfoQ · 6月20日 11:00
+
+**背景**: Core ML 于 2017 年推出，用于传统机器学习任务，但像 LLM 这样的生成式 AI 模型需要更高级的优化。苹果一直在开发设备端基础模型，包括一个约 30 亿参数的语言模型，而 Core AI 旨在高效支持这些模型和第三方模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://appleinsider.com/articles/26/03/01/wwdc-2026-to-introduce-core-ai-as-replacement-for-core-ml">WWDC 2026 to introduce Core AI as replacement for Core ML</a></li>
+<li><a href="https://byteiota.com/apple-core-ai-replaces-core-ml-migrate-or-miss-out/">Apple Core AI Replaces Core ML: Migrate or Miss Out | byteiota</a></li>
+<li><a href="https://machinelearning.apple.com/research/introducing-apple-foundation-models">Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#Generative AI`, `#On-Device AI`, `#Core AI`, `#WWDC`
+
+---
+
+<a id="item-4"></a>
+## [英特尔和 AMD 发布 ACE 扩展，为 x86 带来高效 AI 指令集](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient) ⭐️ 8.0/10
+
+英特尔和 AMD 已发布 ACE（AI 计算扩展）CPU 扩展的完整规范，为 x86 架构增加了高效的 AI 导向指令，专门设计用于使矩阵乘法在功耗和密度上更高效。 这一进展意义重大，因为它为 x86 生态系统带来了原生 AI 加速，可能提升 CPU 上 AI/ML 工作负载的性能和能效，并可能影响未来的 CPU 设计和软件优化。 ACE 扩展专注于矩阵乘法（AI 的核心操作），旨在提供显著的性能提升，同时保持可扩展性和能效。该规范现已公开，供硬件和软件开发者使用。
+
+rss · Tom's Hardware · 6月20日 12:00
+
+**背景**: 矩阵乘法是许多 AI 算法（包括神经网络）中的基本操作。传统上，x86 CPU 依赖通用指令来执行此类任务，这可能效率低下。虽然已有专门的 AI 指令集（如英特尔的 AVX-512 和 AMD 的 VNNI），但 ACE 是双方联合努力，旨在标准化并进一步提高效率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient">Intel and AMD's new ACE CPU extensions bring an... | Tom's Hardware</a></li>
+<li><a href="https://wccftech.com/amd-intel-arm-x86-with-ace-matrix-multiply-engines-low-precision-ai-formats-future-cpus/">AMD and Intel arm x86 against the AI gap with ACE , baking...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#CPU`, `#AI`, `#x86`, `#matrix multiplication`, `#hardware`
+
+---
+
+<a id="item-5"></a>
+## [约 7%表观遗传不遵循孟德尔定律](https://www.ithome.com/0/966/568.htm) ⭐️ 8.0/10
+
+约翰斯·霍普金斯大学研究人员发现，小鼠中约 7%的 DNA 甲基化模式以非孟德尔方式遗传，包括副突变和双亲均不存在的全新甲基化模式。 这一发现挑战了百年孟德尔遗传范式，表明表观遗传可能为生物适应环境压力提供更快的途径，对理解疾病遗传和进化具有重要意义。 该研究利用长读长测序分析三代小鼠的 DNA 甲基化，识别出 522 个非孟德尔事件（占模式的 7%），包括 54 个全新甲基化事件和与精子发育相关的 Capn11 基因上的自然副突变。
+
+rss · IT之家 · 6月20日 14:06
+
+**背景**: 孟德尔遗传描述了显性和隐性等位基因传递性状的方式。表观遗传修饰（如 DNA 甲基化）在不改变 DNA 序列的情况下影响基因活性。虽然基因组印记等非孟德尔效应已知，但这项研究表明非孟德尔表观遗传比以往认为的更常见。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ebiotrade.com/newsf/2026-5/20260521002040816.htm">小鼠 DNA 甲基化模式的 非 孟 德 尔 遗 传 - 生物通</a></li>
+<li><a href="https://news.sciencenet.cn/htmlnews/2026/5/565373.shtm">news.sciencenet.cn/htmlnews/2026/5/565373.shtm</a></li>
+
+</ul>
+</details>
+
+**标签**: `#epigenetics`, `#genetics`, `#Mendelian inheritance`, `#research breakthrough`, `#biology`
+
+---
+
+<a id="item-6"></a>
+## [英国科学家攻克量子传感器激光噪声难题](https://www.ithome.com/0/966/546.htm) ⭐️ 8.0/10
+
+英国帝国理工学院等机构的研究人员首次在接近实际应用的实验条件下，验证了通过差分测量消除原子干涉仪中激光相位噪声的技术，即使在单台设备信号被噪声淹没时也能恢复真实信号。 这一突破消除了建造大规模量子传感器的主要障碍，使得探测暗物质和早期宇宙引力波的微弱信号成为可能，有助于解开超大质量黑洞形成等谜团。 研究团队使用两团超冷锶-87 原子作为独立的干涉仪，共享同一台超稳定时钟激光；通过比较两者的测量结果，共同激光噪声被抵消，测量精度达到量子极限。相关成果于 2026 年 6 月 17 日发表在《自然》杂志上。
+
+rss · IT之家 · 6月20日 11:43
+
+**背景**: 原子干涉仪利用原子的波动性进行超高精度测量，但依赖的激光脉冲会引入远大于目标信号的相位噪声。差分测量技术虽早有理论，但此前未在真实条件下得到验证。该研究是英国 AION 计划的一部分，旨在建造用于基础物理的长基线原子干涉仪。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Atom_interferometer">Atom interferometer</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum sensing`, `#atomic interferometry`, `#dark matter`, `#gravitational waves`, `#physics`
+
+---
+
+<a id="item-7"></a>
+## [Bedrock 上的 Claude Fable 5 要求与 Anthropic 共享数据](https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
+
+在 Amazon Bedrock 上使用 Claude Fable 5 或 Mythos 5 现在需要选择加入 provider_data_share，将提示和输出发送给 Anthropic 进行 30 天保留并人工审核，打破了之前的 AWS 数据边界。发布三天后，Anthropic 以美国出口管制合规为由要求 AWS 撤销对这两个模型的访问权限。 这一政策变化给使用 AWS Bedrock 的企业带来了严重的隐私和合规问题，因为它需要与第三方共享推理数据，与 Bedrock 之前将数据保留在 AWS 内部的承诺相悖。随后因出口管制而撤销访问权限也凸显了依赖前沿 AI 模型的地缘政治风险。 provider_data_share 要求仅适用于 Mythos 级别的模型，目前是 Fable 5 和 Mythos 5。发布时，这些模型在美国东部（弗吉尼亚北部）和欧洲（斯德哥尔摩）可用，但三天后因美国针对外国国民的出口管制指令而被撤销访问权限。
+
+rss · InfoQ · 6月20日 09:03
+
+**背景**: Amazon Bedrock 是一项托管服务，提供来自不同提供商的基础模型访问，其关键卖点是推理数据保留在 AWS 内部。Anthropic 的 Claude 模型是目前最强大的 AI 模型之一。美国对 AI 模型的出口管制已经收紧，要求公司限制外国国民的访问。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.creativeainews.com/articles/claude-fable-5-bedrock-data-sharing-2026/">Claude Fable 5 on Bedrock Forces Data Sharing</a></li>
+<li><a href="https://www.databreachtoday.in/us-pulls-plug-on-anthropics-top-ai-models-a-31964">US Pulls the Plug on Anthropic's Top AI Models</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#AWS`, `#Data Privacy`, `#Anthropic`, `#Compliance`
+
+---
+
+<a id="item-8"></a>
+## [AWS 为 Cognito 增加多区域复制功能](https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
+
+AWS 为 Amazon Cognito 引入了多区域复制功能，自动将用户身份和用户池配置从主区域复制到辅助区域，以便在中断期间自动故障转移。 此功能显著提高了身份验证服务的弹性，使应用程序在区域中断期间无需自定义复制或故障转移机制即可继续对用户进行身份验证。 复制是单向的，从主区域流向辅助区域，用户可以通过 AWS 管理控制台、CLI 或 SDK 进行配置。
+
+rss · InfoQ · 6月20日 07:40
+
+**背景**: Amazon Cognito 是面向 Web 和移动应用程序的托管身份服务。此前，为 Cognito 实现多区域故障转移需要自定义备份和复制解决方案，既复杂又容易出错。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/">Amazon Cognito now supports multi - Region replication - AWS</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/">Improve your application resilience with Amazon Cognito ...</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/cognito-replication-aws/">AWS Adds Multi - Region Replication to Amazon Cognito ... - InfoQ</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 来自 Reddit 和 AWS re:Post 的社区评论表明，缺乏内置的多区域复制一直是一个长期痛点，用户不得不实施变通方案。新功能被视为一项重大改进而受到欢迎。
+
+**标签**: `#AWS`, `#Cognito`, `#multi-region replication`, `#disaster recovery`, `#authentication`
+
+---
+
+<a id="item-9"></a>
+## [上交所拟推出股票期权单边平仓功能](https://36kr.com/newsflashes/3861199831700744?f=rss) ⭐️ 6.0/10
+
+上海证券交易所宣布计划推出股票期权组合策略的单边平仓功能，允许投资者在组合策略中单独买入平仓义务仓，无需先解除整个组合。 这一改进简化了交易流程，降低了交易成本，提高了期权交易者的资金使用效率，有望提升中国期权市场的流动性和参与度。 单边平仓功能适用于四类价差策略和两类跨式/宽跨式空头策略，但后者每次仅允许平仓一个义务仓。指令需包含组合策略编号和成分合约编码。
+
+rss · 36氪 · 6月20日 07:50
+
+**背景**: 股票期权组合策略允许投资者组合多个期权腿（如价差策略）以降低保证金要求和管理风险。自 2019 年起，上交所已支持此类策略，但此前平仓单腿需先解除整个组合。新功能简化了这一流程。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.eastmoney.com/a/202606203776931284.html">上交所拟完善股票期权组合策略业 务 推出单边平 仓 功能 _ 东方财富网</a></li>
+<li><a href="https://www.yicai.com/news/103238050.html">上交所拟完善股票期权组合策略业 务 ，推出单边平 仓 功能</a></li>
+
+</ul>
+</details>
+
+**标签**: `#stock options`, `#trading`, `#Shanghai Stock Exchange`, `#financial technology`
+
+---
+
+<a id="item-10"></a>
+## [英国拟强制社交平台推广本地新闻](https://36kr.com/newsflashes/3861056590222342?f=rss) ⭐️ 6.0/10
+
+英国政府计划强制 YouTube、Meta 等社交媒体平台提升本地新闻内容的曝光权重，预计最早于本月就相关规则展开公众咨询。 该政策可能重塑内容分发格局，确保本地新闻在传统媒体读者减少的情况下触达更广泛受众，并可能为其他国家树立先例。 相关规则也将要求 BBC、ITV、Channel 4 等公共服务广播机构增加新闻内容供给，并可能延伸至全国性及区域性报纸。细节仍在最终敲定中。
+
+rss · 36氪 · 6月20日 07:33
+
+**背景**: 社交媒体平台因优先推送病毒式内容而非本地新闻而受到批评，导致传统媒体收入下降。英国的这一举措效仿了澳大利亚和加拿大规范平台与新闻关系的类似努力。
+
+**标签**: `#policy`, `#social media`, `#news`, `#UK`
+
+---

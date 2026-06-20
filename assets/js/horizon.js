@@ -22,82 +22,6 @@
     });
   }
 
-  // Detect section-level h2s and build a sticky tab bar
-  function setupSectionTabs() {
-    var content = document.querySelector('.main-content');
-    if (!content) return;
-
-    // Article-title h2s always contain a score (⭐ or /10); section heads do not
-    var allH2 = content.querySelectorAll('h2');
-    var sectionHeads = Array.prototype.filter.call(allH2, function (h) {
-      var t = h.textContent;
-      return !t.includes('⭐') && !/\d+\/10/.test(t);
-    });
-
-    if (sectionHeads.length < 2) return;
-
-    // Group children by section head
-    var children = Array.prototype.slice.call(content.children);
-    var sections = [];
-    var current = null;
-
-    children.forEach(function (child) {
-      if (sectionHeads.indexOf(child) !== -1) {
-        if (current) sections.push(current);
-        current = { head: child, nodes: [] };
-      } else if (current) {
-        current.nodes.push(child);
-      }
-    });
-    if (current) sections.push(current);
-    if (sections.length < 2) return;
-
-    // Wrap each section into a panel div
-    sections.forEach(function (sec, i) {
-      var panel = document.createElement('div');
-      panel.className = 'tab-panel' + (i !== 0 ? ' tab-hidden' : '');
-      panel.dataset.tabIndex = i;
-      panel.setAttribute('role', 'tabpanel');
-      content.insertBefore(panel, sec.head);
-      panel.appendChild(sec.head);
-      sec.nodes.forEach(function (n) { panel.appendChild(n); });
-    });
-
-    // Build sticky tab bar
-    var bar = document.createElement('div');
-    bar.className = 'tab-bar';
-    bar.setAttribute('role', 'tablist');
-
-    sections.forEach(function (sec, i) {
-      var btn = document.createElement('button');
-      btn.className = 'tab-btn' + (i === 0 ? ' active' : '');
-      btn.type = 'button';
-      btn.setAttribute('role', 'tab');
-      btn.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
-      btn.textContent = sec.head.textContent.trim();
-
-      btn.addEventListener('click', function () {
-        content.querySelectorAll('.tab-panel').forEach(function (p) {
-          p.classList.add('tab-hidden');
-        });
-        content.querySelectorAll('.tab-btn').forEach(function (b) {
-          b.classList.remove('active');
-          b.setAttribute('aria-selected', 'false');
-        });
-        var panel = content.querySelector('.tab-panel[data-tab-index="' + i + '"]');
-        if (panel) panel.classList.remove('tab-hidden');
-        btn.classList.add('active');
-        btn.setAttribute('aria-selected', 'true');
-        btn.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
-      });
-
-      bar.appendChild(btn);
-    });
-
-    var firstPanel = content.querySelector('.tab-panel');
-    if (firstPanel) content.insertBefore(bar, firstPanel);
-  }
-
   function setupThemeToggle() {
     var saved = null;
     try { saved = localStorage.getItem('horizon-theme'); } catch (e) {}
@@ -195,6 +119,5 @@
     markSemanticElements();
     setupThemeToggle();
     setupLanguageToggle();
-    setupSectionTabs();
   });
 })();
