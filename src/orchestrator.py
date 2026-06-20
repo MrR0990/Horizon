@@ -23,7 +23,9 @@ from .scrapers.twitter_playwright import TwitterPlaywrightScraper
 from .scrapers.openbb import OpenBBScraper
 from .scrapers.ossinsight import OSSInsightScraper
 from .ai.client import create_ai_client
+from pathlib import Path
 from .ai.analyzer import ContentAnalyzer
+from .ai.prompts import CATEGORY_SCORING_PROMPTS
 from .ai.summarizer import DailySummarizer
 from .ai.enricher import ContentEnricher
 from .ai.tokens import get_usage_snapshot
@@ -99,6 +101,29 @@ class HorizonOrchestrator:
                     f"→ {len(merged_items)} unique items\n"
                 )
 
+            # 3.5 Discovery: tag special-category items with scoring prompt; filter already-shown
+            _shown_history = self._load_shown_history()
+            _groups_cfg = self.config.filtering.category_groups
+            _cat_to_prompt: dict = {}
+            for _gk, _gv in _groups_cfg.items():
+                if _gv.scoring_prompt and _gv.scoring_prompt in CATEGORY_SCORING_PROMPTS:
+                    for _c in _gv.categories:
+                        _cat_to_prompt[_c] = CATEGORY_SCORING_PROMPTS[_gv.scoring_prompt]
+            _filtered: list = []
+            for _it in merged_items:
+                _cat = _it.metadata.get("category")
+                if _cat in self._DISCOVERY_CATS:
+                    if str(_it.url) in _shown_history:
+                        continue  # already recommended
+                    if _cat in _cat_to_prompt:
+                        _it.metadata["_system_prompt"] = _cat_to_prompt[_cat]
+                _filtered.append(_it)
+            if len(_filtered) < len(merged_items):
+                self.console.print(
+                    f"📚 Skipped {len(merged_items) - len(_filtered)} already-shown discovery articles\n"
+                )
+            merged_items = _filtered
+
             # 4. Analyze with AI
             analyzed_items = await self._analyze_content(merged_items)
             self.console.print(f"🤖 Analyzed {len(analyzed_items)} items with AI\n")
@@ -140,6 +165,13 @@ class HorizonOrchestrator:
             # 5.7 Apply per-category and global digest limits before enrichment
             balanced_result = self.apply_balanced_digest(important_items)
             important_items = balanced_result.items
+
+            # 5.8 Update discovery history with newly selected items
+            _today = datetime.now(timezone.utc).date().isoformat()
+            for _it in important_items:
+                if _it.metadata.get("category") in self._DISCOVERY_CATS:
+                    _shown_history[str(_it.url)] = _today
+            self._save_shown_history(_shown_history)
 
             # Show per-sub-source selection breakdown
             selected_counts: Dict[str, int] = defaultdict(int)
@@ -243,6 +275,32 @@ class HorizonOrchestrator:
                 )
 
             raise
+
+
+    # ── Article history helpers ───────────────────────────────────────────────
+
+    _HISTORY_PATH = Path("data/shown_articles.json")
+    _DISCOVERY_CATS = {"unknown-unknowns", "ai-learning", "lang-skills"}
+
+    def _load_shown_history(self) -> dict:
+        """Load URL → date history for discovery categories."""
+        if not self._HISTORY_PATH.exists():
+            return {}
+        try:
+            data = json.loads(self._HISTORY_PATH.read_text())
+            # Prune entries older than 60 days
+            cutoff = (datetime.now(timezone.utc) - timedelta(days=60)).date().isoformat()
+            return {url: d for url, d in data.items() if d >= cutoff}
+        except Exception:
+            return {}
+
+    def _save_shown_history(self, history: dict) -> None:
+        """Persist updated history."""
+        try:
+            self._HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+            self._HISTORY_PATH.write_text(json.dumps(history, indent=2, ensure_ascii=False))
+        except Exception as e:
+            self.console.print(f"[yellow]Warning: could not save article history: {e}[/yellow]")
 
     def _determine_time_window(self, force_hours: int = None) -> datetime:
         if force_hours:
