@@ -140,6 +140,30 @@
         "url": "https://feed.infoq.com/",
         "enabled": true,
         "category": "devops"
+      },
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
+        "enabled": true,
+        "category": "startup-biz"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "startup-biz"
+      },
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/feed/",
+        "enabled": true,
+        "category": "startup-biz"
+      },
+      {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/feed.xml",
+        "enabled": true,
+        "category": "finance"
       }
     ],
     "reddit": {
@@ -246,6 +270,18 @@
         "limit": 4,
         "categories": [
           "devops"
+        ]
+      },
+      "startup": {
+        "limit": 5,
+        "categories": [
+          "startup-biz"
+        ]
+      },
+      "finance": {
+        "limit": 4,
+        "categories": [
+          "finance"
         ]
       }
     },
