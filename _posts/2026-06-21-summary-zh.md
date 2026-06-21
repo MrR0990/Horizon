@@ -5,7 +5,7 @@ date: 2026-06-21
 lang: zh
 ---
 
-> 从 196 条内容中筛选出 28 条重要资讯。
+> 从 238 条内容中筛选出 28 条重要资讯。
 
 ---
 
@@ -13,319 +13,315 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [人造岩石重新定义人类世地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [技术化石：人类制造的岩石重新定义地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > 文章介绍了由人类活动创造的新型岩石，如塑料结核和科技化石，它们挑战了传统地质学分类，标志着人类世。 这重新定义了地质学的边界，表明人类活动现在已成为一种地质力量，这些材料将在岩石记录中留存数百万年，影响未来对地球历史的解读。 塑料结核是塑料与天然沉积物在热作用下融合的混合物，而科技化石包括所有可能变成化石的人造物体。这些材料被视为人类世时期的潜在标志。
+  > 这篇文章介绍了“技术化石”——塑料和混凝土等人造物体成为地质记录的一部分，挑战了人类世中自然与人工岩石的传统区分。 这一概念迫使地质学家和哲学家重新思考什么是“自然的”，并将地质学范围扩大到包括人类活动作为地质力量，对我们理解地球未来的地层具有深远影响。 技术化石包括塑料瓶、合成纤维和混凝土等耐用物品，它们可以存在数百万年，并可能成为人类世的关键标志。
 
-- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个资本和技术自主驱动人类走向过时的未来，融合了控制论、资本主义和反人本主义。 这篇文章引入了一种激进的思想潮流，挑战了科技专业人士对进步的假设，揭示了一种黑暗的潜流，认为技术加速将导致后人类、非人的未来，而非乌托邦。 兰德的作品收录于 2011 年的《Fanged Noumena》，偏离了学术惯例，借鉴了赛博朋克、电子音乐和思辨实在论。文章指出，恐怖分子和科技兄弟都将加速主义作为革命工具。
+  > Vincent Lê在 Aeon 上发表的一篇文章探讨了尼克·兰德的加速主义哲学，该哲学认为技术和资本主义将不可避免地加速超越人类控制，导致后人类世界的到来。 这一哲学挑战了硅谷的技术乐观主义，为 AI 和资本主义的发展轨迹提供了批判性视角，影响了边缘政治运动和学术讨论。 兰德的加速主义不同于左翼加速主义和有效加速主义（e/acc），它秉持虚无主义观点，认为人类只是机器进程中的一个过渡阶段。
 
-- [从裁缝到海洋生物学家：她破解了船蛸壳之谜并发明了水族箱](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
+- [奥利弗·萨克斯论幻象的必要性](https://www.themarginalian.org/2026/06/16/oliver-sacks-illusions/) ⭐️ 9.0/10
 
-  > 自学成才的 19 世纪博物学家 Jeanne Villepreux-Power 证明了船蛸（argonaut）的壳是自己制造的而非借用，并发明了第一个用于海洋实验的玻璃水族箱。 她的工作为现代头足类动物智力研究和水族箱科学奠定了基础，但直到 1997 年才被重新发现，凸显了女性在 STEM 领域中被忽视的贡献。 Villepreux-Power 在 1830 年代使用定制的玻璃水族箱观察圈养船蛸，她的研究成果由 Richard Owen 爵士提交给伦敦动物学会。
+  > 奥利弗·萨克斯提出，幻象不仅仅是认知错误，而是帮助我们承受时间和死亡重量的必要虚构。 这一观点挑战了将幻象视为纯粹错误的普遍假设，将其重新定义为心理健康和应对存在焦虑的关键。 萨克斯强调超脱与投入的双重需求，并指出生命的意义与爱有关。
 
-- [“创伤”一词在现代语言中的滥用](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 8.0/10
+- [自我七层：文学与哲学框架](https://www.themarginalian.org/2026/06/16/amelie-rorty-the-identities-of-persons/) ⭐️ 9.0/10
 
-  > Lily Dunn 在 Aeon 上发表的文章指出，“创伤”一词在日常语言中的过度使用已使其含义被稀释，并呼吁回归精确的语言，以保留其对真正心理痛苦的重要性。 这很重要，因为临床术语的语义膨胀可能淡化真正的痛苦，并阻碍关于心理健康的有效沟通。对于在职场或媒体语境中遇到“创伤”一词的技术专业人士而言，理解这一批评有助于保持清晰和同理心。 文章借鉴心理学和语言学，认为“创伤”应保留用于那些压倒个人应对能力的事件，而非日常压力。它强调过度使用可能导致同情疲劳，并削弱该术语的临床效用。
-
----
-
-## 🧬 人性与行为
-
-- [超信挑战理性](https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality) ⭐️ 9.0/10
-
-  > 一篇 LessWrong 文章指出，超信（即能自我实现的虚假信念）有时可能比纯粹理性产生更好的结果，并引用《序列》中对此矛盾轻描淡写的例子。 这挑战了理性主义社区的基本假设——真实信念总能导致最优决策，迫使人们重新审视如何处理那些在工具上有用但在认知上错误的信念。 文章引用了两篇具体文章：关于肥胖道德化的《病态思维》和关于层级知识的《我们这类人为何无法合作》，认为理性主义者可能无法复制通过无根据信念实现的有益均衡。
-
-- [逃票执法：抓捕罪犯还是惩罚贫困？](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
-
-  > 《行为科学家》杂志的一篇文章探讨了通过执行逃票等轻微违法行为来抓捕重罪犯的争议，引用了纽约和旧金山公交系统的案例。 这场辩论凸显了公共安全与社会公平之间的紧张关系，影响着全美的警务策略和刑事司法改革。 2023 年，BART 反对将逃票非刑事化，而纽约 MTA 报告因逃票损失 6.9 亿美元。一些逃票者被发现携带武器和毒品。
-
----
-
-## 💰 财富与复利
-
-- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
-
-  > 一篇关于一位 41 岁男性提前退休、拥有 200 万美元流动资产却整天吸食大麻玩电子游戏的 Reddit 帖子引发热议，揭示了 FIRE 运动中的一个问题：没有目标的财富可能导致空虚和关系紧张。 这个故事挑战了传统的 FIRE 叙事，表明仅靠财务独立并不能带来满足感；对他人有用、做出贡献才更具吸引力，并能带来更丰富的人生。它强调了“人生资本”——抱负、目标和贡献——比单纯的财务资本更重要。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收入总计 12.5 万美元。他的妻子是一名教师，尽管他经济贡献很大，但妻子仍称他为“失败者”，因为他每天吸食大麻玩 GTA。文章认为，财富的获取方式和使用方式比财富本身更重要。
-
-- [商业与艺术：创作者的权衡](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
-
-  > Nick Maggiulli 借助 HBO 剧集《Hacks》提出了创作者在商业化的“hack”与真实的“artist”之间的光谱，认为优先考虑艺术性而非短期回报才能积累长期资本。 Maggiulli 将“hack”定义为追逐金钱/地位的潮流追随者，而“artist”则优先考虑真实与真诚。他引用 AI 中的模式崩溃概念，解释了人类在因安全输出而获得奖励时也会失去创造力的原因。
+  > Amélie Rorty 的文章提出了一个七层自我模型，认为人的定义在于选择能力而非固定特质。 该框架挑战了传统的身份概念，为认知科学和 AI 伦理等领域提供了新视角，这些领域中人格是核心议题。 这七层从生物个体性到叙事身份，强调意向性而非静态配置。
 
 ---
 
 ## 🧠 AI 学习
 
-- [为 LLM 代理构建上下文剪枝管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 8.0/10
+- [长时运行 LLM 代理的上下文剪枝管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 8.0/10
 
-  > Machine Learning Mastery 上的一篇新教程详细介绍了如何为长期运行的基于 LLM 的代理构建上下文剪枝管道，通过动态管理对话记忆来解决令牌限制和性能下降问题。 这很重要，因为长期运行的代理常常因上下文窗口增长而面临高昂的令牌成本和推理能力下降；上下文剪枝提供了一种实用的解决方案，以在生产系统中保持效率和准确性。 该管道使用检索、可选的重排序和 AI 代理，在将内容输入 LLM 之前修剪不相关的内容，从而减少令牌消耗和延迟，同时保留必要的上下文。
+  > 一篇关于为长时运行 LLM 代理实现上下文剪枝管道的实用指南已发布，详细说明了如何通过选择性保留相关上下文来管理令牌限制并维持性能。 随着 LLM 代理长时间运行，上下文窗口增长并降低性能；该管道提供了一种系统化解决方案，可降低成本、延迟和“中间丢失”问题，使长时运行代理更可靠且经济。 该管道使用一个中间件层，根据新近度、重要性和相关性（RIR）对上下文进行评分，然后在令牌到达 LLM 之前剪除低分令牌。它可将输入大小减少 20%，延迟降低 10-15%，通过使用 FAISS 和 scikit-learn 等库的 LLM 前中间件进行集成。
 
-- [LLM 令牌选择：Logits、温度和 Top-P 详解](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [Token 选择统计：Logits、温度与 Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
 
-  > 这篇文章通过代码示例清晰地讲解了 logits、温度缩放和 top-p（核）采样如何协同工作来控制大型语言模型中的令牌选择。 理解这些机制对于希望在不改变底层模型的情况下微调模型输出的创造性、连贯性和多样性的实践者至关重要。 Logits 是模型最后一层输出的原始分数；温度缩放通过 softmax 调整其分布，而 top-p 采样则动态选择累积概率超过阈值 p 的令牌子集。
+  > MachineLearningMastery.com 上的一篇新教程详细介绍了 logits、温度缩放和 top-p 采样如何控制大语言模型中的 token 选择，以平衡连贯性和创造性。 理解这些机制对于从业者针对特定应用（如创意写作或事实问答）微调 LLM 输出至关重要。 该教程解释了 logits 是通过 softmax 转换为概率的原始分数，温度缩放 logits 以控制随机性，而 top-p 采样则从累积概率超过阈值 p 的最小 token 集合中进行选择。
 
-- [连续批处理提升 LLM 推理效率](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 7.0/10
+- [RAG 中的混合语义-词汇搜索](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
 
-  > 文章解释了连续批处理如何动态调度 LLM 推理请求，并使用不规则批处理避免填充浪费，相比静态批处理提高了吞吐量并降低了延迟。 该技术能够更高效地同时服务多个用户，对于在需要低延迟和高吞吐量的实际应用中部署 LLM 至关重要。 连续批处理在单个 token 生成步骤的粒度上运行，允许在批处理中间添加新请求和移除已完成请求。不规则批处理通过处理可变长度序列而不强制统一长度来避免填充。
+  > 一篇新教程展示了如何在 RAG 系统中通过结合 BM25 词汇搜索与语义搜索，并使用倒数排名融合（RRF）来实现混合语义-词汇搜索。 混合搜索通过平衡精确关键词匹配与语义理解来提高检索质量，解决了用户查询返回零结果等常见问题。该技术对于将 RAG 系统从原型推向生产至关重要。 该实现使用 BM25 进行词汇搜索，使用密集嵌入进行语义搜索，并通过 RRF 融合生成单一排序列表。教程包含代码示例和面向实践者的实用指导。
 
-- [构建具有错误恢复能力的多工具 Gemma 4 智能体](https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/) ⭐️ 7.0/10
+- [使用 Scikit-LLM 与开源大语言模型](https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/) ⭐️ 6.0/10
 
-  > 一篇教程展示了如何使用 Google 的 Gemma 4 模型构建多工具智能体，并集成错误恢复机制以优雅地处理工具调用失败。 该教程为开发者提供了构建能够从错误中恢复的鲁棒自主智能体的实用指导，这对于在生产环境中部署可靠的 AI 系统至关重要。 该智能体利用 Gemma 4 的原生函数调用支持和多模态推理来规划并执行多步骤工作流，并包含错误恢复逻辑以在工具失败时重试或回退。
+  > 一篇教程展示了如何通过 Ollama 使用 Scikit-LLM Python 库与本地部署的开源大语言模型（Mistral、Gemma、Llama 3）进行文本分类任务。 这种集成使开发者能够在不依赖云 API 的情况下，使用强大的大语言模型进行文本分类，从而降低成本并提高数据隐私性。 Scikit-LLM 为 LLM 提供了与 scikit-learn 兼容的接口，而 Ollama 则提供了一个免费仓库用于本地运行模型。该教程涵盖了使用这些工具进行零样本分类的内容。
 
-- [长期运行 AI 代理的记忆系统](https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [构建具有错误恢复能力的多工具 Gemma 4 智能体](https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/) ⭐️ 6.0/10
 
-  > 文章讨论了长期运行 AI 代理的记忆架构，从情景记忆过渡到程序记忆，以处理多天任务和工具积累。 这很重要，因为当前聊天机器人依赖扁平上下文窗口，不足以处理运行数天并积累工具的代理。理解记忆转换有助于构建更持久、更强大的 AI 代理。 情景记忆存储具体的过去经历，而程序记忆编码技能和学习行为以自动执行。文章可能探讨代理如何随时间将情景经验转化为程序知识。
-
----
-
-## 📜 历史的节律
-
-- [美国帝国正在崩溃吗？](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
-
-  > 历史学家迈克尔·伍德认为，美国可能正在遵循历史上帝国衰落的模式，暗示灾难性的变化可能正在发生。 这一分析为理解当前地缘政治变化提供了框架，可能影响政策制定者和公众对美国全球角色的看法。 文章将美国与罗马等历史上的帝国进行类比，重点关注内部衰败、过度扩张和合法性丧失等衰落迹象。
-
-- [美国革命在英国引发激进运动](https://www.historyextra.com/membership/how-american-revolution-inflamed-passions-britain/) ⭐️ 7.0/10
-
-  > 历史学家汤姆·卡特汉姆揭示了美国革命如何激励了英国的激进运动，包括一名苏格兰破坏者反抗英国政府。 这揭示了一种历史模式：一个国家的革命可能激发压迫国国内的平行运动，为理解现代跨国抗议动态提供了洞见。 文章以一名年轻的苏格兰破坏者为例，展示了美国革命引发的英国激进主义，表明这场冲突在英国国内也产生了反响。
+  > MachineLearningMastery.com 上的一篇教程展示了如何使用 Google DeepMind 的 Gemma 4 模型构建多工具智能体，并通过迭代对话处理机制实现错误恢复。 该教程为开发者提供了构建稳健自主智能体的实用指导，使其能够处理工具故障，这对于在实际应用中部署可靠的 AI 系统至关重要。 该智能体将对话列表作为记忆，每次迭代将完整历史发送回模型，从而实现无状态错误恢复。该方法利用了 Gemma 4 的原生函数调用支持和系统提示能力。
 
 ---
 
 ## ✍️ 表达提升
 
-- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
+- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > 前华尔街分析师、Benchmark 合伙人比尔·格利在 Farnam Street 播客中分享了他最常用的心智模型，包括系统思维、二阶和三阶效应以及遗憾最小化框架。 这期节目提供了可操作的心智模型，有助于投资者、企业家以及任何希望更清晰思考复杂系统的人提升决策能力。 格利目前任职于圣塔菲研究所董事会，研究复杂性与系统思维。该节目可在 YouTube、Spotify、Apple Podcasts 收听，并提供完整文字稿。
+  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在最新一期的 Farnam Street 播客中分享了他最常使用的心智模型，包括系统思维以及二阶和三阶效应。 这期节目提供了一位顶级投资者和复杂性科学专家的实用认知工具，帮助听众提升决策能力并理解复杂系统——这些技能在当今互联互通的世界中愈发重要。 格利讨论了系统思维、二阶和三阶效应等心智模型，以及理解一个领域的基础与前沿的重要性。该节目可在 YouTube、Spotify、Apple Podcasts 上收听，并提供文字记录。
 
-- [马克·平卡斯谈创新规则：经过验证、更好、全新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [马克·平卡斯提出“已验证、更好、全新”创新框架](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 7.0/10
 
-  > Zynga 创始人马克·平卡斯在 Farnam Street 的播客中分享了他的创新框架“经过验证、更好、全新”，解释了如何在产品开发中平衡风险与创造力。 该框架为企业家和产品经理提供了一种评估创新机会的实用视角，通过优先考虑经过验证的概念再追求新颖想法，可能降低失败率。 平卡斯将创新分为三个层级：“经过验证”（低风险、渐进式）、“更好”（中等风险、改进型）和“全新”（高风险、突破性）。他建议从“经过验证”开始以建立势头。
+  > 《FarmVille》和《Words with Friends》的创造者马克·平卡斯在 Farnam Street 知识项目播客中分享了他的创新框架“已验证、更好、全新”。 该框架提供了一种具体且可操作的创新方法，平衡了风险与新颖性，可帮助企业家和产品开发者在追求突破之前系统性地建立在已验证的想法之上。 “已验证、更好、全新”框架建议从已验证的概念开始，然后加以改进，最后才追求真正的新想法。平卡斯在 Zynga 应用了这一方法，在现有机制基础上构建社交游戏。
 
-- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+- [RiseGuide 创始人访谈：专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
 
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，该应用基于专家见解提供个性化的自我提升计划。 此次采访凸显了自我提升领域专家引导、结构化学习的增长趋势，为用户提供了比随机在线内容更可靠的替代方案。 RiseGuide 提供涵盖魅力、智力训练和社交媒体提升等领域的结构化学习路径，内容由真实专家策划。
+  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的访谈，RiseGuide 是一款基于专家知识提供个性化自我提升计划的应用程序。 这突显了专家主导、结构化的自我提升应用日益增长的趋势，这些应用旨在用个性化的每日课程取代零散的建议。 RiseGuide 提供关于沟通、自信和记忆力等主题的每日互动课程，每节课结束时还有实用的练习。
+
+---
+
+## 🧬 人性与行为
+
+- [执法轻微违法行为的权衡](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
+
+  > 《行为科学家》一篇文章探讨了通过执法逃票等轻微违法行为来抓捕重罪犯的复杂权衡，既指出了预防犯罪的好处，也指出了过度执法和侵蚀公众信任的风险。 这一分析之所以重要，是因为它揭示了一个非显而易见的行为洞察：看似能有效抓捕罪犯的政策也可能导致种族偏见、因贫困相关违法行为而增加的监禁以及执法信任度下降等意外后果。 文章引用了纽约市和旧金山的例子，逃票执法导致携带武器和毒品的人被捕，但也引发了关于将贫困刑事化的辩论。2023 年，BART 反对将逃票非刑事化，而曼哈顿地区检察官小赛·万斯在 2017 年停止起诉此类案件。
+
+- [LLM 修格斯迷因：比你想象的更深](https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think) ⭐️ 8.0/10
+
+  > 一篇 LessWrong 文章深入分析了 LLM 修格斯迷因，将其与 H.P. 洛夫克拉夫特的宇宙恐怖联系起来，并认为该迷因反映了人类对异类智能和大型语言模型诡异本质的深层恐惧。 这一分析揭示，该迷因不仅仅是一个笑话，而是触及了基本的心理和进化恐惧，提供了关于人类如何看待模仿我们但本质上不同的 AI 的见解。它突显了尽管 LLM 有 helpful 的外表，许多人仍感到不适。 文章将洛夫克拉夫特的修格斯（旧日支配者创造的无脑模仿者）与 LLM 进行类比，LLM 在人类数据上训练并通过 RLHF 微调以显得 helpful，但本质上仍是异类。文章还指出，该迷因起源于 2022 年一位名为 Tetraspace 的 Twitter 用户，讽刺 RLHF 掩盖了 LLM 的异类本质。
+
+---
+
+## 📜 历史的节律
+
+- [我们正在见证美帝国的终结吗？](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
+
+  > 历史学家迈克尔·伍德探讨美国是否正遵循历史上帝国衰落的模式，并与罗马、大英帝国等过去的帝国进行类比。 这一分析之所以重要，是因为它通过历史先例的视角，为理解美国当前的政治和经济挑战提供了框架，并可能为未来提供借鉴。 这篇文章发表在 HistoryExtra 上，借鉴了伍德在世界史方面的专业知识，重点关注过度扩张、经济压力以及道德权威丧失等模式。
+
+- [美国革命在英国引发激进主义](https://www.historyextra.com/membership/how-american-revolution-inflamed-passions-britain/) ⭐️ 7.0/10
+
+  > 历史学家 Tom Cutterham 的一篇新文章揭示，美国革命不仅激励了殖民地居民，还在英国本土点燃了激进运动，包括一名年轻的苏格兰破坏者，他对英国政府采取了行动。 这表明压迫性政策可能在国内产生反效果，在压迫国激发平行运动，与现代全球抗议和政府越权行为有明显的相似之处。 文章聚焦于一名年轻的苏格兰破坏者的具体案例，他被英国政府的高压行动激怒，说明了美国革命期间英国激进主义的更广泛模式。
+
+---
+
+## 💰 财富与复利
+
+- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产却整天打游戏吸大麻的 Reddit 帖子引发热议，文章指出，有用和投入比单纯的财务独立更有吸引力。 这一见解挑战了 FIRE 运动的核心前提，表明没有目标的财务独立可能导致不快乐和关系紧张。它强调，雄心和有用性是吸引力和生活满意度的关键因素，而不仅仅是财富。 该男子每年从资产和版税中获得 12.5 万美元和 7.5 万美元收入，但妻子因他每天玩 GTA 和吸大麻而称他为“失败者”。文章引用了 David Buss 在 37 个文化中的研究，表明在择偶中雄心比资源更重要。
+
+- [黑客与艺术家：创作光谱](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
+
+  > Nick Maggiulli 以 HBO 剧集《Hacks》为例，阐述了为钱创作（黑客）与为艺术创作（艺术家）之间的张力，并提出这一光谱适用于所有创作者和专业人士。 这一框架帮助创作者和投资者从长期角度思考价值创造与短期回报，并揭示了抑制创造力的模式崩溃行为金融概念。 Maggiulli 提供了黑客与艺术家行为的具体例子，例如为追求病毒式传播而给出糟糕建议（黑客）与推广自己引以为傲的作品（艺术家），并指出大多数人两者兼具。
 
 ---
 
 ## 📰 技术资讯
 
-1. [Bun 的 PR 为 JavaScriptCore 添加共享内存线程](#item-1) ⭐️ 9.0/10
-2. [诺贝尔奖得主 John Jumper 离开 DeepMind 加入 Anthropic](#item-2) ⭐️ 9.0/10
-3. [SMPTE 免费开放其标准](#item-3) ⭐️ 8.0/10
-4. [AI 网站剽窃《晦涩悲伤词典》全书](#item-4) ⭐️ 8.0/10
-5. [《大西洋月刊》创建 AI 音乐训练数据可搜索数据库](#item-5) ⭐️ 8.0/10
-6. [台积电加速 CoPoS 封装以取代 CoWoS](#item-6) ⭐️ 8.0/10
-7. [苹果宣布传统 MDM 终结，声明式管理成为新标准](#item-7) ⭐️ 7.0/10
-8. [微软确认 KB5094126 更新问题：Office 崩溃、回收站异常](#item-8) ⭐️ 7.0/10
-9. [《毁灭战士》作曲家鲍比·普林斯去世，享年 81 岁](#item-9) ⭐️ 6.0/10
-10. [Windows Server 2019 五月更新破坏 BitLocker To Go](#item-10) ⭐️ 6.0/10
+1. [Epoll 与 io_uring：性能与安全权衡](#item-1) ⭐️ 8.0/10
+2. [开发者为何拒绝能运行的 AI 代码](#item-2) ⭐️ 8.0/10
+3. [2022 年前书籍因 AI 更可信](#item-3) ⭐️ 8.0/10
+4. [NASA 启动史无前例的 Swift 天文台救援任务](#item-4) ⭐️ 8.0/10
+5. [台积电加速研发 CoPoS 封装以取代 CoWoS](#item-5) ⭐️ 8.0/10
+6. [特斯拉开启 Autopilot 撞入民宅致 76 岁女性身亡](#item-6) ⭐️ 7.0/10
+7. [微软确认 KB5094126 更新导致 Office 崩溃和回收站问题](#item-7) ⭐️ 7.0/10
+8. [特斯拉 Cybercab 侧视摄像头喷淋清洗系统](#item-8) ⭐️ 6.0/10
+9. [微信灰度测试原生 AI 助手“小微”](#item-9) ⭐️ 6.0/10
+10. [韩国央行警告存储芯片繁荣或推高通胀](#item-10) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Bun 的 PR 为 JavaScriptCore 添加共享内存线程](https://github.com/oven-sh/WebKit/pull/249) ⭐️ 9.0/10
+## [Epoll 与 io_uring：性能与安全权衡](https://sibexi.co/posts/epoll-vs-io_uring/) ⭐️ 8.0/10
 
-Bun 的创建者 Jarred Sumner 在 oven-sh/WebKit 分支上提交了一个拉取请求，为 JavaScriptCore 添加共享内存线程，实现了 Filip Pizlo 在 2017 年提出的设计。 如果合并，这将使 JavaScript 实现真正的共享内存多线程，可能显著提升计算密集型任务的性能，并减少将 JavaScript 工具用 Go 等其他语言重写的需求。 该 PR 目前处于实验阶段且尚未完全可用；它通过防止撕裂的 JSValues、损坏的 butterfly 和类型混淆来保证内存安全，即使存在数据竞争。
+一篇关于 Linux I/O 中 epoll 与 io_uring 的详细技术对比文章已发布，分析了性能差异和安全影响。文章指出，虽然 io_uring 每秒请求数可比 epoll 高出 20%，但其内核级直接内存共享引入了安全漏洞。 这一对比对于构建高性能网络服务的开发者至关重要，因为 io_uring 提供了显著的性能提升，但常因安全问题在生产环境中被禁用。理解这些权衡有助于工程师为他们的应用选择正确的 I/O 模型。 文章涵盖了静态批处理、连续批处理和完整实现细节。社区评论指出，CPU 绑定和套接字绑定可以进一步提升 epoll 性能，而 io_uring 近期遭遇了多次漏洞利用。
 
-hackernews · gr4vityWall · 6月20日 17:02 · [社区讨论](https://news.ycombinator.com/item?id=48610841)
+hackernews · Sibexico · 6月20日 23:07 · [社区讨论](https://news.ycombinator.com/item?id=48613872)
 
-**背景**: JavaScript 传统上是单线程的，并发仅限于使用消息传递或 SharedArrayBuffer 的 Web Workers。JavaScriptCore 是 Safari 和 Bun 使用的 JavaScript 引擎。该 PR 旨在添加共享内存线程，允许多个线程直接访问同一内存，类似于 C 或 Rust 中的线程。
+**背景**: epoll 是 Linux 内核中用于可扩展 I/O 事件通知的系统调用，广泛用于高性能网络服务器。io_uring 是一种较新的异步 I/O 接口，通过内核与用户空间之间的共享环形缓冲区实现零拷贝 I/O，提供更高吞吐量，但增加了内核攻击面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/oven-sh/WebKit/pull/249">Shared-memory threads for JavaScriptCore (experimental, not working yet) by Jarred-Sumner · Pull Request #249 · oven-sh/WebKit</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Bun_(software)">Bun (software) - Wikipedia</a></li>
-<li><a href="https://docs.webkit.org/Deep+Dive/JSC/JavaScriptCore.html">JavaScriptCore - WebKit Documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Io_uring">io _ uring - Wikipedia</a></li>
+<li><a href="https://man7.org/linux/man-pages/man7/io_uring.7.html">io _ uring (7) - Linux manual page</a></li>
+<li><a href="https://github.com/axboe/liburing/issues/536">Yet another comparison between io _ uring and epoll on network...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区既兴奋又谨慎：一些人因该 PR 由 AI 辅助且仅由一人编写而表达信任担忧，另一些人则强调运行时代码必须“明显无 bug”。Jarred Sumner 和 Filip Pizlo 积极参与讨论。
+**社区讨论**: 社区成员确认了 io_uring 的性能优势，但强调其安全缺陷，一位用户指出它“需要内核选择启用，并且出于安全原因几乎在所有地方都被禁用”。其他人建议使用 CPU 绑定和 mimalloc 等库来优化基于 epoll 的系统。
 
-**标签**: `#JavaScript`, `#WebKit`, `#concurrency`, `#Bun`, `#shared-memory`
+**标签**: `#Linux`, `#I/O`, `#epoll`, `#io_uring`, `#performance`
 
 ---
 
 <a id="item-2"></a>
-## [诺贝尔奖得主 John Jumper 离开 DeepMind 加入 Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) ⭐️ 9.0/10
+## [开发者为何拒绝能运行的 AI 代码](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) ⭐️ 8.0/10
 
-诺贝尔奖得主、AlphaFold 关键人物 John Jumper 将离开 Google DeepMind，加入竞争对手 AI 公司 Anthropic。 此举标志着 AI 行业重大人才流动，可能增强 Anthropic 的研究能力，同时削弱 DeepMind 在蛋白质折叠和科学 AI 领域的领导地位。 Jumper 并非唯一离开 DeepMind 的知名人物，这表明顶尖研究人员向竞争实验室流动的更广泛趋势。
+一位开发者发表博客文章，解释为何即使 AI 生成的代码能正常运行，他们也会拒绝，理由包括不必要的复杂性、可维护性差以及与项目模式不符。 这凸显了软件工程中“能运行的代码”与“可维护的代码”之间日益增长的矛盾，挑战了“AI 生成的代码天然优质”的假设。它强调了人工代码审查的必要性以及代码质量超越单纯功能的重要性。 作者指出，AI 常常生成过度设计的抽象，且不遵循项目特定约定，导致代码更难维护。社区评论将其与拒绝同事的代码相类比，认为 AI 代码应受到与人类编写代码相同的标准。
 
-rss · TechCrunch · 6月20日 16:39
+hackernews · vnbrs · 6月21日 00:58 · [社区讨论](https://news.ycombinator.com/item?id=48614631)
 
-**背景**: John Jumper 共同领导了 AlphaFold 的开发，这是一个能够以惊人准确度预测蛋白质结构的 AI 系统，并因此获得 2024 年诺贝尔化学奖。DeepMind 是谷歌的子公司，一直是 AI 研究的领导者，而 Anthropic 是一家专注于安全有益 AI 的竞争对手初创公司。
+**背景**: 像 GitHub Copilot 和 ChatGPT 这样的 AI 代码生成工具可以快速生成功能代码，但它们缺乏对项目独特上下文、编码风格和长期可维护性的理解。软件工程不仅强调正确性，还强调可读性、简洁性和遵循团队约定。
 
-**标签**: `#AI`, `#DeepMind`, `#Anthropic`, `#talent`, `#industry news`
+**社区讨论**: 评论者大多同意作者的观点，有人指出 AI 常常在存在更简单解决方案的地方创建复杂的抽象。另一个人将其与拒绝同事代码相类比，认为 AI 代码应受到同样的审查。一些人建议使用多个 AI 相互审查输出。
+
+**标签**: `#AI code generation`, `#software engineering`, `#code quality`, `#developer experience`, `#LLM`
 
 ---
 
 <a id="item-3"></a>
-## [SMPTE 免费开放其标准](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) ⭐️ 8.0/10
+## [2022 年前书籍因 AI 更可信](https://notes.lorenzogravina.com/musings/pre-2022-books) ⭐️ 8.0/10
 
-电影与电视工程师协会（SMPTE）宣布，其全部媒体技术标准库现已免费向公众开放，无需付费或会员资格。 此举消除了工程师、初创公司和研究人员面临的主要障碍，促进了媒体技术生态系统的创新和互操作性。它使 SMPTE 与开放标准运动保持一致，类似于 IETF 长期以来的免费获取政策。 免费获取是更广泛现代化努力的一部分，包括采用基于 GitHub 的工作流进行版本控制、过渡到结构化 HTML 编写，以及实施集成发布管道。标准现可在 https://standards.smpte.org 获取。
+一篇博客文章认为，2022 年之前出版的书籍更可信，因为它们是在 AI 生成内容广泛使用之前撰写的，引发了关于真实性和检测的社区讨论。 这很重要，因为它凸显了在 AI 时代对信息可靠性的日益担忧，影响读者、研究人员和平台如何评估内容质量和可信度。 文章指出，AI 生成的书籍通常缺乏事实核查、编辑和排版，且以低成本生产以充斥亚马逊等平台。一些用户报告 AI 检测工具错误地将人类撰写的内容标记为 AI 生成。
 
-hackernews · zdw · 6月20日 17:01 · [社区讨论](https://news.ycombinator.com/item?id=48610827)
+hackernews · trms · 6月20日 22:36 · [社区讨论](https://news.ycombinator.com/item?id=48613631)
 
-**背景**: SMPTE 是一个全球性的专业学会，为电影和电视行业制定标准，包括著名的 SMPTE 时间码和 VC-1 视频编解码器。历史上，获取这些标准需要购买单个文档或成为会员，这限制了其传播范围。
+**背景**: 自 2022 年底以来，GPT-3.5 和 GPT-4 等大型语言模型使得文本生成变得容易，导致亚马逊等平台上 AI 生成的书籍泛滥。这引发了对信息质量以及区分人类与 AI 内容难度的担忧。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers">Society of Motion Picture and Television Engineers - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Category:SMPTE_standards">Category:SMPTE standards - Wikipedia</a></li>
+**社区讨论**: 评论者对 AI 生成的书籍表示沮丧，指出即使是人类撰写的内容也可能被 AI 检测器错误标记。一些人偏好 2022 年之前的参考资料，一位用户指出亚马逊上存在一年内出版超过 100 本 AI 生成书籍的作者。
 
-</ul>
-</details>
-
-**社区讨论**: 社区普遍支持这一举措，评论称赞其与开放标准的契合，并指出 IETF 等免费标准的历史成功。一些用户回忆起过去的成本障碍，并对这一变化表示欣慰。
-
-**标签**: `#standards`, `#media technology`, `#open access`, `#SMPTE`, `#engineering`
+**标签**: `#AI-generated content`, `#trustworthiness`, `#books`, `#information quality`, `#community discussion`
 
 ---
 
 <a id="item-4"></a>
-## [AI 网站剽窃《晦涩悲伤词典》全书](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) ⭐️ 8.0/10
+## [NASA 启动史无前例的 Swift 天文台救援任务](https://www.ithome.com/0/966/626.htm) ⭐️ 8.0/10
 
-一个名为 Qontour 的 AI 生成网站未经许可逐字复制了 John Koenig 的《晦涩悲伤词典》全书，包括全部 311 个新词和前言。 此案凸显了 AI 如何助长大规模内容盗窃，而 DMCA 执法对匿名侵权者仍无效，威胁独立创作者。 侵权网站不仅复制了文本，而且设计更优、搜索排名更高，使原作更难竞争。该网站由匿名实体 Prompt Digital Inc（经营名 Qontour）运营。
+NASA 将于 2026 年 6 月 27 日发射一项救援任务，利用 Katalyst Space Technologies 的航天器“链路号”与 Swift 空间天文台对接并将其抬升至更高轨道，使其寿命延长至少五年。 此次任务是首次尝试与未设计用于在轨服务的政府航天器对接并进行维护，可能彻底改变卫星延寿技术并减少太空垃圾。 重 425 千克的“链路号”航天器配备三条机械臂和霍尔推进器，将由飞马座 XL 火箭发射。Swift 于 2004 年发射，没有推进系统，由于太阳活动加剧，其下降速度超出预期。
 
-hackernews · ridesisapis · 6月20日 18:05 · [社区讨论](https://news.ycombinator.com/item?id=48611411)
+rss · IT之家 · 6月21日 03:10
 
-**背景**: 《晦涩悲伤词典》是 John Koenig 历时 12 年创作的新词合集，最初以 YouTube 频道和播客形式出现。该书为缺乏现有术语的情感定义了自创词汇，并附有详细词源。AI 生成的内容盗窃日益令人担忧，因为大型语言模型可以轻松抓取和重新发布受版权保护的材料。
+**背景**: Neil Gehrels Swift 天文台是 NASA 于 2004 年发射的空间望远镜，用于研究伽马射线暴。它运行在约 600 公里高度的轨道上，但由于大气阻力逐渐下降。若无干预，它将于 2026 年底再入地球大气层。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/">The Wholesale Plagiarism of Obscure Sorrows - Waxy.org</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Dictionary_of_Obscure_Sorrows">The Dictionary of Obscure Sorrows - Wikipedia</a></li>
-<li><a href="https://www.goodreads.com/book/show/56897474-the-dictionary-of-obscure-sorrows">The Dictionary of Obscure Sorrows by John Koenig | Goodreads</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory">Neil Gehrels Swift Observatory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Katalyst_Space_Technologies">Katalyst Space Technologies</a></li>
+<li><a href="https://www.katalystspace.com/news/katalyst-selects-northrop-grumman-pegasus-rocket-for-robotic-rescue-mission">Katalyst Selects Northrop Grumman Pegasus Rocket for Robotic...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对平台不作为表示沮丧，指出谷歌和苹果在没有法院命令的情况下拒绝处理 DMCA 下架通知。一些人指出，真正的推动因素是匿名性以及盗窃与被抓成本之间的不对称，而 AI 进一步降低了侵权成本。
-
-**标签**: `#plagiarism`, `#AI`, `#copyright`, `#DMCA`, `#content theft`
+**标签**: `#NASA`, `#space rescue`, `#Swift observatory`, `#orbital mechanics`, `#spacecraft docking`
 
 ---
 
 <a id="item-5"></a>
-## [《大西洋月刊》创建 AI 音乐训练数据可搜索数据库](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) ⭐️ 8.0/10
+## [台积电加速研发 CoPoS 封装以取代 CoWoS](https://www.ithome.com/0/966/590.htm) ⭐️ 8.0/10
 
-《大西洋月刊》记者 Alex Reisner 发现了四个用于训练 AI 模型的音乐数据集，并将其完全公开可搜索，其中两个数据集分别包含 1200 万和 900 万首曲目。 该数据库为 AI 训练所用音乐提供了前所未有的透明度，这对 AI 行业的版权和伦理辩论至关重要。 两个最大的数据集分别有 1200 万和 900 万首曲目，另外两个较小但数量依然可观。这些数据集已被下载数千次。
+台积电正加速研发 CoPoS（基板上面板芯片封装）技术，采用玻璃核心基板可降低成本 20-30%，并将晶圆利用率提升至 90%以上，旨在取代现有的 CoWoS 工艺。 这一转变可大幅降低 AI 芯片制造成本并提升性能，满足日益增长的高性能计算需求，同时也使台积电在先进封装市场与英特尔展开竞争。 CoPoS 采用最大 750×620 毫米的方形/矩形面板，而 CoWoS 使用 300 毫米圆形晶圆，单块基材可容纳更多芯片。台积电计划 2027 年试产，2028 年量产，完整玻璃核心 CoPoS 工艺在 2030 年后。
 
-rss · The Verge · 6月20日 18:46
+rss · IT之家 · 6月20日 23:32
 
-**背景**: AI 模型需要大量数据进行训练，音乐数据集通常从各种来源汇编而成，且许可不明确。该数据库让艺术家和公众能够看到哪些音乐被使用，可能影响主要唱片公司与 AI 公司之间的 ongoing 诉讼。
+**背景**: CoWoS（基板上晶圆上芯片）是台积电当前用于 AI 芯片（如 NVIDIA Blackwell）的先进封装技术。随着芯片尺寸增大，CoWoS 接近物理极限。玻璃核心基板相比硅或有机材料，具有更大尺寸、更低信号损耗和更好热稳定性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data">The Atlantic created a searchable database of the music ... | The Verge</a></li>
-<li><a href="https://musictech.com/news/industry/ai-12-million-dataset-training/">“Until the major labels go through their lawsuits, there’s no...” | MusicTech</a></li>
+<li><a href="https://wallstreetcn.com/articles/3771756">CoWoS之后，下一代先进封装会是CoPoS？</a></li>
+<li><a href="https://finance.sina.com.cn/tech/digi/2026-04-13/doc-inhuixxe4782666.shtml">曝台积电准备新一代 CoPoS 封装技术，试点生产线预计今年 6 月完工|台积电|芯片|新一代_新浪科技_新浪网</a></li>
+<li><a href="https://www.bnext.com.tw/article/82088/tsmc-cowos-type-explanation">CoWoS是什麼？台積電先進封裝技術介紹：CoWoS、CoWoP、CoPoS差異一次...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#music`, `#training data`, `#copyright`, `#transparency`
+**标签**: `#半导体`, `#先进封装`, `#台积电`, `#AI芯片`, `#CoPoS`
 
 ---
 
 <a id="item-6"></a>
-## [台积电加速 CoPoS 封装以取代 CoWoS](https://www.ithome.com/0/966/590.htm) ⭐️ 8.0/10
+## [特斯拉开启 Autopilot 撞入民宅致 76 岁女性身亡](https://www.ithome.com/0/966/610.htm) ⭐️ 7.0/10
 
-台积电正加速研发 CoPoS（基板载面板覆芯片）封装技术以取代现有的 CoWoS（基板载晶圆覆芯片）工艺，利用玻璃核心基板将成本降低 20-30%，并将晶圆利用率提升至 90%以上。 这一转变对于满足激增的 AI 芯片需求至关重要，因为 CoPoS 支持更大的面板和更高的芯片密度，解决了 CoWoS 的物理限制。该技术可大幅降低生产成本并提高良率，惠及 AMD 等主要客户，并巩固台积电在先进封装领域的领导地位。 CoPoS 使用最大 750×620 毫米的方形/矩形面板，而 CoWoS 使用 300 毫米晶圆，每块基板可容纳更多芯片。台积电计划 2027 年试产，2028 年量产，完整玻璃核心 CoPoS 工艺量产定在 2030 年后，其亚利桑那工厂预计在 2029-2030 年承担大量生产任务。
+周五晚，一辆据称开启了 Autopilot 系统的特斯拉撞入得克萨斯州一栋民宅，导致一名 76 岁女性死亡，44 岁驾驶员受伤。驾驶员向调查人员称事故发生时 Autopilot 处于开启状态。 这起事故增加了涉及特斯拉驾驶辅助系统的致命碰撞案例，加剧了监管审查和公众对 Autopilot 及 FSD 安全性的争论，凸显了明确责任和系统局限性的迫切需求。 车辆在路口未能转弯，保持高速直行，撞穿砖墙冲入受害者所在的客厅。调查人员尚未确认启用的是 Autopilot 还是 FSD（监督版），目前未提出任何指控。
 
-rss · IT之家 · 6月20日 23:32
+rss · IT之家 · 6月21日 02:03
 
-**背景**: CoWoS 是台积电的 2.5D 先进封装技术，广泛用于 AI 加速器和 HBM 集成。但其圆形晶圆设计导致材料利用率不足 70%，且大芯片面临成本挑战。玻璃核心基板相比传统有机基板具有更好的热稳定性、平整度和可扩展性，是下一代封装的关键使能技术。
+**背景**: 特斯拉的 Autopilot 是一种需要驾驶员持续注意的驾驶辅助系统，而 FSD（监督版）提供更高级功能但仍需驾驶员监督。两者均为 L2 级系统，驾驶员必须随时准备接管。NHTSA 一直在调查特斯拉的驾驶辅助系统，包括 2025 年 10 月对约 290 万辆配备 FSD 的车辆展开调查，并于 2026 年 3 月升级为工程分析。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.moomoo.com/news/post/55024959/from-cowos-to-copos-taiwan-semiconductor-is-initiating-a-advanced">From CoWoS to CoPoS: Taiwan Semiconductor is initiating a ...</a></li>
-<li><a href="https://www.linkedin.com/posts/erudite-asia_台積電先進封裝技術升級-首波copos供應鏈出爐-聯合新聞網-activity-7415303861302923264-NWOd">TSMC Upgrades Packaging Tech to CoPoS, Boosts Efficiency - LinkedIn</a></li>
-<li><a href="https://www.aminext.blog/post/glass-core-substrate-advanced-packaging-revolution">玻 璃 時代： 玻 璃 基 板 如何引領高效能半導體封裝的下一場革命</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Tesla_Autopilot_crashes">List of Tesla Autopilot crashes - Wikipedia</a></li>
+<li><a href="https://recharged.com/articles/tesla-fsd-vs-autopilot-differences">Tesla FSD vs Autopilot Differences in 2026 | Recharged</a></li>
 
 </ul>
 </details>
 
-**标签**: `#半导体`, `#先进封装`, `#台积电`, `#AI芯片`, `#玻璃基板`
+**标签**: `#Tesla`, `#Autopilot`, `#autonomous driving`, `#safety`, `#accident`
 
 ---
 
 <a id="item-7"></a>
-## [苹果宣布传统 MDM 终结，声明式管理成为新标准](https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/) ⭐️ 7.0/10
+## [微软确认 KB5094126 更新导致 Office 崩溃和回收站问题](https://www.ithome.com/0/966/585.htm) ⭐️ 7.0/10
 
-随着 macOS 27 和 iOS 27 的发布，苹果已完成向声明式设备管理的过渡，使其成为新标准，并弃用了软件更新管理等传统 MDM 命令。 这一转变使 IT 部门能够更高效、可扩展且可靠地管理设备，减少了服务器与设备之间持续通信的需求，并提升了设备的自主性。 传统软件更新命令和查询在新操作系统版本中不再有效，IT 管理员被敦促在测试阶段验证其工作流程以确保兼容性。
+微软已确认，Windows 11 25H2/24H2 的 2026 年 6 月强制更新 KB5094126 导致 Office 应用程序通过 OLE 自动化崩溃以及回收站文件名显示错误，此外还有未确认的蓝屏和 BitLocker 恢复循环报告。 此更新对所有 Windows 11 25H2/24H2 系统是强制性的，影响企业生产力工具和系统稳定性。IT 管理员必须准备临时解决方案，直到 2026 年 7 月 14 日修复发布。 Office 崩溃发生在第三方软件通过 OLE 自动化调用 Word、Excel 或 PowerPoint 时；手动打开 Office 应用则正常。回收站显示内部文件名如 $Rxxxxx.ext 而非原始名称，但不会导致数据丢失。
 
-rss · 9to5Mac · 6月20日 19:46
+rss · IT之家 · 6月20日 23:12
 
-**背景**: 声明式设备管理（DDM）允许设备根据条件自主应用配置，而传统 MDM 则依赖服务器发出的命令。苹果在 WWDC 上曾将 DDM 作为前瞻性路线图引入，现已全面实施，使其成为默认管理范式。
+**背景**: KB5094126 是 2026 年 6 月 9 日发布的 Windows 11 24H2 和 25H2 的累积安全更新。OLE 自动化是微软的一项技术，允许一个应用程序控制另一个应用程序，常用于企业软件。BitLocker 是一种磁盘加密功能，如果系统文件损坏，启动时可能会提示输入恢复密钥。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/">Apple @ Work: The era of legacy MDM is over, and declarative ...</a></li>
-<li><a href="https://addigy.com/blog/mdm-to-ddm-the-future-of-device-management/?trk=article-ssr-frontend-pulse_little-text-block">MDM to DDM: The Future of Apple Device Management</a></li>
-<li><a href="https://www.jamf.com/blog/mastering-mobile-device-management-with-jamf/">Mastering Mobile Device Management with Jamf: tips for admins</a></li>
+<li><a href="https://www.catalog.update.microsoft.com/Search.aspx?q=KB5094126">Microsoft Update Catalog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OLE_Automation">OLE Automation</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/preboot-recovery-screen">BitLocker preboot recovery screen | Microsoft Learn</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#MDM`, `#device management`, `#WWDC`, `#enterprise IT`
+**标签**: `#Windows 11`, `#KB5094126`, `#Office`, `#BSOD`, `#Update Issues`
 
 ---
 
 <a id="item-8"></a>
-## [微软确认 KB5094126 更新问题：Office 崩溃、回收站异常](https://www.ithome.com/0/966/585.htm) ⭐️ 7.0/10
+## [特斯拉 Cybercab 侧视摄像头喷淋清洗系统](https://www.ithome.com/0/966/629.htm) ⭐️ 6.0/10
 
-微软已确认，2026 年 6 月周二补丁日更新 KB5094126 导致 Windows 11 25H2/24H2 系统出现 Office 应用程序通过第三方软件启动时崩溃、回收站显示内部文件名而非原始文件名的显示故障。用户还反馈蓝屏死机和 BitLocker 恢复循环问题，但微软尚未官方确认。 此强制性安全更新影响所有 Windows 11 25H2/24H2 系统，破坏了依赖 OLE 自动化将 Office 与第三方应用集成的企业工作流程。回收站故障可能导致意外数据丢失，而未确认的蓝屏/BitLocker 问题对商用电脑构成严重稳定性风险。 Office 崩溃由 OLE 自动化接口损坏引起，当从 CCH、Dentrix、Zotero 等第三方软件调用时，影响 Word、Excel、PowerPoint、Access 及其他 Office 应用。回收站故障仅影响显示——文件不会丢失——修复计划于 2026 年 7 月 14 日发布。蓝屏问题与 EFI 系统分区空间耗尽或安全启动失败有关，惠普 EliteBook 和 ProBook 型号受影响严重。
+一张特斯拉 Cybercab 的谍照显示，其侧视摄像头外壳集成了喷淋清洗系统，旨在恶劣天气下保持镜头清晰。该硬件解决了特斯拉纯视觉 FSD 系统的一个已知弱点。 该功能对于可靠的无监督 FSD 至关重要，因为摄像头脏污可能触发安全退出机制。这也意味着现有 AI4 车型可能需要改装或硬件升级才能达到同等的全天候能力。 喷淋系统针对用于变道和盲区监测的侧视摄像头，后置摄像头也可能加入类似清洁功能。Cybercab 没有方向盘和后视镜，因此必须依靠自动清洁来持续运营。
 
-rss · IT之家 · 6月20日 23:12
+rss · IT之家 · 6月21日 04:04
 
-**背景**: KB5094126 是 Windows 11 25H2 和 24H2 的强制性安全更新，作为 2026 年 6 月周二补丁日的一部分发布。OLE 自动化是微软的一项技术，允许应用程序相互控制对象，常用于将 Office 与商业软件集成。BitLocker 是 Windows 加密功能，如果系统完整性受损，启动时可能会提示输入恢复密钥。
+**背景**: 特斯拉的 FSD 系统完全依赖摄像头进行感知，因此镜头清洁至关重要。当前 AI4 车型缺少专用的侧/后摄像头清洗装置，车主常在警告出现时手动清洁镜头。Cybercab 的设计直接解决了这一限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/OLE_Automation">OLE Automation</a></li>
-<li><a href="https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6">Find your BitLocker recovery key - Microsoft Support</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tesla_Cybercab">Tesla Cybercab - Wikipedia</a></li>
+<li><a href="https://www.autopilotreview.com/tesla-hardware-4-rolling-out-to-new-vehicles/">Tesla Hardware 4 (AI4) – Full Details and Latest News</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: IT 之家的用户评论对强制更新导致严重问题表示沮丧，许多人报告惠普商用笔记本出现蓝屏和 BitLocker 问题。一些人建议通过禁用安全启动或扩展 EFI 分区等变通方法，而另一些人则批评微软发布有缺陷的更新且测试不足。
-
-**标签**: `#Windows 11`, `#KB5094126`, `#bug`, `#Office`, `#system update`
+**标签**: `#Tesla`, `#autonomous driving`, `#camera cleaning`, `#FSD`, `#Cybercab`
 
 ---
 
 <a id="item-9"></a>
-## [《毁灭战士》作曲家鲍比·普林斯去世，享年 81 岁](https://www.ithome.com/0/966/592.htm) ⭐️ 6.0/10
+## [微信灰度测试原生 AI 助手“小微”](https://36kr.com/newsflashes/3862458180359424?f=rss) ⭐️ 6.0/10
 
-鲍比·普林斯，这位为《毁灭战士》《毁灭战士 2》《德军总部 3D》和《毁灭公爵 3D》等经典游戏创作配乐的标志性作曲家，于 2026 年 6 月 16 日去世，享年 81 岁。其家人证实了这一消息，业界人士纷纷悼念。 普林斯的作品将电子游戏音乐提升为一门公认的艺术形式，影响了无数开发者和作曲家。他的离世标志着经典游戏配乐一个时代的终结，但他的遗产通过其不朽的作品得以延续。 2005 年，普林斯获得了游戏行业颁发的终身成就奖；2026 年，初代《毁灭战士》原声配乐入选美国国会图书馆国家录音登记册。他还为《指挥官基恩》和《龙霸三合会》创作过配乐。
+微信已小范围灰度上线原生 AI 助手“小微”，部分用户主界面左上角出现小眼睛图标，点击即可进入测试版。该助手支持通过文字或语音对话操作微信原生功能、调起小程序等。 这是微信首次原生集成 AI 助手，可能通过免提控制和智能任务执行改变用户与应用的交互方式。它标志着超级应用嵌入 AI 助手的趋势，可能重塑用户习惯和消息生态的竞争格局。 该测试仅面向小部分用户，助手可通过文字或语音执行发送消息、查询朋友圈、预约服务等任务。据腾讯客服介绍，小微是微信团队开发的原生 AI 助手，用于内部测试。
 
-rss · IT之家 · 6月20日 23:42
+rss · 36氪 · 6月21日 05:03
 
-**背景**: 鲍比·普林斯是 20 世纪 90 年代活跃的先驱电子游戏作曲家，以与 id Software 和 3D Realms 的合作而闻名。他为《毁灭战士》创作的音乐融合了重金属和环境音轨，成为标志性作品，并帮助定义了第一人称射击游戏类型。他还曾是一个游戏音乐团体的联合创始人。
-
-**社区讨论**: 来自 id Software 联合创始人汤姆·霍尔和《毁灭公爵 3D》合作者李·杰克逊等业界人士的悼念，凸显了普林斯的才华、善良和幽默。霍尔称他为“真正的传奇”，杰克逊则将他视为导师，帮助自己超越了技术岗位的局限。
-
-**标签**: `#gaming`, `#obituary`, `#video game music`, `#Doom`
-
----
-
-<a id="item-10"></a>
-## [Windows Server 2019 五月更新破坏 BitLocker To Go](https://www.ithome.com/0/966/580.htm) ⭐️ 6.0/10
-
-微软 2026 年 5 月为 Windows Server 2019 发布的累积更新 KB5087538 导致 BitLocker 加密的 USB 驱动器无法被识别，显示为 RAW 分区且内容为空，该问题在 6 月更新后仍未修复。 此漏洞影响依赖 BitLocker To Go 在服务器间安全传输数据的企业管理员，可能导致运维风险，并迫使依赖回滚或重新加密等繁琐的临时方案。 该问题仅影响 Windows Server 2019；Windows Server 2022 不受影响。已知的临时解决办法包括回滚五月更新，或在未受影响的系统上解密驱动器，再在受影响的服务器上重新加密。
-
-rss · IT之家 · 6月20日 22:39
-
-**背景**: BitLocker To Go 是 Windows 的一项功能，用于加密 USB 闪存盘等可移动驱动器，需要密码或智能卡才能访问。2026 年 5 月的累积更新 KB5087538 本意是修补安全漏洞，但引入了一个回归问题，导致操作系统无法识别 BitLocker 加密的驱动器。微软尚未发布永久修复。
+**背景**: 微信是腾讯开发的中国多功能消息、社交媒体和移动支付应用。“灰度测试”是中国科技公司常见的做法，即新功能先向一小部分用户推送，然后逐步扩大范围。AI 助手如 Siri 或 Alexa 已很常见，但将其原生集成到微信这样的超级应用中相对较新。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.catalog.update.microsoft.com/Search.aspx?q=KB5087538">Microsoft Update Catalog</a></li>
-<li><a href="https://www.notebookcheck.net/Microsoft-confirms-new-BitLocker-bug-in-latest-Windows-and-Server-updates.1277121.0.html">Microsoft confirms new BitLocker bug in latest Windows and Server ...</a></li>
+<li><a href="https://t.me/times001/812451">电报时报 – Telegram</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Windows Server`, `#BitLocker`, `#Bug`, `#Security`, `#Microsoft`
+**标签**: `#WeChat`, `#AI assistant`, `#voice assistant`, `#beta`
+
+---
+
+<a id="item-10"></a>
+## [韩国央行警告存储芯片繁荣或推高通胀](https://36kr.com/newsflashes/3862282115749129?f=rss) ⭐️ 6.0/10
+
+韩国央行警告称，存储芯片景气周期带来的巨额绩效奖金可能扩散至更广泛领域，推高通胀压力，并可能在 7 月或 9 月加息。 这凸显了半导体上行周期可能对主要芯片生产国的宏观经济产生溢出效应，影响央行政策和消费者价格。 韩国央行预测 2026 年通胀率为 2.7%，远高于 2%的目标，并将 7 月或 9 月的政策会议视为重要的加息窗口。芯片厂周边的奢侈品消费已升温，零售股被当作“存储概念股”炒作。
+
+rss · 36氪 · 6月21日 02:26
+
+**背景**: 存储芯片是半导体市场中规模最大、周期性最明显的细分领域，常被视为行业风向标。韩国拥有三星和 SK 海力士这两家全球顶级存储芯片制造商，其员工奖金在景气周期大幅增长，刺激本地消费，可能推高整体通胀。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.36kr.com/p/3804471429046277">单季最高涨价75%，存储芯片2026年行业景气度全面上行-36氪</a></li>
+<li><a href="https://news.qq.com/rain/a/20260617A053BH00">韩国央行预计通胀将持续高于目标水平 直至明年_腾讯新闻</a></li>
+<li><a href="https://cn.tradingview.com/news/reuters.com,2026:newsml_L6S42P0DI:0/">韩国央行：在通胀回落至目标水平之前将积极采取应对措施 — TradingVie...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#inflation`, `#macroeconomics`, `#South Korea`, `#memory chips`
 
 ---

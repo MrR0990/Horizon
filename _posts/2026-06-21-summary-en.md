@@ -5,7 +5,7 @@ date: 2026-06-21
 lang: en
 ---
 
-> From 196 items, 28 important content pieces were selected
+> From 238 items, 28 important content pieces were selected
 
 ---
 
@@ -13,319 +13,315 @@ lang: en
 
 ## 🔭 Unknown Unknowns
 
-- [Human-Made Rocks Redefine Geology in the Anthropocene](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [Technofossils: Human-Made Rocks Redefining Geology](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > The essay introduces novel rock types such as plastiglomerates and technofossils that are created by human activity, challenging traditional geological categories and marking the Anthropocene epoch. This redefines the boundaries of geology, showing that human activity is now a geological force, and these materials will persist in the rock record for millions of years, affecting future interpretations of Earth's history. Plastiglomerates are mixtures of plastic and natural sediments fused by heat, while technofossils include all human-made objects that could become fossils. These materials are considered potential markers for the Anthropocene epoch.
+  > The essay introduces 'technofossils'—human-made objects like plastics and concrete that become part of the geological record, challenging traditional distinctions between natural and artificial rocks in the Anthropocene. This concept forces geologists and philosophers to reconsider what counts as 'natural' and expands the scope of geology to include human activity as a geological force, with implications for how we understand Earth's future strata. Technofossils include durable items like plastic bottles, synthetic fibers, and concrete, which can persist for millions of years and may become key markers of the Anthropocene epoch.
 
 - [Nick Land's Accelerationism: A Dark Vision of a Post-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which envisions a future where capital and technology autonomously drive humanity toward obsolescence, merging cybernetics, capitalism, and anti-humanism. This essay introduces a radical intellectual current that challenges tech professionals' assumptions about progress, revealing a dark undercurrent that views technological acceleration as leading to a post-human, inhuman future rather than utopia. Land's work, anthologized in 'Fanged Noumena' (2011), departs from academic conventions and draws on cyberpunk, electronic music, and speculative realism. The essay highlights how both terrorists and tech bros have co-opted accelerationism as a revolutionary tool.
+  > An Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which argues that technology and capitalism will inevitably accelerate beyond human control, leading to a post-human world. This philosophy challenges the techno-optimism of Silicon Valley and offers a critical lens on the trajectory of AI and capitalism, influencing both fringe political movements and academic discourse. Land's accelerationism is distinct from left-accelerationism and effective accelerationism (e/acc), as it embraces a nihilistic view where humanity is merely a transitional phase in a machinic process.
 
-- [Seamstress-Turned-Biologist Solved Argonaut Shell Mystery, Invented Aquarium](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
+- [Oliver Sacks on the Necessity of Illusions](https://www.themarginalian.org/2026/06/16/oliver-sacks-illusions/) ⭐️ 9.0/10
 
-  > Jeanne Villepreux-Power, a self-taught 19th-century naturalist, proved that the argonaut octopus produces its own shell, not borrows it, and invented the first glass aquarium for marine experiments. Her work laid the foundation for modern cephalopod intelligence research and aquarium science, yet she was largely forgotten until rediscovered in 1997, highlighting the overlooked contributions of women in STEM. Villepreux-Power conducted her research in the 1830s, using custom-made glass aquaria to observe argonauts in captivity, and her findings were presented to the Zoological Society of London by Sir Richard Owen.
+  > Oliver Sacks argues that illusions are not merely cognitive errors but necessary fictions that help us bear the weight of time and mortality. This perspective challenges the common assumption that illusions are simply errors, reframing them as essential for psychological well-being and coping with existential concerns. Sacks emphasizes the need for both detachment and engagement, and suggests that the meaning of life relates to love.
 
-- [The Dilution of 'Trauma' in Modern Language](https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something) ⭐️ 8.0/10
+- [Seven Layers of Selfhood: A Literary-Philosophical Framework](https://www.themarginalian.org/2026/06/16/amelie-rorty-the-identities-of-persons/) ⭐️ 9.0/10
 
-  > Lily Dunn's essay on Aeon argues that the overuse of the word 'trauma' in everyday language has diluted its meaning, and calls for a return to precise language to preserve its significance for genuine psychological suffering. This matters because semantic inflation of clinical terms can trivialize real suffering and hinder effective communication about mental health. For tech professionals encountering 'trauma' in workplace or media contexts, understanding this critique helps maintain clarity and empathy. The essay draws on psychology and linguistics to argue that 'trauma' should be reserved for events that overwhelm an individual's coping capacity, not for everyday stressors. It highlights how overuse can lead to compassion fatigue and undermine the term's clinical utility.
-
----
-
-## 🧬 Human Nature & Behavior
-
-- [Hyperstition Challenges Rationality](https://www.lesswrong.com/posts/KDbdkvenK3DCTeL6t/hyperstition-as-the-natural-enemy-of-rationality) ⭐️ 9.0/10
-
-  > A LessWrong post argues that hyperstition—false beliefs that become self-fulfilling—can sometimes produce better outcomes than pure rationality, citing examples from the Sequences where this tension is hand-waved. This challenges the foundational assumption of rationalist communities that true beliefs always lead to optimal decisions, forcing a re-examination of how to handle beliefs that are instrumentally useful but epistemically false. The post references two specific essays: 'Diseased Thinking' on moralizing obesity and 'Why Our Kind Can't Cooperate' on hierarchical knowledge, arguing that rationalists may be unable to replicate beneficial equilibria achieved through unfounded beliefs.
-
-- [Fare Evasion Enforcement: Catching Criminals or Punishing Poverty?](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
-
-  > A Behavioral Scientist article examines the debate over enforcing minor offenses like fare evasion to catch serious criminals, using examples from New York and San Francisco transit systems. This debate highlights a tension between public safety and social equity, affecting policing strategies and criminal justice reform efforts across the U.S. In 2023, BART opposed decriminalizing fare evasion, while New York's MTA reported $690 million in losses from fare evasion. Some fare evaders were found carrying weapons and drugs.
-
----
-
-## 💰 Wealth & Compounding
-
-- [Being Useful Outshines Being Wealthy](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
-
-  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets but spends his days playing video games while high has sparked a discussion on the FIRE movement, highlighting that wealth without purpose can lead to emptiness and relationship strain. This story challenges the conventional FIRE narrative by showing that financial independence alone is not fulfilling; being useful and contributing to others is more attractive and leads to a richer life. It underscores the importance of 'life capital'—ambition, purpose, and contribution—over mere financial capital. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, totaling $125k/year from assets. His wife, a school teacher, called him a 'loser' for being stoned and playing GTA daily, despite his financial contributions. The article argues that how you acquire wealth and what you do with it matters more than the wealth itself.
-
-- [Hacks vs. Artists: The Creative Trade-off](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
-
-  > Nick Maggiulli uses the HBO series 'Hacks' to frame the spectrum between commercial 'hacks' and authentic 'artists' in creative work, arguing that long-term capital is built by prioritizing artistry over short-term rewards. 这个框架帮助创作者和专业人士认识到模式崩溃的行为陷阱——追逐短期回报会扼杀原创性和长期价值。它为评估金钱与诚信之间的权衡提供了一个视角，适用于各行各业。 Maggiulli defines 'hacks' as those who follow trends for money/status, while 'artists' prioritize truth and authenticity. He cites mode collapse, a concept from AI, to explain why humans also lose creativity when rewarded for safe outputs.
+  > Amélie Rorty's essay introduces a seven-layer model of personhood, arguing that a person is defined by capacities for choice rather than fixed traits. This framework challenges conventional identity concepts and offers a fresh perspective for fields like cognitive science and AI ethics, where personhood is a central concern. The seven layers range from biological individuality to narrative identity, emphasizing intentionality over static configurations.
 
 ---
 
 ## 🧠 AI Learning
 
-- [Building a Context Pruning Pipeline for LLM Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 8.0/10
+- [Context Pruning Pipeline for Long-Running LLM Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 8.0/10
 
-  > A new tutorial on Machine Learning Mastery details how to build a context pruning pipeline for long-running LLM-based agents, addressing token limits and performance degradation by dynamically managing conversational memory. This matters because long-running agents often suffer from prohibitive token costs and reasoning degradation as context windows grow; context pruning offers a practical solution to maintain efficiency and accuracy in production systems. The pipeline uses retrieval, optional reranking, and an AI agent to trim irrelevant content before feeding it into the LLM, reducing token consumption and latency while preserving essential context.
+  > A practical guide on implementing a context pruning pipeline for long-running LLM agents has been published, detailing how to manage token limits and maintain performance by selectively retaining relevant context. As LLM agents operate over extended periods, context windows grow and degrade performance; this pipeline offers a systematic solution to reduce costs, latency, and the 'lost in the middle' problem, making long-running agents more reliable and economical. The pipeline uses a middleware layer that scores context based on recency, importance, and relevance (RIR), then prunes low-scoring tokens before they reach the LLM. It can reduce input size by 20% and latency by 10-15%, with integration via pre-LLM middleware using libraries like FAISS and scikit-learn.
 
-- [LLM Token Selection: Logits, Temperature, Top-P Explained](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [Token Selection Statistics: Logits, Temperature, Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
 
-  > This article provides a clear, code-driven walkthrough of how logits, temperature scaling, and top-p (nucleus) sampling work together to control token selection in large language models. Understanding these mechanisms is crucial for practitioners who want to fine-tune model output creativity, coherence, and diversity without changing the underlying model. Logits are raw scores from the model's final layer; temperature scaling adjusts their distribution via softmax, and top-p sampling dynamically selects a subset of tokens whose cumulative probability exceeds a threshold p.
+  > A new tutorial on MachineLearningMastery.com provides a detailed walkthrough of how logits, temperature scaling, and top-p sampling control token selection in large language models, balancing coherence and creativity. Understanding these mechanisms is crucial for practitioners to fine-tune LLM outputs for specific applications, such as creative writing or factual question answering. The tutorial explains that logits are raw scores converted to probabilities via softmax, temperature scales the logits to control randomness, and top-p sampling selects from the smallest set of tokens whose cumulative probability exceeds a threshold p.
 
-- [Continuous Batching Boosts LLM Inference Efficiency](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 7.0/10
+- [Hybrid Semantic-Lexical Search for RAG](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
 
-  > The article explains how continuous batching dynamically schedules LLM inference requests and uses ragged batching to avoid padding waste, improving throughput and reducing latency compared to static batching. This technique enables more efficient serving of multiple users simultaneously, which is critical for deploying LLMs in real-world applications where low latency and high throughput are required. Continuous batching operates at the granularity of individual token generation steps, allowing new requests to be added and completed requests to be removed mid-batch. Ragged batching avoids padding by handling variable-length sequences without forcing them to a uniform length.
+  > A new tutorial demonstrates how to implement hybrid semantic-lexical search in RAG systems by combining BM25 lexical search with semantic search using Reciprocal Rank Fusion (RRF). Hybrid search improves retrieval quality by balancing exact keyword matching with semantic understanding, addressing common failures like zero results for user queries. This technique is crucial for moving RAG systems from prototype to production. The implementation uses BM25 for lexical search and dense embeddings for semantic search, fused via RRF to produce a single ranked list. The tutorial includes code examples and practical guidance for practitioners.
 
-- [Building a Multi-Tool Gemma 4 Agent with Error Recovery](https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/) ⭐️ 7.0/10
+- [Using Scikit-LLM with Open-Source LLMs](https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/) ⭐️ 6.0/10
 
-  > A tutorial demonstrates how to build a multi-tool agent using Google's Gemma 4 model, incorporating error recovery mechanisms to handle tool call failures gracefully. This tutorial provides practical guidance for developers to create robust autonomous agents that can recover from errors, which is essential for deploying reliable AI systems in production environments. The agent leverages Gemma 4's native function calling support and multimodal reasoning to plan and execute multi-step workflows, with error recovery logic to retry or fallback on tool failures.
+  > A tutorial demonstrates how to use the Scikit-LLM Python library with locally hosted open-source LLMs (Mistral, Gemma, Llama 3) via Ollama for text classification tasks. This integration enables developers to perform text classification using powerful LLMs without relying on cloud APIs, reducing costs and improving data privacy. Scikit-LLM provides a scikit-learn-compatible interface for LLMs, and Ollama offers a free repository for running models locally. The tutorial covers zero-shot classification using these tools.
 
-- [Memory Systems for Long-Running AI Agents](https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [Building a Multi-Tool Gemma 4 Agent with Error Recovery](https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/) ⭐️ 6.0/10
 
-  > The article discusses memory architectures for long-running AI agents, transitioning from episodic to procedural memory to handle multi-day tasks and tool accumulation. This is significant because current chatbots rely on flat context windows, which are insufficient for agents that operate over days and accumulate tools. Understanding memory transitions enables building more persistent and capable AI agents. Episodic memory stores specific past experiences, while procedural memory encodes skills and learned behaviors for automatic execution. The article likely explores how agents can convert episodic experiences into procedural knowledge over time.
-
----
-
-## 📜 History & Patterns
-
-- [Is the American Empire Collapsing?](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
-
-  > Historian Michael Wood argues that the United States may be following historical patterns of imperial decline, suggesting that cataclysmic change could be unfolding now. This analysis offers a framework for understanding current geopolitical shifts and could influence how policymakers and the public perceive America's global role. The article draws parallels between the U.S. and past empires like Rome, focusing on internal decay, overreach, and loss of legitimacy as signs of decline.
-
-- [American Revolution sparked radicalism in Britain](https://www.historyextra.com/membership/how-american-revolution-inflamed-passions-britain/) ⭐️ 7.0/10
-
-  > Historian Tom Cutterham reveals how the American Revolution inspired radical movements in Britain, including a Scottish saboteur who acted against the British government. This highlights a historical pattern where revolutions in one country can inspire parallel movements in the oppressing nation, offering insights into modern transnational protest dynamics. The article focuses on a young Scottish saboteur as a case study of British radicalism sparked by the American Revolution, showing that the conflict had domestic repercussions in Britain.
+  > A tutorial on MachineLearningMastery.com demonstrates how to build a multi-tool agent using Google DeepMind's Gemma 4 model, incorporating error recovery mechanisms through iterative conversation handling. This tutorial provides practical guidance for developers to create robust, autonomous agents that can handle tool failures, which is crucial for deploying reliable AI systems in real-world applications. The agent maintains a conversation list as memory, sending the entire history back to the model each iteration, which enables stateless error recovery. The approach leverages Gemma 4's native function-calling support and system prompt capabilities.
 
 ---
 
 ## ✍️ Language & Expression
 
-- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
+- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > Bill Gurley, a former Wall Street analyst and Benchmark partner, shares his most-used mental models including systems thinking, second- and third-order effects, and the regret minimization framework in a podcast episode on Farnam Street. This episode provides actionable mental models that can improve decision-making for investors, entrepreneurs, and anyone seeking to think more clearly about complex systems. Gurley now serves on the board of the Santa Fe Institute, where he studies complexity and systems thinking. The episode is available on YouTube, Spotify, Apple Podcasts, and includes a full transcript.
+  > Bill Gurley, a renowned venture capitalist and board member of the Santa Fe Institute, shares the mental models he relies on most, including systems thinking and second- and third-order effects, in a new Farnam Street podcast episode. This episode offers practical cognitive tools from a top investor and complexity science expert, helping listeners improve decision-making and understand complex systems—skills increasingly valuable in today's interconnected world. Gurley discusses mental models such as systems thinking, second- and third-order effects, and the importance of understanding both the bedrock and the bleeding edge of a field. The episode is available on YouTube, Spotify, Apple Podcasts, and includes a transcript.
 
-- [Mark Pincus on Proven, Better, New Innovation Rules](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [Mark Pincus Unveils Proven, Better, New Innovation Framework](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 7.0/10
 
-  > Mark Pincus, founder of Zynga, shared his innovation framework of 'Proven, Better, New' in a podcast on Farnam Street, explaining how to balance risk and creativity in product development. This framework offers a practical lens for entrepreneurs and product managers to evaluate innovation opportunities, potentially reducing failure rates by prioritizing proven concepts before pursuing novel ideas. Pincus categorizes innovation into three tiers: 'Proven' (low risk, incremental), 'Better' (moderate risk, improvement), and 'New' (high risk, breakthrough). He recommends starting with 'Proven' to build momentum.
+  > Mark Pincus, creator of FarmVille and Words with Friends, shared his innovation framework called 'Proven, Better, New' on the Farnam Street Knowledge Project podcast. This framework provides a concrete, actionable approach to innovation that balances risk and novelty, which can help entrepreneurs and product developers systematically build on proven ideas before pursuing breakthroughs. The 'Proven, Better, New' framework suggests starting with proven concepts, then making them better, and only then pursuing truly new ideas. Pincus applied this at Zynga, building social games on existing mechanics.
 
-- [RiseGuide Founder Interview on Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+- [RiseGuide Founder Interview: Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
 
-  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized self-improvement plans based on expert insights. This interview highlights a growing trend of expert-led, structured learning in the self-improvement space, offering users a more reliable alternative to random online content. RiseGuide offers structured learning journeys across areas like charisma, intelligence training, and social media enhancement, with content curated by real experts.
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized self-improvement plans based on expert knowledge. This highlights a growing trend of expert-led, structured self-improvement apps that aim to replace scattered advice with personalized, daily lessons. RiseGuide offers daily interactive lessons on topics like communication, confidence, and memory, with practical exercises at the end of each lesson.
+
+---
+
+## 🧬 Human Nature & Behavior
+
+- [The Behavioral Trade-offs of Enforcing Minor Offenses](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
+
+  > A Behavioral Scientist article examines the complex trade-offs of enforcing minor offenses like fare evasion to catch serious criminals, highlighting both crime prevention benefits and risks of over-policing and eroded public trust. This analysis matters because it reveals a non-obvious behavioral insight: policies that seem effective in catching criminals can also lead to unintended consequences like racial bias, increased incarceration for poverty-related offenses, and reduced trust in law enforcement. The article cites examples from New York City and San Francisco, where fare evasion enforcement led to arrests of individuals carrying weapons and drugs, but also sparked debate over criminalizing poverty. In 2023, BART opposed decriminalizing fare evasion, while Manhattan DA Cy Vance Jr. stopped prosecuting such cases in 2017.
+
+- [The LLM Shoggoth Meme: Deeper Than You Think](https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think) ⭐️ 8.0/10
+
+  > A LessWrong article provides a deep analysis of the LLM shoggoth meme, linking it to H.P. Lovecraft's cosmic horror and arguing that the meme reflects deep-seated human fears about alien intelligence and the uncanny nature of large language models. This analysis reveals that the meme is not just a joke but taps into fundamental psychological and evolutionary fears, offering insights into how humans perceive AI that mimics but is fundamentally different from us. It highlights the discomfort many feel with LLMs despite their helpful veneer. The article draws parallels between Lovecraft's shoggoths—mindless mimics created by the Old Ones—and LLMs, which are trained on human data and fine-tuned with RLHF to appear helpful but remain alien. It also notes that the meme originated from a Twitter user named Tetraspace in 2022, satirizing RLHF as masking the alien nature of LLMs.
+
+---
+
+## 📜 History & Patterns
+
+- [Are We Witnessing the End of the American Empire?](https://www.historyextra.com/membership/are-we-now-witnessing-the-end-of-the-american-empire/) ⭐️ 8.0/10
+
+  > Historian Michael Wood explores whether the United States is following historical patterns of imperial decline, drawing parallels from past empires like Rome and Britain. This analysis matters because it provides a framework for understanding current US political and economic challenges through the lens of historical precedents, potentially offering lessons for the future. The article is published on HistoryExtra and draws on Wood's expertise in world history, focusing on patterns such as overreach, economic strain, and loss of moral authority.
+
+- [American Revolution sparked radicalism in Britain](https://www.historyextra.com/membership/how-american-revolution-inflamed-passions-britain/) ⭐️ 7.0/10
+
+  > A new article by historian Tom Cutterham reveals that the American Revolution not only inspired colonists but also ignited radical movements in Britain, including a young Scottish saboteur who took action against the British government. This shows how oppressive policies can backfire at home, inspiring parallel movements in the oppressing country, with clear parallels to modern global protests and government overreach. The article focuses on a specific case of a young Scottish saboteur who was inflamed by the British government's high-handed actions, illustrating the broader pattern of radicalism in Britain during the American Revolution.
+
+---
+
+## 💰 Wealth & Compounding
+
+- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+
+  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets but spends his days playing video games and getting high has sparked a discussion on the importance of purpose over wealth. The article argues that being useful and engaged is more attractive than mere financial independence. This insight challenges the core premise of the FIRE movement, suggesting that financial independence without purpose can lead to unhappiness and strained relationships. It highlights that ambition and usefulness are key factors in attraction and life satisfaction, not just wealth. The man earns $125k/year from his assets and a $75k royalty, but his wife called him a "loser" for his daily routine of GTA and edibles. The article cites a study across 37 cultures by David Buss showing that ambition is more important than resources in mate selection.
+
+- [Hacks vs. Artists: The Creative Continuum](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
+
+  > Nick Maggiulli uses the HBO series 'Hacks' to illustrate the tension between creating for money (hack) versus creating for art (artist), proposing a continuum that applies to all creators and professionals. This framework helps creators and investors think long-term about value creation versus short-term rewards, highlighting the behavioral finance concept of mode collapse that stifles creativity. Maggiulli provides concrete examples of hack vs. artist behavior, such as giving bad advice for virality (hack) versus promoting work you're proud of (artist), and notes that most people are a mixture of both.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [Bun PR Adds Shared-Memory Threads to JavaScriptCore](#item-1) ⭐️ 9.0/10
-2. [Nobel laureate John Jumper leaves DeepMind for Anthropic](#item-2) ⭐️ 9.0/10
-3. [SMPTE Makes Its Standards Freely Accessible](#item-3) ⭐️ 8.0/10
-4. [AI Site Plagiarizes Obscure Sorrows Book](#item-4) ⭐️ 8.0/10
-5. [The Atlantic Creates Searchable Database of AI Music Training Data](#item-5) ⭐️ 8.0/10
-6. [TSMC Accelerates CoPoS Packaging to Replace CoWoS](#item-6) ⭐️ 8.0/10
-7. [Apple Declares Legacy MDM Dead, Declarative Management Now Standard](#item-7) ⭐️ 7.0/10
-8. [Microsoft Confirms KB5094126 Issues: Office Crashes, Recycle Bin Glitch](#item-8) ⭐️ 7.0/10
-9. [Bobby Prince, Doom Composer, Dies at 81](#item-9) ⭐️ 6.0/10
-10. [Windows Server 2019 May Update Breaks BitLocker To Go](#item-10) ⭐️ 6.0/10
+1. [Epoll vs. io_uring: Performance and Security Trade-offs](#item-1) ⭐️ 8.0/10
+2. [Why a Developer Rejects AI Code Even When It Works](#item-2) ⭐️ 8.0/10
+3. [Pre-2022 Books More Trustworthy Due to AI](#item-3) ⭐️ 8.0/10
+4. [NASA Launches Unprecedented Rescue Mission for Swift Observatory](#item-4) ⭐️ 8.0/10
+5. [TSMC Accelerates CoPoS Packaging to Replace CoWoS](#item-5) ⭐️ 8.0/10
+6. [Tesla Crash on Autopilot Kills 76-Year-Old Woman in Texas](#item-6) ⭐️ 7.0/10
+7. [Microsoft Confirms KB5094126 Causes Office Crashes and Recycle Bin Issues](#item-7) ⭐️ 7.0/10
+8. [Tesla Cybercab Side Camera Spray Cleaning System](#item-8) ⭐️ 6.0/10
+9. [WeChat Tests Native AI Assistant 'Xiao Wei' in Small Beta](#item-9) ⭐️ 6.0/10
+10. [South Korea Central Bank Warns Memory Chip Boom May Fuel Inflation](#item-10) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Bun PR Adds Shared-Memory Threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249) ⭐️ 9.0/10
+## [Epoll vs. io_uring: Performance and Security Trade-offs](https://sibexi.co/posts/epoll-vs-io_uring/) ⭐️ 8.0/10
 
-Jarred Sumner, creator of Bun, has opened a pull request on the oven-sh/WebKit fork that adds shared-memory threads to JavaScriptCore, implementing a design originally proposed by Filip Pizlo in 2017. If merged, this could enable true multi-threading in JavaScript with shared memory, potentially allowing performance improvements for compute-heavy tasks and reducing the need to rewrite JavaScript tools in other languages like Go. The PR is experimental and not yet working; it guarantees memory safety by preventing torn JSValues, broken butterflies, and type confusion even in the presence of data races.
+A detailed technical comparison between epoll and io_uring for Linux I/O has been published, analyzing performance differences and security implications. The article highlights that while io_uring can achieve up to 20% higher requests per second than epoll, its kernel-level direct memory sharing introduces security vulnerabilities. This comparison is crucial for developers building high-performance network services, as io_uring offers significant performance gains but is often disabled in production due to security concerns. Understanding these trade-offs helps engineers choose the right I/O model for their applications. The article covers static batching, continuous batching, and full implementation details. Community comments note that CPU pinning and socket pinning can further improve epoll performance, and that io_uring has faced multiple exploits recently.
 
-hackernews · gr4vityWall · Jun 20, 17:02 · [Discussion](https://news.ycombinator.com/item?id=48610841)
+hackernews · Sibexico · Jun 20, 23:07 · [Discussion](https://news.ycombinator.com/item?id=48613872)
 
-**Background**: JavaScript is traditionally single-threaded, with concurrency limited to Web Workers using message passing or SharedArrayBuffer. JavaScriptCore is the JavaScript engine used by Safari and Bun. This PR aims to add shared-memory threads, allowing multiple threads to access the same memory directly, similar to threads in C or Rust.
+**Background**: epoll is a Linux kernel system call for scalable I/O event notification, widely used in high-performance network servers. io_uring is a newer asynchronous I/O interface that uses shared ring buffers between kernel and user space to achieve zero-copy I/O, offering higher throughput but with increased kernel attack surface.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/oven-sh/WebKit/pull/249">Shared-memory threads for JavaScriptCore (experimental, not working yet) by Jarred-Sumner · Pull Request #249 · oven-sh/WebKit</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Bun_(software)">Bun (software) - Wikipedia</a></li>
-<li><a href="https://docs.webkit.org/Deep+Dive/JSC/JavaScriptCore.html">JavaScriptCore - WebKit Documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Io_uring">io _ uring - Wikipedia</a></li>
+<li><a href="https://man7.org/linux/man-pages/man7/io_uring.7.html">io _ uring (7) - Linux manual page</a></li>
+<li><a href="https://github.com/axboe/liburing/issues/536">Yet another comparison between io _ uring and epoll on network...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is excited but cautious: some express trust concerns due to the PR being AI-assisted and authored by one person, while others emphasize the need for code that is 'obviously no bugs' in a runtime. Jarred Sumner and Filip Pizlo are actively involved in the discussion.
+**Discussion**: Community members confirm io_uring's performance advantage but highlight its security drawbacks, with one user noting it is 'kernel opt-in and disabled just about everywhere for security reasons.' Others suggest using CPU pinning and libraries like mimalloc to optimize epoll-based systems.
 
-**Tags**: `#JavaScript`, `#WebKit`, `#concurrency`, `#Bun`, `#shared-memory`
+**Tags**: `#Linux`, `#I/O`, `#epoll`, `#io_uring`, `#performance`
 
 ---
 
 <a id="item-2"></a>
-## [Nobel laureate John Jumper leaves DeepMind for Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) ⭐️ 9.0/10
+## [Why a Developer Rejects AI Code Even When It Works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) ⭐️ 8.0/10
 
-John Jumper, a Nobel laureate and key figure behind AlphaFold, is leaving Google DeepMind to join rival AI company Anthropic. This move signals a major talent shift in the AI industry, potentially strengthening Anthropic's research capabilities while weakening DeepMind's leadership in protein folding and AI for science. Jumper is not the only high-profile departure from DeepMind, indicating a broader trend of top researchers moving to competing labs.
+A developer published a blog post explaining why they reject AI-generated code even when it functions correctly, citing issues like unnecessary complexity, poor maintainability, and misalignment with project patterns. This highlights a growing tension in software engineering between code that works and code that is maintainable, challenging the assumption that AI-generated code is inherently good. It underscores the need for human judgment in code review and the importance of code quality over mere functionality. The author notes that AI often produces over-engineered abstractions and fails to follow project-specific conventions, leading to code that is harder to maintain. Community comments compare this to rejecting a coworker's code, arguing that AI code should be held to the same standards as human-written code.
 
-rss · TechCrunch · Jun 20, 16:39
+hackernews · vnbrs · Jun 21, 00:58 · [Discussion](https://news.ycombinator.com/item?id=48614631)
 
-**Background**: John Jumper co-led the development of AlphaFold, an AI system that predicts protein structures with remarkable accuracy, earning him a Nobel Prize in Chemistry in 2024. DeepMind, a subsidiary of Google, has been a leader in AI research, while Anthropic is a rival startup focused on safe and beneficial AI.
+**Background**: AI code generation tools like GitHub Copilot and ChatGPT can produce functional code quickly, but they lack understanding of a project's unique context, coding style, and long-term maintainability. Software engineering emphasizes not just correctness but also readability, simplicity, and adherence to team conventions.
 
-**Tags**: `#AI`, `#DeepMind`, `#Anthropic`, `#talent`, `#industry news`
+**Discussion**: Commenters largely agree with the author, with one noting that AI often creates complex abstractions where simpler solutions exist. Another draws a parallel to rejecting coworker code, arguing that AI code should face the same scrutiny. Some suggest using multiple AIs to review each other's output.
+
+**Tags**: `#AI code generation`, `#software engineering`, `#code quality`, `#developer experience`, `#LLM`
 
 ---
 
 <a id="item-3"></a>
-## [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) ⭐️ 8.0/10
+## [Pre-2022 Books More Trustworthy Due to AI](https://notes.lorenzogravina.com/musings/pre-2022-books) ⭐️ 8.0/10
 
-The Society of Motion Picture and Television Engineers (SMPTE) has announced that its entire library of media technology standards is now freely accessible to the public, without any paywall or membership requirement. This move removes a major barrier to entry for engineers, startups, and researchers, fostering innovation and interoperability in the media technology ecosystem. It aligns SMPTE with the open standards movement, similar to the IETF's long-standing policy of free access. The free access is part of a broader modernization effort that includes adopting GitHub-based workflows for version control, transitioning to structured HTML-based authoring, and implementing an integrated publishing pipeline. Standards are now available at https://standards.smpte.org.
+A blog post argues that books published before 2022 are more trustworthy because they were written before the widespread use of AI-generated content, sparking a community discussion on authenticity and detection. This matters because it highlights a growing concern about the reliability of information in the age of AI, affecting how readers, researchers, and platforms evaluate content quality and trustworthiness. The post notes that AI-generated books often lack fact-checking, editing, and layout, and are produced cheaply to saturate platforms like Amazon. Some users report AI detection tools falsely flagging human-written content as AI-generated.
 
-hackernews · zdw · Jun 20, 17:01 · [Discussion](https://news.ycombinator.com/item?id=48610827)
+hackernews · trms · Jun 20, 22:36 · [Discussion](https://news.ycombinator.com/item?id=48613631)
 
-**Background**: SMPTE is a global professional society that develops standards for the motion picture and television industries, including well-known standards like SMPTE timecode and VC-1 video codec. Historically, accessing these standards required purchasing individual documents or a membership, which limited their reach.
+**Background**: Since late 2022, large language models like GPT-3.5 and GPT-4 have enabled easy generation of text, leading to a flood of AI-generated books on platforms like Amazon. This has raised concerns about information quality and the difficulty of distinguishing human from AI content.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers">Society of Motion Picture and Television Engineers - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Category:SMPTE_standards">Category:SMPTE standards - Wikipedia</a></li>
+**Discussion**: Commenters express frustration with AI-generated books, noting that even human-written content can be falsely flagged by AI detectors. Some prefer pre-2022 sources for reference, and one user points out that Amazon hosts authors with over 100 AI-generated books in a year.
 
-</ul>
-</details>
-
-**Discussion**: The community overwhelmingly supports the move, with comments praising the alignment with open standards and noting the historical success of free standards like those from the IETF. Some users recall the previous cost barriers and express relief at the change.
-
-**Tags**: `#standards`, `#media technology`, `#open access`, `#SMPTE`, `#engineering`
+**Tags**: `#AI-generated content`, `#trustworthiness`, `#books`, `#information quality`, `#community discussion`
 
 ---
 
 <a id="item-4"></a>
-## [AI Site Plagiarizes Obscure Sorrows Book](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) ⭐️ 8.0/10
+## [NASA Launches Unprecedented Rescue Mission for Swift Observatory](https://www.ithome.com/0/966/626.htm) ⭐️ 8.0/10
 
-An AI-generated website, Qontour, reproduced the entire text of John Koenig's book The Dictionary of Obscure Sorrows verbatim, including all 311 neologisms and the foreword, without permission. This case highlights how AI enables large-scale content theft while DMCA enforcement remains ineffective against anonymous infringers, threatening independent creators. The infringing site not only copied the text but also had a better design and higher search ranking, making it harder for the original to compete. The site is operated by Prompt Digital Inc (DBA Qontour), an anonymous entity.
+NASA is launching a rescue mission on June 27, 2026, using Katalyst Space Technologies' spacecraft 'Link' to dock with and boost the Swift space observatory to a higher orbit, extending its life by at least five years. This mission is the first attempt to dock with and service a government spacecraft not designed for on-orbit servicing, potentially revolutionizing satellite life extension and reducing space debris. The 425 kg 'Link' spacecraft, equipped with three robotic arms and Hall thrusters, will launch on a Pegasus XL rocket. Swift, launched in 2004, has no propulsion system and is descending faster than expected due to increased solar activity.
 
-hackernews · ridesisapis · Jun 20, 18:05 · [Discussion](https://news.ycombinator.com/item?id=48611411)
+rss · IT之家 · Jun 21, 03:10
 
-**Background**: The Dictionary of Obscure Sorrows is a collection of neologisms coined by John Koenig over 12 years, originating as a YouTube channel and podcast. The book defines invented words for emotions that lack existing terms, with detailed etymologies. AI-generated content theft has become a growing concern as large language models can easily scrape and republish copyrighted material.
+**Background**: The Neil Gehrels Swift Observatory is a NASA space telescope launched in 2004 to study gamma-ray bursts. It orbits at about 600 km altitude but has been gradually descending due to atmospheric drag. Without intervention, it would re-enter Earth's atmosphere by late 2026.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/">The Wholesale Plagiarism of Obscure Sorrows - Waxy.org</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Dictionary_of_Obscure_Sorrows">The Dictionary of Obscure Sorrows - Wikipedia</a></li>
-<li><a href="https://www.goodreads.com/book/show/56897474-the-dictionary-of-obscure-sorrows">The Dictionary of Obscure Sorrows by John Koenig | Goodreads</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory">Neil Gehrels Swift Observatory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Katalyst_Space_Technologies">Katalyst Space Technologies</a></li>
+<li><a href="https://www.katalystspace.com/news/katalyst-selects-northrop-grumman-pegasus-rocket-for-robotic-rescue-mission">Katalyst Selects Northrop Grumman Pegasus Rocket for Robotic...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed frustration with platform inaction, noting that Google and Apple refuse to act on DMCA takedowns without a court order. Some pointed out that the real enablers are anonymity and the asymmetry between the cost of stealing and getting caught, with AI further reducing the cost of infringement.
-
-**Tags**: `#plagiarism`, `#AI`, `#copyright`, `#DMCA`, `#content theft`
+**Tags**: `#NASA`, `#space rescue`, `#Swift observatory`, `#orbital mechanics`, `#spacecraft docking`
 
 ---
 
 <a id="item-5"></a>
-## [The Atlantic Creates Searchable Database of AI Music Training Data](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) ⭐️ 8.0/10
+## [TSMC Accelerates CoPoS Packaging to Replace CoWoS](https://www.ithome.com/0/966/590.htm) ⭐️ 8.0/10
 
-Atlantic reporter Alex Reisner uncovered four datasets of music used to train AI models and made them fully searchable for the public, with two datasets containing 12 million and 9 million tracks respectively. This database provides unprecedented transparency into the music used to train AI, which is critical for copyright and ethical debates in the AI industry. The two largest datasets have 12 million and 9 million tracks, while the other two are smaller but still substantial. The datasets have been downloaded thousands of times.
+TSMC is accelerating the development of CoPoS (Chip-on-Panel-on-Substrate) packaging technology, which uses glass core substrates to reduce costs by 20-30% and increase wafer utilization to over 90%, aiming to replace the existing CoWoS process. This shift could significantly lower AI chip manufacturing costs and improve performance, addressing the growing demand for high-performance computing. It also positions TSMC to compete with Intel in the advanced packaging market. CoPoS uses square/rectangular panels up to 750×620 mm, compared to CoWoS's 300 mm circular wafers, enabling more chips per substrate. TSMC plans trial production in 2027, mass production in 2028, and full glass-core CoPoS after 2030.
 
-rss · The Verge · Jun 20, 18:46
+rss · IT之家 · Jun 20, 23:32
 
-**Background**: AI models require large amounts of data for training, and music datasets are often compiled from various sources without clear licensing. This database allows artists and the public to see what music is being used, potentially impacting ongoing lawsuits between major labels and AI companies.
+**Background**: CoWoS (Chip-on-Wafer-on-Substrate) is TSMC's current advanced packaging technology widely used for AI chips like NVIDIA's Blackwell. As chip sizes grow, CoWoS approaches physical limits. Glass core substrates offer larger sizes, lower signal loss, and better thermal stability than silicon or organic materials.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data">The Atlantic created a searchable database of the music ... | The Verge</a></li>
-<li><a href="https://musictech.com/news/industry/ai-12-million-dataset-training/">“Until the major labels go through their lawsuits, there’s no...” | MusicTech</a></li>
+<li><a href="https://wallstreetcn.com/articles/3771756">CoWoS之后，下一代先进封装会是CoPoS？</a></li>
+<li><a href="https://finance.sina.com.cn/tech/digi/2026-04-13/doc-inhuixxe4782666.shtml">曝台积电准备新一代 CoPoS 封装技术，试点生产线预计今年 6 月完工|台积电|芯片|新一代_新浪科技_新浪网</a></li>
+<li><a href="https://www.bnext.com.tw/article/82088/tsmc-cowos-type-explanation">CoWoS是什麼？台積電先進封裝技術介紹：CoWoS、CoWoP、CoPoS差異一次...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#music`, `#training data`, `#copyright`, `#transparency`
+**Tags**: `#半导体`, `#先进封装`, `#台积电`, `#AI芯片`, `#CoPoS`
 
 ---
 
 <a id="item-6"></a>
-## [TSMC Accelerates CoPoS Packaging to Replace CoWoS](https://www.ithome.com/0/966/590.htm) ⭐️ 8.0/10
+## [Tesla Crash on Autopilot Kills 76-Year-Old Woman in Texas](https://www.ithome.com/0/966/610.htm) ⭐️ 7.0/10
 
-TSMC is accelerating the development of CoPoS (Chip-on-Panel-on-Substrate) packaging technology to replace its existing CoWoS (Chip-on-Wafer-on-Substrate) process, leveraging glass core substrates to reduce costs by 20-30% and improve wafer utilization to over 90%. This shift is critical for meeting surging AI chip demand, as CoPoS enables larger panels and higher chip density, addressing physical limitations of CoWoS. The technology could significantly lower production costs and boost yields, benefiting major clients like AMD and reinforcing TSMC's leadership in advanced packaging. CoPoS uses square/rectangular panels up to 750×620 mm, compared to CoWoS's 300 mm wafers, allowing more chips per substrate. TSMC plans trial production in 2027, mass production in 2028, and full glass-core CoPoS mass production after 2030, with its Arizona fab handling significant output by 2029-2030.
+A Tesla with Autopilot allegedly engaged crashed into a Texas home on Friday evening, killing a 76-year-old woman and injuring the 44-year-old driver. The driver told investigators the Autopilot system was active at the time of the crash. This incident adds to the growing list of fatal crashes involving Tesla's driver-assist systems, intensifying regulatory scrutiny and public debate over the safety of Autopilot and Full Self-Driving (FSD). It underscores the critical need for clear accountability and system limitations. The vehicle failed to turn at an intersection, continued straight at high speed, and crashed through a brick wall into the living room where the victim was standing. Investigators have not yet confirmed whether Autopilot or FSD (Supervised) was engaged, and no charges have been filed.
 
-rss · IT之家 · Jun 20, 23:32
+rss · IT之家 · Jun 21, 02:03
 
-**Background**: CoWoS is TSMC's 2.5D advanced packaging technology widely used for AI accelerators and HBM integration. However, its circular wafer design limits material utilization to under 70% and faces cost challenges for large chips. Glass core substrates offer better thermal stability, flatness, and scalability compared to traditional organic substrates, making them a key enabler for next-generation packaging.
+**Background**: Tesla's Autopilot is a driver-assist system that requires constant driver attention, while FSD (Supervised) offers more advanced features but still demands driver oversight. Both are Level 2 systems, meaning the driver must be ready to take control at any time. NHTSA has been investigating Tesla's driver-assist systems, including a probe into 2.9 million vehicles with FSD in October 2025, upgraded to an engineering analysis in March 2026.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.moomoo.com/news/post/55024959/from-cowos-to-copos-taiwan-semiconductor-is-initiating-a-advanced">From CoWoS to CoPoS: Taiwan Semiconductor is initiating a ...</a></li>
-<li><a href="https://www.linkedin.com/posts/erudite-asia_台積電先進封裝技術升級-首波copos供應鏈出爐-聯合新聞網-activity-7415303861302923264-NWOd">TSMC Upgrades Packaging Tech to CoPoS, Boosts Efficiency - LinkedIn</a></li>
-<li><a href="https://www.aminext.blog/post/glass-core-substrate-advanced-packaging-revolution">玻 璃 時代： 玻 璃 基 板 如何引領高效能半導體封裝的下一場革命</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Tesla_Autopilot_crashes">List of Tesla Autopilot crashes - Wikipedia</a></li>
+<li><a href="https://recharged.com/articles/tesla-fsd-vs-autopilot-differences">Tesla FSD vs Autopilot Differences in 2026 | Recharged</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#半导体`, `#先进封装`, `#台积电`, `#AI芯片`, `#玻璃基板`
+**Tags**: `#Tesla`, `#Autopilot`, `#autonomous driving`, `#safety`, `#accident`
 
 ---
 
 <a id="item-7"></a>
-## [Apple Declares Legacy MDM Dead, Declarative Management Now Standard](https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/) ⭐️ 7.0/10
+## [Microsoft Confirms KB5094126 Causes Office Crashes and Recycle Bin Issues](https://www.ithome.com/0/966/585.htm) ⭐️ 7.0/10
 
-With macOS 27 and iOS 27, Apple has completed the transition to declarative device management, making it the standard and deprecating legacy MDM commands like software update management. This shift enables more efficient, scalable, and reliable device management for IT departments, reducing the need for constant server-device communication and improving device autonomy. Legacy software update commands and queries no longer function in the new OS releases, and IT admins are urged to test their workflows during the beta phase to ensure compatibility.
+Microsoft has confirmed that the June 2026 mandatory update KB5094126 for Windows 11 25H2/24H2 causes Office application crashes via OLE automation and Recycle Bin filename display errors, with unconfirmed reports of BSOD and BitLocker recovery loops. This update is mandatory for all Windows 11 25H2/24H2 systems, affecting enterprise productivity tools and system stability. IT administrators must prepare workarounds until the fix arrives on July 14, 2026. The Office crash is triggered when third-party software uses OLE automation to call Word, Excel, or PowerPoint; manually opening Office apps works fine. The Recycle Bin shows internal filenames like $Rxxxxx.ext instead of original names, but no data loss occurs.
 
-rss · 9to5Mac · Jun 20, 19:46
+rss · IT之家 · Jun 20, 23:12
 
-**Background**: Declarative device management (DDM) allows devices to independently apply configurations based on criteria, unlike legacy MDM which relies on imperative commands from a server. Apple introduced DDM as a forward-looking roadmap at WWDC and has now fully implemented it, making it the default management paradigm.
+**Background**: KB5094126 is a cumulative security update for Windows 11 version 24H2 and 25H2, released on June 9, 2026. OLE Automation is a Microsoft technology that allows one application to control another, commonly used in enterprise software. BitLocker is a disk encryption feature that can prompt for a recovery key during boot if system files are corrupted.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/">Apple @ Work: The era of legacy MDM is over, and declarative ...</a></li>
-<li><a href="https://addigy.com/blog/mdm-to-ddm-the-future-of-device-management/?trk=article-ssr-frontend-pulse_little-text-block">MDM to DDM: The Future of Apple Device Management</a></li>
-<li><a href="https://www.jamf.com/blog/mastering-mobile-device-management-with-jamf/">Mastering Mobile Device Management with Jamf: tips for admins</a></li>
+<li><a href="https://www.catalog.update.microsoft.com/Search.aspx?q=KB5094126">Microsoft Update Catalog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OLE_Automation">OLE Automation</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/preboot-recovery-screen">BitLocker preboot recovery screen | Microsoft Learn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#MDM`, `#device management`, `#WWDC`, `#enterprise IT`
+**Tags**: `#Windows 11`, `#KB5094126`, `#Office`, `#BSOD`, `#Update Issues`
 
 ---
 
 <a id="item-8"></a>
-## [Microsoft Confirms KB5094126 Issues: Office Crashes, Recycle Bin Glitch](https://www.ithome.com/0/966/585.htm) ⭐️ 7.0/10
+## [Tesla Cybercab Side Camera Spray Cleaning System](https://www.ithome.com/0/966/629.htm) ⭐️ 6.0/10
 
-Microsoft has confirmed that the June 2026 Patch Tuesday update KB5094126 for Windows 11 25H2/24H2 causes Office application crashes when launched via third-party software and a Recycle Bin display bug showing internal file names instead of original names. Users also report BSOD and BitLocker recovery loops, though Microsoft has not officially acknowledged these issues. This mandatory security update affects all Windows 11 25H2/24H2 systems, disrupting enterprise workflows that rely on OLE automation to integrate Office with third-party applications. The Recycle Bin bug could cause accidental data loss, and the unconfirmed BSOD/BitLocker issues pose serious stability risks for business PCs. The Office crash is caused by a broken OLE automation interface, affecting Word, Excel, PowerPoint, Access, and other Office apps when invoked from third-party software like CCH, Dentrix, and Zotero. The Recycle Bin bug only affects display—files are not lost—and a fix is scheduled for July 14, 2026. BSOD issues are linked to EFI system partition exhaustion or Secure Boot failures, with HP EliteBook and ProBook models heavily affected.
+A spy photo of Tesla's Cybercab reveals a spray cleaning system integrated into the side camera housing, designed to keep lenses clear in adverse weather. This hardware addresses a known weakness in Tesla's pure vision FSD system. This feature is critical for reliable unsupervised FSD, as dirty cameras can trigger safety disengagements. It also suggests that existing AI4 vehicles may need a retrofit or hardware upgrade to achieve the same level of all-weather capability. The spray system targets the side cameras used for lane changes and blind-spot monitoring, and similar cleaning may be added to rear cameras. The Cybercab lacks a steering wheel and mirrors, so it must rely on automatic cleaning for continuous operation.
 
-rss · IT之家 · Jun 20, 23:12
+rss · IT之家 · Jun 21, 04:04
 
-**Background**: KB5094126 is a mandatory security update for Windows 11 25H2 and 24H2, released as part of the June 2026 Patch Tuesday. OLE Automation is a Microsoft technology that allows applications to control each other's objects, commonly used for integrating Office with business software. BitLocker is a Windows encryption feature that can prompt for a recovery key on boot if system integrity is compromised.
+**Background**: Tesla's FSD system relies solely on cameras for perception, making lens cleanliness essential. Current AI4 vehicles lack dedicated side/rear camera washers, and owners often manually clean lenses when warnings appear. The Cybercab's design directly tackles this limitation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/OLE_Automation">OLE Automation</a></li>
-<li><a href="https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6">Find your BitLocker recovery key - Microsoft Support</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tesla_Cybercab">Tesla Cybercab - Wikipedia</a></li>
+<li><a href="https://www.autopilotreview.com/tesla-hardware-4-rolling-out-to-new-vehicles/">Tesla Hardware 4 (AI4) – Full Details and Latest News</a></li>
 
 </ul>
 </details>
 
-**Discussion**: User comments on IT Home express frustration over the mandatory update causing critical issues, with many reporting BSOD and BitLocker problems on HP business laptops. Some suggest workarounds like disabling Secure Boot or expanding the EFI partition, while others criticize Microsoft for releasing a buggy update without adequate testing.
-
-**Tags**: `#Windows 11`, `#KB5094126`, `#bug`, `#Office`, `#system update`
+**Tags**: `#Tesla`, `#autonomous driving`, `#camera cleaning`, `#FSD`, `#Cybercab`
 
 ---
 
 <a id="item-9"></a>
-## [Bobby Prince, Doom Composer, Dies at 81](https://www.ithome.com/0/966/592.htm) ⭐️ 6.0/10
+## [WeChat Tests Native AI Assistant 'Xiao Wei' in Small Beta](https://36kr.com/newsflashes/3862458180359424?f=rss) ⭐️ 6.0/10
 
-Bobby Prince, the iconic composer behind the soundtracks of Doom, Doom II, Wolfenstein 3D, and Duke Nukem 3D, passed away on June 16, 2026, at the age of 81. His family confirmed the news, and tributes have poured in from industry figures. Prince's work helped elevate video game music into a recognized art form, influencing countless developers and composers. His passing marks the end of an era for classic game soundtracks, but his legacy continues through his timeless compositions. In 2005, Prince received a lifetime achievement award from the game industry, and in 2026, the original Doom soundtrack was inducted into the Library of Congress's National Recording Registry. He also composed for Commander Keen and Rise of the Triad.
+WeChat has launched a small-scale beta test of its native AI assistant 'Xiao Wei', accessible via a small eye-shaped icon at the top-left corner of the main interface for some users. The assistant supports text or voice commands to control basic WeChat functions and launch mini-programs. This marks WeChat's first native AI assistant integration, potentially transforming how users interact with the app by enabling hands-free control and intelligent task execution. It signals a broader trend of embedding AI assistants into super-apps, which could reshape user habits and competition in the messaging ecosystem. The beta is limited to a small set of users, and the assistant can perform tasks like sending messages, checking Moments, and booking services via text or voice. According to Tencent customer service, Xiao Wei is a native AI assistant developed by the WeChat team for internal testing.
 
-rss · IT之家 · Jun 20, 23:42
+rss · 36氪 · Jun 21, 05:03
 
-**Background**: Bobby Prince was a pioneering video game composer active during the 1990s, known for his work with id Software and 3D Realms. His music for Doom, featuring heavy metal and ambient tracks, became iconic and helped define the first-person shooter genre. He was also a co-founder of the game music collective.
-
-**Discussion**: Tributes from industry figures like id Software co-founder Tom Hall and Duke Nukem 3D collaborator Lee Jackson highlight Prince's talent, kindness, and humor. Hall called him a 'true legend' and Jackson credited him as a mentor who helped him grow beyond technical roles.
-
-**Tags**: `#gaming`, `#obituary`, `#video game music`, `#Doom`
-
----
-
-<a id="item-10"></a>
-## [Windows Server 2019 May Update Breaks BitLocker To Go](https://www.ithome.com/0/966/580.htm) ⭐️ 6.0/10
-
-Microsoft's May 2026 cumulative update KB5087538 for Windows Server 2019 causes BitLocker-encrypted USB drives to be unrecognized, showing as RAW partitions with empty content, and the issue persists after the June 2026 update. This bug impacts enterprise administrators who rely on BitLocker To Go for secure data transfer between servers, potentially causing operational risks and forcing reliance on cumbersome workarounds like rollback or re-encryption. The issue is specific to Windows Server 2019; Windows Server 2022 is unaffected. Known workarounds include rolling back the May update or decrypting the drive on an unaffected system and re-encrypting on the affected server.
-
-rss · IT之家 · Jun 20, 22:39
-
-**Background**: BitLocker To Go is a Windows feature that encrypts removable drives like USB flash drives, requiring a password or smart card to access. The May 2026 cumulative update KB5087538 was intended to patch security vulnerabilities but introduced a regression that prevents the OS from recognizing BitLocker-encrypted drives. Microsoft has not yet released a permanent fix.
+**Background**: WeChat is a Chinese multi-purpose messaging, social media, and mobile payment app developed by Tencent. 'Gray testing' (灰度测试) is a common practice in Chinese tech where new features are rolled out to a small subset of users before wider release. AI assistants like Siri or Alexa have become common, but integrating them natively into a super-app like WeChat is relatively new.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.catalog.update.microsoft.com/Search.aspx?q=KB5087538">Microsoft Update Catalog</a></li>
-<li><a href="https://www.notebookcheck.net/Microsoft-confirms-new-BitLocker-bug-in-latest-Windows-and-Server-updates.1277121.0.html">Microsoft confirms new BitLocker bug in latest Windows and Server ...</a></li>
+<li><a href="https://t.me/times001/812451">电报时报 – Telegram</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Windows Server`, `#BitLocker`, `#Bug`, `#Security`, `#Microsoft`
+**Tags**: `#WeChat`, `#AI assistant`, `#voice assistant`, `#beta`
+
+---
+
+<a id="item-10"></a>
+## [South Korea Central Bank Warns Memory Chip Boom May Fuel Inflation](https://36kr.com/newsflashes/3862282115749129?f=rss) ⭐️ 6.0/10
+
+South Korea's central bank warned that bonuses from the memory chip boom could spread to other sectors and increase inflation, potentially leading to rate hikes in July or September. This highlights how a semiconductor upcycle can have macroeconomic spillover effects beyond the tech sector, influencing central bank policy and consumer prices in a major chip-producing economy. The Bank of Korea forecasts 2026 inflation at 2.7%, well above its 2% target, and sees the July or September policy meetings as key windows for rate hikes. Luxury consumption near chip factories has already risen, and retail stocks are being traded as 'memory chip concept stocks'.
+
+rss · 36氪 · Jun 21, 02:26
+
+**Background**: Memory chips are the largest and most cyclical segment of the semiconductor market, often acting as a bellwether for the industry. South Korea is home to Samsung and SK Hynix, the world's top memory chipmakers, whose employee bonuses surge during boom periods, boosting local spending and potentially fueling broader inflation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.36kr.com/p/3804471429046277">单季最高涨价75%，存储芯片2026年行业景气度全面上行-36氪</a></li>
+<li><a href="https://news.qq.com/rain/a/20260617A053BH00">韩国央行预计通胀将持续高于目标水平 直至明年_腾讯新闻</a></li>
+<li><a href="https://cn.tradingview.com/news/reuters.com,2026:newsml_L6S42P0DI:0/">韩国央行：在通胀回落至目标水平之前将积极采取应对措施 — TradingVie...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#inflation`, `#macroeconomics`, `#South Korea`, `#memory chips`
 
 ---
