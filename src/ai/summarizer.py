@@ -223,7 +223,6 @@ class DailySummarizer:
         score = item.ai_score or "?"
         meta = item.metadata
 
-        # Money-flow items get a structured table rendering
         if meta.get("group") == "money-flow" and meta.get("money_source_zh"):
             return self._format_money_flow_item(item, labels, language, index)
 
@@ -308,7 +307,7 @@ class DailySummarizer:
         return "\n".join(lines) + "\n\n"
 
     def _format_money_flow_item(self, item: ContentItem, labels: dict, language: str, index: int) -> str:
-        """Render a money-flow item as a structured 8-field table."""
+        """Render a money-flow item as a structured 8-field table in Chinese."""
         meta = item.metadata
         _title = meta.get("title_zh") or meta.get(f"title_{language}") or item.title
         title = str(_title).replace("[", "(").replace("]", ")")
@@ -318,7 +317,6 @@ class DailySummarizer:
         if language == "zh":
             title = _pangu(title)
 
-        # Source line
         source_type = item.source_type.value
         source_parts = [source_type]
         if meta.get("subreddit"):
@@ -329,28 +327,29 @@ class DailySummarizer:
             source_parts.append(item.author or "unknown")
         if item.published_at:
             source_parts.append(
-                f"{item.published_at.month}月{item.published_at.day}日 {item.published_at:%H:%M}"
+                f"{item.published_at.month}\u6708{item.published_at.day}\u65e5 "
+                f"{item.published_at:%H:%M}"
             )
-        source_line = " · ".join(source_parts)
+        source_line = " \u00b7 ".join(source_parts)
 
         discussion_url = meta.get("discussion_url")
         if discussion_url and str(discussion_url) != url:
-            source_line += f" · [讨论]({discussion_url})"
+            source_line += f" \u00b7 [\u8ba8\u8bba]({discussion_url})"
 
         def mf(key: str) -> str:
             val = meta.get(key, "")
-            return _pangu(str(val)) if val else "—"
+            return _pangu(str(val)) if val else "\u2014"
 
         rows = [
-            ("💰 **钱从哪来**", mf("money_source_zh")),
-            ("📤 **钱往哪去**", mf("money_dest_zh")),
-            ("✅ **真实受益方**", mf("real_beneficiary_zh")),
-            ("❌ **受损方**", mf("losers_zh")),
-            ("📊 **规模**", mf("scale_zh")),
-            ("🔄 **二阶效应**", mf("second_order_zh")),
+            ("\U0001f4b0 **\u9322\u4ece\u54ea\u6765**", mf("money_source_zh")),
+            ("\U0001f4e4 **\u9322\u5f80\u54ea\u53bb**", mf("money_dest_zh")),
+            ("\u2705 **\u771f\u5b9e\u53d7\u76ca\u65b9**", mf("real_beneficiary_zh")),
+            ("\u274c **\u53d7\u635f\u65b9**", mf("losers_zh")),
+            ("\U0001f4ca **\u89c4\u6a21**", mf("scale_zh")),
+            ("\U0001f501 **\u4e8c\u9636\u6548\u5e94**", mf("second_order_zh")),
         ]
 
-        table_lines = ["| 维度 | 分析 |", "|------|------|"]
+        table_lines = ["| \u7ef4\u5ea6 | \u5206\u6790 |", "|------|------|"]
         for dim, analysis in rows:
             table_lines.append(f"| {dim} | {analysis} |")
 
@@ -358,28 +357,24 @@ class DailySummarizer:
 
         lines = [
             f'<a id="item-{index}"></a>',
-            f"## [{title}]({url}) ⭐️ {score}/10",
+            f"## [{title}]({url}) \u2b50\ufe0f {score}/10",
             "",
             source_line,
             "",
-            "
-".join(table_lines),
+            "\n".join(table_lines),
         ]
 
-        if key_q and key_q != "—":
-            lines += ["", f"> **留给你的问题**：{key_q}"]
+        if key_q and key_q != "\u2014":
+            lines += ["", f"> **\u7559\u7ed9\u4f60\u7684\u95ee\u9898**\uff1a{key_q}"]
 
         if item.ai_tags:
             tags_str = ", ".join([f"`#{t}`" for t in item.ai_tags])
             lines += ["", f"**{labels['tags']}**: {tags_str}"]
 
         lines += ["", "---"]
-        return "
-".join(lines) + "
+        return "\n".join(lines) + "\n\n"
 
-"
-
-        def _generate_empty_summary(self, date: str, total_fetched: int, labels: dict) -> str:
+    def _generate_empty_summary(self, date: str, total_fetched: int, labels: dict) -> str:
         """Generate summary when no high-scoring items were found."""
         return (
             f"# {labels['header']} - {date}\n\n"
