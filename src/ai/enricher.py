@@ -19,6 +19,7 @@ from .client import AIClient
 from .prompts import (
     CONCEPT_EXTRACTION_SYSTEM, CONCEPT_EXTRACTION_USER,
     CONTENT_ENRICHMENT_SYSTEM, CONTENT_ENRICHMENT_USER,
+    MONEY_FLOW_ENRICHMENT_SYSTEM, MONEY_FLOW_ENRICHMENT_USER,
 )
 from .utils import parse_json_response
 from ..models import ContentItem
@@ -144,6 +145,10 @@ class ContentEnricher:
         Args:
             item: Content item to enrich (modified in-place via metadata)
         """
+        if item.metadata.get("group") == "money-flow":
+            await self._enrich_money_flow_item(item)
+            return
+
         # Extract content text and comments separately
         content_text = ""
         comments_text = ""
@@ -235,6 +240,73 @@ class ContentEnricher:
         item.metadata["detailed_summary"] = item.metadata.get("detailed_summary_en", "")
         item.metadata["background"] = item.metadata.get("background_en", "")
         item.metadata["community_discussion"] = item.metadata.get("community_discussion_en", "")
+
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(min=2, max=10)
+    )
+    async def _enrich_money_flow_item(self, item: ContentItem) -> None:
+        """Enrich a money-flow item with structured 8-field Chinese analysis."""
+        content_text = ""
+        comments_text = ""
+        if item.content:
+            if "--- Top Comments ---" in item.content:
+                main, comments_part = item.content.split("--- Top Comments ---", 1)
+                content_text = main.strip()[:4000]
+                comments_text = comments_part.strip()[:2000]
+            else:
+                content_text = item.content[:4000]
+
+        # Search for financial context
+        search_results = await self._web_search(
+            f"{item.title} financial impact revenue",
+            max_results=4,
+        )
+        if not search_results:
+            search_results = await self._web_search(item.title, max_results=3)
+
+        web_context = ""
+        if search_results:
+            lines = [f"- [{r['title']}]({r['url']}): {r['body']}" for r in search_results]
+            web_context = "\n".join(lines)
+
+        user_prompt = MONEY_FLOW_ENRICHMENT_USER.format(
+            title=item.title,
+            url=str(item.url),
+            summary=item.ai_summary or item.title,
+            score=item.ai_score or 0,
+            reason=item.ai_reason or "",
+            tags=", ".join(item.ai_tags) if item.ai_tags else "",
+            content=content_text,
+            comments_section=f"\n**Community Comments:**\n{comments_text}" if comments_text else "",
+            web_context=web_context or "No web search results available.",
+        )
+
+        response = await self.client.complete(
+            system=MONEY_FLOW_ENRICHMENT_SYSTEM,
+            user=user_prompt,
+        )
+
+        result = self._parse_json_response(response)
+        if result is None:
+            await self._translate_item(item)
+            return
+
+        money_fields = [
+            "money_source_zh", "money_dest_zh", "real_beneficiary_zh",
+            "losers_zh", "scale_zh", "second_order_zh", "key_question_zh",
+        ]
+        for field in money_fields:
+            val = result.get(field, "")
+            if val:
+                item.metadata[field] = str(val)
+
+        if result.get("title_zh"):
+            item.metadata["title_zh"] = str(result["title_zh"])
+
+        # Fallback for webhook/overview rendering
+        item.metadata["detailed_summary_zh"] = item.metadata.get("money_source_zh", item.ai_summary or "")
+        item.metadata["detailed_summary"] = item.metadata["detailed_summary_zh"]
 
     async def _translate_item(self, item: ContentItem) -> None:
         """Lightweight translation fallback: when full enrichment fails, at least
