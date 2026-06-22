@@ -1,0 +1,152 @@
+{
+  "version": "1.0",
+  "ai": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "api_key_env": "ANTHROPIC_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "throttle_sec": 1,
+    "analysis_concurrency": 3,
+    "enrichment_concurrency": 2,
+    "languages": ["zh"]
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 30,
+      "min_score": 200
+    },
+    "rss": [
+      {
+        "name": "Reuters Business",
+        "url": "https://feeds.reuters.com/reuters/businessNews",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "MarketWatch",
+        "url": "https://feeds.marketwatch.com/marketwatch/topstories",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "CNBC Finance",
+        "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "CNBC Tech",
+        "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "The Economist Finance",
+        "url": "https://www.economist.com/finance-and-economics/rss.xml",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/feed/",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "Ars Technica Business",
+        "url": "https://feeds.arstechnica.com/arstechnica/business",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
+        "enabled": true,
+        "category": "money-flow"
+      },
+      {
+        "name": "WSJ Business",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "enabled": true,
+        "category": "money-flow"
+      }
+    ],
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        {
+          "subreddit": "finance",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 100
+        },
+        {
+          "subreddit": "economics",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 50
+        },
+        {
+          "subreddit": "investing",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 100
+        },
+        {
+          "subreddit": "stocks",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 50
+        },
+        {
+          "subreddit": "technology",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 100
+        }
+      ],
+      "fetch_comments": 5
+    },
+    "openbb": { "enabled": false },
+    "ossinsight": { "enabled": false },
+    "twitter": { "enabled": false }
+  },
+  "filtering": {
+    "ai_score_threshold": 6.0,
+    "time_window_hours": 24,
+    "max_items": 10,
+    "default_group": "money-flow",
+    "category_groups": {
+      "money-flow": {
+        "name": "💰 钱流雷达",
+        "limit": 10,
+        "categories": ["money-flow"],
+        "scoring_prompt": "money-flow"
+      }
+    }
+  }
+}
