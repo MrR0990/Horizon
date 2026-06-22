@@ -5,219 +5,401 @@ date: 2026-06-22
 lang: zh
 ---
 
-> 从 77 条内容中筛选出 10 条重要资讯。
+> 从 298 条内容中筛选出 29 条重要资讯。
 
 ---
 
-1. [霍尔木兹危机推油价](#item-1) ⭐️ 9.0/10
-2. [印花税暴增，政府抽水](#item-2) ⭐️ 9.0/10
-3. [虚假岗位的资金暗流](#item-3) ⭐️ 8.0/10
-4. [开源模型省钱潮](#item-4) ⭐️ 8.0/10
-5. [代码重复的经济账](#item-5) ⭐️ 8.0/10
-6. [假赌注真营销](#item-6) ⭐️ 8.0/10
-7. [AI 监管洗牌](#item-7) ⭐️ 8.0/10
-8. [赢创裁员 3200 人](#item-8) ⭐️ 8.0/10
-9. [家宴：高端外卖新赛道](#item-9) ⭐️ 8.0/10
-10. [海尔智家 21 亿布局投资](#item-10) ⭐️ 8.0/10
+---
+
+## 🔭 未知的未知
+
+- [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
+
+  > Aeon 上的一篇文章借鉴古代道家哲学家庄子的思想，认为自我成功的概念是有缺陷的，因为所有成就都依赖于无数超出个人控制的外部因素。 这挑战了科技等行业普遍存在的对精英制度的深信，促使我们重新评估如何归因成功与失败。 该文章由 Christine Abigail L Tan 撰写，发表在思想类数字杂志 Aeon 上。它将庄子的哲学应用于关于精英制度和应得性的现代辩论。
+
+- [人造岩石挑战地质学边界](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+
+  > John MacDonald 在 Aeon 上发表的文章探讨了人类活动如何创造新型岩石，如塑料砾岩和技术化石，这些岩石模糊了自然与人工的界限，迫使地质学重新审视其定义。 这开启了一个真正的新领域——人类世地质学，并挑战科技专业人士和公众重新思考自然与人工的界限，对我们理解人类对地球地质记录的影响具有重要意义。 文章介绍了“技术化石”——可能变成化石的人造物体，如塑料、混凝土和电子垃圾——并认为这些材料如此广泛，以至于它们将在地层中留下永久性层。
+
+- [尼克·兰德加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+
+  > Aeon 杂志的一篇文章探讨了尼克·兰德的加速主义哲学，该哲学主张不受约束的技术和资本主义加速将导致后人类未来。文章指出，恐怖分子和科技企业家都将加速主义思想视为革命工具。 加速主义是一种边缘但具有影响力的哲学，塑造了现代科技文化，包括有效加速主义（e/acc）运动。理解其黑暗起源有助于将当前关于 AI 风险、技术奇点和人类未来的辩论置于背景中。 尼克·兰德的加速主义将民主和平等政策视为不可避免的“技术资本奇点”的障碍。该哲学与左翼和右翼变体（包括黑暗启蒙）有关，并因其反人类主义立场而受到批评。
+
+- [多迷走神经理论：神经系统如何塑造社会联结](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+
+  > The Marginalian 上的一篇近期文章探讨了多迷走神经理论，该理论由 Stephen Porges 于 1994 年提出，解释了迷走神经如何调节社会联结、断裂与修复。文章强调了“故事跟随状态”这一观点——我们的心理叙事受神经系统状态塑造。 该框架为理解人类行为提供了新视角，尤其在创伤、人际关系和心理健康方面。对于技术专业人士，它为设计更具同理心的 AI、用户界面和远程通信工具提供了洞见，这些工具需要考虑神经生物学状态。 多迷走神经理论将副交感神经系统分为腹侧迷走（社会参与）和背侧迷走（固定化）分支。然而，该理论因迷走神经通路方面的不准确性而受到神经解剖学家和进化生物学家的批评。
+
+---
+
+## 💰 财富与复利
+
+- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产，却因每天打游戏和吸食大麻而被妻子称为“失败者”的 Reddit 帖子引发热议，讨论退休后目标的重要性。 这个故事挑战了财务独立本身就能带来满足感的假设，强调有用和对他人做出贡献比单纯的财富更有吸引力和意义。它突显了对 FIRE 运动和行为金融学的一个关键洞察。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，但妻子的批评表明他退休后缺乏雄心和目标令人反感。文章引用了跨 37 种文化的进化心理学研究，显示在伴侣吸引力中，雄心比资源更重要。
+
+- [商业与艺术：在“套路”与“真诚”间找到平衡](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
+
+  > Nick Maggiulli 借助 HBO 剧集《绝望写手》阐述了创意工作中“套路”（商业化）与“艺术家”（真诚）之间的光谱，并指出两者平衡对长期成功至关重要。 这一框架帮助创作者和专业人士在财务回报与艺术诚信之间找到方向，这是任何领域都面临的永恒挑战。同时，它警示了追逐奖励会扼杀创造力的“模式崩溃”现象。 Maggiulli 将“套路者”定义为追随潮流以最大化金钱/地位的人，而“艺术家”则优先考虑真实与真诚。他引用 AI 模型中的“模式崩溃”现象，类比人类创造力被奖励系统所剥夺。
+
+---
+
+## 🧠 AI 学习
+
+- [奖励模型过拟合训练数据，在无害性上失败](https://pub.towardsai.net/teaching-to-the-test-why-reward-models-learn-the-dataset-not-the-values-3415281e9e57?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > 新加坡国立大学、VinUniversity 和南洋理工大学的一项研究发现，弱到强奖励模型在分布内得分很高，但无法迁移到 RAIL 等分布外无害性基准上，表明它们学习的是数据集特征而非预期价值观。 这一发现对 AI 对齐至关重要，因为奖励模型在 RLHF 流程中用于指导大语言模型；如果它们过拟合训练数据，最终模型可能并非真正无害或符合人类价值观。 该论文引入了表示锚定（Representation Anchoring），在训练期间惩罚与预训练模型表示的漂移，且在推理时无额外成本，并证明它能改善在 RAIL 等基准上的分布外迁移。
+
+- [语言模型面临数学预测限制](https://pub.towardsai.net/your-language-model-cannot-say-certain-sentences-d8c6ff3adad0?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > 文章揭示，语言模型在数学上无法做出某些下一个词的预测，而不仅仅是可能性低，就像缺少琴键的钢琴一样。 这一见解挑战了语言模型可以生成任何合理文本的普遍看法，突出了影响可靠性和安全性的基本架构限制。 这些限制源于模型的有限词汇量和下一个词预测的确定性本质，无法表示所有可能的延续。
+
+- [用 FAISS、BM25、LangGraph 构建混合 RAG 系统](https://pub.towardsai.net/build-a-hybrid-rag-system-with-faiss-bm25-langgraph-and-claude-sonnet-model-39ba3c6755bc?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > 一篇教程展示了如何构建一个混合 RAG 系统，该系统结合了 FAISS 密集向量搜索和 BM25 关键词检索，通过倒数排名融合（Reciprocal Rank Fusion）合并结果，由 LangGraph 编排，并使用 Claude Sonnet 作为大语言模型。 混合 RAG 解决了单一检索模式的局限性——密集搜索擅长语义相似性但会遗漏精确匹配，而 BM25 能精确匹配关键词但缺乏语义理解——使其对法律合同、技术手册等真实文档更加鲁棒。 该系统使用 FAISS 进行密集检索，BM25 进行关键词检索，并通过倒数排名融合合并排序列表。LangGraph 编排工作流，Streamlit UI 允许在检索模式间切换并查看分块和分数。
+
+- [掌握 AI 智能体评估的路线图](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) ⭐️ 6.0/10
+
+  > 一篇新文章概述了评估 AI 智能体的结构化路线图，涵盖指标、基准和最佳实践，同时引入了循环工程（Loop Engineering）作为可靠智能体的治理架构概念。 随着 AI 智能体变得更加自主和强大，稳健的评估和治理对于防止代价高昂的错误至关重要。该路线图帮助从业者构建更安全、更可靠的智能体系统。 文章识别了两种常见的智能体模式（一次性奇迹和 ReAct 循环），并提出了可靠智能体的六个组件：目标表示、状态模型、动作执行器、观察收集器、评估器和控制器。它强调可靠性应该是系统的属性，而不仅仅是模型的属性。
+
+- [AgentGateway：面向 AI 代理流量的开源代理](https://pub.towardsai.net/agentgateway-one-data-plane-to-govern-every-ai-agent-tool-and-llm-a6f9513f6da9?source=rss----98111c9905da---4) ⭐️ 6.0/10
+
+  > AgentGateway 是一个由 Solo.io 用 Rust 构建、于 2025 年 8 月捐赠给 Linux 基金会的开源 AI 原生代理，它提供了一个统一的数据平面，用于保护、观察和管理代理到 LLM、代理到工具（通过 MCP）以及代理到代理（通过 A2A）的流量。 随着 AI 代理的激增以及它们之间和与外部工具的通信，传统的 API 网关无法理解 MCP 或 A2A 等代理专用协议，造成了安全性和可观测性缺口。AgentGateway 通过为所有代理流量提供单一治理点来填补这一缺口，类似于 API 网关驯服微服务蔓延的方式。 AgentGateway 支持四种流量类型：LLM 网关（兼容 OpenAI）、MCP 工具调用、A2A 代理通信以及标准 HTTP/gRPC。它已有来自 AWS、Cisco、IBM、Microsoft 和 Red Hat 的贡献者。
+
+---
+
+## ✍️ 表达提升
+
+- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+
+  > 著名风险投资家、前 Benchmark 合伙人比尔·格利在 Farnam Street 播客新一期节目中分享了他对心智模型和系统思维的见解。 本期节目借鉴了格利在优步的经历以及他在圣塔菲研究所的工作，提供了改善决策和推理的实用框架。 格利目前担任圣塔菲研究所董事会成员，研究复杂性科学；该播客可在 YouTube、Spotify 和 Apple Podcasts 上收听。
+
+- [马克·平卡斯谈创新规则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+
+  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中讨论了他的创新框架“经证明、更好、全新”。 该框架提供了一种平衡风险与回报的结构化创新方法，对企业家和产品领导者具有重要价值。 播客节目涵盖了平卡斯打造 FarmVille 和 Words with Friends 等社交游戏的历程，以及他的创新规则。
+
+---
+
+## 🧬 人性与行为
+
+- [被了解是感到被爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+
+  > 两位著名心理学家 Sonja Lyubomirsky 和 Harry Reis 提出，被他人了解是感到被爱的重要组成部分，这一见解为幸福的来源提供了科学依据。 这项研究弥合了幸福科学与关系科学之间的鸿沟，为希望通过更深层次的社会联系来提升幸福感的个人提供了可操作的见解。 文章指出了关于感到被爱的五个常见误解，例如认为吸引力或成功会带来爱，并强调挑战往往在于我们对爱如何运作的信念。
+
+- [执行轻微违法行为的权衡](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
+
+  > 文章探讨了执行逃票等轻微违法行为的争议，指出虽然此类执法可以威慑严重犯罪，但也给低级别违法者带来成本，并引发关于公平性和有效性的问题。 这一分析很重要，因为它挑战了关于警务的简单化观点，并为政策制定者提供了基于证据的见解，帮助他们在公共安全与将贫困刑事化之间取得平衡。 纽约警方认为逃票执法有助于抓捕暴力罪犯，但研究表明此类执法与重罪逮捕之间没有统计上的显著关联。MTA 在 2022 年因逃票损失 6.9 亿美元，但非刑事化努力仍面临交通部门和居民的反对。
+
+---
+
+## 📜 历史的节律
+
+- [英国如何失去美国：战略与消耗战](https://www.historyextra.com/membership/american-revolutionary-war-podcast-series-episode-three/) ⭐️ 8.0/10
+
+  > 一档播客节目邀请亚当·IP·史密斯教授分析美国殖民地如何通过非对称战略和消耗战，在美国独立战争中战胜英国的军事优势。 这一历史分析为理解现代非对称冲突和帝国过度扩张提供了可借鉴的经验，揭示了小规模力量如何通过战略和耐力取胜。 该集内容涵盖独立战争的战略、战役中的消耗性苦难以及冲突的全球影响，重塑了全球权力格局。
+
+---
+
+## 📰 技术资讯
+
+1. [中国批准全球首款实体瘤 CAR-T 疗法](#item-1) ⭐️ 9.0/10
+2. [AWS Graviton5 正式可用：192 核、形式化验证的虚拟机隔离](#item-2) ⭐️ 9.0/10
+3. [Deno Desktop 引入共享 CEF 运行时](#item-3) ⭐️ 8.0/10
+4. [Codex 日志漏洞可能导致本地 SSD 写入数 TB 数据](#item-4) ⭐️ 8.0/10
+5. [48 位中国 iOS 开发者联名举报苹果垄断](#item-5) ⭐️ 8.0/10
+6. [百川 M4 登顶 OpenAI 医疗评测，超越 GPT-5.5](#item-6) ⭐️ 8.0/10
+7. [京东开源实时视频语言交互模型](#item-7) ⭐️ 8.0/10
+8. [纳德拉警告 AI 巨头勿吞噬经济](#item-8) ⭐️ 8.0/10
+9. [理解机器学习模型投毒：攻击与防御](#item-9) ⭐️ 8.0/10
+10. [面向 AI 代理的网络安全技能仓库](#item-10) ⭐️ 8.0/10
+11. [eBPF 实现安全的内核可观测性](#item-11) ⭐️ 7.0/10
+12. [垂直 AI 平台将取代通用 SaaS](#item-12) ⭐️ 7.0/10
+13. [大连坤达完成数千万元融资，专注航空航天智能装配装备](#item-13) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [霍尔木兹危机推油价](https://fortune.com/2026/06/21/stock-market-today-dow-futures-oil-prices-us-iran-talks-trump-threat-hormuz/) ⭐️ 9.0/10
+## [中国批准全球首款实体瘤 CAR-T 疗法](https://www.ithome.com/0/966/958.htm) ⭐️ 9.0/10
 
-rss · Fortune · 6月22日 03:29
+中国国家药品监督管理局批准了舒瑞基奥仑赛注射液（商品名：恺力美），这是全球首款获批用于实体瘤治疗的 CAR-T 细胞疗法，具体用于 CLDN18.2 阳性、HER2 阴性、至少二线治疗失败的晚期胃/食管胃结合部腺癌。 此次批准标志着肿瘤学领域的历史性突破，因为 CAR-T 疗法此前仅限于血液肿瘤。它为占所有恶性肿瘤约 90%的实体瘤患者开辟了新的治疗途径，并可能改变胃癌（中国高发癌症）的治疗格局。 该疗法靶向 CLDN18.2，一种在胃癌中过表达的蛋白。2024 年《自然·医学》发表的数据显示，用于一线治疗后序贯治疗时，4 例存在靶病灶的患者客观缓解率达 100%，其中 2 例患者术后实现近 5 年生存。此外，2025 年 ESMO 公布的胰腺癌辅助治疗初步数据显示，6 例受试者中 5 例 CA19-9 水平显著下降。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 全球石油进口国（如中国、日本、韩国、欧洲）的消费者和企业支付更高油价；美国纳税人可能为军事行动买单 |
-| 📤 **錢往哪去** | 石油生产国（沙特、阿联酋、伊拉克等）获得更高收入；美国页岩油生产商；若美国收取通行费，则流入美国财政部 |
-| ✅ **真实受益方** | 美国页岩油生产商和沙特等 OPEC 产油国。表面受益方是特朗普政府（地缘政治筹码），但实际最大受益方是能快速增产的产油商，因油价飙升直接提升利润，且拥有定价权 |
-| ❌ **受损方** | 显性：伊朗（收入减少、遭威胁）；隐性：全球石油进口国消费者（通胀）、依赖石油运输的航运公司（成本上升）、持有空头头寸的投资者 |
-| 📊 **规模** | 约$500 亿/年（若油价持续上涨 10 美元/桶，全球石油进口成本增加约$5000 亿/年，此处为保守估计） |
-| 🔁 **二阶效应** | 替代能源（太阳能、风能）需求增加；液化天然气（LNG）价格跟涨；全球航运保险费率上升；美国军工股受益 |
+rss · IT之家 · 6月22日 07:32
 
-> **留给你的问题**：下次看到地缘冲突威胁关键航道，先问：谁拥有替代产能或替代路线，从而能从价格飙升中获利？
+**背景**: CAR-T（嵌合抗原受体 T 细胞）疗法是通过改造患者自身的 T 细胞来识别并杀死癌细胞。虽然在白血病、淋巴瘤等血液肿瘤中效果显著，但实体瘤面临肿瘤微环境恶劣、抗原异质性等挑战。CLDN18.2 是一种紧密连接蛋白，通常仅限于胃黏膜表达，但在多种癌症中过表达，因此成为有吸引力的靶点。胃癌是全球第五大常见癌症，也是第三大癌症死亡原因，中国约占全球新发病例的 40%。
 
-**标签**: `#geopolitics`, `#oil prices`, `#trade disruption`, `#market volatility`, `#Hormuz Strait`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CLDN18">CLDN18</a></li>
+<li><a href="https://www.nature.com/articles/s41571-025-01075-1">Optimizing CAR T cell therapy for solid tumours: a clinical perspective | Nature Reviews Clinical Oncology</a></li>
+<li><a href="https://www.mayoclinic.org/medical-professionals/cancer/news/major-advance-in-use-of-car-t-cell-therapy-to-treat-solid-tumors/mac-20588405">Major advance in use of CAR-T cell therapy to treat solid tumors - Mayo Clinic</a></li>
+
+</ul>
+</details>
+
+**标签**: `#CAR-T`, `#cancer therapy`, `#solid tumors`, `#gastric cancer`, `#biotech`
 
 ---
 
 <a id="item-2"></a>
-## [印花税暴增，政府抽水](https://36kr.com/newsflashes/3864087175173385?f=rss) ⭐️ 9.0/10
+## [AWS Graviton5 正式可用：192 核、形式化验证的虚拟机隔离](https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 9.0/10
 
-rss · 36氪 · 6月22日 08:32
+AWS 宣布搭载 Graviton5 的 EC2 M9g 和 M9gd 实例正式可用，具备 192 个 ARM 核心、DDR5-8800 内存，以及经过形式化验证的 Nitro 隔离引擎用于虚拟机隔离。 这标志着云计算性能和安全性的一次重大飞跃，ClickHouse 报告无需修改代码即可提升 36% 的性能，Meta 承诺使用数千万核心，显示出强大的行业采用。 按需定价比 Graviton4 高 9%，但整体性价比提升约 15%。Nitro 隔离引擎是商业云中首个经过形式化验证的虚拟机监控器组件，使用 Isabelle/HOL 证明助手进行验证。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 股票交易者（散户、机构、量化基金等）在每笔卖出交易时支付印花税，税率 0.1%。2026 年 1-5 月交易活跃，成交额大幅增长，导致税收激增。 |
-| 📤 **錢往哪去** | 最终进入中央和地方财政国库，用于政府支出（如基建、社保、公共服务等）。 |
-| ✅ **真实受益方** | 表面受益方是财政部（税收增长），但实际最大受益方是政府整体，尤其是中央财政。原因：印花税是交易环节的固定抽水，交易量越大，政府收入越高，且无需承担市场风险。 |
-| ❌ **受损方** | 显性损失方：高频交易者、量化基金、短线散户，因频繁交易支付更多印花税。隐性损失方：长期投资者（交易成本间接降低回报）、未来纳税人（若政府因税收充裕而扩大支出，可能推高通胀或债务）。 |
-| 📊 **规模** | 2026 年 1-5 月证券交易印花税 1262 亿元，年化约 3000 亿元（假设下半年交易量持平）。持续收入，随市场波动。 |
-| 🔁 **二阶效应** | 1. 券商：交易量高带动佣金收入，但印花税成本可能抑制部分交易量，间接影响佣金。2. 交易所：交易量增加提升上市费、数据费等收入。3. 基金公司：高换手率基金可能因印花税成本增加而业绩承压，投资者转向低换手策略。 |
+rss · InfoQ · 6月22日 10:05
 
-> **留给你的问题**：下次看到税收收入激增的新闻，先问：这笔税负最终由谁承担，是否抑制了经济活动？
+**背景**: AWS Graviton 处理器是专为云工作负载设计的定制 ARM 芯片，相比 x86 替代方案提供更好的性价比。Nitro 虚拟机监控器将虚拟化功能卸载到专用硬件，新的 Nitro 隔离引擎为虚拟机隔离增加了数学保证，可防止侧信道攻击。
 
-**标签**: `#stamp tax`, `#government revenue`, `#stock market`, `#China`, `#tax policy`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/">AWS Nitro Isolation Engine: Formally verifying the hypervisor ...</a></li>
+<li><a href="https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation">How formal verification makes AWS Nitro the first formally ...</a></li>
+<li><a href="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/whitepapers/compliance/nitro-isolation-engine-whitepaper.pdf">Nitro Isolation Engine Whitepaper - d1.awsstatic.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AWS`, `#Graviton5`, `#ARM`, `#cloud computing`, `#hardware`
 
 ---
 
 <a id="item-3"></a>
-## [虚假岗位的资金暗流](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) ⭐️ 8.0/10
+## [Deno Desktop 引入共享 CEF 运行时](https://docs.deno.com/runtime/desktop/) ⭐️ 8.0/10
 
-hackernews · advisedwang · 6月21日 21:40 · [讨论](https://news.ycombinator.com/item?id=48622867)
+Deno Desktop 现在支持共享的 Chromium Embedded Framework (CEF) 运行时，将桌面应用的二进制文件大小从数百兆字节减少到每个应用仅几兆字节。 这一进展显著降低了使用 Deno 构建桌面应用的门槛，通过解决长期存在的二进制文件过大问题，使其与 Electron 等框架具有竞争力。 共享运行时是受管理和版本化的，但如果不同应用需要不同版本的 CEF，优势可能会减弱。编译时授予的权限会嵌入到二进制文件中，可以展示给用户以提高透明度。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 企业预算（如银行、政府项目）和投资者资金（如风投）支付给外包商或虚假项目，源于管理层为消耗预算或骗取投资而制造虚假需求。 |
-| 📤 **錢往哪去** | 最终流入外包公司（如大型 IT 外包商）和高管个人口袋（通过回扣、虚报工时），以及欺诈性初创公司创始人。 |
-| ✅ **真实受益方** | 外包公司和高管：他们通过信息不对称和预算支配权，将资金转化为自身利润或奖金，而表面受益的“员工”只是工具。 |
-| ❌ **受损方** | 显性：被裁员的真实员工、投资者（如风投被骗）。隐性：纳税人（政府项目浪费）、未来消费者（成本转嫁）、以及被挤出市场的诚信企业。 |
-| 📊 **规模** | 全球企业每年因员工欺诈损失约 5%营收（约 4.7 万亿美元），其中虚假岗位占比可观，持续发生。 |
-| 🔁 **二阶效应** | 竞争对手被迫参与欺诈以维持成本竞争力；审计和合规公司业务增加；真实技术人员薪资被压低；外包行业进一步膨胀。 |
+hackernews · GeneralMaximus · 6月22日 05:38 · [社区讨论](https://news.ycombinator.com/item?id=48626137)
 
-> **留给你的问题**：下次看到企业成本持续上升但产出不变，先问：这些钱是否流向了与产出无关的中间环节？
+**背景**: Deno 是一个基于 V8 和 Rust 构建的安全 JavaScript 和 TypeScript 运行时。CEF 是一个将基于 Chromium 的浏览器嵌入应用程序的框架，Electron 也常用它。此前，每个 Deno 桌面应用都捆绑了自己的 CEF 副本，导致文件体积庞大。
 
-**标签**: `#fraud`, `#tech industry`, `#corporate culture`, `#contracting`, `#software engineering`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.deno.com/runtime/desktop/">Desktop apps | Deno Docs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chromium_Embedded_Framework">Chromium Embedded Framework - Wikipedia</a></li>
+<li><a href="https://docs.deno.com/runtime/reference/cli/desktop/">deno desktop | Deno Docs</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员对共享运行时的版本管理以及与 Deno 权限系统的集成表示兴趣。一些人看到了将网页游戏作为桌面应用分发的潜力，而另一些人则指出二进制文件大小的减少是一个关键优势。
+
+**标签**: `#Deno`, `#Desktop`, `#CEF`, `#Runtime`, `#Web Development`
 
 ---
 
 <a id="item-4"></a>
-## [开源模型省钱潮](https://www.marble.onl/posts/cancel_claude.html) ⭐️ 8.0/10
+## [Codex 日志漏洞可能导致本地 SSD 写入数 TB 数据](https://github.com/openai/codex/issues/28224) ⭐️ 8.0/10
 
-hackernews · amarble · 6月21日 20:56 · [讨论](https://news.ycombinator.com/item?id=48622518)
+OpenAI 的 Codex CLI 中存在一个日志漏洞，导致持续向本地 SQLite 数据库写入大量数据，每年可能写入高达 640 TB，迅速消耗 SSD 寿命。该问题已在 GitHub 上记录为 issue #28224，且尚未修复。 该漏洞可能显著缩短用户 SSD 的寿命，尤其是在硬盘不易更换的笔记本电脑上。同时，它还导致 GPU 高占用和性能下降，影响这款广泛使用的 AI 编程助手的用户体验。 该漏洞由配置错误的日志接收器导致，将跟踪级别日志写入位于 ~/.codex/logs_2.sqlite 的 SQLite 数据库。社区提供的临时解决方法包括使用 SQLite 触发器阻止日志插入，以及运行 VACUUM FULL 将数据库文件从 27 GB 缩小到 73 MB。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 企业用户从支付闭源 API 费用转向自建或使用开源模型 API，节省的预算来自 IT 支出。 |
-| 📤 **錢往哪去** | 钱流向 GPU 云提供商（如 AWS、Azure）、开源模型维护者（如 Meta、Mistral）以及推理优化服务商。 |
-| ✅ **真实受益方** | GPU 云提供商和开源模型公司。云提供商因自建需求增加而获得更多 GPU 租赁收入；开源模型公司通过生态绑定获得间接收益。 |
-| ❌ **受损方** | 闭源 API 提供商（如 OpenAI、Anthropic）失去 API 收入；传统软件供应商因 AI 替代而受损。 |
-| 📊 **规模** | 约$250 亿/年（据 Menlo Ventures 估算，开源替代可节省 AI 行业每年约 250 亿美元），持续节省。 |
-| 🔁 **二阶效应** | 闭源模型公司被迫降价或开源；GPU 制造商（如 NVIDIA）需求持续增长；AI 应用开发商因成本下降而受益。 |
+hackernews · vantareed · 6月22日 07:30 · [社区讨论](https://news.ycombinator.com/item?id=48626930)
 
-> **留给你的问题**：下次看到技术替代讨论，先问：谁的基础设施或生态会因此获得更多支出？
+**背景**: Codex 是 OpenAI 推出的 AI 编程助手，通过 CLI 或桌面应用在本地运行。它使用 SQLite 数据库存储反馈日志，用于调试和遥测。当日志级别设置为跟踪级别且未进行适当限速时，会产生巨大的写入流量，远超典型消费级 SSD 的寿命指标（例如 150 TBW）。
 
-**标签**: `#open source`, `#LLMs`, `#AI`, `#privacy`, `#machine learning`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/openai/codex/issues/28224">Codex SQLite feedback logs can write ~640 TB/year and rapidly consume SSD endurance · Issue #28224 · openai/codex</a></li>
+<li><a href="https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html">OpenAI Codex has a bug that could kill your SSD in under a year - Notebookcheck News</a></li>
+<li><a href="https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-diagnostic-logs-deep-dive/">Codex CLI Logs: Location, Debug Flags & 401 Error Fix (2026) - SmartScope</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对该漏洞表示不满，有用户指出即使旋转动画也会导致 MBP M5 的 GPU 占用率达到 100%。另一用户分享了 SQLite 触发器的临时解决方法，并报告将 27 GB 的日志文件缩小到 73 MB。部分用户将 Codex 与 Claude Code 进行对比，认为 Codex 存在输入延迟问题。
+
+**标签**: `#OpenAI`, `#Codex`, `#bug`, `#logging`, `#performance`
 
 ---
 
 <a id="item-5"></a>
-## [代码重复的经济账](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) ⭐️ 8.0/10
+## [48 位中国 iOS 开发者联名举报苹果垄断](https://www.ithome.com/0/967/167.htm) ⭐️ 8.0/10
 
-hackernews · rafaepta · 6月21日 16:08 · [讨论](https://news.ycombinator.com/item?id=48620090)
+48 位中国 iOS 开发者联合向国家市场监督管理总局提交反垄断举报信，指控苹果滥用市场支配地位，要求苹果兑现“全球最低费率”承诺，并开放第三方支付链接和应用分发渠道。 此次举报可能迫使苹果进一步调整其在中国的 App Store 政策，从而降低开发者成本并增加竞争。这也凸显了继欧盟和美国之后，全球对苹果商业行为的监管审查日益加强。 开发者指出，尽管苹果于 2026 年 3 月将标准 IAP 佣金从 30%降至 25%，但并未开放替代支付渠道或第三方应用商店，导致中国开发者的实际综合费率高于海外开发者。举报信要求建立“自动对齐监督机制”，确保苹果未来在海外降低费率或开放渠道时，同日在中国市场同步实施。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 软件公司（如 Google、Microsoft）的研发预算，用于支付工程师薪资，因为工程师遵循“避免错误抽象”原则，选择先重复代码，从而减少重构成本。 |
-| 📤 **錢往哪去** | 最终流向工程师个人（薪资）和软件工具供应商（如 IDE、代码审查工具），但更核心的是流向那些能高效交付稳定产品的公司，通过产品收入或融资实现。 |
-| ✅ **真实受益方** | 实际受益方是采用务实工程方法的公司（如 Basecamp、37signals），它们通过减少错误抽象导致的返工，降低开发成本，加快产品迭代，从而获得竞争优势。表面受益方是工程师个人，但公司通过更低的维护成本获取更大利润。 |
-| ❌ **受损方** | 显性受损方是过度追求抽象的公司，它们因错误抽象导致代码难以维护，增加开发成本。隐性受损方包括：1）投资者，因项目延期或失败而损失资金；2）最终用户，因软件质量差或更新慢而体验受损。 |
-| 📊 **规模** | 全球软件维护成本约$1.5 万亿/年（持续），其中错误抽象导致的浪费约占 10-20%，即$1500-3000 亿/年。 |
-| 🔁 **二阶效应** | 1）代码审查工具和静态分析工具（如 SonarQube）需求可能下降，因为重复代码增多；2）培训公司（如 Pluralsight）需调整课程内容，强调“先重复后抽象”；3）开源项目维护者可能面临更多重复代码的合并请求，增加审查负担。 |
+rss · IT之家 · 6月22日 10:17
 
-> **留给你的问题**：下次看到工程方法论争论，先问：哪种方法能更快降低单位功能的长期维护成本？
+**背景**: 苹果 App Store 对应用内购买和付费应用下载收取佣金。2026 年 3 月，经与中国监管机构沟通，苹果将中国标准佣金率从 30%降至 25%，并承诺为中国开发者提供“全球最低费率”。但开发者认为，由于缺乏替代支付选项，实际费率仍高于欧盟等地区——在欧盟，苹果因《数字市场法案》被迫允许第三方支付链接和侧载。
 
-**标签**: `#software engineering`, `#code quality`, `#abstraction`, `#refactoring`, `#best practices`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/china/apple-cuts-china-app-store-commission-fees-after-government-pressure-2026-03-13/">Apple cuts China App Store commission fees after government pressure - Reuters</a></li>
+<li><a href="https://www.macrumors.com/2025/10/20/apple-faces-app-store-challenges-in-china/">Apple Now Faces App Store Challenges in China, Too - MacRumors</a></li>
+<li><a href="https://developer.apple.com/news/?id=dadukodv">Adjustments to the China storefront of the App Store on iOS and iPadOS - Latest News - Apple Developer</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#Antitrust`, `#iOS Development`, `#App Store`, `#China`
 
 ---
 
 <a id="item-6"></a>
-## [假赌注真营销](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/) ⭐️ 8.0/10
+## [百川 M4 登顶 OpenAI 医疗评测，超越 GPT-5.5](https://www.ithome.com/0/967/106.htm) ⭐️ 8.0/10
 
-rss · TechCrunch · 6月21日 16:35
+百川智能与清华大学联合发布了新一代医疗增强大模型 Baichuan-M4，该模型在 OpenAI 的 HealthBench 及其 Hard 和 Professional 子榜单上均位列第一，全面超越 GPT-5.5、Claude Opus 4.7 和 DeepSeek-V4-Pro，幻觉率低至 3.3%。 这标志着医疗 AI 领域的重大进步，表明专用模型可以在特定领域基准上超越通用前沿模型，有望改善临床决策支持和患者安全。 Baichuan-M4 引入了受 OSCE 方法启发的新型动态问诊评测体系 SCAN-bench，初诊得分 79.0、复诊 74.7，大幅领先 GPT-5.5。它还具备“全病程记忆”和“证据锚定”功能，确保每条医学结论都可追溯到权威文献的具体段落。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | Polymarket 公司支付创作者制作虚假视频，资金来源于平台运营预算或风险投资。 |
-| 📤 **錢往哪去** | 创作者获得制作费；Polymarket 通过虚假视频吸引用户，增加交易手续费收入。 |
-| ✅ **真实受益方** | Polymarket 是最大受益方，通过虚假营销提升用户量和交易量，获取更多手续费和估值提升。 |
-| ❌ **受损方** | 被误导的用户可能因虚假信号而亏损；美国用户因平台违规面临监管风险；真实交易者被虚假活动稀释收益。 |
-| 📊 **规模** | 估计数百万美元一次性支出，但潜在用户增长带来的手续费收入可能达数千万美元/年。 |
-| 🔁 **二阶效应** | 竞争对手如 Kalshi、PredictIt 可能面临用户流失；监管机构可能加强审查，增加合规成本；内容平台如 YouTube、TikTok 可能调整广告政策。 |
+rss · IT之家 · 6月22日 09:12
 
-> **留给你的问题**：下次看到平台付费推广用户生成内容，先问：这些内容是否真实反映了平台的实际使用情况？
+**背景**: HealthBench 是 OpenAI 于 2025 年 5 月推出的开源基准测试，包含 5000 轮多轮对话，用于评估大语言模型在医疗领域的性能和安全性。Baichuan-M4 是一个临床级医疗智能体系统，结合了核心模型和临床工具，用于问诊、复诊、证据检索等任务。
 
-**标签**: `#prediction markets`, `#deceptive marketing`, `#platform economics`, `#regulatory risk`, `#money flow`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.08982">[2606.08982] Baichuan-M4: A Clinical-Grade Medical Agent ...</a></li>
+<li><a href="https://openai.com/index/healthbench/">Introducing HealthBench - OpenAI</a></li>
+<li><a href="https://arxiv.org/abs/2505.08775">[2505.08775] HealthBench: Evaluating Large Language Models ... HealthBench: Evaluating Large Language Models Towards ... HealthBench: Evaluating Large Language Models Towards ... HealthBench Leaderboard - llm-stats.com GitHub - StanfordBDHG/HealthBench: HealthBench · GitHub HealthBench Hard Leaderboard</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Medical AI`, `#Large Language Model`, `#Benchmark`
 
 ---
 
 <a id="item-7"></a>
-## [AI 监管洗牌](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) ⭐️ 8.0/10
+## [京东开源实时视频语言交互模型](https://www.ithome.com/0/967/058.htm) ⭐️ 8.0/10
 
-rss · TechCrunch · 6月21日 15:28
+京东开源了 JoyAI-VL-Interaction，这是全球首个全栈开源的实时视频语言交互模型，能够实现主动、持续的视频流观察与响应。 该模型将多模态 AI 从被动问答转变为主动实时交互，可应用于安防监控、实时翻译、AI 助手等需要持续观察和即时响应的场景。 该模型在 58 个盲评案例中对标豆包和 Gemini 视频通话助手，胜率分别达 77.6% 和 87.9%，支持摄像头、直播流、监控流等多种输入，并具备模块化的 ASR、TTS 和后台模型接口。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 美国政府（通过出口管制和诉讼）向 Anthropic 施压，导致其失去政府合同和市场份额；竞争对手（如 OpenAI、Google）趁机抢走客户和投资。 |
-| 📤 **錢往哪去** | 流向 Anthropic 的竞争对手（OpenAI、Google、Meta 等）和替代 AI 供应商，以及美国网络安全公司（因 Anthropic 被限制出口后，国内网络防御能力受损，相关公司可能获得更多政府订单）。 |
-| ✅ **真实受益方** | Anthropic 的竞争对手（如 OpenAI、Google）是最大受益方。它们获得 Anthropic 流失的政府合同和企业客户，且无需承担监管风险。原因：市场集中度提高，定价权增强。 |
-| ❌ **受损方** | 显性：Anthropic 及其投资者（损失数百亿美元政府合同和市场份额）。隐性：美国纳税人（因出口管制削弱网络安全，未来可能支付更高防御成本）；美国网络防御者（失去 Anthropic 的先进安全工具）。 |
-| 📊 **规模** | 数十亿美元/年（Anthropic 政府合同损失约$XB/年，加上市场份额转移，总计可能超过$50B/年，持续多年）。 |
-| 🔁 **二阶效应** | 1. 美国网络安全公司（如 CrowdStrike、Palo Alto Networks）可能因 Anthropic 受限而获得更多政府订单。2. 中国 AI 公司（如百度、字节跳动）可能因美国出口管制而加速自主研发，减少对美依赖。3. 风险投资流向：从 Anthropic 转向其他 AI 初创公司。 |
+rss · IT之家 · 6月22日 08:40
 
-> **留给你的问题**：下次看到政府以国家安全为由打压某家科技公司，先问：谁最可能填补市场空白，且与政府关系更紧密？
+**背景**: 传统视频理解模型需要用户提问后才处理画面，且通常分析完整视频。JoyAI-VL-Interaction 持续观察实时视频流，自主判断何时说话或沉默，并可将复杂任务委托给后台 Agent，同时保持实时交互。
 
-**标签**: `#AI regulation`, `#government policy`, `#market competition`, `#Anthropic`, `#money flow`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/papers/2606.14777">JoyAI-VL-Interaction: Real-Time Vision-Language Interaction ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#multimodal AI`, `#open source`, `#real-time video understanding`, `#visual language model`, `#AI agent`
 
 ---
 
 <a id="item-8"></a>
-## [赢创裁员 3200 人](https://36kr.com/p/3864065855706120?f=rss) ⭐️ 8.0/10
+## [纳德拉警告 AI 巨头勿吞噬经济](https://www.ithome.com/0/967/015.htm) ⭐️ 8.0/10
 
-rss · 36氪 · 6月22日 08:26
+微软 CEO 萨蒂亚·纳德拉公开批评 AI 权力集中在少数公司（如 OpenAI 和 Anthropic）手中，主张开发更便宜的模型并赋予用户更多控制权。 这标志着 AI 行业格局的重大转变，微软这样的关键玩家推动民主化和竞争，可能影响政策和市场结构。 纳德拉未点名具体公司，但批评了那种一边渲染 AI 将导致大规模失业、一边要求巨额资源的叙事，并提出 AI 应作为企业知识引擎，支持灵活选择模型。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 赢创公司通过裁员节省的薪资支出（原支付给 3200 名员工的工资和福利） |
-| 📤 **錢往哪去** | 赢创公司股东和债权人（通过成本削减提升利润和偿债能力） |
-| ✅ **真实受益方** | 赢创股东和债权人。表面受益方是赢创公司，实际受益方是股东和债权人，因为裁员直接提升利润率和现金流，增强偿债能力。 |
-| ❌ **受损方** | 被裁的 3200 名员工（直接损失收入）；德国本土 2150 名员工（失业风险）；中国区员工（裁员影响）；未来可能因服务下降而受损的客户。 |
-| 📊 **规模** | 约 2.5 亿欧元/年（假设人均年薪 7.8 万欧元，3200 人），持续节省 |
-| 🔁 **二阶效应** | 化工行业竞争对手（如巴斯夫）可能跟进裁员；人力资源服务公司（如猎头）业务减少；德国本地消费市场因失业减少支出。 |
+rss · IT之家 · 6月22日 08:04
 
-> **留给你的问题**：下次看到大型企业裁员计划，先问：裁员节省的成本最终流向了股东还是再投资？
+**背景**: OpenAI 和 Anthropic 是领先的 AI 公司，开发了 GPT-4 和 Claude 等先进专有模型。微软已向 OpenAI 投资超过 130 亿美元，并在 Copilot 等产品中使用其模型。纳德拉的言论反映了对 AI 市场集中化以及开放、可访问 AI 需求的日益担忧。
 
-**标签**: `#layoffs`, `#semiconductor`, `#regulation`, `#cost-cutting`, `#ETF`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Microsoft`, `#Industry Commentary`, `#AI Policy`, `#Tech Industry`
 
 ---
 
 <a id="item-9"></a>
-## [家宴：高端外卖新赛道](https://36kr.com/p/3863831007941638?f=rss) ⭐️ 8.0/10
+## [理解机器学习模型投毒：攻击与防御](https://www.infoq.com/articles/understanding-ml-model-poisoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-rss · 36氪 · 6月22日 04:14
+本文全面概述了机器学习系统面临的数据投毒威胁，涵盖了标签翻转、后门攻击、干净标签投毒和梯度操纵等技术，并结合真实事件和实用防御措施进行了阐述。 随着机器学习模型在关键应用中的广泛部署，理解和防御数据投毒对于确保模型完整性和安全性至关重要。本文为从业者提供了检测和缓解此类攻击的知识。 文章讨论了具体的攻击类型，例如标签翻转（攻击者更改训练标签以误导模型）和干净标签投毒（注入正确标记但恶意的样本）。它还回顾了数据清洗和鲁棒训练技术等防御措施。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 消费者（高收入家庭、宴请需求者）为高端到家体验付费；淘宝闪购投入平台研发、包装、物流补贴；米其林餐厅投入品牌和菜品研发。 |
-| 📤 **錢往哪去** | 最终流向：米其林餐厅（菜品收入）、淘宝闪购（平台佣金/服务费）、物流公司（配送费）、包装供应商（定制餐具）。 |
-| ✅ **真实受益方** | 淘宝闪购（阿里巴巴）是最大受益方。它通过整合稀缺品牌资源，开辟高客单价即时零售新品类，提升平台 GMV 和利润率，同时强化用户粘性。米其林餐厅获得增量收入但承担品牌风险。 |
-| ❌ **受损方** | 显性损失：传统高端外卖平台（如美团、饿了么高端线）可能流失客户；隐性损失：米其林餐厅若体验失控可能品牌受损；未来消费者可能支付更高溢价。 |
-| 📊 **规模** | ¥10-50 亿/年（预估，参考中国高端外卖市场约 500 亿，家宴占 1%-10%），持续增长。 |
-| 🔁 **二阶效应** | 竞争对手（美团、饿了么）可能跟进高端外卖；高端食材供应商（如和牛、松露）需求上升；定制包装和冷链物流公司受益；传统堂食高端餐厅面临分流压力。 |
+rss · InfoQ · 6月22日 11:00
 
-> **留给你的问题**：下次看到平台推出高端定制服务，先问：谁在承担品牌风险，谁在获取数据和控制权？
+**背景**: 数据投毒攻击是指对手操纵训练数据以破坏机器学习模型的行为。与在推理时欺骗模型的逃避攻击不同，投毒攻击在训练期间破坏模型，使其更难检测。常见技术包括标签翻转、后门插入、干净标签投毒和梯度操纵。
 
-**标签**: `#platform economics`, `#premium food delivery`, `#brand risk`, `#new revenue stream`, `#China e-commerce`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://postquantum.com/ai-security/label-flipping-ai/">How Label-Flipping Attacks Mislead AI Systems</a></li>
+<li><a href="https://apxml.com/courses/adversarial-machine-learning/chapter-3-data-poisoning-backdoor-attacks/clean-label-poisoning">Clean - Label Data Poisoning Attacks</a></li>
+<li><a href="https://www.emergentmind.com/topics/gradient-based-attacks">Gradient-based Attacks in ML - emergentmind.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#security`, `#data poisoning`, `#adversarial attacks`, `#MLOps`
 
 ---
 
 <a id="item-10"></a>
-## [海尔智家 21 亿布局投资](https://36kr.com/newsflashes/3864144429749254?f=rss) ⭐️ 8.0/10
+## [面向 AI 代理的网络安全技能仓库](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐️ 8.0/10
 
-rss · 36氪 · 6月22日 09:30
+mukul975 在 GitHub 上发布了一个仓库，为 AI 代理提供 754 项结构化网络安全技能，映射到 MITRE ATT&CK、NIST CSF 2.0 等五个主要框架，兼容 20 多种 AI 编码工具。 该仓库弥合了网络安全专业知识与 AI 代理工作流之间的差距，使开发者能够将安全知识直接集成到 AI 编码助手中，这对于构建安全的 AI 应用至关重要。 这些技能涵盖 26 个安全领域，遵循 Anthropic 最初开发的 agentskills.io 标准，支持 Claude Code、GitHub Copilot 和 Cursor 等平台。仓库采用 Apache 2.0 许可证。
 
-| 维度 | 分析 |
-|------|------|
-| 💰 **錢从哪来** | 海尔智家自有资金（股东权益或留存利润）作为出资方，全资设立子公司。 |
-| 📤 **錢往哪去** | 资金进入日日顺（青岛）投资服务有限公司，用于投资活动和租赁服务，最终流向被投资企业或租赁资产供应商。 |
-| ✅ **真实受益方** | 海尔智家集团本身。表面受益方是日日顺投资公司，但实际受益方是海尔智家，通过投资和租赁获取财务收益，并可能协同主业（如物流、供应链金融）。 |
-| ❌ **受损方** | 显性损失方：无直接损失方。隐性买单方：海尔智家其他业务板块可能因资金占用而减少投资机会；未来若投资亏损，股东权益受损。 |
-| 📊 **规模** | ¥21.45 亿总计，一次性出资。 |
-| 🔁 **二阶效应** | 竞争对手如美的、格力可能跟进设立投资公司；租赁服务供应商（如设备租赁公司）面临竞争；被投资企业获得资金支持。 |
+ossinsight · mukul975 · 6月22日 12:07
 
-> **留给你的问题**：下次看到大型企业成立投资子公司，先问：这笔资金是来自主业现金流还是债务融资？投资方向是否与主业协同？
+**背景**: Agent Skills 是一个开放标准，用于定义 AI 代理的可重用、可组合能力，最初由 Anthropic 开发。MITRE ATT&CK 和 NIST CSF 等网络安全框架提供了结构化的威胁与防御分类法，该仓库将其映射为代理兼容的技能定义。
 
-**标签**: `#海尔智家`, `#投资公司`, `#资本运作`, `#家电行业`, `#企业战略`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/agentskills/agentskills">GitHub - agentskills/agentskills: Specification and ...</a></li>
+<li><a href="https://atlas.mitre.org/">MITRE ATLAS™</a></li>
+<li><a href="https://d3fend.mitre.org/">D3FEND Matrix | MITRE D3FEND™</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cybersecurity`, `#AI agents`, `#MITRE ATT&CK`, `#NIST CSF`, `#agent skills`
+
+---
+
+<a id="item-11"></a>
+## [eBPF 实现安全的内核可观测性](https://www.infoq.com/podcasts/empowers-developers-inside-linux-kernel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
+
+Dan Fineran 讨论了 eBPF 如何从包过滤演变为一种安全扩展 Linux 内核的机制，并强调了验证器在确保安全性方面的作用。 这很重要，因为 eBPF 允许开发者观察和扩展内核，而无需承担传统内核模块的风险或缓慢的上游流程，从而实现了强大的可观测性和网络工具。 eBPF 验证器对字节码进行静态分析以保证安全性，跟踪寄存器和栈槽的值范围以防止不安全操作。
+
+rss · InfoQ · 6月22日 11:00
+
+**背景**: eBPF（扩展的伯克利包过滤器）是一种允许在 Linux 内核中运行沙箱程序的技术，无需更改内核源代码或加载内核模块。验证器是其核心组件，在执行前静态检查 eBPF 程序的安全性，防止崩溃或安全漏洞。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/EBPF">eBPF - Wikipedia</a></li>
+<li><a href="https://docs.ebpf.io/linux/concepts/verifier/">Verifier - eBPF Docs</a></li>
+<li><a href="https://docs.kernel.org/bpf/verifier.html">eBPF verifier — The Linux Kernel documentation</a></li>
+
+</ul>
+</details>
+
+**标签**: `#eBPF`, `#Linux Kernel`, `#Observability`, `#Networking`, `#Podcast`
+
+---
+
+<a id="item-12"></a>
+## [垂直 AI 平台将取代通用 SaaS](https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/) ⭐️ 7.0/10
+
+Crunchbase 的一篇观点文章认为，拥有深厚领域知识、专有数据和强大客户关系的垂直 AI 平台将取代通用的水平 SaaS，并形成持久的竞争壁垒。 这一转变可能重塑软件行业，因为垂直 AI 平台比传统 SaaS 提供更定制化的解决方案和更稳固的优势，可能催生更高价值的收购和新的市场领导者。 文章强调，通用水平 SaaS 产品缺乏与垂直 AI 平台竞争所需的领域知识和专有数据，而后者专为医疗、金融和法律等特定行业构建。
+
+rss · Crunchbase News · 6月22日 11:00
+
+**背景**: 传统 SaaS（软件即服务）是指基于云的订阅制软件，通常服务于广泛的水平需求（如 CRM、ERP）。垂直 AI 平台是为特定行业设计的 AI 原生系统，利用大语言模型和生成式 AI 解决细分问题。垂直 AI 的兴起被视为垂直 SaaS 的下一次演进，AWS 和 Azure 等云巨头已开始提供行业特定解决方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.lindy.ai/blog/vertical-ai-agents">What are Vertical AI Agents? +Top Use Cases & Platforms (2026)</a></li>
+<li><a href="https://www.nea.com/blog/tomorrows-titans-vertical-ai">Vertical AI Explained: The Next Generation of Tech Titans Vertical AI: The next logical iteration of vertical SaaS The rise of vertical AI agents — and the startups racing to ... Part I: The future of AI is vertical - Bessemer Venture Partners Vertical AI Explained: What It Is, Why It Matters, and How It ...</a></li>
+<li><a href="https://perchinsights.com/why-domain-expertise-matters-customer-journey/">Customer Journey Analysis: Why Domain Expertise ... | Perch Insights</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#SaaS`, `#vertical software`, `#industry trends`, `#venture capital`
+
+---
+
+<a id="item-13"></a>
+## [大连坤达完成数千万元融资，专注航空航天智能装配装备](https://36kr.com/p/3863883390194692?f=rss) ⭐️ 6.0/10
+
+中国航空航天智能装配装备企业大连坤达自动化有限公司完成数千万元 A 轮融资，由永鑫方舟领投，大桉资本担任财务顾问。资金将用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。 本轮融资凸显了中国航空航天制造业对自动化的日益增长的需求，尤其是在国产大飞机批产提速和低空经济扩张的背景下。大连坤达的解决方案解决了关键的精密和重载挑战，使其成为航空航天智能装备市场的关键参与者。 大连坤达的产品包括重载 AGV/AMR（2-200 吨）、复合移动机器人以及采用多自由度误差补偿和力位混合伺服控制的高精度对接系统。公司已与白鲸航线合作，参与 W5000 大型无人货运机总装产线建设。
+
+rss · 36氪 · 6月22日 05:06
+
+**背景**: 航空航天制造需要搬运和装配大型、重型部件，且精度要求极高，这与汽车制造不同。重载 AGV 和机器人系统等智能装配装备对于自动化这些任务至关重要。大连坤达成立于 2016 年，在重载移动、多车协同和高精度调姿对接等核心技术方面有积累，服务于军机、民机、航天和航发领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/772917861_120208713">重载AGV在航天领域的实际应用_产业_的发展_功能</a></li>
+<li><a href="http://www.agv-amr.com/news/show.php?itemid=298">近二十家重载AGV/AMR企业盘点_技术解读_行业资讯_移动机器人（AGV/AMR...</a></li>
+<li><a href="https://www.researching.cn/ArticlePdf/m00002/2024/61/4/0415001.pdf">基于平面点云 配 准与相对 位 姿 控 制 的工业件 装 配 方法</a></li>
+
+</ul>
+</details>
+
+**标签**: `#aerospace`, `#automation`, `#robotics`, `#funding`, `#manufacturing`
 
 ---
