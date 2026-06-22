@@ -223,6 +223,10 @@ class DailySummarizer:
         score = item.ai_score or "?"
         meta = item.metadata
 
+        # Money-flow items get a structured table rendering
+        if meta.get("group") == "money-flow" and meta.get("money_source_zh"):
+            return self._format_money_flow_item(item, labels, language, index)
+
         summary = (
             meta.get(f"detailed_summary_{language}")
             or meta.get("detailed_summary")
@@ -303,7 +307,79 @@ class DailySummarizer:
 
         return "\n".join(lines) + "\n\n"
 
-    def _generate_empty_summary(self, date: str, total_fetched: int, labels: dict) -> str:
+    def _format_money_flow_item(self, item: ContentItem, labels: dict, language: str, index: int) -> str:
+        """Render a money-flow item as a structured 8-field table."""
+        meta = item.metadata
+        _title = meta.get("title_zh") or meta.get(f"title_{language}") or item.title
+        title = str(_title).replace("[", "(").replace("]", ")")
+        url = str(item.url)
+        score = item.ai_score or "?"
+
+        if language == "zh":
+            title = _pangu(title)
+
+        # Source line
+        source_type = item.source_type.value
+        source_parts = [source_type]
+        if meta.get("subreddit"):
+            source_parts.append(f"r/{meta['subreddit']}")
+        if meta.get("feed_name"):
+            source_parts.append(meta["feed_name"])
+        else:
+            source_parts.append(item.author or "unknown")
+        if item.published_at:
+            source_parts.append(
+                f"{item.published_at.month}月{item.published_at.day}日 {item.published_at:%H:%M}"
+            )
+        source_line = " · ".join(source_parts)
+
+        discussion_url = meta.get("discussion_url")
+        if discussion_url and str(discussion_url) != url:
+            source_line += f" · [讨论]({discussion_url})"
+
+        def mf(key: str) -> str:
+            val = meta.get(key, "")
+            return _pangu(str(val)) if val else "—"
+
+        rows = [
+            ("💰 **钱从哪来**", mf("money_source_zh")),
+            ("📤 **钱往哪去**", mf("money_dest_zh")),
+            ("✅ **真实受益方**", mf("real_beneficiary_zh")),
+            ("❌ **受损方**", mf("losers_zh")),
+            ("📊 **规模**", mf("scale_zh")),
+            ("🔄 **二阶效应**", mf("second_order_zh")),
+        ]
+
+        table_lines = ["| 维度 | 分析 |", "|------|------|"]
+        for dim, analysis in rows:
+            table_lines.append(f"| {dim} | {analysis} |")
+
+        key_q = mf("key_question_zh")
+
+        lines = [
+            f'<a id="item-{index}"></a>',
+            f"## [{title}]({url}) ⭐️ {score}/10",
+            "",
+            source_line,
+            "",
+            "
+".join(table_lines),
+        ]
+
+        if key_q and key_q != "—":
+            lines += ["", f"> **留给你的问题**：{key_q}"]
+
+        if item.ai_tags:
+            tags_str = ", ".join([f"`#{t}`" for t in item.ai_tags])
+            lines += ["", f"**{labels['tags']}**: {tags_str}"]
+
+        lines += ["", "---"]
+        return "
+".join(lines) + "
+
+"
+
+        def _generate_empty_summary(self, date: str, total_fetched: int, labels: dict) -> str:
         """Generate summary when no high-scoring items were found."""
         return (
             f"# {labels['header']} - {date}\n\n"
