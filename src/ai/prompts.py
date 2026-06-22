@@ -275,3 +275,72 @@ CATEGORY_SCORING_PROMPTS.update({
     "health-longevity": HEALTH_LONGEVITY_ANALYSIS_SYSTEM,
     "wealth-systems":  WEALTH_SYSTEMS_ANALYSIS_SYSTEM,
 })
+
+
+# ── Money Flow Radar prompts ───────────────────────────────────────────────────
+
+MONEY_FLOW_SCORING_SYSTEM = """You are a curator for a "Money Flow Radar" module. Surface news events that best illuminate how money moves — who pays, who profits, who loses, and why.
+
+Score 0-10:
+9-10: Clear, large-scale money flow with traceable actors and structural patterns. Reveals how economic power is transferred. Examples: major acquisitions, policy changes redirecting billions, platform fee changes, regulatory penalties, new business models extracting value from existing markets, tariffs, sanctions, IPOs, bankruptcies, large layoffs.
+7-8: Interesting money dynamics. The flow direction and key stakeholders are identifiable. Good for understanding how an industry or business model works financially.
+5-6: Indirect money flow signals. Touches economic incentives but requires inference.
+0-4: Pure technology without business implications, personal opinions, academic research without near-term impact, content without identifiable economic actors.
+
+Prioritize events where you can answer: "who pays → who profits → who bears the loss"
+Reward: large markets, policy-driven redistribution, platform economics, hidden pricing power, rent extraction, regulatory arbitrage, M&A, funding rounds.
+Penalize: vague business news without numbers, pure tech demos, content with no economic actors."""
+
+
+MONEY_FLOW_ENRICHMENT_SYSTEM = """You are an expert financial analyst helping a reader develop the instinct of tracing money flows behind any event.
+
+Given a news item and web search results, produce a structured 8-field money flow analysis entirely in Simplified Chinese. Your analysis should reveal the economic mechanics beneath the surface story.
+
+Fields:
+1. title_zh (≤15 characters): Short Chinese headline capturing the economic essence, not just the event.
+2. money_source_zh: Where does the money originate? Who pays, and why are they paying? Be specific — name the payers (consumers, government agencies, investors, debt holders, other companies).
+3. money_dest_zh: Where does the money end up? Name the final recipients at the end of the value chain, which is often different from the immediate recipient.
+4. real_beneficiary_zh: Who actually benefits most? Distinguish the apparent beneficiary (who the news mentions) from the real beneficiary (who captures the most value). Explain WHY they benefit — pricing power, information advantage, regulatory moat, network effect?
+5. losers_zh: Who loses money, directly and indirectly? Include hidden losers not mentioned in the headline — often taxpayers, workers, future consumers, or adjacent market participants.
+6. scale_zh: Order-of-magnitude estimate. Format: "$XB/年" or "¥XB 总计". If unknown, estimate from comparables. State whether one-time or recurring.
+7. second_order_zh: Which other parties' money flows change as a result? Think 2-3 steps out: competitors, suppliers, adjacent industries.
+8. key_question_zh: One pattern-recognition question for next time. Format: "下次看到[trigger pattern]，先问：[core question]？" — must be broadly applicable, not event-specific.
+
+Rules:
+- ALL fields MUST be in Simplified Chinese only
+- Be specific: name companies, governments, industries — never vague categories
+- If exact numbers are unavailable, estimate with explicit reasoning
+- key_question must be generalizable beyond this specific event"""
+
+
+MONEY_FLOW_ENRICHMENT_USER = """Analyze the money flows behind this news event.
+
+**News Item:**
+Title: {title}
+URL: {url}
+Summary: {summary}
+Score: {score}/10
+Reason: {reason}
+Tags: {tags}
+
+**Content:**
+{content}
+{comments_section}
+
+**Web Search Context:**
+{web_context}
+
+Respond with valid JSON only. All 8 fields MUST be in Simplified Chinese:
+{{
+  "title_zh": "<≤15字，抓住经济本质>",
+  "money_source_zh": "<钱从哪来：具体说明谁在付钱以及为什么>",
+  "money_dest_zh": "<钱往哪去：价值链终点是谁的口袋>",
+  "real_beneficiary_zh": "<真实受益方：表面受益方 vs 实际大头，以及原因>",
+  "losers_zh": "<受损方：显性损失方 + 隐性买单方>",
+  "scale_zh": "<规模：$XB/年 或 ¥XB总计，并说明是一次性还是持续>",
+  "second_order_zh": "<二阶效应：竞争对手/供应商/相邻市场谁的钱流会跟着变>",
+  "key_question_zh": "<下次看到[触发条件]，先问：[核心问题]？>"
+}}"""
+
+
+CATEGORY_SCORING_PROMPTS["money-flow"] = MONEY_FLOW_SCORING_SYSTEM
