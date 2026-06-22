@@ -115,8 +115,8 @@ class HorizonOrchestrator:
                 if _cat in self._DISCOVERY_CATS:
                     if str(_it.url) in _shown_history:
                         continue  # already recommended
-                    if _cat in _cat_to_prompt:
-                        _it.metadata["_system_prompt"] = _cat_to_prompt[_cat]
+                if isinstance(_cat, str) and _cat in _cat_to_prompt:
+                    _it.metadata["_system_prompt"] = _cat_to_prompt[_cat]
                 _filtered.append(_it)
             if len(_filtered) < len(merged_items):
                 self.console.print(
