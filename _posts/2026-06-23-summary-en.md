@@ -5,7 +5,7 @@ date: 2026-06-23
 lang: en
 ---
 
-> From 284 items, 32 important content pieces were selected
+> From 298 items, 34 important content pieces were selected
 
 ---
 
@@ -13,21 +13,21 @@ lang: en
 
 ## 🔭 Unknown Unknowns
 
-- [Zhuangzi's Critique of Meritocracy and Self-Made Success](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
+- [Zhuangzi's Critique of Meritocracy](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > An essay on Aeon, drawing on the ancient Chinese philosopher Zhuangzi, argues that the concept of being 'self-made' is a flawed notion that undermines the meritocratic ideal. This perspective challenges deeply held assumptions in tech and broader society about success and deservingness, offering a philosophical counterpoint to meritocracy. The essay is authored by Christine Abigail L Tan and published on Aeon. It uses Zhuangzi's philosophy to argue that success is largely due to external factors beyond individual control.
+  > An essay on Aeon argues, drawing on the ancient Chinese philosopher Zhuangzi, that the concept of being self-made is a flawed notion, undermining the foundations of meritocracy. This perspective challenges the deeply held belief in meritocracy prevalent in tech and other industries, prompting a re-evaluation of how success and deservingness are understood. The essay uses Zhuangzi's philosophy to argue that success is largely due to external factors beyond individual control, such as luck and social circumstances, rather than solely personal merit.
 
-- [Human-Made Rocks Challenge Geology's Boundaries](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [Strange New Rocks of the Anthropocene](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > An Aeon essay explores how human activity is creating novel rock types like plastiglomerates and technofossils, blurring the line between natural and artificial and forcing a redefinition of geological classification. This opens a genuinely new field—Anthropocene geology—that challenges traditional geological categories and has implications for how we understand humanity's long-term impact on Earth's strata. The essay introduces concepts such as plastiglomerates (plastic fused with natural sediment) and technofossils (human-made objects that become fossilized), which are expected to persist in the geological record for millions of years.
+  > The essay explores how human activities have created new types of rocks, such as plastiglomerates and other technofossils, that blur the line between natural and artificial, defining the Anthropocene epoch. This challenges conventional boundaries of geology and forces us to reconsider what is natural, highlighting humanity's profound and lasting impact on Earth's geological record. Plastiglomerates form when plastic debris melts and fuses with natural materials like sand and rock, potentially creating permanent markers in the geological record that could persist for millions of years.
 
-- [Nick Land's Accelerationism: A Dark Vision of a Post-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Nick Land's Dark Accelerationism: The Inhuman Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which envisions a future where technology and capitalism merge to eliminate humanity, moving beyond both leftist and right-wing interpretations. This radical critique of progress challenges tech professionals' assumptions about innovation, revealing a darker philosophical undercurrent that views technological acceleration as leading to human obsolescence rather than liberation. Land's accelerationism draws on cybernetics, post-structuralism, and the concept of 'hyperstition'—ideas that bring about their own reality. The essay distinguishes his 'dark' accelerationism from later left-wing and effective accelerationism movements.
+  > An Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which posits that technological capitalism is an inhuman, autonomous force that will inevitably supersede humanity. This philosophy challenges the tech industry's optimistic narratives of progress, forcing a confrontation with the darker implications of accelerating technological and capitalist systems. Land's accelerationism merges cybernetics, capitalism, and anti-humanism, arguing that democracy and egalitarianism are 'decelerators' that slow the inevitable techno-capitalist rush toward a post-human singularity.
 
-- [Polyvagal Theory: How the Nervous System Shapes Connection](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [Polyvagal Theory: The Neurobiology of Connection](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > A recent article on The Marginalian explores polyvagal theory, a framework developed by Stephen Porges in 1994, explaining how the vagus nerve regulates social connection, safety, and trauma responses. This theory offers a profound lens for understanding human behavior, especially in trauma and relationships, and is increasingly used in clinical psychology and therapy. Polyvagal theory divides the parasympathetic nervous system into a ventral vagal system (social engagement) and a dorsal vagal system (immobilization/shutdown), but it has faced criticism from neuroanatomists and evolutionary biologists for inaccuracies.
+  > The article explores how polyvagal theory explains the role of the nervous system in shaping social behavior, connection, and healing through the processes of rupture and repair. This framework bridges neuroscience, psychology, and interpersonal dynamics, offering a powerful lens for understanding trauma, social bonds, and emotional regulation. Polyvagal theory, introduced by Stephen Porges in 1994, proposes that the vagus nerve has two distinct branches—ventral vagal (social engagement) and dorsal vagal (immobilization)—that regulate different states of connection and defense.
 
 ---
 
@@ -35,11 +35,11 @@ lang: en
 
 - [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > A viral Reddit post on the FIRE subreddit describes a 41-year-old man who retired early with $2 million in liquid assets, only to be called a 'loser' by his wife after spending his days playing video games while high on THC edibles. The article uses this story to argue that wealth without purpose can lead to personal and relational decay, making usefulness more attractive than riches. This challenges the core FIRE narrative by highlighting the psychological and relational costs of early retirement without purpose, suggesting that financial independence alone is insufficient for a fulfilling life. It aligns with timeless wisdom about compounding life capital beyond money, and may prompt a reevaluation of what true wealth means. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, earning $125k/year from assets. His wife, a school teacher, came home early to find him stoned and playing Grand Theft Auto, leading to her calling him a 'loser.' The article notes that resources alone don't command respect—how you got them and what you do with them does.
+  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets and $75k annual royalty income, only to be called a "loser" by his wife for spending his days playing video games while high on edibles, has sparked a discussion on the importance of purpose beyond financial independence. This story challenges the core assumption of the FIRE (Financial Independence, Retire Early) movement that accumulating wealth alone leads to fulfillment, revealing that being useful and maintaining ambition are more attractive and essential for long-term happiness and relationships. The man, age 41, has $2 million liquid, $650k in retirement, and $75k/year royalty income, earning $125k/year from assets. His wife, a school teacher, called him a loser after finding him stoned and playing GTA daily, despite him handling household chores and providing financial security.
 
-- [Hacks vs. Artists: The Creative Continuum](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 7.0/10
+- [Hacks vs. Artists: Balancing Commerce and Authenticity](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
 
-  > Nick Maggiulli introduces a 'hack vs. artist' continuum to describe the trade-off between commercial success and artistic integrity in creative work, using the HBO series Hacks as a lens. This framework helps creators and professionals reflect on their motivations, balancing authenticity with financial survival, which is crucial in an era of algorithmic content and AI-generated work. Maggiulli defines 'hacks' as those who follow trends for quick rewards, while 'artists' prioritize truth and authenticity, noting that most people fall somewhere in between.
+  > Nick Maggiulli uses the HBO series 'Hacks' to frame a spectrum between 'hack' (commercial) and 'artist' (authentic) in creative work, arguing that most creators sit somewhere in between and that the tension is a timeless principle for long-term thinking. This framework helps creators and investors alike navigate the trade-off between financial success and artistic integrity, a critical balance for sustainable wealth and life capital. It challenges the prevailing incentive structures that reward short-term, low-effort gains over authentic, high-quality work. Maggiulli introduces the concept of 'mode collapse' from AI to explain why humans also tend to repeat rewarded behaviors, losing creativity. He provides concrete examples of hack vs. artist behavior, such as giving bad advice for virality versus promoting work you're proud of.
 
 ---
 
@@ -47,39 +47,43 @@ lang: en
 
 - [Continuous Batching Boosts LLM Inference Efficiency](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 8.0/10
 
-  > The article explains how continuous batching dynamically schedules LLM inference requests at each iteration, replacing static batching which wastes GPU resources by forcing all requests to wait for the longest one. Continuous batching can achieve 2-3x throughput gains for LLM serving, significantly reducing latency and cost for real-world applications like chatbots and code assistants. The technique, also known as in-flight batching or ragged batching, leverages the autoregressive nature of LLMs to add new requests to the batch as soon as a sequence finishes generating.
+  > The article explains how continuous batching dynamically schedules requests and uses ragged batching to improve LLM inference throughput, contrasting it with static batching. This technique can achieve 2-3x throughput gains, making LLM serving more cost-effective and responsive for real-world applications. Continuous batching operates at the iteration level, allowing new requests to be added mid-generation, while ragged batching handles variable-length inputs without padding.
 
-- [Logits, Temperature, and Top-P Sampling Explained](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [Token Selection Statistics: Logits, Temperature, Top-P Walkthrough](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
 
-  > A new tutorial provides a detailed walkthrough of how logits, temperature scaling, and top-p sampling control token selection in large language models, balancing coherence and creativity. Understanding these mechanisms helps practitioners fine-tune LLM outputs for specific tasks, improving both quality and control over generated text. The tutorial covers the mathematical foundations of softmax, temperature scaling, and top-p (nucleus) sampling, with practical examples and intuition.
+  > A new tutorial from MachineLearningMastery.com provides a detailed walkthrough of the statistical mechanisms behind token selection in large language models, covering logits, temperature scaling, and top-p sampling with practical examples. Understanding these parameters is crucial for practitioners to control model creativity and coherence, directly impacting the quality of LLM outputs in applications like chatbots and content generation. The tutorial explains how logits are raw scores converted to probabilities via softmax, temperature adjusts the sharpness of the distribution, and top-p sampling dynamically selects a subset of tokens whose cumulative probability exceeds a threshold p.
 
-- [Context Pruning Pipeline for Long-Running LLM Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
+- [Building a Context Pruning Pipeline for Long-Running Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
 
-  > A practical guide details how to build a context pruning pipeline that selectively removes old or irrelevant information from LLM agent memory to prevent context overflow and maintain performance. This technique is crucial for deploying long-running AI agents in production, as it reduces token costs, latency, and reasoning degradation caused by unbounded context growth. The pipeline uses a graduated reduction framework: monitor token usage at 70/85/95% thresholds, prune stale tool outputs at 85%, apply observation masking, and use LLM summarization only at 95% overflow.
+  > A guide on MachineLearningMastery.com details how to build a context pruning pipeline to manage token limits in long-running LLM-based agents, using a graduated reduction framework. This technique is crucial for reducing token costs and preventing context overflow in long-running agents, enabling more efficient and cost-effective AI agent deployments. The pipeline monitors token usage at 70/85/95% thresholds, prunes stale tool outputs at 85%, applies observation masking, and uses LLM summarization only at 95% overflow.
 
-- [Hybrid Semantic-Lexical Search for RAG](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
+- [Hybrid Semantic-Lexical Search for RAG Systems](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
 
-  > A new tutorial demonstrates how to implement hybrid semantic-lexical search in RAG systems by combining BM25 lexical search with dense vector semantic search, fused via Reciprocal Rank Fusion (RRF). Hybrid search significantly improves retrieval accuracy over using either lexical or semantic search alone, reducing the risk of zero-result queries and enhancing the quality of RAG-generated answers. The implementation uses BM25 for lexical search and dense embeddings for semantic search, then applies Reciprocal Rank Fusion to merge rankings. The tutorial also covers using locally hosted LLMs via Ollama and the Scikit-LLM library for text classification tasks.
+  > A tutorial on implementing hybrid semantic-lexical search in Retrieval-Augmented Generation (RAG) systems has been published, providing practical code examples and strategies to improve retrieval quality for production-ready applications. Hybrid search combines the strengths of lexical (keyword) and semantic (vector) methods, significantly improving relevance and recall in RAG systems, which is critical for moving from prototype to production. The tutorial covers techniques such as combining BM25 for lexical search with dense vector embeddings for semantic search, and discusses normalization and fusion strategies to merge results into a single ranked list.
 
-- [Loop Engineering for Verifiable, Self-Correcting AI Agents](https://pub.towardsai.net/loop-engineering-for-ai-agents-building-verifiable-self-correcting-coding-workflows-8b32c72184a1?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [Cheaper Fine-Tuning Can Outperform Costly Full Fine-Tuning](https://pub.towardsai.net/i-fine-tuned-one-model-3-ways-the-50-000-run-forgot-more-than-the-1-500-one-aa59b1e215a6?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > A technical guide introduces loop engineering for AI agents, moving beyond one-shot prompting to build verifiable, self-correcting coding workflows with durable orchestration. The article details a three-layer architecture (Loop, Skill, Orchestrator) and reports 34% token savings and 20 hours/week saved. This matters because simple while-true loops fail in production due to restarts and duplicate actions, and loop engineering provides a robust alternative. It helps backend engineers and technical leads build production-grade agent systems that are reliable and cost-efficient. The architecture uses durable execution platforms like Inngest, Temporal, or AWS Step Functions to ensure loops survive process restarts. The article emphasizes that without durable orchestration, loops become liabilities, as illustrated by a real-world failure where an agent reprocessed 47 tickets after an OOM restart.
+  > A practitioner compared full fine-tuning, LoRA, and QLoRA on an 8B model, finding that the $1,500 LoRA/QLoRA runs outperformed the $50,000 full fine-tuning run due to catastrophic forgetting. This challenges the assumption that more expensive fine-tuning always yields better results, offering cost-efficient alternatives for practitioners and highlighting the risk of catastrophic forgetting in full fine-tuning. The full fine-tuning run required roughly $50,000 worth of H100 GPU time, while LoRA and QLoRA each cost about $1,500. The cheaper methods preserved more of the model's pre-trained knowledge.
 
 ---
 
 ## ✍️ Language & Expression
 
-- [Treat Interviews as a Deductive Reasoning Game](https://sspai.com/post/110947) ⭐️ 8.0/10
+- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > The author proposes a full-process interview preparation and review SOP that frames interviews as a deductive reasoning game, emphasizing pattern recognition and logical inference. This approach transforms high-stakes interview communication into a systematic, repeatable process, helping professionals reduce anxiety and improve performance. The SOP includes steps for accumulating interview samples, identifying recurring patterns, and applying deductive reasoning to anticipate questions and craft responses.
+  > Bill Gurley, former Benchmark partner and current Santa Fe Institute board member, shares his insights on mental models and systems thinking in a new episode of The Knowledge Project podcast. This episode offers practical frameworks from a seasoned investor and thinker, helping listeners improve decision-making by understanding complexity and second-order effects. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a transcript; Gurley discusses topics like systems thinking, second- and third-order effects, and traits of outstanding founders.
 
-- [Mark Pincus on Innovation Rules in Podcast](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [Treat Interviews as Open-Book Reasoning Games](https://sspai.com/post/110947) ⭐️ 7.0/10
 
-  > Mark Pincus, creator of FarmVille and Words with Friends, discussed his rules of innovation in a Farnam Street Knowledge Project podcast episode titled 'Proven, Better, New'. As the founder of Zynga, Pincus shaped early social gaming; his insights on innovation could influence entrepreneurs and product leaders in tech and gaming industries. The podcast episode is available on YouTube, Spotify, Apple Podcasts, and includes a transcript; however, the provided excerpt lacks specific details on the innovation rules discussed.
+  > The article proposes a systematic preparation and review SOP (Standard Operating Procedure) that reframes job interviews as open-book reasoning games, emphasizing pattern recognition and structured communication. This approach can reduce interview anxiety and improve performance by shifting focus from memorization to logical reasoning, benefiting professionals across industries who seek a repeatable, effective preparation method. The SOP likely includes steps such as collecting sample questions, identifying recurring patterns, practicing structured responses, and conducting post-interview reviews to refine future strategies.
 
-- [RiseGuide Founder on Expert-Led Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+- [Mark Pincus on Proven, Better, New Innovation Rules](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
 
-  > Ness Labs interviewed Oleksandr Matsiuk, founder of RiseGuide, an expert-powered self-improvement app that provides personalized plans through short daily lessons. This interview highlights the growing trend of expert-curated, structured learning in the self-improvement space, offering users a more reliable alternative to generic advice. RiseGuide offers courses on communication, charisma, and confidence, backed by experts in psychology and human behavior, with over 17,000 positive reviews on Google Play.
+  > Mark Pincus, founder of Zynga, shared his innovation framework of 'Proven, Better, New' in a podcast on Farnam Street, explaining how to balance risk and novelty in product development. This framework offers entrepreneurs a structured approach to innovation, helping them decide when to iterate on proven ideas versus pursue breakthrough concepts, which is crucial for startup success. The podcast episode includes a transcript and is available on multiple platforms. Pincus draws from his experience building social games like FarmVille and Words with Friends.
+
+- [RiseGuide Founder Discusses Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an expert-powered app that provides personalized self-improvement plans through short daily lessons. This highlights the growing trend of expert-led, structured learning in the self-improvement space, offering users a more reliable alternative to generic advice. RiseGuide features science-backed methods, habits, and routines from top experts, and aims to help users master skills like communication and charisma without burnout.
 
 ---
 
@@ -87,343 +91,362 @@ lang: en
 
 - [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling known by another person is a core component of feeling loved, based on seven years of collaboration and a survey of nearly 2,000 American adults. This insight challenges common misconceptions about love and happiness, offering a science-based path to improving relationships and well-being. The article identifies five common misconceptions about feeling loved, such as believing that attractiveness, power, or success will bring love. The researchers emphasize that feeling loved is often hindered by faulty beliefs rather than a lack of love.
+  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling loved requires being known by another person, based on their seven-year collaboration bridging happiness and relationship science. This insight challenges common misconceptions about love and offers a science-based path to greater happiness, as feeling loved is identified as the main difference between happy and unhappy people. The article is adapted from their upcoming book 'How to Feel Loved' and highlights five common misconceptions about feeling loved, such as the belief that attractiveness or success leads to love.
 
-- [The Behavioral Trade-Offs of Enforcing Minor Offenses](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
+- [The Dilemma of Enforcing Minor Offenses](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
 
-  > A Behavioral Scientist article examines the complex trade-offs of enforcing minor offenses like fare evasion, showing that while it can deter serious crime, it also imposes costs on low-level offenders and raises equity concerns. This analysis challenges simplistic views on policing minor offenses, offering insights for policymakers and law enforcement on balancing crime prevention with social costs. The article cites examples from New York and San Francisco, where fare evasion enforcement led to discovery of weapons and drugs, but also sparked debates over criminalizing poverty and racial disparities.
+  > A Behavioral Scientist article examines the trade-offs of enforcing minor offenses like fare evasion for crime prevention, highlighting unintended consequences such as criminalizing poverty and eroding public trust. This analysis challenges simplistic narratives around crime prevention, offering evidence-based insights for policymakers and the public on balancing safety with fairness. The article cites New York City examples where fare evasion arrests led to discovery of weapons and drugs, but also notes that such enforcement can disproportionately affect low-income individuals and cost transit agencies millions in lost revenue.
 
 ---
 
 ## 📜 History & Patterns
 
-- [Five Greatest PM Downfalls in 100 Years](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [How the American Revolutionaries Defeated the British Empire](https://www.historyextra.com/membership/american-revolutionary-war-podcast-series-episode-three/) ⭐️ 7.0/10
 
-  > Historian Richard Toye examines five of the most spectacular downfalls of British prime ministers over the past century, analyzing the causes and contexts of their resignations. This historical analysis offers insights into the vulnerabilities of political leadership and the recurring patterns that can lead to a prime minister's downfall, relevant for understanding current political dynamics. The article is written by Richard Toye, a professor of modern history at the University of Exeter, and is published on HistoryExtra, a history-focused website.
+  > A podcast episode featuring Professor Adam IP Smith explores how the American revolutionaries survived and defeated the British Empire through strategy, attrition, and global conflict dynamics. This analysis offers timeless lessons on asymmetric warfare and empire overreach, relevant to understanding modern insurgencies and power transitions. The episode covers the attritional hardship of campaigns and the global impact of the conflict, highlighting how the revolutionaries leveraged these factors.
 
-- [How British Fourth of July celebrations evolved from acrimony to alliance](https://www.historyextra.com/membership/from-acrimonious-split-to-the-special-relationship-how-the-fourth-of-july-has-been-marked-in-britain/) ⭐️ 6.0/10
+- [Five Greatest Prime Ministerial Downfalls of the Past Century](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
 
-  > A new article by historian Sam Edwards explores how the Fourth of July has been commemorated in Britain, tracing a shift from initial acrimony after the American Revolution to a celebration of the 'special relationship' in the 20th century. This historical narrative illuminates how public commemorations reflect and shape diplomatic ties, offering insights into the evolving US-UK relationship that remains a cornerstone of Western alliances. The article notes that early British reactions to the Fourth of July were marked by resentment, but by the 20th century, events like wreath-laying at the statue of George III and joint military parades symbolized the growing bond.
+  > Historian Richard Toye examines five dramatic resignations of British prime ministers over the last 100 years, analyzing the patterns and causes of their downfalls. Understanding these historical downfalls offers insights into the fragility of political leadership and the recurring factors that can bring down even the most powerful leaders. The article covers five specific prime ministers, though their names are not listed in the provided snippet; it focuses on the spectacular nature of their resignations rather than contemporary parallels.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [Porting Moebius 0.2B Inpainting Model to Browser with WebGPU](#item-1) ⭐️ 8.0/10
-2. [CATL Launches TENER Sodium Grid-Scale Battery System](#item-2) ⭐️ 8.0/10
-3. [Qualcomm in Talks to Buy AI Chip Startup Modular for $4B](#item-3) ⭐️ 8.0/10
-4. [In Praise of Memcached: Simplicity vs Redis Complexity](#item-4) ⭐️ 7.0/10
-5. [ByteDance's Seedance 2.5 AI Video Model Coming in July](#item-5) ⭐️ 7.0/10
-6. [California drivers sue oil companies for AI price collusion](#item-6) ⭐️ 7.0/10
-7. [Groq Pivots to AI Inference CSP After $650M Raise, NVIDIA Deal](#item-7) ⭐️ 7.0/10
-8. [SnowOrigin's sEMG Wristband Captures Human Data for Embodied AI](#item-8) ⭐️ 7.0/10
-9. [2026 Tech Layoffs Driven by AI: A Running List](#item-9) ⭐️ 7.0/10
-10. [OpenAI launches initiative to fix open-source bugs](#item-10) ⭐️ 7.0/10
-11. [Non-deterministic Vulnerability Detection Benchmark](#item-11) ⭐️ 7.0/10
-12. [Kunlunxing Becomes Unicorn in 90 Days with Billions in Funding](#item-12) ⭐️ 6.0/10
-13. [AI Agents Reshape Consumer Decisions, Says Zhidebuyi](#item-13) ⭐️ 6.0/10
-14. [Seeking Syntax-Robust NLI for Diffusion LLM Outputs](#item-14) ⭐️ 6.0/10
+1. [China's 'Lingsheng' Supercomputer Tops TOP500 at 2.198 Exaflop/s](#item-1) ⭐️ 9.0/10
+2. [NetEase Releases Confucius4-TTS: Open-Source Zero-Shot Voice Cloning](#item-2) ⭐️ 8.0/10
+3. [Cloudflare Partners with Chrome, Edge, Firefox to Replace CAPTCHAs with PACT](#item-3) ⭐️ 8.0/10
+4. [AWS Launches Blocks: Open-Source TypeScript Framework for AI Agents](#item-4) ⭐️ 8.0/10
+5. [HTTP QUERY Method Proposed for Safe Requests with Body](#item-5) ⭐️ 7.0/10
+6. [Community Analyzes New AI Model 'Fable'](#item-6) ⭐️ 7.0/10
+7. [Spacex Starlink Becomes $28B/yr Neocloud Giant](#item-7) ⭐️ 7.0/10
+8. [Valve Expanding SteamOS to General Hardware with Nvidia Support](#item-8) ⭐️ 7.0/10
+9. [SK hynix overtakes Samsung as South Korea's most valuable company](#item-9) ⭐️ 7.0/10
+10. [Vibe Coding Fails for Production AI Products](#item-10) ⭐️ 7.0/10
+11. [Yimeihua Raises Millions for High-Performance Magnesium Alloys](#item-11) ⭐️ 7.0/10
+12. [Apple's £3 Billion UK iCloud Case Cleared for Trial](#item-12) ⭐️ 6.0/10
+13. [Engineering managers shift from cloud AI to local LLMs](#item-13) ⭐️ 6.0/10
+14. [Pinduoduo Buys First Office Building in Xiong'an](#item-14) ⭐️ 6.0/10
+15. [ByteDance and ZTE's Doubao AI Phone Faces Delay](#item-15) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Porting Moebius 0.2B Inpainting Model to Browser with WebGPU](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) ⭐️ 8.0/10
+## [China's 'Lingsheng' Supercomputer Tops TOP500 at 2.198 Exaflop/s](https://www.ithome.com/0/967/581.htm) ⭐️ 9.0/10
 
-Simon Willison successfully ported the Moebius 0.2B image inpainting model to run entirely in the browser using WebGPU, and released a live demo at simonw.github.io/moebius-web/. The port was accomplished using Claude Code and ONNX Runtime Web with the WebGPU backend. This demonstrates that state-of-the-art image inpainting can run locally in a browser without server costs or GPU dependencies, making the technology more accessible to developers and end users. It also showcases the growing capability of WebGPU for real-time ML inference and the potential of AI coding agents to accelerate such porting efforts. The original Moebius model required PyTorch and NVIDIA CUDA, but Willison converted it to ONNX format and used ONNX Runtime Web with WebGPU acceleration. The demo allows users to upload images, mark regions to remove, and run inpainting entirely client-side.
+China's 'Lingsheng' supercomputer achieved the top spot on the June 2026 TOP500 list with an Rmax performance of 2.198 Exaflop/s, becoming the first system to break the 2 Exaflop/s barrier. It is the first Chinese system to lead the list in eight years. This marks a major milestone in high-performance computing, demonstrating China's ability to build world-leading supercomputers using domestic processors without relying on GPU accelerators. It also signals intensified global competition in supercomputing, especially between the US and China. The 'Lingsheng' system uses a pure CPU design based on the 'LingKun' platform, featuring 304-core 1.55 GHz LX2 processors (Armv9 architecture) and the proprietary 'LingQi' interconnect, totaling 13.79 million cores. It also ranks first in the HPCG benchmark and fourth in HPL-MxP mixed-precision, with a power consumption of about 42.2 MW and an energy efficiency of 52.07 Gigaflops/W (50th on GREEN500).
 
-rss · Simon Willison · Jun 22, 23:43
+rss · IT之家 · Jun 23, 09:31
 
-**Background**: Image inpainting is the task of filling in missing or removed regions of an image with plausible content. Moebius is a lightweight 0.2B parameter model that achieves performance comparable to 10B+ models like FLUX.1. WebGPU is a modern browser API that enables GPU-accelerated computation, making it possible to run ML models efficiently in the browser.
+**Background**: The TOP500 list ranks the world's most powerful supercomputers twice a year based on the HPL benchmark. Exascale computing refers to systems capable of at least one exaflop (10^18 floating-point operations per second). China's previous top system was 'Sunway TaihuLight' in 2016, and since then, US systems like Frontier and Aurora have led the list. The 'Lingsheng' supercomputer uses only CPUs, unlike many modern systems that rely on GPU accelerators for high performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2606.19195v1">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B ...</a></li>
-<li><a href="https://github.com/hustvl/Moebius">GitHub - hustvl/Moebius: [ECCV 2026] Moebius: 0.2B ...</a></li>
-<li><a href="https://www.sitepoint.com/webgpu-browser-ai-javascript-inference/">WebGPU Browser AI: Client-Side Inference in JavaScript</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bypasses-us-gpu-bans-with-1-54-exaflops-lineshine-supercomputer-cpu-only-monster-packs-2-4-million-huawei-designed-armv9-cores">China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer — CPU-only monster packs 2.4 million Huawei-designed Armv9 cores | Tom's Hardware</a></li>
+<li><a href="https://www.techradar.com/pro/china-unveils-a-cpu-only-supercomputer-capable-of-1-54-exaflops-lineshine-lx2-packs-a-frankly-ridiculous-2-4-million-armv9-cores-from-huawei">China built a giant AI supercomputer without Nvidia GPUs, using millions of Huawei ARM cores instead | TechRadar</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion (score 8.0) validated the project's technical innovation and accessibility. Commenters appreciated the practical demonstration and the use of Claude Code to accelerate the porting process.
-
-**Tags**: `#image inpainting`, `#WebGPU`, `#browser ML`, `#model porting`, `#AI`
+**Tags**: `#supercomputing`, `#HPC`, `#TOP500`, `#China`, `#CPU`
 
 ---
 
 <a id="item-2"></a>
-## [CATL Launches TENER Sodium Grid-Scale Battery System](https://www.ithome.com/0/967/360.htm) ⭐️ 8.0/10
+## [NetEase Releases Confucius4-TTS: Open-Source Zero-Shot Voice Cloning](https://www.ithome.com/0/967/636.htm) ⭐️ 8.0/10
 
-On June 22, 2026, CATL unveiled the TENER Sodium energy storage system, the world's first field-validated sodium-ion battery storage solution, with a rated capacity exceeding 30 MWh and 15,000 cycle life. First deliveries in China are scheduled for September 2026, with global commercial delivery starting in June 2027. This marks a major milestone for sodium-ion battery commercialization, offering a safer, more abundant, and lower-cost alternative to lithium-ion for grid-scale energy storage. CATL's system is fully compatible with existing lithium battery dimensions, enabling seamless replacement and accelerating the global energy transition. The system features a Bi-DC bidirectional voltage control system that improves round-trip efficiency by nearly 2%, and a millisecond-level self-healing system that can close a loop within 350 milliseconds after any fault. It operates stably across a wide temperature range from -20°C to 45°C and is designed to suppress fire and explosion under extreme conditions.
+NetEase Youdao has released Confucius4-TTS, an open-source text-to-speech model that supports zero-shot voice cloning from just 3 seconds of audio without requiring a reference transcript, and enables cross-lingual accent-free synthesis across 14 languages. This is the first open-source model to combine zero-shot voice cloning with accent-free cross-lingual synthesis, significantly lowering the barrier for multilingual content creation, digital human dubbing, and global communication. The model uses a GPT-style semantic backbone, an ECAPA-TDNN speaker encoder, and Flow Matching generation, achieving over 85% voice similarity and 97% cloning accuracy. It is fully open-sourced under the Apache license with a 54GB resource package for offline deployment.
 
-rss · IT之家 · Jun 23, 03:44
+rss · IT之家 · Jun 23, 11:00
 
-**Background**: Sodium-ion batteries use sodium instead of lithium as the charge carrier, offering a more abundant and cheaper raw material. They are particularly attractive for stationary energy storage where energy density is less critical. CATL has been developing sodium-ion technology for years and previously announced a 60 GWh order with Haibo Sike in April 2026, the largest sodium-ion battery order globally.
+**Background**: Zero-shot voice cloning allows a model to replicate a speaker's voice from a short audio sample without any fine-tuning. Cross-lingual synthesis typically introduces accents from the source language; Confucius4-TTS overcomes this by learning language-independent speaker representations. Flow Matching is a generative modeling paradigm that combines aspects of normalizing flows and diffusion models for efficient high-quality generation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cnevpost.com/2026/06/22/catl-unveils-tener-sodium/">CATL pushes sodium energy storage to market with Tener Sodium ...</a></li>
-<li><a href="https://sodiumbatteryhub.com/2026/06/22/catl-tener-sodium-launch-speeds-energy-storage-market/">CATL Tener Sodium Launch Speeds Energy Storage Market</a></li>
-<li><a href="https://www.linkedin.com/pulse/catl-unveils-tener-sodium-just-made-lithium-substitution-leo-gao-kgocc">⚡️CATL Unveils TENER Sodium: Just Made Lithium Substitution ...</a></li>
+<li><a href="https://docs.nvidia.com/nim/speech/latest/tts/voice-cloning.html">Cloning a Voice with Zero-Shot TTS — NVIDIA Speech NIM Microservices</a></li>
+<li><a href="https://arxiv.org/abs/2210.02747">[2210.02747] Flow Matching for Generative Modeling</a></li>
+<li><a href="https://arxiv.org/abs/2203.10473">[2203.10473] ECAPA-TDNN for Multi-speaker Text-to-speech ... Short-Segment Speaker Verification Using ECAPA-TDNN with ... Speaker Encoder | rekuenkdr/Qwen3-TTS-streaming | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#battery technology`, `#energy storage`, `#sodium-ion`, `#CATL`, `#renewable energy`
+**Tags**: `#TTS`, `#voice cloning`, `#open-source`, `#AI`, `#NLP`
 
 ---
 
 <a id="item-3"></a>
-## [Qualcomm in Talks to Buy AI Chip Startup Modular for $4B](https://www.ithome.com/0/967/274.htm) ⭐️ 8.0/10
+## [Cloudflare Partners with Chrome, Edge, Firefox to Replace CAPTCHAs with PACT](https://www.ithome.com/0/967/565.htm) ⭐️ 8.0/10
 
-Qualcomm is in advanced negotiations to acquire AI chip startup Modular Inc. for approximately $4 billion, a significant jump from Modular's $1.6 billion valuation just nine months ago. The deal could be announced within weeks, though talks may still fall through. This acquisition would accelerate Qualcomm's push into the data center AI chip market, reducing its reliance on the volatile smartphone market. It also highlights the intense competition among chipmakers to challenge Nvidia's dominance in AI hardware. Modular, founded in 2022 by former Apple and Google engineers, has raised $380 million to date. Its platform allows developers to deploy AI models across different chips without rewriting code, a key differentiator. Qualcomm is also reportedly in talks to acquire AI chip startup Tenstorrent for $8-10 billion.
+On June 22, Cloudflare announced a partnership with Google Chrome, Microsoft Edge, and Mozilla Firefox to develop a new privacy-preserving token standard called PACT (Private Access Control Tokens) aimed at replacing CAPTCHAs and combating malicious bots. This initiative addresses the growing problem of automated traffic, which now outnumbers human traffic, while preserving user privacy by eliminating intrusive tracking and repeated CAPTCHA challenges. If adopted as a standard, PACT could fundamentally change how websites verify human users across the entire web. PACT allows websites that can reliably confirm a user is human to issue anonymous tokens; when the user visits another site, the browser can present the token to prove human involvement without revealing identity or browsing history. The standard is backed by Cloudflare, the three major browser vendors, and Shopify, and is intended to become an open industry standard.
 
-rss · IT之家 · Jun 23, 01:08
+rss · IT之家 · Jun 23, 09:12
 
-**Background**: Qualcomm is best known as the world's leading smartphone chip supplier, but it has been diversifying into high-growth areas like data center processors and automotive chips. Modular's software platform addresses a major pain point in AI: the need to rewrite code for different hardware, which currently locks many developers into Nvidia's ecosystem. By acquiring Modular, Qualcomm could offer a more flexible alternative.
+**Background**: For decades, websites have used CAPTCHAs to distinguish humans from bots, but these are increasingly ineffective against sophisticated AI-driven attacks and degrade user experience. Meanwhile, alternative methods like forced login or invasive tracking raise privacy concerns. PACT builds on earlier privacy-preserving authentication concepts like Privacy Pass (RFC 9577) but extends them to a broader, browser-integrated token system.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-4b-deal-ai-221042270.html">Qualcomm nears $4B deal for AI chip startup Modular Inc, Bloomberg reports</a></li>
-<li><a href="https://www.reuters.com/business/ai-startup-modular-raises-250-million-seeks-challenge-nvidia-dominance-2025-09-24/">AI startup Modular raises $250 million, seeks to challenge Nvidia dominance | Reuters</a></li>
-<li><a href="https://techstartups.com/2026/06/15/qualcomm-in-talks-to-acquire-ai-chip-startup-tenstorrent-for-up-to-10-billion-report/">Qualcomm in talks to acquire AI chip startup Tenstorrent for ...</a></li>
+<li><a href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/">Cloudflare Collaborates With Leading Browsers to Develop ...</a></li>
+<li><a href="https://www.how2shout.com/news/cloudflare-pact-privacy-tokens-bots-ai-agents.html">Bots Outnumber Humans Online: Cloudflare’s PACT Protocol Aims ...</a></li>
+<li><a href="https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/">Cloudflare forms pact with browser giants to protect your privacy with tokens - SDxCentral</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Qualcomm`, `#Modular`, `#AI chips`, `#acquisition`, `#semiconductor`
+**Tags**: `#Cloudflare`, `#privacy`, `#bot detection`, `#web standards`, `#browsers`
 
 ---
 
 <a id="item-4"></a>
-## [In Praise of Memcached: Simplicity vs Redis Complexity](https://jchri.st/blog/in-praise-of-memcached/) ⭐️ 7.0/10
+## [AWS Launches Blocks: Open-Source TypeScript Framework for AI Agents](https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-A blog post praises memcached for its simplicity and reliability, contrasting it with the operational pitfalls of Redis/Valkey, such as memory policy misconfigurations and persistence issues. This article highlights a growing sentiment among engineers that simpler tools like memcached can be more reliable in production than feature-rich alternatives like Redis, especially when misused as persistent stores. The author argues that memcached's lack of persistence and limited data structures reduce operational complexity, while Redis/Valkey's advanced features often lead to misconfigurations and outages.
+AWS has released Blocks in public preview, an open-source TypeScript framework designed for AI agents to build backends that run locally and deploy to AWS services like Lambda, DynamoDB, Aurora, and Bedrock without code changes. This framework simplifies backend development for AI agents by eliminating the need to learn infrastructure tools, potentially accelerating the creation of full-stack applications and reducing boilerplate code. Each Block bundles application code, local mocks, and AWS infrastructure, enabling a fully functional local environment with Postgres and authentication without an AWS account.
 
-hackernews · j03b · Jun 23, 01:15 · [Discussion](https://news.ycombinator.com/item?id=48638886)
+rss · InfoQ · Jun 23, 09:15
 
-**Background**: Memcached is a high-speed, distributed, in-memory caching system designed for simplicity, while Redis offers a richer set of features including persistence and complex data structures. Valkey is an open-source fork of Redis that continues its development. The debate centers on whether simplicity or feature richness leads to better operational reliability.
+**Background**: AWS Blocks is a backend toolkit for building full-stack applications on AWS. It allows developers to compose backend capabilities from pre-built modules that generate infrastructure from code, focusing on business logic instead of infrastructure boilerplate. The framework also supports native client code generation for Kotlin, Swift, and Dart.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.geeksforgeeks.org/dbms/difference-between-redis-and-memcached/">Difference between Redis and Memcached - GeeksforGeeks</a></li>
-<li><a href="https://aws.amazon.com/elasticache/redis-vs-memcached/">Redis OSS vs. Memcached - Difference Between Caches - AWS</a></li>
-<li><a href="https://redis.io/blog/what-is-valkey/">What is Valkey? A comparison with Redis</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview/">AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview) - AWS</a></li>
+<li><a href="https://aws.amazon.com/products/developer-tools/blocks/">AWS Blocks | Build local full-stack apps in seconds, deploy to AWS when ready</a></li>
+<li><a href="https://github.com/aws-devtools-labs/aws-blocks">GitHub - aws-devtools-labs/aws-blocks: Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart.</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters shared mixed experiences: some agreed with the author's criticisms of Redis/Valkey, citing real outages, while others argued that the issues stem from misuse, not the tools themselves. Some noted they have successfully used Redis/Valkey without problems.
-
-**Tags**: `#memcached`, `#redis`, `#caching`, `#operational experience`, `#software engineering`
+**Tags**: `#AWS`, `#TypeScript`, `#AI Agents`, `#Backend Development`, `#Open Source`
 
 ---
 
 <a id="item-5"></a>
-## [ByteDance's Seedance 2.5 AI Video Model Coming in July](https://www.ithome.com/0/967/374.htm) ⭐️ 7.0/10
+## [HTTP QUERY Method Proposed for Safe Requests with Body](https://kreya.app/blog/new-http-query-method-explained/) ⭐️ 7.0/10
 
-ByteDance announced Seedance 2.5, a video generation model that supports direct 30-second video output and up to 50 multimodal reference inputs, with public release expected in early July 2026. This update significantly advances AI video generation by enabling longer, more controllable outputs with rich multimodal inputs, benefiting content creators and enterprises. It also integrates with ByteDance's new AI copyright platform, allowing users to remix classic movie clips legally. Seedance 2.5 is currently in global enterprise beta testing and will be released in early July. The previous version, Seedance 2.0, has been upgraded to support native 4K video generation.
+A new HTTP method called QUERY has been proposed to standardize safe, idempotent requests that include a request body, addressing the long-standing hack of using GET with a body. This provides a standardized, interoperable way for APIs to perform complex queries without misusing GET or resorting to POST for read-only operations, improving clarity and tooling support. QUERY requests are safe and idempotent, similar to GET, but they carry a body for query parameters. The method is defined in an Internet-Draft and is under discussion for inclusion in the HTTP specification.
 
-rss · IT之家 · Jun 23, 04:23
+hackernews · CommonGuy · Jun 23, 06:05 · [Discussion](https://news.ycombinator.com/item?id=48640974)
 
-**Background**: Seedance is ByteDance's series of AI video generation models, part of the Doubao (豆包) product family. The model uses deep learning to create videos from text, images, audio, and other inputs. ByteDance also launched an AI copyright commercialization platform, with Stephen Chow as the first partner, enabling users to create derivative works from his classic films using official templates.
+**Background**: HTTP methods like GET are safe and idempotent but do not support a request body, while POST supports a body but is not safe or idempotent. Developers have long used GET with a body as a workaround, but this is discouraged because intermediaries may drop or misinterpret the body. The QUERY method formalizes this pattern.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.huxiu.com/ainews/13424.html">Seedance 2.5将在7月初发布，支持30秒视频和50个全模态素材输入</a></li>
-<li><a href="https://www.imagine.art/blogs/seedance-2-5-coming-soon">Seedance 2.5 Coming Soon: ByteDance's Next AI Video Model</a></li>
+<li><a href="https://www.reddit.com/r/webdev/comments/1u82ghz/new_query_method_is_about_to_join_get_post_put/">New QUERY method is about to join GET, POST, PUT, DELETE ... - Reddit</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48640974">The new HTTP QUERY method explained | Hacker News</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods">HTTP request methods - MDN Web Docs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI video generation`, `#ByteDance`, `#Seedance`, `#multimodal AI`, `#content creation`
+**Discussion**: The community is divided: some argue that QUERY is just GET with a body and that existing hacks work, while others welcome the standardization. Concerns were raised about legacy proxies and firewalls that may not support the new method, potentially causing issues.
+
+**Tags**: `#HTTP`, `#protocol`, `#web standards`, `#API design`
 
 ---
 
 <a id="item-6"></a>
-## [California drivers sue oil companies for AI price collusion](https://www.ithome.com/0/967/331.htm) ⭐️ 7.0/10
+## [Community Analyzes New AI Model 'Fable'](https://swelljoe.com/post/will-it-mythos/) ⭐️ 7.0/10
 
-A class-action lawsuit was filed in California federal court on Monday accusing major oil companies including BP, Circle K, Marathon, 7-Eleven, Walmart, and Albertsons of using AI software from Kalibrate to collude on gas prices, allegedly violating California's Cartwright Act and Assembly Bill 325. This case tests the application of California's new AB 325 law targeting algorithmic price-fixing, and could set a precedent for how antitrust laws apply to AI-driven pricing systems across the U.S. The lawsuit alleges that in areas where Kalibrate's AI pricing system was widely used, gas prices rose up to 30 cents per gallon, and that each 1-cent increase costs California drivers an additional $134 million annually. The defendants operate over 1,700 gas stations in California.
+A community discussion has emerged around a new AI model called 'Fable', with users sharing detailed comparisons to previous models like Opus and reporting significantly improved capabilities. This discussion provides early, hands-on insights into a potentially major AI model, which could influence expectations for Anthropic's next release and inform developers about its practical strengths. One user uploaded a full session transcript and code from a complex implementation to substantiate their claim that Fable is substantially more powerful than any previous model. Another user noted Fable was the only model that detected a data corruption bug in a Qt C++ app that other models failed to find.
 
-rss · IT之家 · Jun 23, 02:55
+hackernews · mindingnever · Jun 23, 04:15 · [Discussion](https://news.ycombinator.com/item?id=48640196)
 
-**Background**: California's Cartwright Act is the state's primary antitrust law, broader than the federal Sherman Act. Assembly Bill 325, effective January 1, 2026, specifically prohibits the use of common pricing algorithms that use competitor data to influence prices, lowering the pleading standard for antitrust claims. Kalibrate's software collects competitor pricing data and uses AI to recommend prices, which the plaintiffs argue facilitates collusion.
+**Background**: Anthropic is known for its Claude series of AI models, with Opus being a previous high-capability version. The community often tests and compares new models informally before official releases. 'Fable' appears to be an internal or unreleased model that some users have gained access to.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://kalibrate.com/kalibrate-fuel-pricing-software/">Kalibrate Fuel Pricing Software</a></li>
-<li><a href="https://www.alston.com/en/insights/publications/2025/11/california-ab-325-antitrust-standards">California’s AB 325 Prohibits Shared Pricing Algorithms ...</a></li>
-<li><a href="https://legalclarity.org/california-cartwright-act-provisions-and-legal-implications/">California Cartwright Act: Prohibitions and Penalties</a></li>
+**Discussion**: The community sentiment is positive, with users reporting that Fable feels like a smarter version of the 'old Opus' before it was 'lobotomized'. However, some speculate that the discussion might be aimed at raising Anthropic's valuation, and note that Anthropic's communication style can be unprofessional.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#antitrust`, `#pricing`, `#legal`, `#energy`
+**Tags**: `#AI`, `#LLM`, `#Anthropic`, `#model comparison`
 
 ---
 
 <a id="item-7"></a>
-## [Groq Pivots to AI Inference CSP After $650M Raise, NVIDIA Deal](https://www.ithome.com/0/967/312.htm) ⭐️ 7.0/10
+## [Spacex Starlink Becomes $28B/yr Neocloud Giant](https://www.latent.space/p/ainews-spacex-is-already-a-28byr) ⭐️ 7.0/10
 
-Groq announced a $650 million funding round and a strategic pivot to become an AI inference cloud service provider (CSP), following a $20 billion non-exclusive licensing deal with NVIDIA for its LPU technology. The company aims to scale its AI inference infrastructure to 200MW of compute capacity by the end of 2027. This move positions Groq as a specialized AI inference cloud provider, leveraging its unique LPU expertise to compete with major cloud vendors. The partnership with NVIDIA also validates Groq's LPU architecture, potentially reshaping the AI inference hardware landscape. Groq currently operates 13 data centers across North America, Europe, the Middle East, and Asia-Pacific, serving over 5 million developers and thousands of AI-native enterprises. The company will deploy its latest inference technology alongside NVIDIA's LPX systems to achieve its 200MW target.
+SpaceX's Starlink satellite internet service is generating $28 billion in annual revenue, positioning it as a major neocloud provider according to analyst Jamin Ball. This highlights how SpaceX has quietly built a massive AI infrastructure business, challenging traditional cloud providers and reshaping the competitive landscape for AI compute. The $28 billion figure is based on Starlink's current subscriber base and average revenue per user, though public estimates place Starlink revenue at around $11-15 billion for 2025-2026.
 
-rss · IT之家 · Jun 23, 01:57
+rss · Latent Space · Jun 23, 06:19
 
-**Background**: Groq's LPU (Language Processing Unit) is a specialized inference accelerator that uses hundreds of megabytes of on-chip SRAM instead of external HBM, enabling low latency and deterministic performance. The NVIDIA Groq 3 LPX system combines 256 LPUs with NVIDIA's Vera Rubin platform, targeting low-latency, large-context AI workloads. Groq's pivot to a CSP model allows it to directly offer inference services rather than just selling hardware.
+**Background**: A neocloud is a specialized cloud provider focused on AI workloads, often offering GPU-as-a-Service. Starlink provides low-latency satellite internet, which can be used to connect distributed AI infrastructure, making SpaceX a neocloud player.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://groq.com/lpu-architecture">LPU | Groq is fast, low cost inference.</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/lpx/">AI Inference Accelerator | NVIDIA Groq 3 LPX</a></li>
-<li><a href="https://developer.nvidia.com/blog/inside-nvidia-groq-3-lpx-the-low-latency-inference-accelerator-for-the-nvidia-vera-rubin-platform">Inside NVIDIA Groq 3 LPX: The Low-Latency Inference ...</a></li>
+<li><a href="https://blog.equinix.com/blog/2025/10/14/what-is-a-neocloud/">What Is a Neocloud? - Interconnections - The Equinix Blog</a></li>
+<li><a href="https://valueaddvc.com/blog/starlink-revenue-2025-2026-subscriber-count-arpu-and-the-path-to-profitability">Starlink Revenue 2026: ~$15.5B Run-Rate, 7M+ Subscribers, and the Path to Profit | Value Add VC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#funding`, `#cloud computing`, `#NVIDIA`, `#inference`
+**Tags**: `#SpaceX`, `#neocloud`, `#cloud computing`, `#AI infrastructure`, `#Starlink`
 
 ---
 
 <a id="item-8"></a>
-## [SnowOrigin's sEMG Wristband Captures Human Data for Embodied AI](https://36kr.com/p/3865125383443463?f=rss) ⭐️ 7.0/10
+## [Valve Expanding SteamOS to General Hardware with Nvidia Support](https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future) ⭐️ 7.0/10
 
-SnowOrigin, a Peking University spin-off, has developed a neural wristband and AI model that uses surface electromyography (sEMG) to capture human manipulation data—including pose, force, and micro-control—for embodied AI training. The company has secured investment from prominent figures like Gong Hongjia and Lu Qi. This approach addresses a critical gap in Physical AI training by providing richer, more detailed data than traditional video or motion capture methods. It could accelerate the development of more capable and natural robots and AI systems that understand human interaction with the physical world. The wristband features more channels, higher sampling rates, and a signal-to-noise ratio above 43 dB, outperforming typical 8-channel designs. The company's NMH (Neural Math Hybrid) AI model decodes sEMG signals in real time to reconstruct hand poses and intentions.
+Valve engineer Pierre-Loup Griffais announced that the company is working on a general release of SteamOS, collaborating with Nvidia to ensure compatibility and hinting at future dual-boot capabilities. This move could significantly expand SteamOS adoption beyond the Steam Deck, offering gamers a console-like experience on any PC and challenging Windows' dominance in PC gaming. Currently, installing SteamOS on non-Valve hardware requires a full system wipe, but future dual-boot support would allow users to keep their existing OS alongside SteamOS.
 
-rss · 36氪 · Jun 23, 02:13
+rss · Tom's Hardware · Jun 23, 10:53
 
-**Background**: Surface electromyography (sEMG) is a non-invasive technique that measures electrical activity from muscles via skin electrodes. Embodied AI requires large amounts of human interaction data to learn physical tasks, but current methods like video or motion capture often miss subtle details such as force and micro-adjustments. SnowOrigin's wearable approach aims to collect this missing data in a lightweight, scalable way.
+**Background**: SteamOS is a Linux-based operating system developed by Valve, initially designed for the Steam Machine and later optimized for the Steam Deck. It provides a console-like interface for gaming and access to the Steam library. Expanding to general hardware with Nvidia support would make it viable for a wider range of PCs, as Nvidia GPUs are common in gaming desktops.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://biologyinsights.com/what-is-semg-surface-electromyography-and-how-does-it-work/">What Is SEMG (Surface Electromyography) and How Does It Work?</a></li>
-<li><a href="https://www.evsint.com/embodied-ai-data-collection-teleoperation-sim-to-real-2026/">Embodied AI Data Collection: Teleoperation Guide (2026)</a></li>
+<li><a href="https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future">Valve working on SteamOS for general release — company ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SteamOS">SteamOS - Wikipedia</a></li>
+<li><a href="https://store.steampowered.com/news/app/1675200/view/820329049655084700">Steam Deck - SteamOS 3.7.8: Go Country - Steam News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#embodied AI`, `#sEMG`, `#data collection`, `#wearable`, `#Physical AI`
+**Tags**: `#SteamOS`, `#Valve`, `#Nvidia`, `#gaming`, `#Linux`
 
 ---
 
 <a id="item-9"></a>
-## [2026 Tech Layoffs Driven by AI: A Running List](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 7.0/10
+## [SK hynix overtakes Samsung as South Korea's most valuable company](https://www.tomshardware.com/tech-industry/sk-hynix-passes-samsung-as-south-koreas-most-valuable-company-on-hbm-demand) ⭐️ 7.0/10
 
-TechCrunch maintains a running list of major tech layoffs in 2026 where employers cited AI as a factor, updated in reverse chronological order. The latest entry reports Oracle cut 13% of its workforce (about 21,000 employees) in fiscal 2026, citing business restructuring and AI adoption. This list documents a significant trend where AI adoption is directly cited as a reason for job cuts, affecting tens of thousands of tech workers. It highlights the tension between AI-driven efficiency gains and workforce displacement, a key concern for the industry. As of June 2026, Layoffs.fyi reports 196 tech companies have laid off over 119,800 employees this year. Oracle paid $1.84 billion in severance costs for its fiscal 2026 restructuring, up from $374 million the prior year.
+SK hynix surpassed Samsung Electronics on Monday to become South Korea's most valuable listed company, driven by surging demand for its High Bandwidth Memory (HBM) used in AI accelerators. This milestone underscores the shift in semiconductor market leadership from traditional memory to AI-specific memory like HBM, highlighting the growing importance of AI infrastructure investments. SK hynix's HBM3E and upcoming HBM4 products are key drivers of its valuation, as the company benefits from a structural reallocation of manufacturing capacity toward high-margin AI memory products.
 
-rss · TechCrunch · Jun 23, 01:27
+rss · Tom's Hardware · Jun 23, 10:30
 
-**Background**: Layoffs.fyi is a website founded in 2020 that tracks tech industry layoffs. It has aggregated over 450,000 layoffs and is widely cited by major media. The current wave of AI-related layoffs reflects companies restructuring to invest heavily in AI infrastructure, as seen with Oracle's $70 billion capital expenditure plan.
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM architecture that provides significantly higher bandwidth and lower power consumption than traditional memory, making it essential for AI and high-performance computing. The global memory market is experiencing a shortage driven by AI demand, with HBM supply constraints expected to last until at least 2030.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ithome.com/0/967/271.htm">AI 转型与成本压力下，甲骨文 2026 财年裁员 2.1 万人 - IT之家</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Layoffs.fyi">Layoffs.fyi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/">2026 Market Outlook: SK hynix’s HBM to Fuel AI Memory Boom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#layoffs`, `#tech industry`, `#employment`, `#2026`
+**Tags**: `#semiconductors`, `#AI hardware`, `#HBM`, `#market valuation`, `#South Korea`
 
 ---
 
 <a id="item-10"></a>
-## [OpenAI launches initiative to fix open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) ⭐️ 7.0/10
+## [Vibe Coding Fails for Production AI Products](https://leaddev.com/ai/you-can-vibe-code-a-demo-you-cant-vibe-code-a-product?utm_source=leaddev&utm_medium=RSS) ⭐️ 7.0/10
 
-OpenAI announced a new initiative to help find and patch security bugs in open-source software, aiming to improve the security of the open-source ecosystem. This initiative could significantly enhance the security posture of widely used open-source projects, benefiting millions of users and developers who rely on them. The initiative leverages OpenAI's AI models to automate vulnerability detection and patch generation, though specific technical details and launch date have not been disclosed.
+A LeadDev article argues that 'vibe coding'—using AI to generate code from natural language prompts—is sufficient for demos but inadequate for building robust, production-grade generative AI products. As generative AI moves from hype to real-world deployment, understanding the gap between prototyping and production is critical for engineers and organizations to avoid costly failures. The article highlights that production AI requires rigorous testing, scalability, security, and maintainability—qualities that vibe coding, which prioritizes speed over robustness, cannot guarantee.
 
-rss · TechCrunch · Jun 23, 00:11
+rss · LeadDev · Jun 23, 07:00
 
-**Background**: Open-source software often suffers from security vulnerabilities due to limited resources for maintenance. OpenAI's initiative aims to apply advanced AI to automate bug finding and patching, potentially reducing the burden on volunteer maintainers.
+**Background**: Vibe coding, a term coined by Andrej Karpathy, refers to using AI assistants to write code by describing intent in plain language. While it accelerates prototyping, production systems demand reliability, observability, and compliance that AI-generated code often lacks.
 
-**Tags**: `#OpenAI`, `#open-source`, `#security`, `#bug fixing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/vibe-coding">What is Vibe Coding? | IBM</a></li>
+<li><a href="https://logixbuilt.com/blogs/generative-ai-challenges">10 Generative AI Challenges and How to Overcome Them</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#software engineering`, `#production`, `#generative AI`
 
 ---
 
 <a id="item-11"></a>
-## [Non-deterministic Vulnerability Detection Benchmark](https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/) ⭐️ 7.0/10
+## [Yimeihua Raises Millions for High-Performance Magnesium Alloys](https://36kr.com/p/3864082158785539?f=rss) ⭐️ 7.0/10
 
-A new benchmark system hides known vulnerabilities in code to test LLMs' ability to detect them, including the effect of misleading comments. The system obfuscates Juliet test suite code to remove LLMs' natural advantage when viewing known CWEs. This benchmark addresses a critical gap in evaluating LLMs for software vulnerability detection, which is important for AI safety and software security. By testing the influence of comments, it also explores how natural language context can manipulate LLM performance. The benchmark uses Juliet test suite code (over 81,000 synthetic C/C++ and Java programs with known flaws) and hides the vulnerabilities to make them resemble real codebases. It also uses an LLM to inject accurate, misleading, or neutral comments to examine their effect on CWE detection.
+Yimeihua, a Chinese startup specializing in high-thermal-conductivity and high-strength magnesium alloys, has completed a tens-of-millions yuan angel funding round led by Xinghe Venture Capital and Huazhong Industrial Group. The funds will be used for capacity building, R&D, and team expansion. This funding highlights the growing demand for lightweight materials in robotics and automotive industries, where magnesium alloys offer a promising alternative to aluminum. Yimeihua's technology addresses key limitations of conventional magnesium alloys, potentially accelerating adoption in high-value applications like robot joint motors and automotive structural parts. Yimeihua's YHM10 magnesium alloy achieves a thermal conductivity of 110 W/(m·K), more than double the industry average, and is suitable for semi-solid injection molding. The company has partnered with over 10 robot manufacturers and identified more than 15 magnesium alloy replacement products, and has secured multiple automotive customer designations.
 
-reddit · r/MachineLearning · /u/Psychological_Meat_6 · Jun 22, 23:34
+rss · 36氪 · Jun 23, 10:22
 
-**Background**: The Juliet Test Suite is a collection of synthetic programs with known software flaws (CWEs) used to evaluate static analysis tools and other software assurance methods. LLMs have shown promise in vulnerability detection, but benchmarks often use unmodified Juliet code, giving LLMs an advantage because they may have seen similar examples during training. This new benchmark aims to provide a more realistic evaluation by obfuscating the code and adding misleading comments.
+**Background**: Magnesium is the lightest structural metal, 33% lighter than aluminum and 77% lighter than steel, but its poor thermal conductivity, insufficient strength, and corrosion susceptibility have limited widespread use. Semi-solid injection molding, unlike traditional die casting, processes magnesium in a semi-solid state, improving strength by 10%, elongation and corrosion resistance by 50%, and extending mold life by over 100%. Yimeihua's technology is backed by Shanghai Jiao Tong University's Light Alloy Net Forming National Engineering Research Center.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/arichardson/juliet-test-suite-c">GitHub - arichardson/juliet-test-suite-c · GitHub</a></li>
-<li><a href="https://www.nist.gov/publications/juliet-11-cc-and-java-test-suite">The Juliet 1.1 C/C++ and Java Test Suite | NIST</a></li>
-<li><a href="https://samate.nist.gov/SARD/test-suites/112">Juliet C/C++ 1.3 - NIST Software Assurance Reference Dataset</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1896848186930345010">如注塑般简易，镁合金半固态成型原理与优点到底有哪些？一文秒懂</a></li>
+<li><a href="http://laf.sjtu.edu.cn/">首页 - 轻合金精密成型国家工程研究中心</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Reddit post shows community interest and constructive feedback, with the author seeking advice on whether the work is duplicate and worth finishing. Commenters likely discussed the novelty of the approach and potential improvements.
-
-**Tags**: `#LLM`, `#vulnerability detection`, `#benchmarking`, `#AI safety`, `#software security`
+**Tags**: `#materials science`, `#robotics`, `#funding`, `#magnesium alloys`, `#manufacturing`
 
 ---
 
 <a id="item-12"></a>
-## [Kunlunxing Becomes Unicorn in 90 Days with Billions in Funding](https://36kr.com/p/3865188719121668?f=rss) ⭐️ 6.0/10
+## [Apple's £3 Billion UK iCloud Case Cleared for Trial](https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/) ⭐️ 6.0/10
 
-Kunlunxing, a robotics startup founded by former Alibaba Cloud executives, completed three funding rounds within 90 days of registration, raising tens of billions of yuan and achieving a valuation over $1 billion, making it a unicorn in the embodied AI industry. This rapid fundraising highlights the intense investor interest in embodied AI, especially for teams with strong backgrounds in cloud computing and autonomous driving. It signals a shift in focus from pure software AI to physical AI applications like humanoid robots. The company was co-founded by Ren Geng, former president of Alibaba Cloud China, and Lang Xianpeng, former head of Li Auto's autonomous driving. Investors include Hillhouse Capital, Gaorong Capital, and others, with all initial investors participating in subsequent rounds.
+The UK Competition Appeal Tribunal has certified a class action lawsuit against Apple, brought by consumer group Which?, alleging that Apple overcharged iCloud users by locking them into its service. The trial is scheduled for October 2028, with a potential claim of £3 billion. This case could set a precedent for antitrust actions against big tech in the UK, potentially forcing Apple to change its iCloud pricing and practices. If successful, approximately 40 million UK iPhone and iPad users could receive up to £77 each. The claim covers users who used iCloud on a UK device between November 8, 2018 and June 8, 2026. UK residents are automatically included unless they opt out by October 8, while non-UK residents must opt in by the same deadline.
 
-rss · 36氪 · Jun 23, 03:18
+rss · MacRumors · Jun 23, 08:47
 
-**Background**: Embodied AI refers to AI systems that can interact with the physical world, such as robots. A unicorn is a privately held startup valued at over $1 billion. The humanoid robot market is projected to reach $5 trillion by 2050, according to Morgan Stanley.
+**Background**: The Competition Appeal Tribunal (CAT) is a specialist UK judicial body that hears competition and economic regulatory cases. Which? is a UK consumer group that advocates for consumer rights. Apple provides 5GB of free iCloud storage and charges for additional space, which Which? argues is anti-competitive because Apple limits rival cloud services on its devices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ithome.com/0/942/438.htm">2026 具身智能独角兽排行榜：中国五大具身智能企业核心技术与商业化能...</a></li>
-<li><a href="https://baike.baidu.com/item/昆仑行机器人/67992756">昆仑行机器人_百度百科</a></li>
-<li><a href="https://www.huxiu.com/article/4869469.html">昆仑行90天融三轮，具身智能成智驾人才最优出路？-虎嗅网</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Competition_Appeal_Tribunal">Competition Appeal Tribunal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Which?">Which? - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#robotics`, `#funding`, `#startup`, `#AI`, `#embodied intelligence`
+**Tags**: `#Apple`, `#iCloud`, `#lawsuit`, `#UK`, `#antitrust`
 
 ---
 
 <a id="item-13"></a>
-## [AI Agents Reshape Consumer Decisions, Says Zhidebuyi](https://36kr.com/p/3865177262101513?f=rss) ⭐️ 6.0/10
+## [Engineering managers shift from cloud AI to local LLMs](https://leaddev.com/ai/engineering-managers-ditch-cloud-ai-for-local-llms?utm_source=leaddev&utm_medium=RSS) ⭐️ 6.0/10
 
-At the 36Kr WAVES 2026 conference, Zhidebuyi Technology's marketing FDE Zhu Yue discussed how AI agents are transforming consumer decision-making and introduced the 'Zhishu Matrix' omnichannel content visibility tool to help brands be discovered and trusted by AI. As AI agents become key consumer decision participants, brands must adapt to being evaluated by machines rather than just humans. This shift requires new strategies for brand visibility and trust in AI-driven ecosystems. Zhidebuyi's 'Haina' MCP Server has connected with over 40 major LLM products and agents, delivering 10.7 billion content outputs in Q1 2026, a 225.43% increase from Q4 2025. The 'Zhishu Matrix' integrates six capabilities: Monitor, Audience, Topics, Reputation, Insights, and Execution.
+Engineering managers are increasingly choosing to run large language models (LLMs) locally instead of relying on cloud-based AI services, driven by concerns over cost, privacy, and control. This trend could reshape how organizations deploy AI, reducing dependence on cloud providers and enabling more secure, customizable, and potentially cost-effective AI solutions for sensitive or high-volume applications. Local LLMs, powered by open-source models like Llama 4 and DeepSeek V4, offer stronger privacy and offline capabilities, but face hardware constraints and limited context windows compared to cloud-based models like GPT-5.5.
 
-rss · 36氪 · Jun 23, 03:02
+rss · LeadDev · Jun 23, 09:48
 
-**Background**: Forward Deployed Engineer (FDE) is a hybrid role combining engineering, consulting, and product management, often used to deploy AI solutions in client environments. Zhidebuyi Technology, known for its consumer platform 'Smzdm', has built a 10-billion-level product database and 20-billion-level content library over 16 years, powering its AI services.
+**Background**: Cloud-based LLMs (e.g., GPT-4, Claude) are accessed via APIs and offer scalability but require internet connectivity and raise data privacy concerns. Local LLMs run on the user's own hardware, providing full control and offline use, but demand significant computational resources. Engineering managers must balance these trade-offs when choosing an AI deployment strategy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Forward_Deployed_Engineer">Forward Deployed Engineer - Wikipedia</a></li>
-<li><a href="https://www.ithome.com/0/961/129.htm">值得买科技联合华为云发布“值数Matrix”，推动AI能力在品牌信任经营场...</a></li>
-<li><a href="https://www.sohu.com/a/1033445663_120011542">值得买科技亮相华为云创想者大会：“值数Matrix”推动品牌建设迈向全渠...</a></li>
+<li><a href="https://aimultiple.com/cloud-llm">Cloud LLM vs Local LLMs: Examples & Benefits</a></li>
+<li><a href="https://apxml.com/courses/getting-started-local-llms/chapter-1-introduction-large-language-models/local-vs-cloud-llms">Local vs. Cloud-Based LLMs</a></li>
+<li><a href="https://www.xda-developers.com/local-llms-are-powerful-but-cloud-ai-still-better-at-these-things/">Local LLMs are powerful, but cloud AI is still better at these 3 things</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#marketing`, `#consumer behavior`, `#agent`
+**Tags**: `#LLM`, `#local AI`, `#engineering management`, `#cloud vs local`
 
 ---
 
 <a id="item-14"></a>
-## [Seeking Syntax-Robust NLI for Diffusion LLM Outputs](https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/) ⭐️ 6.0/10
+## [Pinduoduo Buys First Office Building in Xiong'an](https://36kr.com/p/3865625576297476?f=rss) ⭐️ 6.0/10
 
-A Reddit user is requesting literature on syntax-robust Natural Language Inference (NLI) to evaluate the semantic correctness of text generated by diffusion LLMs, which often contain syntactic noise. As diffusion LLMs like LLaDA emerge as alternatives to autoregressive models, robust NLI methods are needed to handle their syntactically imperfect outputs, which is critical for reliable semantic evaluation in downstream tasks. The user notes that current state-of-the-art diffusion LLMs (except possibly LLaDA) produce text with more syntactic errors than autoregressive models, complicating the use of standard NLI. They ask for the state-of-the-art in syntax-robust NLI.
+On June 21, 2026, Pinduoduo signed a contract to purchase an entire office building in the Xiong'an Digital New Consumption E-commerce Industrial Park, marking its first-ever property acquisition. The company had previously registered a subsidiary in Xiong'an on May 27, 2026, focusing on data processing and cloud services. This move signals a strategic shift for Pinduoduo, which has long adhered to a light-asset model by renting offices. Establishing a presence in Xiong'an, a national-level digital new area, could strengthen its data processing capabilities and align with China's digital economy initiatives. The new subsidiary, Pinduoduo Information Technology Services (Xiong'an) Co., Ltd., has a registered capital of 500 million yuan and is led by Temu Senior Vice President Yang Qingyong. The building is expected to be operational by the end of July 2026, and the company plans to provide over 5,000 local jobs.
 
-reddit · r/MachineLearning · /u/RepresentativeBee600 · Jun 22, 21:51
+rss · 36氪 · Jun 23, 10:38
 
-**Background**: Natural Language Inference (NLI) determines whether a premise entails a hypothesis. Autoregressive LLMs generate text token-by-token, while diffusion LLMs (e.g., LLaDA) generate via a denoising process, often leading to syntactic noise. Syntax-robust NLI aims to evaluate semantics despite such noise.
+**Background**: Pinduoduo, founded in 2015, has historically avoided owning real estate, renting all its offices and even core assets like servers and warehouses to minimize capital expenditure. Xiong'an New Area, established in 2017, is a national-level development zone designed to be a model for digital and smart cities, attracting tech companies with incentives.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2502.09992">[2502.09992] Large Language Diffusion Models - arXiv.org</a></li>
-<li><a href="https://aclanthology.org/2023.iwcs-1.29/">AMR4NLI: Interpretable and robust NLI measures from semantic ...</a></li>
-<li><a href="https://arxiv.org/html/2208.07316v5">MENLI: Robust Evaluation Metrics from Natural Language Inference</a></li>
+<li><a href="https://d.youth.cn/shrgch/202606/t20260623_16727777.htm">拼多多扎根雄安再添重磅动作：整栋购置新办公楼，7月底投入使用</a></li>
+<li><a href="http://www.he.xinhuanet.com/20260622/43d584dbc2144ec48f959e14b5c472c6/c.html">拼多多集团入驻雄安·电建智汇城-新华网河北频道-新华网</a></li>
+<li><a href="https://news.qq.com/rain/a/20260622A06TT000">拼多多签约中国电建、购置雄安产业园楼宇，提供超5000个工作岗位</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NLI`, `#LLM`, `#syntax robustness`, `#diffusion models`, `#semantic evaluation`
+**Tags**: `#Pinduoduo`, `#Xiong'an`, `#real estate`, `#business strategy`, `#digital economy`
+
+---
+
+<a id="item-15"></a>
+## [ByteDance and ZTE's Doubao AI Phone Faces Delay](https://36kr.com/newsflashes/3865588553438216?f=rss) ⭐️ 6.0/10
+
+ByteDance and ZTE's next-generation Doubao AI phone may be delayed due to additional certification processes, including AI model filing with the Cyberspace Administration and mobile terminal network access certification from the Ministry of Industry and Information Technology. This delay highlights the regulatory hurdles AI-powered devices face in China, potentially slowing down the commercialization of on-device AI. It also underscores the need for collaboration between tech giants and telecom manufacturers to navigate dual certification requirements. Unlike standard smartphones, the Doubao AI phone must pass both AI model filing (overseen by the Cyberspace Administration) and mobile terminal network access certification (overseen by MIIT). The delay was reported by Lanjinews, citing an insider source.
+
+rss · 36氪 · Jun 23, 10:00
+
+**Background**: In China, AI models that provide generative services must be filed with the Cyberspace Administration of China (CAC) before public release. Additionally, all mobile phones sold in China require network access certification (CTA) from the Ministry of Industry and Information Technology (MIIT). The Doubao AI phone, integrating ByteDance's AI capabilities with ZTE's hardware, is subject to both regulations, which may cause delays beyond the original launch timeline.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/1910099650351986326">2025大模型备案全攻略:政策解读+材料清单+流程详解+避坑指南</a></li>
+<li><a href="https://jwxk.miit.gov.cn/">电信设备进网许可</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI phone`, `#ByteDance`, `#ZTE`, `#product delay`, `#certification`
 
 ---

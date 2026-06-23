@@ -5,7 +5,7 @@ date: 2026-06-23
 lang: zh
 ---
 
-> 从 284 条内容中筛选出 32 条重要资讯。
+> 从 298 条内容中筛选出 34 条重要资讯。
 
 ---
 
@@ -13,417 +13,440 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [庄子对精英统治与自我成功观念的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
+- [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > 一篇发表在 Aeon 上的文章，借鉴中国古代哲学家庄子的思想，指出“白手起家”这一概念存在缺陷，动摇了精英统治的理想。 这一观点挑战了科技界及更广泛社会中对成功与应得性的固有假设，为精英统治提供了哲学上的反论。 该文章由 Christine Abigail L Tan 撰写，发表在 Aeon 上。它借助庄子哲学论证成功很大程度上取决于个人无法控制的外部因素。
+  > Aeon 上的一篇文章借鉴中国古代哲学家庄子的思想，论证了“白手起家”这一概念存在缺陷，从而动摇了精英制度的基础。 这一观点挑战了科技等行业中普遍存在的对精英制度的深信，促使人们重新审视对成功和应得性的理解。 文章运用庄子哲学论证，成功很大程度上取决于个人无法控制的外部因素，如运气和社会环境，而非仅仅个人功绩。
 
-- [人造岩石挑战地质学边界](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人类世的新奇岩石](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > 一篇 Aeon 文章探讨了人类活动如何创造出塑料砾岩和技术化石等新型岩石，模糊了自然与人工的界限，迫使重新定义地质分类。 这开启了一个真正的新领域——人类世地质学——挑战了传统地质分类，并对我们理解人类对地球地层的长期影响具有重要意义。 文章介绍了塑料砾岩（塑料与天然沉积物融合）和技术化石（人造物体变成化石）等概念，这些预计将在数百万年的地质记录中持续存在。
+  > 这篇文章探讨了人类活动如何创造出新型岩石，如塑质砾岩和其他技术化石，这些岩石模糊了自然与人造的界限，并定义了人类世。 这挑战了传统地质学的界限，迫使我们重新思考什么是自然的，凸显了人类对地球地质记录的深远且持久的影响。 塑质砾岩由塑料碎片熔化并与沙子、岩石等天然材料融合而成，可能在地质记录中形成永久标记，持续数百万年。
 
-- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的黑暗加速主义：非人未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê 在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个技术与资本主义融合以消灭人类的未来，超越了左翼和右翼的解释。 这种对进步的激进批判挑战了科技专业人士对创新的假设，揭示了一种更黑暗的哲学暗流，认为技术加速将导致人类被淘汰而非解放。 兰德的加速主义借鉴了控制论、后结构主义和“超虚构”（hyperstition）概念——即那些能自我实现的观念。文章将其“黑暗”加速主义与后来的左翼加速主义和有效加速主义运动区分开来。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学认为技术资本主义是一种非人的、自主的力量，将不可避免地取代人类。 这一哲学挑战了科技行业对进步的乐观叙事，迫使人们直面加速技术和资本主义体系所带来的黑暗后果。 兰德的加速主义融合了控制论、资本主义和反人类主义，认为民主和平等主义是“减速器”，会减缓不可避免的技术资本主义冲向超人类奇点的进程。
 
-- [多迷走神经理论：神经系统如何塑造人际连接](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [多迷走神经理论：连接的神经生物学](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > The Marginalian 上的一篇新文章探讨了多迷走神经理论，该理论由 Stephen Porges 于 1994 年提出，解释了迷走神经如何调节社交连接、安全感和创伤反应。 该理论为理解人类行为（尤其是创伤和人际关系）提供了深刻的视角，并越来越多地被应用于临床心理学和治疗中。 多迷走神经理论将副交感神经系统分为腹侧迷走系统（社交参与）和背侧迷走系统（静止/关闭），但该理论因不准确性而受到神经解剖学家和进化生物学家的批评。
+  > 文章探讨了多迷走神经理论如何解释神经系统通过破裂与修复过程塑造社会行为、连接和愈合的作用。 该框架连接了神经科学、心理学和人际动态，为理解创伤、社会纽带和情绪调节提供了有力的视角。 多迷走神经理论由 Stephen Porges 于 1994 年提出，认为迷走神经有两个不同的分支——腹侧迷走神经（社会参与）和背侧迷走神经（静止）——调节不同的连接和防御状态。
 
 ---
 
 ## 💰 财富与复利
 
-- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > FIRE 子版块上一则爆火的 Reddit 帖子描述了一位 41 岁男性，他拥有 200 万美元流动资产并提前退休，却因每天吸食 THC 软糖后打游戏而被妻子称为“失败者”。文章用这个故事论证，没有目标的财富会导致个人和关系衰退，因此有用比富有更具吸引力。 这挑战了 FIRE 运动的核心叙事，揭示了没有目标的提前退休所带来的心理和关系成本，表明仅靠财务独立不足以过上充实的生活。它呼应了关于积累超越金钱的人生资本的永恒智慧，可能促使人们重新思考真正财富的含义。 该男性拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收益 12.5 万美元。他的妻子是一名教师，某天提前回家发现他吸食大麻后正在玩《侠盗猎车手》，因此称他为“失败者”。文章指出，资源本身并不能赢得尊重——你如何获得它们以及如何使用它们才是关键。
+  > 一则 Reddit 热帖引发讨论：一名 41 岁男性拥有 200 万美元流动资产和每年 7.5 万美元版税收入，提前退休后却因每天吸食大麻并沉迷游戏而被妻子称为“失败者”，这凸显了财务独立之外人生目标的重要性。 这个故事挑战了 FIRE（财务独立，提前退休）运动的核心假设——仅靠积累财富就能获得满足感，揭示了保持有用性和进取心对于长期幸福和人际关系更为重要。 该男性 41 岁，拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，资产年收益 12.5 万美元。他的妻子是一名教师，发现他每天吸食大麻并玩《侠盗猎车手》后称其为失败者，尽管他承担家务并提供经济保障。
 
-- [黑客与艺术家：创作连续谱](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 7.0/10
+- [商业与真诚：创作者的两难抉择](https://ofdollarsanddata.com/hacks-vs-artists/) ⭐️ 8.0/10
 
-  > Nick Maggiulli 提出了一个“黑客 vs 艺术家”连续谱，用以描述创作工作中商业成功与艺术完整性之间的权衡，并以 HBO 剧集《Hacks》为视角。 这一框架帮助创作者和专业人士反思自身动机，在算法内容和 AI 生成作品的时代，平衡真实性与财务生存至关重要。 Maggiulli 将“黑客”定义为追随趋势以快速获取回报的人，而“艺术家”则优先考虑真实性和本真，并指出大多数人处于两者之间。
+  > Nick Maggiulli 借助 HBO 剧集《Hacks》提出了创作者在“商业派”与“真诚派”之间的光谱，认为大多数创作者处于两者之间，这种张力是长期思考的永恒原则。 这一框架帮助创作者和投资者在财务成功与艺术诚信之间找到平衡，这对可持续的财富和生活资本至关重要。它挑战了当前奖励短期、低努力收益而非真诚、高质量工作的激励机制。 Maggiulli 引入了 AI 中的“模式崩溃”概念，解释人类为何也会重复被奖励的行为而失去创造力。他给出了商业派与真诚派行为的具体例子，例如为了病毒传播而给出糟糕建议，与推广自己真正引以为傲的作品。
 
 ---
 
 ## 🧠 AI 学习
 
-- [连续批处理提升 LLM 推理效率](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 8.0/10
+- [连续批处理提升大模型推理效率](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 8.0/10
 
-  > 文章解释了连续批处理如何在每次迭代中动态调度 LLM 推理请求，取代了因强制所有请求等待最长请求而浪费 GPU 资源的静态批处理。 连续批处理可为 LLM 服务实现 2-3 倍的吞吐量提升，显著降低聊天机器人和代码助手等实际应用的延迟和成本。 该技术也称为飞行中批处理或参差不齐批处理，利用 LLM 的自回归特性，在序列生成完成后立即将新请求加入批次。
+  > 文章解释了连续批处理如何通过动态调度请求和使用不规则批处理来提升大语言模型推理吞吐量，并与静态批处理进行了对比。 该技术可实现 2-3 倍的吞吐量提升，使大语言模型服务更具成本效益和响应性，适用于实际应用。 连续批处理在迭代级别运行，允许在生成过程中添加新请求，而不规则批处理则无需填充即可处理变长输入。
 
-- [Logits、温度和 Top-P 采样详解](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [令牌选择统计：Logits、温度与 Top-P 详解](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
 
-  > 一篇新教程详细讲解了 logits、温度缩放和 top-p 采样如何控制大语言模型中的 token 选择，以平衡连贯性和创造性。 理解这些机制有助于从业者针对特定任务微调 LLM 输出，提高生成文本的质量和可控性。 该教程涵盖了 softmax、温度缩放和 top-p（核）采样的数学基础，并提供了实际示例和直观理解。
+  > MachineLearningMastery.com 发布了一篇新教程，详细讲解了大型语言模型中令牌选择背后的统计机制，包括 logits、温度缩放和 top-p 采样，并附有实际示例。 理解这些参数对于从业者控制模型的创造性和连贯性至关重要，直接影响聊天机器人和内容生成等应用中 LLM 输出的质量。 该教程解释了 logits 如何通过 softmax 转换为概率，温度如何调整分布的尖锐程度，以及 top-p 采样如何动态选择累积概率超过阈值 p 的令牌子集。
 
-- [面向长期运行 LLM 代理的上下文修剪管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
+- [为长期运行代理构建上下文剪枝管道](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
 
-  > 一篇实用指南详细介绍了如何构建上下文修剪管道，该管道选择性地从 LLM 代理记忆中移除旧或不相关的信息，以防止上下文溢出并保持性能。 该技术对于在生产中部署长期运行的 AI 代理至关重要，因为它能降低因上下文无限增长导致的令牌成本、延迟和推理性能下降。 该管道采用渐进式缩减框架：在 70/85/95%阈值监控令牌使用量，在 85%时修剪过时的工具输出，应用观察掩码，仅在 95%溢出时使用 LLM 摘要。
+  > MachineLearningMastery.com 上的一篇指南详细介绍了如何构建上下文剪枝管道，以管理长期运行的基于 LLM 的代理中的 token 限制，采用渐进式缩减框架。 该技术对于降低长期运行代理的 token 成本并防止上下文溢出至关重要，有助于实现更高效、更具成本效益的 AI 代理部署。 该管道在 70%/85%/95% 阈值监控 token 使用量，在 85% 时修剪过时的工具输出，应用观察掩码，并仅在 95% 溢出时使用 LLM 摘要。
 
-- [RAG 中的混合语义-词汇搜索](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
+- [RAG 系统的混合语义-词汇搜索实现](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) ⭐️ 7.0/10
 
-  > 一篇新教程展示了如何在 RAG 系统中通过结合 BM25 词汇搜索与稠密向量语义搜索，并使用倒数排名融合（RRF）进行融合，来实现混合语义-词汇搜索。 混合搜索相比单独使用词汇搜索或语义搜索，能显著提升检索准确性，降低零结果查询的风险，并提高 RAG 生成答案的质量。 该实现使用 BM25 进行词汇搜索，使用稠密嵌入进行语义搜索，然后应用倒数排名融合来合并排名。教程还涵盖了通过 Ollama 和 Scikit-LLM 库使用本地托管的 LLM 进行文本分类任务。
+  > 一篇关于在检索增强生成（RAG）系统中实现混合语义-词汇搜索的教程已发布，提供了实用的代码示例和策略，以提升面向生产环境的检索质量。 混合搜索结合了词汇（关键词）和语义（向量）方法的优势，显著提升了 RAG 系统的相关性和召回率，这对于从原型过渡到生产环境至关重要。 该教程涵盖了将 BM25 词汇搜索与稠密向量嵌入语义搜索相结合的技术，并讨论了归一化和融合策略，以将结果合并为单一排序列表。
 
-- [面向可验证、自纠错 AI 代理的循环工程](https://pub.towardsai.net/loop-engineering-for-ai-agents-building-verifiable-self-correcting-coding-workflows-8b32c72184a1?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [低成本微调可能超越昂贵的全参数微调](https://pub.towardsai.net/i-fine-tuned-one-model-3-ways-the-50-000-run-forgot-more-than-the-1-500-one-aa59b1e215a6?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 一篇技术指南介绍了面向 AI 代理的循环工程，从一次性提示转向构建可验证、自纠错的编码工作流，并采用持久化编排。文章详细描述了三层架构（循环、技能、编排器），并报告了 34%的 token 节省和每周 20 小时的时间节省。 这很重要，因为简单的 while-true 循环在生产中会因重启和重复操作而失败，而循环工程提供了一种稳健的替代方案。它帮助后端工程师和技术负责人构建可靠且成本高效的生产级代理系统。 该架构使用 Inngest、Temporal 或 AWS Step Functions 等持久化执行平台，确保循环在进程重启后仍能存活。文章强调，没有持久化编排，循环就会成为负担，正如一个真实案例所示：代理在 OOM 重启后重新处理了 47 张工单。
+  > 一位实践者在 8B 模型上比较了全参数微调、LoRA 和 QLoRA，发现花费 1500 美元的 LoRA/QLoRA 微调效果优于花费 5 万美元的全参数微调，原因是灾难性遗忘。 这挑战了“更昂贵的微调总是效果更好”的假设，为实践者提供了高性价比的替代方案，并揭示了全参数微调中灾难性遗忘的风险。 全参数微调需要约 5 万美元的 H100 GPU 时间，而 LoRA 和 QLoRA 各花费约 1500 美元。更便宜的方法保留了更多预训练知识。
 
 ---
 
 ## ✍️ 表达提升
 
-- [把面试当作推理游戏来准备](https://sspai.com/post/110947) ⭐️ 8.0/10
+- [比尔·格利谈思维模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > 作者提出了一套将面试视为推理游戏的全流程备战与复盘 SOP，强调模式识别和逻辑推断。 这种方法将高风险的面试沟通转化为系统化、可重复的流程，帮助专业人士减少焦虑并提升表现。 该 SOP 包括积累面试样本、识别重复模式以及运用演绎推理来预判问题并构思回答的步骤。
+  > 前 Benchmark 合伙人、现任圣塔菲研究所董事会成员比尔·格利，在《知识项目》播客新一期节目中分享了他对思维模型和系统思维的见解。 本期节目提供了一位经验丰富的投资者和思想家的实用框架，帮助听众通过理解复杂性和二阶效应来改善决策。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并附有文字稿；格利讨论了系统思维、二阶和三阶效应以及杰出创始人的特质等话题。
 
-- [马克·平卡斯在播客中谈创新法则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [把面试变成开卷推理游戏](https://sspai.com/post/110947) ⭐️ 7.0/10
 
-  > 《FarmVille》和《Words with Friends》的创作者马克·平卡斯在 Farnam Street 的 Knowledge Project 播客节目中，以“经过验证、更好、全新”为主题讨论了他的创新法则。 作为 Zynga 的创始人，平卡斯塑造了早期社交游戏；他对创新的见解可能影响科技和游戏行业的企业家及产品领导者。 该播客节目可在 YouTube、Spotify、Apple Podcasts 上收听，并附有文字稿；但提供的摘录缺乏所讨论的创新法则的具体细节。
+  > 文章提出了一套系统化的备战与复盘 SOP，将面试重新定义为开卷推理游戏，强调模式识别和结构化沟通。 这种方法可以通过将重点从死记硬背转向逻辑推理来减少面试焦虑并提高表现，使各行业寻求可重复、有效备战方法的专业人士受益。 该 SOP 可能包括收集样题、识别重复模式、练习结构化回答以及进行面试后复盘以优化未来策略等步骤。
 
-- [RiseGuide 创始人谈专家指导的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+- [马克·平卡斯谈创新法则：经过验证、更好、全新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
 
-  > Ness Labs 采访了 RiseGuide 创始人 Oleksandr Matsiuk，该应用通过专家知识提供个性化自我提升计划，包含每日短课。 此次采访凸显了自我提升领域专家策划、结构化学习的增长趋势，为用户提供了比泛泛建议更可靠的替代方案。 RiseGuide 提供沟通、魅力和自信等课程，由心理学和人类行为专家支持，在 Google Play 上拥有超过 17,000 条好评。
+  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中分享了他的创新框架“经过验证、更好、全新”，阐述了如何在产品开发中平衡风险与新颖性。 该框架为创业者提供了一种结构化的创新方法，帮助他们决定何时在成熟想法上迭代，何时追求突破性概念，这对创业成功至关重要。 该播客节目包含文字记录，并可在多个平台上收听。平卡斯借鉴了他开发 FarmVille 和 Words with Friends 等社交游戏的经验。
+
+- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+
+  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款由专家驱动的应用，通过每日短课提供个性化的自我提升计划。 这突显了在自我提升领域，专家主导的结构化学习日益增长的趋势，为用户提供了比泛泛建议更可靠的替代方案。 RiseGuide 提供来自顶尖专家的科学方法、习惯和日常安排，旨在帮助用户掌握沟通和魅力等技能，而不会感到倦怠。
 
 ---
 
 ## 🧬 人性与行为
 
-- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [被了解是感受到被爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于七年的合作以及对近 2000 名美国成年人的调查指出，被他人了解是感受到爱的核心要素。 这一见解挑战了关于爱和幸福的常见误解，为改善人际关系和幸福感提供了基于科学的路径。 文章指出了关于感受爱的五种常见误解，例如认为吸引力、权力或成功会带来爱。研究人员强调，感受爱往往受到错误信念的阻碍，而非缺乏爱。
+  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于他们七年的合作，将幸福科学与关系科学联系起来，提出感受到被爱需要被另一个人了解。 这一见解挑战了关于爱的常见误解，并提供了一条基于科学的通往更大幸福的路径，因为感受到被爱被确定为快乐与不快乐的人之间的主要区别。 本文改编自他们即将出版的《如何感受被爱》一书，并强调了关于感受被爱的五个常见误解，例如认为吸引力或成功会带来爱。
 
-- [执法轻微违规的行为权衡](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
+- [轻微违法执法的两难困境](https://behavioralscientist.org/what-becomes-of-second-chances/) ⭐️ 8.0/10
 
-  > 《行为科学家》杂志的一篇文章探讨了执行逃票等轻微违规行为所涉及的复杂权衡，指出虽然这可以威慑严重犯罪，但也给低级别违法者带来成本，并引发公平性问题。 这一分析挑战了关于轻微违规执法的简单化观点，为政策制定者和执法部门在预防犯罪与社会成本之间取得平衡提供了见解。 文章引用了纽约和旧金山的案例，其中逃票执法发现了武器和毒品，但也引发了关于将贫困刑事化和种族差异的争论。
+  > 《行为科学家》一篇文章探讨了通过执行逃票等轻微违法行为来预防犯罪的权衡，指出了将贫困刑事化、侵蚀公众信任等意外后果。 该分析挑战了关于预防犯罪的简单化叙事，为政策制定者和公众提供了基于证据的见解，以平衡安全与公平。 文章引用了纽约市的案例，其中逃票逮捕导致了武器和毒品的发现，但也指出此类执法可能不成比例地影响低收入人群，并导致交通机构损失数百万美元的收入。
 
 ---
 
 ## 📜 历史的节律
 
-- [百年间五位首相的垮台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [美国革命者如何击败大英帝国](https://www.historyextra.com/membership/american-revolutionary-war-podcast-series-episode-three/) ⭐️ 7.0/10
 
-  > 历史学家理查德·托耶审视了过去一百年里英国首相五次最引人注目的下台事件，分析了他们辞职的原因和背景。 这一历史分析揭示了政治领导力的脆弱性以及可能导致首相垮台的反复出现的模式，有助于理解当前的政治动态。 文章由埃克塞特大学现代史教授理查德·托耶撰写，发表在历史网站 HistoryExtra 上。
+  > 一档播客节目邀请亚当·IP·史密斯教授探讨美国革命者如何通过战略、消耗战和全球冲突动态幸存并击败大英帝国。 这一分析提供了关于非对称战争和帝国过度扩张的永恒教训，有助于理解现代叛乱和权力更迭。 该集涵盖了战役的消耗性艰辛和冲突的全球影响，突出了革命者如何利用这些因素。
 
-- [英国如何庆祝美国独立日：从敌对到特殊关系](https://www.historyextra.com/membership/from-acrimonious-split-to-the-special-relationship-how-the-fourth-of-july-has-been-marked-in-britain/) ⭐️ 6.0/10
+- [过去一百年五位首相的垮台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
 
-  > 历史学家萨姆·爱德华兹的一篇新文章探讨了英国如何纪念美国独立日，追溯了从美国独立后的最初敌意到 20 世纪庆祝“特殊关系”的转变。 这一历史叙事揭示了公共纪念活动如何反映并塑造外交关系，为理解持续作为西方联盟基石的英美关系的演变提供了洞见。 文章指出，英国早期对美国独立日的反应充满怨恨，但到 20 世纪，诸如在乔治三世雕像前敬献花圈和联合军事游行等活动象征着日益紧密的联系。
+  > 历史学家理查德·托耶审视了过去一百年里英国首相五次戏剧性的辞职，分析了他们垮台的模式和原因。 理解这些历史性的垮台有助于洞察政治领导力的脆弱性，以及那些甚至能扳倒最强大领导人的反复出现的因素。 文章涵盖了五位具体的首相，尽管提供的片段中未列出他们的名字；它侧重于他们辞职的戏剧性，而非当代的类比。
 
 ---
 
 ## 📰 技术资讯
 
-1. [将 Moebius 0.2B 图像修复模型移植到浏览器中运行](#item-1) ⭐️ 8.0/10
-2. [宁德时代发布天恒钠电储能系统](#item-2) ⭐️ 8.0/10
-3. [高通洽谈收购 AI 芯片初创公司 Modular，估值约 40 亿美元](#item-3) ⭐️ 8.0/10
-4. [赞美 Memcached：简单性对比 Redis 复杂性](#item-4) ⭐️ 7.0/10
-5. [字节跳动 Seedance 2.5 视频模型 7 月发布](#item-5) ⭐️ 7.0/10
-6. [加州车主起诉油企利用 AI 串通抬高油价](#item-6) ⭐️ 7.0/10
-7. [Groq 获 6.5 亿美元融资，转型 AI 推理云服务商](#item-7) ⭐️ 7.0/10
-8. [雪梦未来用肌电腕带采集人类操控数据，助力具身智能](#item-8) ⭐️ 7.0/10
-9. [2026 年 AI 驱动的科技裁员：持续更新列表](#item-9) ⭐️ 7.0/10
-10. [OpenAI 启动开源漏洞修复计划](#item-10) ⭐️ 7.0/10
-11. [非确定性漏洞检测基准测试](#item-11) ⭐️ 7.0/10
-12. [昆仑行 90 天融资数十亿，成具身智能独角兽](#item-12) ⭐️ 6.0/10
-13. [值得买科技：AI Agent 正重塑消费决策链路](#item-13) ⭐️ 6.0/10
-14. [寻求适用于扩散 LLM 输出的语法鲁棒 NLI 方法](#item-14) ⭐️ 6.0/10
+1. [中国超算“灵晟”以 2.198 Exaflop/s 登顶 TOP500](#item-1) ⭐️ 9.0/10
+2. [网易发布 Confucius4-TTS：开源零样本语音克隆](#item-2) ⭐️ 8.0/10
+3. [Cloudflare 联手 Chrome、Edge、Firefox 用 PACT 取代验证码](#item-3) ⭐️ 8.0/10
+4. [AWS 推出 Blocks：面向 AI 智能体的开源 TypeScript 框架](#item-4) ⭐️ 8.0/10
+5. [HTTP QUERY 方法提案：支持带请求体的安全请求](#item-5) ⭐️ 7.0/10
+6. [社区分析新 AI 模型'Fable'](#item-6) ⭐️ 7.0/10
+7. [SpaceX 星链成为年收入 280 亿美元的 Neocloud 巨头](#item-7) ⭐️ 7.0/10
+8. [Valve 扩展 SteamOS 至通用硬件，支持 Nvidia](#item-8) ⭐️ 7.0/10
+9. [SK 海力士超越三星成为韩国市值最高公司](#item-9) ⭐️ 7.0/10
+10. [“氛围编码”无法用于生产级 AI 产品](#item-10) ⭐️ 7.0/10
+11. [宜镁华获数千万元天使轮融资，专注高导热高强韧镁合金](#item-11) ⭐️ 7.0/10
+12. [苹果在英国面临 30 亿英镑 iCloud 集体诉讼，案件获准开庭](#item-12) ⭐️ 6.0/10
+13. [工程经理从云端 AI 转向本地 LLM](#item-13) ⭐️ 6.0/10
+14. [拼多多首次买楼，落户雄安新区](#item-14) ⭐️ 6.0/10
+15. [字节与中兴豆包 AI 手机或延迟发布](#item-15) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [将 Moebius 0.2B 图像修复模型移植到浏览器中运行](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) ⭐️ 8.0/10
+## [中国超算“灵晟”以 2.198 Exaflop/s 登顶 TOP500](https://www.ithome.com/0/967/581.htm) ⭐️ 9.0/10
 
-Simon Willison 成功将 Moebius 0.2B 图像修复模型移植到浏览器中，利用 WebGPU 实现完全在客户端运行，并在 simonw.github.io/moebius-web/上发布了在线演示。该移植工作借助 Claude Code 和 ONNX Runtime Web 的 WebGPU 后端完成。 这证明了最先进的图像修复技术可以在浏览器中本地运行，无需服务器成本或 GPU 依赖，使该技术对开发者和终端用户更加易用。同时，它也展示了 WebGPU 在实时机器学习推理方面的日益成熟，以及 AI 编程助手加速此类移植工作的潜力。 原始 Moebius 模型需要 PyTorch 和 NVIDIA CUDA，但 Willison 将其转换为 ONNX 格式，并使用 ONNX Runtime Web 配合 WebGPU 加速。该演示允许用户上传图像、标记要移除的区域，并完全在客户端运行修复。
+中国超算“灵晟”以 2.198 Exaflop/s 的 Rmax 性能在 2026 年 6 月期 TOP500 榜单中登顶，成为首个突破 2 Exaflop/s 大关的系统。这是八年来中国系统首次位居榜首。 这标志着高性能计算领域的一个重要里程碑，展示了中国在不依赖 GPU 加速器的情况下，使用国产处理器构建世界领先超算的能力。这也预示着全球超算竞争（尤其是中美之间）将进一步加剧。 “灵晟”系统采用纯 CPU 设计，基于“灵坤”平台，搭载 304 核 1.55 GHz 的 LX2 处理器（Armv9 架构）和专有的“灵骐”互连，总计 1379 万个核心。它在 HPCG 基准测试中也排名第一，在 HPL-MxP 混合精度测试中排名第四，功耗约 42.2 MW，能效为 52.07 Gigaflops/W（GREEN500 第 50 位）。
 
-rss · Simon Willison · 6月22日 23:43
+rss · IT之家 · 6月23日 09:31
 
-**背景**: 图像修复是指用合理的内容填充图像中缺失或移除的区域。Moebius 是一个轻量级 0.2B 参数模型，其性能可与 FLUX.1 等 10B+参数模型相媲美。WebGPU 是一种现代浏览器 API，支持 GPU 加速计算，使得在浏览器中高效运行机器学习模型成为可能。
+**背景**: TOP500 榜单每年两次根据 HPL 基准对全球最强大的超级计算机进行排名。百亿亿次计算（Exascale）指系统每秒至少能进行 10^18 次浮点运算。中国上一次登顶的系统是 2016 年的“神威·太湖之光”，此后美国系统如 Frontier 和 Aurora 一直领先。“灵晟”超算仅使用 CPU，这与许多依赖 GPU 加速器的高性能系统不同。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2606.19195v1">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B ...</a></li>
-<li><a href="https://github.com/hustvl/Moebius">GitHub - hustvl/Moebius: [ECCV 2026] Moebius: 0.2B ...</a></li>
-<li><a href="https://www.sitepoint.com/webgpu-browser-ai-javascript-inference/">WebGPU Browser AI: Client-Side Inference in JavaScript</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bypasses-us-gpu-bans-with-1-54-exaflops-lineshine-supercomputer-cpu-only-monster-packs-2-4-million-huawei-designed-armv9-cores">China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer — CPU-only monster packs 2.4 million Huawei-designed Armv9 cores | Tom's Hardware</a></li>
+<li><a href="https://www.techradar.com/pro/china-unveils-a-cpu-only-supercomputer-capable-of-1-54-exaflops-lineshine-lx2-packs-a-frankly-ridiculous-2-4-million-armv9-cores-from-huawei">China built a giant AI supercomputer without Nvidia GPUs, using millions of Huawei ARM cores instead | TechRadar</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 上的讨论（评分 8.0）肯定了该项目的技术创新和易用性。评论者赞赏其实用演示以及使用 Claude Code 加速移植过程的做法。
-
-**标签**: `#image inpainting`, `#WebGPU`, `#browser ML`, `#model porting`, `#AI`
+**标签**: `#supercomputing`, `#HPC`, `#TOP500`, `#China`, `#CPU`
 
 ---
 
 <a id="item-2"></a>
-## [宁德时代发布天恒钠电储能系统](https://www.ithome.com/0/967/360.htm) ⭐️ 8.0/10
+## [网易发布 Confucius4-TTS：开源零样本语音克隆](https://www.ithome.com/0/967/636.htm) ⭐️ 8.0/10
 
-2026 年 6 月 22 日，宁德时代发布了天恒钠电储能系统，这是全球首个经过现场验证的钠离子电池储能解决方案，额定容量超过 30 MWh，循环寿命达 15,000 次。国内首批交付将于 2026 年 9 月开始，全球商业交付将于 2027 年 6 月启动。 这标志着钠离子电池商业化的重要里程碑，为电网级储能提供了比锂离子更安全、更丰富、成本更低的替代方案。该系统与现有锂电池尺寸完全兼容，可实现无缝替换，加速全球能源转型。 该系统采用首创的 Bi-DC 双向控压系统，使系统 RTE 提升近 2%，并配备毫秒级自愈系统，可在 350 毫秒内完成集电线路任意点故障的闭环处理。它能在-20°C 至 45°C 的宽温域内稳定运行，并在极端工况下抑制起火和爆炸。
+网易有道发布了 Confucius4-TTS，这是一个开源文本转语音模型，支持仅需 3 秒音频即可完成零样本语音克隆，无需参考文本，并能在 14 种语言间实现跨语种无口音合成。 这是首个将零样本语音克隆与无口音跨语种合成结合的开源模型，大幅降低了多语种内容生成、数字人配音和全球传播的门槛。 该模型采用 GPT 式语义主干、ECAPA-TDNN 说话人编码器和 Flow Matching 生成框架，实现超过 85%的音色相似度和 97%的克隆准确率。它基于 Apache 协议完全开源，提供 54GB 资源包用于本地离线部署。
 
-rss · IT之家 · 6月23日 03:44
+rss · IT之家 · 6月23日 11:00
 
-**背景**: 钠离子电池使用钠代替锂作为电荷载体，原材料更丰富且成本更低。对于能量密度要求不高的固定式储能场景尤其有吸引力。宁德时代多年来一直致力于钠离子技术研发，并于 2026 年 4 月与海博思创签署了 60 GWh 的钠离子电池订单，这是目前全球规模最大的钠离子电池订单。
+**背景**: 零样本语音克隆允许模型仅凭一段短音频样本复制说话人声音，无需微调。跨语种合成通常会引入源语言口音；Confucius4-TTS 通过学习与语言无关的说话人表征克服了这一问题。Flow Matching 是一种生成建模范式，结合了归一化流和扩散模型的优点，实现高效高质量的生成。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cnevpost.com/2026/06/22/catl-unveils-tener-sodium/">CATL pushes sodium energy storage to market with Tener Sodium ...</a></li>
-<li><a href="https://sodiumbatteryhub.com/2026/06/22/catl-tener-sodium-launch-speeds-energy-storage-market/">CATL Tener Sodium Launch Speeds Energy Storage Market</a></li>
-<li><a href="https://www.linkedin.com/pulse/catl-unveils-tener-sodium-just-made-lithium-substitution-leo-gao-kgocc">⚡️CATL Unveils TENER Sodium: Just Made Lithium Substitution ...</a></li>
+<li><a href="https://docs.nvidia.com/nim/speech/latest/tts/voice-cloning.html">Cloning a Voice with Zero-Shot TTS — NVIDIA Speech NIM Microservices</a></li>
+<li><a href="https://arxiv.org/abs/2210.02747">[2210.02747] Flow Matching for Generative Modeling</a></li>
+<li><a href="https://arxiv.org/abs/2203.10473">[2203.10473] ECAPA-TDNN for Multi-speaker Text-to-speech ... Short-Segment Speaker Verification Using ECAPA-TDNN with ... Speaker Encoder | rekuenkdr/Qwen3-TTS-streaming | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**标签**: `#battery technology`, `#energy storage`, `#sodium-ion`, `#CATL`, `#renewable energy`
+**标签**: `#TTS`, `#voice cloning`, `#open-source`, `#AI`, `#NLP`
 
 ---
 
 <a id="item-3"></a>
-## [高通洽谈收购 AI 芯片初创公司 Modular，估值约 40 亿美元](https://www.ithome.com/0/967/274.htm) ⭐️ 8.0/10
+## [Cloudflare 联手 Chrome、Edge、Firefox 用 PACT 取代验证码](https://www.ithome.com/0/967/565.htm) ⭐️ 8.0/10
 
-高通正就收购 AI 芯片初创公司 Modular Inc.进行深度谈判，交易估值约 40 亿美元，较 9 个月前 16 亿美元的估值大幅跃升。该交易可能在未来数周内官宣，但谈判仍存在破裂可能。 此次收购将加速高通进军数据中心 AI 芯片市场，降低其对波动剧烈的手机市场的依赖。这也凸显了芯片制造商之间挑战英伟达在 AI 硬件领域主导地位的激烈竞争。 Modular 成立于 2022 年，由前苹果和谷歌工程师创立，迄今已融资 3.8 亿美元。其平台允许开发者跨不同芯片部署 AI 模型而无需重写代码，这是一大关键差异化优势。据报道，高通同时也在洽谈收购 AI 芯片初创公司 Tenstorrent，交易估值在 80 亿至 100 亿美元之间。
+6 月 22 日，Cloudflare 宣布与 Google Chrome、Microsoft Edge 和 Mozilla Firefox 合作，开发一种名为 PACT（私密访问控制令牌）的新型隐私保护令牌标准，旨在取代验证码并打击恶意爬虫。 这一举措解决了自动化流量（现已超过人类流量）日益严重的问题，同时通过消除侵入式追踪和反复验证码挑战来保护用户隐私。如果被采纳为标准，PACT 可能从根本上改变整个网络验证人类用户的方式。 PACT 允许能够可靠确认用户为真人的网站签发匿名令牌；当用户访问其他网站时，浏览器可以出示令牌以证明有人类参与，而不会泄露身份或浏览历史。该标准得到了 Cloudflare、三大浏览器厂商以及 Shopify 的支持，并旨在成为开放的行业标准。
 
-rss · IT之家 · 6月23日 01:08
+rss · IT之家 · 6月23日 09:12
 
-**背景**: 高通以全球领先的智能手机芯片供应商而闻名，但一直在向数据中心处理器和汽车芯片等高增长领域多元化发展。Modular 的软件平台解决了 AI 领域的一个主要痛点：需要为不同硬件重写代码，这目前将许多开发者锁定在英伟达的生态系统中。通过收购 Modular，高通可以提供更灵活的替代方案。
+**背景**: 几十年来，网站一直使用验证码来区分人类和机器人，但这些方法对日益复杂的 AI 驱动攻击越来越无效，并且降低了用户体验。与此同时，强制登录或侵入式追踪等替代方法引发了隐私担忧。PACT 建立在早期隐私保护认证概念（如 Privacy Pass，RFC 9577）之上，但将其扩展为更广泛的、与浏览器集成的令牌系统。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-4b-deal-ai-221042270.html">Qualcomm nears $4B deal for AI chip startup Modular Inc, Bloomberg reports</a></li>
-<li><a href="https://www.reuters.com/business/ai-startup-modular-raises-250-million-seeks-challenge-nvidia-dominance-2025-09-24/">AI startup Modular raises $250 million, seeks to challenge Nvidia dominance | Reuters</a></li>
-<li><a href="https://techstartups.com/2026/06/15/qualcomm-in-talks-to-acquire-ai-chip-startup-tenstorrent-for-up-to-10-billion-report/">Qualcomm in talks to acquire AI chip startup Tenstorrent for ...</a></li>
+<li><a href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/">Cloudflare Collaborates With Leading Browsers to Develop ...</a></li>
+<li><a href="https://www.how2shout.com/news/cloudflare-pact-privacy-tokens-bots-ai-agents.html">Bots Outnumber Humans Online: Cloudflare’s PACT Protocol Aims ...</a></li>
+<li><a href="https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/">Cloudflare forms pact with browser giants to protect your privacy with tokens - SDxCentral</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Qualcomm`, `#Modular`, `#AI chips`, `#acquisition`, `#semiconductor`
+**标签**: `#Cloudflare`, `#privacy`, `#bot detection`, `#web standards`, `#browsers`
 
 ---
 
 <a id="item-4"></a>
-## [赞美 Memcached：简单性对比 Redis 复杂性](https://jchri.st/blog/in-praise-of-memcached/) ⭐️ 7.0/10
+## [AWS 推出 Blocks：面向 AI 智能体的开源 TypeScript 框架](https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-一篇博文赞扬了 Memcached 的简单性和可靠性，并将其与 Redis/Valkey 的操作陷阱（如内存策略配置错误和持久化问题）进行了对比。 这篇文章凸显了工程师中日益增长的一种观点：像 Memcached 这样更简单的工具在生产环境中可能比功能丰富的替代品（如 Redis）更可靠，尤其是在被误用作持久化存储时。 作者认为，Memcached 缺乏持久化和有限的数据结构降低了操作复杂性，而 Redis/Valkey 的高级功能常常导致配置错误和宕机。
+AWS 发布了 Blocks 公开预览版，这是一个开源的 TypeScript 框架，专为 AI 智能体设计，用于构建后端应用，可在本地运行并无需修改代码即可部署到 Lambda、DynamoDB、Aurora 和 Bedrock 等 AWS 服务。 该框架通过消除学习基础设施工具的需求，简化了 AI 智能体的后端开发，可能加速全栈应用的创建并减少样板代码。 每个 Block 捆绑了应用程序代码、本地模拟和 AWS 基础设施，无需 AWS 账户即可提供包含 Postgres 和身份验证的完整本地环境。
 
-hackernews · j03b · 6月23日 01:15 · [社区讨论](https://news.ycombinator.com/item?id=48638886)
+rss · InfoQ · 6月23日 09:15
 
-**背景**: Memcached 是一个高速、分布式、内存缓存系统，设计上追求简单性；而 Redis 提供了更丰富的功能，包括持久化和复杂数据结构。Valkey 是 Redis 的一个开源分支，继续其开发。争论的焦点在于简单性还是功能丰富性更能带来操作可靠性。
+**背景**: AWS Blocks 是一个用于在 AWS 上构建全栈应用的后端工具包。它允许开发者通过预构建模块组合后端能力，这些模块从代码生成基础设施，从而专注于业务逻辑而非基础设施样板。该框架还支持为 Kotlin、Swift 和 Dart 生成原生客户端代码。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.geeksforgeeks.org/dbms/difference-between-redis-and-memcached/">Difference between Redis and Memcached - GeeksforGeeks</a></li>
-<li><a href="https://aws.amazon.com/elasticache/redis-vs-memcached/">Redis OSS vs. Memcached - Difference Between Caches - AWS</a></li>
-<li><a href="https://redis.io/blog/what-is-valkey/">What is Valkey? A comparison with Redis</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview/">AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview) - AWS</a></li>
+<li><a href="https://aws.amazon.com/products/developer-tools/blocks/">AWS Blocks | Build local full-stack apps in seconds, deploy to AWS when ready</a></li>
+<li><a href="https://github.com/aws-devtools-labs/aws-blocks">GitHub - aws-devtools-labs/aws-blocks: Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart.</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者分享了不同的经验：一些人同意作者对 Redis/Valkey 的批评，列举了真实的宕机案例；另一些人则认为问题源于误用而非工具本身。有些人表示他们成功使用了 Redis/Valkey 而没有遇到问题。
-
-**标签**: `#memcached`, `#redis`, `#caching`, `#operational experience`, `#software engineering`
+**标签**: `#AWS`, `#TypeScript`, `#AI Agents`, `#Backend Development`, `#Open Source`
 
 ---
 
 <a id="item-5"></a>
-## [字节跳动 Seedance 2.5 视频模型 7 月发布](https://www.ithome.com/0/967/374.htm) ⭐️ 7.0/10
+## [HTTP QUERY 方法提案：支持带请求体的安全请求](https://kreya.app/blog/new-http-query-method-explained/) ⭐️ 7.0/10
 
-字节跳动宣布了 Seedance 2.5 视频生成模型，支持直接生成 30 秒视频，并可同时输入最多 50 个全模态参考素材，预计 2026 年 7 月初正式上线。 此次更新大幅提升了 AI 视频生成能力，支持更长、更可控的输出和丰富的多模态输入，惠及内容创作者和企业。同时，它与字节跳动新推出的 AI 版权平台整合，用户可合法二次创作经典电影片段。 Seedance 2.5 目前处于全球企业内测阶段，将于 7 月初正式上线。前代产品 Seedance 2.0 已升级，支持原生 4K 视频生成。
+一种名为 QUERY 的新 HTTP 方法被提出，旨在标准化包含请求体的安全、幂等请求，解决了长期以来使用 GET 方法携带请求体的不规范做法。 这为 API 提供了一种标准化、可互操作的方式来执行复杂查询，而无需滥用 GET 或使用 POST 进行只读操作，从而提高了清晰度和工具支持。 QUERY 请求与 GET 类似，是安全且幂等的，但携带请求体以传递查询参数。该方法定义在互联网草案中，正在讨论是否纳入 HTTP 规范。
 
-rss · IT之家 · 6月23日 04:23
+hackernews · CommonGuy · 6月23日 06:05 · [社区讨论](https://news.ycombinator.com/item?id=48640974)
 
-**背景**: Seedance 是字节跳动的 AI 视频生成模型系列，属于豆包产品家族。该模型利用深度学习从文本、图像、音频等输入生成视频。字节跳动还推出了 AI 版权商业化平台，周星驰为首批合作对象，用户可使用官方模板对周星驰经典电影进行二次创作。
+**背景**: HTTP 方法如 GET 是安全且幂等的，但不支持请求体；而 POST 支持请求体，但既不安全也不幂等。开发者长期以来使用 GET 携带请求体作为变通方案，但这不被推荐，因为中间件可能丢弃或误解请求体。QUERY 方法将这种模式正式化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.huxiu.com/ainews/13424.html">Seedance 2.5将在7月初发布，支持30秒视频和50个全模态素材输入</a></li>
-<li><a href="https://www.imagine.art/blogs/seedance-2-5-coming-soon">Seedance 2.5 Coming Soon: ByteDance's Next AI Video Model</a></li>
+<li><a href="https://www.reddit.com/r/webdev/comments/1u82ghz/new_query_method_is_about_to_join_get_post_put/">New QUERY method is about to join GET, POST, PUT, DELETE ... - Reddit</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48640974">The new HTTP QUERY method explained | Hacker News</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods">HTTP request methods - MDN Web Docs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI video generation`, `#ByteDance`, `#Seedance`, `#multimodal AI`, `#content creation`
+**社区讨论**: 社区意见不一：有人认为 QUERY 只是带请求体的 GET，现有的变通方案也能工作；而另一些人则欢迎标准化。有人担心遗留的代理和防火墙可能不支持新方法，从而引发问题。
+
+**标签**: `#HTTP`, `#protocol`, `#web standards`, `#API design`
 
 ---
 
 <a id="item-6"></a>
-## [加州车主起诉油企利用 AI 串通抬高油价](https://www.ithome.com/0/967/331.htm) ⭐️ 7.0/10
+## [社区分析新 AI 模型'Fable'](https://swelljoe.com/post/will-it-mythos/) ⭐️ 7.0/10
 
-本周一，加州联邦法院受理了一起集体诉讼，指控英国石油公司、Circle K、马拉松石油、7-11、沃尔玛和艾伯森等主要油企使用 Kalibrate 公司的 AI 软件串通定价，涉嫌违反加州《卡特赖特法案》和第 325 号议会法案。 此案检验了加州新颁布的针对算法操纵定价的第 325 号法案的适用性，可能为全美反垄断法如何适用于 AI 驱动定价系统树立先例。 诉状称，在广泛使用 Kalibrate AI 定价系统的区域，油价每加仑最高上涨 30 美分，每上涨 1 美分，加州车主每年多支出 1.34 亿美元。被告企业在加州运营超过 1700 座加油站。
+围绕名为'Fable'的新 AI 模型出现了社区讨论，用户分享了与 Opus 等先前模型的详细比较，并报告了显著提升的能力。 这次讨论提供了对潜在重要 AI 模型的早期实践见解，可能影响对 Anthropic 下一版本的预期，并让开发者了解其实际优势。 一位用户上传了完整会话记录和复杂实现的代码，以证明 Fable 比任何先前模型都强大得多。另一位用户指出，Fable 是唯一能检测到 Qt C++应用中数据损坏 bug 的模型，而其他模型均未能发现。
 
-rss · IT之家 · 6月23日 02:55
+hackernews · mindingnever · 6月23日 04:15 · [社区讨论](https://news.ycombinator.com/item?id=48640196)
 
-**背景**: 加州《卡特赖特法案》是该州主要反垄断法，范围比联邦《谢尔曼法》更广。第 325 号议会法案于 2026 年 1 月 1 日生效，专门禁止使用利用竞争对手数据影响价格的通用定价算法，降低了反垄断诉讼的举证标准。Kalibrate 的软件收集竞争对手定价数据，利用 AI 推荐价格，原告认为这便利了串通行为。
+**背景**: Anthropic 以其 Claude 系列 AI 模型闻名，Opus 是之前的高能力版本。社区常在官方发布前非正式地测试和比较新模型。'Fable'似乎是一个内部或未发布的模型，部分用户已获得访问权限。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://kalibrate.com/kalibrate-fuel-pricing-software/">Kalibrate Fuel Pricing Software</a></li>
-<li><a href="https://www.alston.com/en/insights/publications/2025/11/california-ab-325-antitrust-standards">California’s AB 325 Prohibits Shared Pricing Algorithms ...</a></li>
-<li><a href="https://legalclarity.org/california-cartwright-act-provisions-and-legal-implications/">California Cartwright Act: Prohibitions and Penalties</a></li>
+**社区讨论**: 社区情绪积极，用户报告称 Fable 感觉像是被'削弱'之前的'旧 Opus'的更智能版本。然而，有人猜测这次讨论可能旨在提升 Anthropic 的估值，并指出 Anthropic 的沟通风格可能不够专业。
 
-</ul>
-</details>
-
-**标签**: `#AI`, `#antitrust`, `#pricing`, `#legal`, `#energy`
+**标签**: `#AI`, `#LLM`, `#Anthropic`, `#model comparison`
 
 ---
 
 <a id="item-7"></a>
-## [Groq 获 6.5 亿美元融资，转型 AI 推理云服务商](https://www.ithome.com/0/967/312.htm) ⭐️ 7.0/10
+## [SpaceX 星链成为年收入 280 亿美元的 Neocloud 巨头](https://www.latent.space/p/ainews-spacex-is-already-a-28byr) ⭐️ 7.0/10
 
-Groq 宣布完成新一轮 6.5 亿美元融资，并战略转型为 AI 推理云服务提供商（CSP）。此前，该公司已与英伟达达成一项价值 200 亿美元的非独家授权协议，授权其 LPU 技术。Groq 计划到 2027 年底将 AI 推理基础设施扩展至 200MW 算力。 此举使 Groq 成为专注于 AI 推理的云服务商，利用其独特的 LPU 经验与主流云厂商竞争。与英伟达的合作也验证了 Groq 的 LPU 架构，可能重塑 AI 推理硬件格局。 Groq 目前在北美、欧洲、中东和亚太地区运营 13 座数据中心，为超过 500 万开发者和数千家 AI 原生企业提供服务。该公司将部署其最新推理技术以及英伟达的 LPX 系统，以实现 200MW 的算力目标。
+SpaceX 的星链卫星互联网服务年收入达 280 亿美元，分析师 Jamin Ball 认为这使其成为一家重要的 Neocloud 提供商。 这凸显了 SpaceX 如何悄然建立起庞大的 AI 基础设施业务，挑战传统云服务商，并重塑 AI 计算的竞争格局。 280 亿美元的数字基于星链当前的用户数和每用户平均收入，但公开估计显示星链 2025-2026 年收入约为 110-150 亿美元。
 
-rss · IT之家 · 6月23日 01:57
+rss · Latent Space · 6月23日 06:19
 
-**背景**: Groq 的 LPU（语言处理单元）是一种专用推理加速器，使用数百兆字节的片上 SRAM 而非外部 HBM，从而实现低延迟和确定性性能。英伟达 Groq 3 LPX 系统将 256 个 LPU 与 Vera Rubin 平台结合，面向低延迟、大上下文的 AI 工作负载。Groq 转型为 CSP 模式，使其能够直接提供推理服务，而不仅仅是销售硬件。
+**背景**: Neocloud 是专注于 AI 工作负载的专用云提供商，通常提供 GPU 即服务。星链提供低延迟卫星互联网，可用于连接分布式 AI 基础设施，从而使 SpaceX 成为 Neocloud 参与者。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://groq.com/lpu-architecture">LPU | Groq is fast, low cost inference.</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/lpx/">AI Inference Accelerator | NVIDIA Groq 3 LPX</a></li>
-<li><a href="https://developer.nvidia.com/blog/inside-nvidia-groq-3-lpx-the-low-latency-inference-accelerator-for-the-nvidia-vera-rubin-platform">Inside NVIDIA Groq 3 LPX: The Low-Latency Inference ...</a></li>
+<li><a href="https://blog.equinix.com/blog/2025/10/14/what-is-a-neocloud/">What Is a Neocloud? - Interconnections - The Equinix Blog</a></li>
+<li><a href="https://valueaddvc.com/blog/starlink-revenue-2025-2026-subscriber-count-arpu-and-the-path-to-profitability">Starlink Revenue 2026: ~$15.5B Run-Rate, 7M+ Subscribers, and the Path to Profit | Value Add VC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#funding`, `#cloud computing`, `#NVIDIA`, `#inference`
+**标签**: `#SpaceX`, `#neocloud`, `#cloud computing`, `#AI infrastructure`, `#Starlink`
 
 ---
 
 <a id="item-8"></a>
-## [雪梦未来用肌电腕带采集人类操控数据，助力具身智能](https://36kr.com/p/3865125383443463?f=rss) ⭐️ 7.0/10
+## [Valve 扩展 SteamOS 至通用硬件，支持 Nvidia](https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future) ⭐️ 7.0/10
 
-雪梦未来（SnowOrigin）团队开发了一款基于表面肌电（sEMG）的神经腕带和 AI 解码模型，能够捕捉人类操控数据（包括姿态、力和微控制），用于具身智能训练。该公司已获得龚虹嘉、陆奇等知名投资人的投资。 该方法通过提供比传统视频或动作捕捉更丰富、更详细的数据，弥补了 Physical AI 训练中的一个关键缺口。它可能加速开发更强大、更自然的机器人和 AI 系统，使其理解人类与物理世界的交互。 该腕带具有更多通道、更高采样率，信噪比超过 43 dB，优于典型的 8 通道设计。公司自研的 NMH（Neural Math Hybrid）AI 模型可实时解码 sEMG 信号，重建手部姿态和意图。
+Valve 工程师 Pierre-Loup Griffais 宣布，公司正在开发 SteamOS 的通用版本，与 Nvidia 合作确保兼容性，并暗示未来将支持双启动。 此举可能显著扩大 SteamOS 在 Steam Deck 之外的采用，为任何 PC 上的玩家提供类似主机的体验，并挑战 Windows 在 PC 游戏领域的主导地位。 目前，在非 Valve 硬件上安装 SteamOS 需要完全擦除系统，但未来的双启动支持将允许用户保留现有操作系统与 SteamOS 共存。
 
-rss · 36氪 · 6月23日 02:13
+rss · Tom's Hardware · 6月23日 10:53
 
-**背景**: 表面肌电（sEMG）是一种通过皮肤电极无创测量肌肉电活动的技术。具身智能需要大量人类交互数据来学习物理任务，但当前的方法如视频或动作捕捉往往遗漏了力和微调等细微细节。雪梦未来的可穿戴方案旨在以轻量、可扩展的方式收集这些缺失的数据。
+**背景**: SteamOS 是 Valve 开发的基于 Linux 的操作系统，最初为 Steam Machine 设计，后来针对 Steam Deck 进行了优化。它提供类似主机的游戏界面和 Steam 库访问。扩展到支持 Nvidia 的通用硬件将使其适用于更广泛的 PC，因为 Nvidia GPU 在游戏台式机中很常见。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://biologyinsights.com/what-is-semg-surface-electromyography-and-how-does-it-work/">What Is SEMG (Surface Electromyography) and How Does It Work?</a></li>
-<li><a href="https://www.evsint.com/embodied-ai-data-collection-teleoperation-sim-to-real-2026/">Embodied AI Data Collection: Teleoperation Guide (2026)</a></li>
+<li><a href="https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future">Valve working on SteamOS for general release — company ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SteamOS">SteamOS - Wikipedia</a></li>
+<li><a href="https://store.steampowered.com/news/app/1675200/view/820329049655084700">Steam Deck - SteamOS 3.7.8: Go Country - Steam News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#embodied AI`, `#sEMG`, `#data collection`, `#wearable`, `#Physical AI`
+**标签**: `#SteamOS`, `#Valve`, `#Nvidia`, `#gaming`, `#Linux`
 
 ---
 
 <a id="item-9"></a>
-## [2026 年 AI 驱动的科技裁员：持续更新列表](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 7.0/10
+## [SK 海力士超越三星成为韩国市值最高公司](https://www.tomshardware.com/tech-industry/sk-hynix-passes-samsung-as-south-koreas-most-valuable-company-on-hbm-demand) ⭐️ 7.0/10
 
-TechCrunch 维护了一份 2026 年因 AI 因素而进行重大裁员的科技公司列表，按倒序更新。最新条目显示，甲骨文在 2026 财年裁员约 2.1 万人（员工总数减少 13%），原因是业务重组和 AI 技术应用。 这份列表记录了一个重要趋势：AI 应用被直接列为裁员原因，影响了数万名科技从业者。它凸显了 AI 驱动效率提升与劳动力替代之间的紧张关系，这是行业关注的核心问题。 截至 2026 年 6 月，Layoffs.fyi 报告今年已有 196 家科技公司裁员超过 11.98 万人。甲骨文为 2026 财年重组支付了 18.4 亿美元离职补偿金，远高于上一财年的 3.74 亿美元。
+周一，SK 海力士超越三星电子，成为韩国市值最高的上市公司，这得益于其用于 AI 加速器的高带宽内存（HBM）需求激增。 这一里程碑凸显了半导体市场领导地位从传统内存向 HBM 等 AI 专用内存的转移，强调了 AI 基础设施投资日益增长的重要性。 SK 海力士的 HBM3E 和即将推出的 HBM4 产品是其估值的关键驱动力，该公司受益于制造能力向高利润 AI 内存产品的结构性重新分配。
 
-rss · TechCrunch · 6月23日 01:27
+rss · Tom's Hardware · 6月23日 10:30
 
-**背景**: Layoffs.fyi 是一个成立于 2020 年的网站，追踪科技行业裁员情况，已汇总超过 45 万次裁员，被主流媒体广泛引用。当前这波与 AI 相关的裁员反映了企业为大力投资 AI 基础设施而进行重组，例如甲骨文计划投入 700 亿美元资本支出。
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠 DRAM 架构，与传统内存相比，它提供显著更高的带宽和更低的功耗，使其成为 AI 和高性能计算的关键。全球内存市场正经历由 AI 需求驱动的短缺，HBM 供应限制预计至少持续到 2030 年。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ithome.com/0/967/271.htm">AI 转型与成本压力下，甲骨文 2026 财年裁员 2.1 万人 - IT之家</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Layoffs.fyi">Layoffs.fyi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/">2026 Market Outlook: SK hynix’s HBM to Fuel AI Memory Boom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#layoffs`, `#tech industry`, `#employment`, `#2026`
+**标签**: `#semiconductors`, `#AI hardware`, `#HBM`, `#market valuation`, `#South Korea`
 
 ---
 
 <a id="item-10"></a>
-## [OpenAI 启动开源漏洞修复计划](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) ⭐️ 7.0/10
+## [“氛围编码”无法用于生产级 AI 产品](https://leaddev.com/ai/you-can-vibe-code-a-demo-you-cant-vibe-code-a-product?utm_source=leaddev&utm_medium=RSS) ⭐️ 7.0/10
 
-OpenAI 宣布了一项新计划，旨在帮助发现并修复开源软件中的安全漏洞，以提升开源生态系统的安全性。 该计划可能显著提升广泛使用的开源项目的安全性，惠及依赖这些项目的数百万用户和开发者。 该计划利用 OpenAI 的 AI 模型来自动化漏洞检测和补丁生成，但具体技术细节和启动日期尚未披露。
+LeadDev 的一篇文章指出，“氛围编码”（即通过自然语言提示让 AI 生成代码）足以制作演示，但不足以构建健壮的生产级生成式 AI 产品。 随着生成式 AI 从炒作走向实际部署，理解原型开发与生产之间的差距对于工程师和组织避免代价高昂的失败至关重要。 文章强调，生产级 AI 需要严格的测试、可扩展性、安全性和可维护性——这些是优先速度而非健壮性的氛围编码无法保证的。
 
-rss · TechCrunch · 6月23日 00:11
+rss · LeadDev · 6月23日 07:00
 
-**背景**: 开源软件常因维护资源有限而存在安全漏洞。OpenAI 的计划旨在应用先进 AI 自动化漏洞发现和修复，可能减轻志愿维护者的负担。
+**背景**: “氛围编码”一词由 Andrej Karpathy 创造，指通过用自然语言描述意图来让 AI 助手编写代码。虽然它加速了原型开发，但生产系统要求的可靠性、可观测性和合规性往往是 AI 生成代码所缺乏的。
 
-**标签**: `#OpenAI`, `#open-source`, `#security`, `#bug fixing`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/vibe-coding">What is Vibe Coding? | IBM</a></li>
+<li><a href="https://logixbuilt.com/blogs/generative-ai-challenges">10 Generative AI Challenges and How to Overcome Them</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#software engineering`, `#production`, `#generative AI`
 
 ---
 
 <a id="item-11"></a>
-## [非确定性漏洞检测基准测试](https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/) ⭐️ 7.0/10
+## [宜镁华获数千万元天使轮融资，专注高导热高强韧镁合金](https://36kr.com/p/3864082158785539?f=rss) ⭐️ 7.0/10
 
-一个新的基准测试系统将已知漏洞隐藏在代码中，以测试 LLM 检测它们的能力，包括误导性注释的影响。该系统混淆了 Juliet 测试套件的代码，以消除 LLM 在查看已知 CWE 时的天然优势。 该基准测试填补了评估 LLM 在软件漏洞检测方面的重要空白，这对 AI 安全和软件安全至关重要。通过测试注释的影响，它还探索了自然语言上下文如何操纵 LLM 的性能。 该基准测试使用 Juliet 测试套件代码（超过 81,000 个含有已知缺陷的合成 C/C++和 Java 程序），并将漏洞隐藏起来使其类似于真实代码库。它还使用 LLM 注入准确、误导或中性的注释，以检查它们对 CWE 检测的影响。
+宜镁华，一家专注于高导热和高强度镁合金的中国初创公司，完成了由星河创投与华中实业集团领投的数千万元天使轮融资。资金将用于产能建设、研发投入和团队扩充。 本轮融资凸显了机器人和汽车行业对轻量化材料的日益增长的需求，镁合金为铝提供了有前景的替代方案。宜镁华的技术解决了传统镁合金的关键局限性，有望加速其在机器人关节电机和汽车结构件等高价值应用中的采用。 宜镁华的 YHM10 镁合金导热系数达到 110 W/(m·K)，比行业平均水平高出一倍以上，并适用于半固态注射成型工艺。公司已与超过 10 家机器人厂商合作，确定了超过 15 种镁合金替代产品，并获得了多个汽车客户定点。
 
-reddit · r/MachineLearning · /u/Psychological_Meat_6 · 6月22日 23:34
+rss · 36氪 · 6月23日 10:22
 
-**背景**: Juliet 测试套件是一组含有已知软件缺陷（CWE）的合成程序，用于评估静态分析工具和其他软件保障方法。LLM 在漏洞检测方面显示出潜力，但基准测试通常使用未修改的 Juliet 代码，这给 LLM 带来了优势，因为它们可能在训练中见过类似的例子。这个新基准测试旨在通过混淆代码和添加误导性注释来提供更真实的评估。
+**背景**: 镁是最轻的结构金属，比铝轻 33%，比钢轻 77%，但其导热性差、强度不足和易腐蚀等问题限制了其广泛使用。半固态注射成型不同于传统压铸，在固液两相区加工镁合金，使强度提升 10%，延伸率和耐腐蚀性提升 50%，模具寿命延长一倍以上。宜镁华的技术得到了上海交通大学轻合金精密成型国家工程研究中心的支持。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/arichardson/juliet-test-suite-c">GitHub - arichardson/juliet-test-suite-c · GitHub</a></li>
-<li><a href="https://www.nist.gov/publications/juliet-11-cc-and-java-test-suite">The Juliet 1.1 C/C++ and Java Test Suite | NIST</a></li>
-<li><a href="https://samate.nist.gov/SARD/test-suites/112">Juliet C/C++ 1.3 - NIST Software Assurance Reference Dataset</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1896848186930345010">如注塑般简易，镁合金半固态成型原理与优点到底有哪些？一文秒懂</a></li>
+<li><a href="http://laf.sjtu.edu.cn/">首页 - 轻合金精密成型国家工程研究中心</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Reddit 帖子显示了社区的兴趣和建设性反馈，作者正在寻求关于该工作是否重复以及是否值得完成的建议。评论者可能讨论了该方法的创新性和潜在的改进。
-
-**标签**: `#LLM`, `#vulnerability detection`, `#benchmarking`, `#AI safety`, `#software security`
+**标签**: `#materials science`, `#robotics`, `#funding`, `#magnesium alloys`, `#manufacturing`
 
 ---
 
 <a id="item-12"></a>
-## [昆仑行 90 天融资数十亿，成具身智能独角兽](https://36kr.com/p/3865188719121668?f=rss) ⭐️ 6.0/10
+## [苹果在英国面临 30 亿英镑 iCloud 集体诉讼，案件获准开庭](https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/) ⭐️ 6.0/10
 
-由前阿里云高管创立的机器人公司昆仑行，在注册后 90 天内完成三轮融资，累计融资数十亿元，估值超十亿美元，成为具身智能领域的独角兽。 这一快速融资凸显了投资者对具身智能的浓厚兴趣，尤其是对拥有云计算和自动驾驶背景的团队。这标志着关注点从纯软件 AI 转向人形机器人等物理 AI 应用。 该公司由前阿里云中国区总裁任庚和前理想汽车智驾一号位郎咸朋联合创立。投资方包括高瓴资本、高榕创投等，首轮所有投资人均连续三轮跟投。
+英国竞争上诉法庭已批准消费者组织 Which?对苹果提起的集体诉讼，指控苹果通过锁定用户使用 iCloud 服务而收取过高费用。该案定于 2028 年 10 月开庭，索赔金额可能高达 30 亿英镑。 此案可能为英国针对大型科技公司的反垄断诉讼树立先例，并可能迫使苹果改变其 iCloud 定价和做法。如果胜诉，约 4000 万英国 iPhone 和 iPad 用户每人可能获得高达 77 英镑的赔偿。 索赔范围涵盖 2018 年 11 月 8 日至 2026 年 6 月 8 日期间在英国设备上使用 iCloud 的用户。英国居民自动纳入，除非在 10 月 8 日前选择退出；非英国居民则需在同一截止日期前主动加入。
 
-rss · 36氪 · 6月23日 03:18
+rss · MacRumors · 6月23日 08:47
 
-**背景**: 具身智能指能够与物理世界交互的 AI 系统，如机器人。独角兽指估值超十亿美元的未上市初创公司。据摩根士丹利预测，人形机器人市场到 2050 年可达 5 万亿美元。
+**背景**: 竞争上诉法庭（CAT）是英国专门审理竞争和经济监管案件的司法机构。Which?是英国消费者组织，致力于维护消费者权益。苹果提供 5GB 免费 iCloud 存储空间，并对额外空间收费，Which?认为苹果限制其设备上的竞争对手云服务，此举具有反竞争性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ithome.com/0/942/438.htm">2026 具身智能独角兽排行榜：中国五大具身智能企业核心技术与商业化能...</a></li>
-<li><a href="https://baike.baidu.com/item/昆仑行机器人/67992756">昆仑行机器人_百度百科</a></li>
-<li><a href="https://www.huxiu.com/article/4869469.html">昆仑行90天融三轮，具身智能成智驾人才最优出路？-虎嗅网</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Competition_Appeal_Tribunal">Competition Appeal Tribunal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Which?">Which? - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#robotics`, `#funding`, `#startup`, `#AI`, `#embodied intelligence`
+**标签**: `#Apple`, `#iCloud`, `#lawsuit`, `#UK`, `#antitrust`
 
 ---
 
 <a id="item-13"></a>
-## [值得买科技：AI Agent 正重塑消费决策链路](https://36kr.com/p/3865177262101513?f=rss) ⭐️ 6.0/10
+## [工程经理从云端 AI 转向本地 LLM](https://leaddev.com/ai/engineering-managers-ditch-cloud-ai-for-local-llms?utm_source=leaddev&utm_medium=RSS) ⭐️ 6.0/10
 
-在 36 氪 WAVES 2026 大会上，值得买科技营销 FDE 朱越分享了 AI Agent 如何改变消费决策链路，并发布了“值数 Matrix”全渠道内容可见性矩阵，帮助品牌被 AI 发现和信任。 随着 AI Agent 成为重要的消费决策参与者，品牌必须适应被机器而非仅人类评估的新现实。这一转变要求品牌在 AI 驱动的生态中建立新的可见性和信任策略。 值得买科技的“海纳”MCP Server 已与 40 余个主流大模型产品和 Agent 建立连接，2026 年第一季度内容输出量达 10.7 亿次，环比增长 225.43%。“值数 Matrix”整合了监测、受众、议题、声誉、洞察和执行六项能力。
+工程经理越来越多地选择在本地运行大型语言模型（LLM），而非依赖云端 AI 服务，这主要是出于对成本、隐私和控制权的考虑。 这一趋势可能重塑组织部署 AI 的方式，减少对云提供商的依赖，并为敏感或高容量应用提供更安全、可定制且可能更具成本效益的 AI 解决方案。 由 Llama 4 和 DeepSeek V4 等开源模型驱动的本地 LLM 提供了更强的隐私保护和离线能力，但与 GPT-5.5 等云端模型相比，面临硬件限制和上下文窗口有限的问题。
 
-rss · 36氪 · 6月23日 03:02
+rss · LeadDev · 6月23日 09:48
 
-**背景**: Forward Deployed Engineer（FDE）是一种融合工程、咨询和产品管理的混合角色，常用于在客户环境中部署 AI 解决方案。值得买科技以其消费平台“什么值得买”闻名，16 年来积累了 10 亿级商品库和 200 亿级消费内容库，为其 AI 服务提供支撑。
+**背景**: 基于云端的 LLM（如 GPT-4、Claude）通过 API 访问，具有可扩展性，但需要互联网连接并引发数据隐私问题。本地 LLM 在用户自己的硬件上运行，提供完全控制和离线使用，但需要大量的计算资源。工程经理在选择 AI 部署策略时必须权衡这些利弊。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Forward_Deployed_Engineer">Forward Deployed Engineer - Wikipedia</a></li>
-<li><a href="https://www.ithome.com/0/961/129.htm">值得买科技联合华为云发布“值数Matrix”，推动AI能力在品牌信任经营场...</a></li>
-<li><a href="https://www.sohu.com/a/1033445663_120011542">值得买科技亮相华为云创想者大会：“值数Matrix”推动品牌建设迈向全渠...</a></li>
+<li><a href="https://aimultiple.com/cloud-llm">Cloud LLM vs Local LLMs: Examples & Benefits</a></li>
+<li><a href="https://apxml.com/courses/getting-started-local-llms/chapter-1-introduction-large-language-models/local-vs-cloud-llms">Local vs. Cloud-Based LLMs</a></li>
+<li><a href="https://www.xda-developers.com/local-llms-are-powerful-but-cloud-ai-still-better-at-these-things/">Local LLMs are powerful, but cloud AI is still better at these 3 things</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#marketing`, `#consumer behavior`, `#agent`
+**标签**: `#LLM`, `#local AI`, `#engineering management`, `#cloud vs local`
 
 ---
 
 <a id="item-14"></a>
-## [寻求适用于扩散 LLM 输出的语法鲁棒 NLI 方法](https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/) ⭐️ 6.0/10
+## [拼多多首次买楼，落户雄安新区](https://36kr.com/p/3865625576297476?f=rss) ⭐️ 6.0/10
 
-一位 Reddit 用户正在寻求关于语法鲁棒自然语言推理（NLI）的文献，用于评估扩散 LLM 生成的文本的语义正确性，这些文本通常包含语法噪声。 随着 LLaDA 等扩散 LLM 作为自回归模型的替代方案出现，需要鲁棒的 NLI 方法来处理其语法不完美的输出，这对于下游任务中的可靠语义评估至关重要。 用户指出，当前最先进的扩散 LLM（可能除 LLaDA 外）生成的文本比自回归模型有更多语法错误，这使标准 NLI 的使用变得复杂。他们询问语法鲁棒 NLI 的最新技术水平。
+2026 年 6 月 21 日，拼多多签约整体购置雄安·电建智汇城数字新消费电商产业园的一栋办公楼，这是其首次购买物业。此前，拼多多已于 2026 年 5 月 27 日在雄安注册了一家子公司，专注于大数据处理和云服务。 此举标志着拼多多长期坚持的轻资产办公模式出现战略转变。在国家级数字新区雄安布局，有望增强其数据处理能力，并与中国的数字经济战略相契合。 新子公司拼多多信息技术服务（雄安）有限公司注册资本 5 亿元，由 Temu 高级副总裁杨清勇牵头。办公楼预计于 2026 年 7 月底投入使用，未来将为当地提供超过 5000 个工作岗位。
 
-reddit · r/MachineLearning · /u/RepresentativeBee600 · 6月22日 21:51
+rss · 36氪 · 6月23日 10:38
 
-**背景**: 自然语言推理（NLI）判断前提是否蕴含假设。自回归 LLM 逐个 token 生成文本，而扩散 LLM（如 LLaDA）通过去噪过程生成，常导致语法噪声。语法鲁棒 NLI 旨在忽略此类噪声评估语义。
+**背景**: 拼多多自 2015 年成立以来，一直避免持有不动产，所有办公室乃至服务器、仓库等核心资产均采用租赁模式，以最小化资本支出。雄安新区成立于 2017 年，是国家级新区，旨在打造数字和智慧城市的典范，通过优惠政策吸引科技企业入驻。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2502.09992">[2502.09992] Large Language Diffusion Models - arXiv.org</a></li>
-<li><a href="https://aclanthology.org/2023.iwcs-1.29/">AMR4NLI: Interpretable and robust NLI measures from semantic ...</a></li>
-<li><a href="https://arxiv.org/html/2208.07316v5">MENLI: Robust Evaluation Metrics from Natural Language Inference</a></li>
+<li><a href="https://d.youth.cn/shrgch/202606/t20260623_16727777.htm">拼多多扎根雄安再添重磅动作：整栋购置新办公楼，7月底投入使用</a></li>
+<li><a href="http://www.he.xinhuanet.com/20260622/43d584dbc2144ec48f959e14b5c472c6/c.html">拼多多集团入驻雄安·电建智汇城-新华网河北频道-新华网</a></li>
+<li><a href="https://news.qq.com/rain/a/20260622A06TT000">拼多多签约中国电建、购置雄安产业园楼宇，提供超5000个工作岗位</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NLI`, `#LLM`, `#syntax robustness`, `#diffusion models`, `#semantic evaluation`
+**标签**: `#Pinduoduo`, `#Xiong'an`, `#real estate`, `#business strategy`, `#digital economy`
+
+---
+
+<a id="item-15"></a>
+## [字节与中兴豆包 AI 手机或延迟发布](https://36kr.com/newsflashes/3865588553438216?f=rss) ⭐️ 6.0/10
+
+字节跳动与中兴通讯共同推进的新一代豆包 AI 手机可能因额外的备案认证流程而延迟发布，这些流程包括网信办的大模型备案和工信部的手机终端入网认证。 此次延迟凸显了 AI 设备在中国面临的监管障碍，可能减缓端侧 AI 的商业化进程。同时也强调了科技巨头与电信制造商需要合作应对双重认证要求。 与普通手机不同，豆包 AI 手机需要同时通过网信办的大模型备案和工信部的手机终端入网认证。据蓝鲸新闻报道，知情人士透露了此次延迟。
+
+rss · 36氪 · 6月23日 10:00
+
+**背景**: 在中国，提供生成式人工智能服务的模型必须向国家互联网信息办公室（网信办）备案后方可公开发布。此外，所有在中国销售的手机都需要获得工业和信息化部（工信部）的电信设备进网许可（CTA）。豆包 AI 手机融合了字节跳动的 AI 能力与中兴的硬件，需同时遵守这两项法规，可能导致原定发布时间推迟。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/1910099650351986326">2025大模型备案全攻略:政策解读+材料清单+流程详解+避坑指南</a></li>
+<li><a href="https://jwxk.miit.gov.cn/">电信设备进网许可</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI phone`, `#ByteDance`, `#ZTE`, `#product delay`, `#certification`
 
 ---
