@@ -5,7 +5,7 @@ date: 2026-06-24
 lang: zh
 ---
 
-> 从 297 条内容中筛选出 35 条重要资讯。
+> 从 294 条内容中筛选出 32 条重要资讯。
 
 ---
 
@@ -15,55 +15,55 @@ lang: zh
 
 - [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > Aeon 上的一篇新文章引用道家哲学家庄子的思想，论证“白手起家”的概念是一种幻觉，挑战了精英制度的基础。 这种观点在科技和商业圈中很少见，而精英制度在这些领域常被视为理所当然。它将中国古代思想与现代关于成功和应得的假设联系起来，开辟了新的思想领域。 文章借鉴了庄子关于自发性和拒绝固定标准的思想，论证成功很大程度上取决于个人无法控制的外部因素。它批判了个人应得成功或失败的观点。
+  > Aeon 上的一篇文章借鉴古代道家哲学家庄子的思想，论证了“白手起家”的概念是一种幻觉，精英制度是一个有严重缺陷的观念。 这一批判通过引入强调相互依存和自然自发性而非个人努力的哲学视角，挑战了现代社会中（尤其是科技和创业文化中）普遍存在的关于成功和应得性的根深蒂固的假设。 该文章由 Christine Abigail L Tan 撰写，发表在 Aeon 上。它利用庄子的思想论证成功很大程度上归因于外部因素和运气，而非纯粹的个人功绩。
 
-- [人造岩石挑战地质学边界](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人类活动创造新型岩石](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上发表的文章探讨了人类活动如何创造新型岩石——如塑质砾岩和技术化石——这些岩石模糊了自然与人工的界限，迫使地质学扩展其定义。 这开启了一个真正的新领域——人类世地质学——它挑战了传统地质学分类，并凸显了人类对地球地质记录的深远影响，这些影响将持续数百万年。 技术化石是人类技术活动保存在地球地层中的地质证据，包括混凝土、塑料和改性金属等材料。人类世虽尚未正式确立，但被提议作为人类活动成为主导地质力量的时期。
+  > John MacDonald 在 Aeon 上发表的文章探讨了人类活动如何创造出新型岩石，如混凝土和含塑料沉积物，这些岩石挑战了传统地质分类。 这重新定义了自然与人工的界限，将地质学扩展至人类世，促使人们重新审视何为“天然”岩石。 文章重点介绍了“人类世岩石”，如混凝土——一种由天然和加工材料组成的人造岩石，以及工业废物形成的其他构造。
 
-- [尼克·兰德的加速主义：黑暗的后人类愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的加速主义：后人类未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 杂志上的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个由不受约束的技术和资本主义力量驱动的后人类未来，并追溯了其对恐怖分子和科技企业家双方的影响。 这篇文章为科技专业人士开辟了一个全新的思想领域，将加速主义呈现为对技术和资本主义的激进批判，挑战了主流科技文化的乐观叙事。 文章指出，加速主义最初由尼克·兰德提出，融合了后结构主义、控制论和反人本主义，并被极右翼恐怖分子和硅谷的“e/acc”爱好者所采纳，但兰德的原始愿景要黑暗得多。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个技术和资本主义加速超越人类控制、走向后人类机器智能的未来。 这篇文章介绍了一种激进的哲学运动，挑战了关于技术、资本主义和人类能动性的假设，为不熟悉大陆哲学的技术专业人士开辟了新的思想领域。 兰德的哲学通过直面死亡的不可避免性来批判人类自恋，他看似矛盾的立场源于超越人类中心主义的一贯动机。
 
-- [多迷走神经理论：连接的神经生物学](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [多迷走神经理论：人类连接的生物学基础](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > The Marginalian 上的一篇文章探讨了多迷走神经理论如何揭示自主神经系统在塑造人类连接、破裂和修复中的作用，强调“故事跟随状态”。 该框架连接了神经科学、心理学和哲学，为理解创伤、社会行为和具身认知提供了新视角，可能改变治疗实践和人际关系。 多迷走神经理论由 Stephen Porges 于 1994 年提出，将副交感神经系统分为腹侧迷走（社会参与）和背侧迷走（固定化）分支，但受到神经解剖学家和进化生物学家的批评。
+  > The Marginalian 上的一篇文章探讨了多迷走神经理论，揭示了神经系统如何支配社会纽带、破裂与修复，并将连接视为一种生物学需求。 该理论为理解创伤、社交焦虑和关系动态提供了神经科学视角，为治疗师、教育工作者以及任何寻求更深层人际连接的人提供了实用见解。 多迷走神经理论由 Stephen Porges 于 1994 年提出，认为迷走神经有两个不同分支——腹侧迷走神经（社交参与）和背侧迷走神经（静止）——调节安全感和连接。
 
 ---
 
-## 💰 财富与复利
+## 🧬 人性与行为
 
-- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+- [玩具 Transformer 保留无用的信念状态数据](https://www.lesswrong.com/posts/vzav5kfbRCDQyEB8v/toy-transformers-may-represent-belief-state-geometry) ⭐️ 9.0/10
 
-  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产，却因每天吸食大麻并沉迷电子游戏而被妻子称为“失败者”的 Reddit 帖子引发热议，讨论财务独立之外人生目标的重要性。 这个故事挑战了传统的 FIRE（财务独立，提前退休）理念，表明没有目标的财富可能导致个人停滞和关系紧张，强调有用和进取比单纯的财富积累更具吸引力。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，合计年被动收入 12.5 万美元，但妻子认为他是失败者，因为他每天吸食大麻并玩《侠盗猎车手》，而非从事有意义的活动。
+  > 一项关于玩具 Transformer 的研究表明，它们在残差流中保留了可证明无用的信念状态数据，即使这些数据对预测已不再相关，只有在容量压力下才会丢弃，且优先丢弃最旧的信息。 这一发现挑战了最优预测理论的假设——即 Transformer 会修剪无关信息，揭示了一种非显而易见的表征行为，可能为机械可解释性和认知科学提供启示。 实验使用了隐马尔可夫模型（HMM）和一个随机“硬币”元素，该元素后来变得与预测无关；消融已失效的硬币信息不会导致预测准确率下降，证实了其惰性。
 
-- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > 麻省理工学院教授 Anna Stansbury 的一项研究显示，来自贫困背景的学生在毕业十年后比富裕同学少赚 7%，即使他们就读同一所大学、获得相同学位且成绩相同。 这一发现挑战了仅靠教育就能实现机会均等的假设，凸显了社会经济背景如何通过人脉、导师指导等非学术因素持续影响收入。它强调了制定政策以解决课堂之外的复合优势的必要性。 这项基于 NBER 研究、涵盖超过 3000 万学生的数据显示，即使在控制大学类型、学位和成绩后，收入差距仍达 7%。在精英大学中差距较小但仍显著，即使在同一类型院校的毕业生中，父母收入与子女收入仍存在相关性。
+  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于七年的合作和对近 2000 名美国成年人的调查，提出被伴侣了解是感受到爱的关键。 这一见解重塑了关于爱的常见误解，表明努力被了解和了解他人可能比追求吸引力或成功更能促进关系幸福。 文章指出了关于感受爱的五个常见误解，例如“如果我更有吸引力、更有权力或更成功”。该研究是他们即将出版的书籍《如何感受爱》的一部分。
 
 ---
 
 ## 🧠 AI 学习
 
-- [连续批处理提升大模型推理效率](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 8.0/10
+- [Logit 掩码：唯一能保证 LLM 输出正确的方法](https://pub.towardsai.net/your-llm-obeys-99-of-the-time-that-1-is-taking-down-production-a6ea1b6f00c1?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 文章解释了连续批处理如何在 LLM 推理过程中动态调度请求，取代静态批处理以提高吞吐量并降低延迟。 该技术对于在生产环境中高效服务多个用户至关重要，能够降低实时应用的成本并加快响应速度。 文章包含静态批处理的代码示例和连续批处理的完整实现，强调了使用不规则张量处理变长序列。
+  > 文章指出，即使 99%服从的 LLM 也可能因无效输出导致生产故障，并提倡使用 logit 掩码——将禁止的 token 的 logit 设为负无穷——来强制执行严格的输出约束。 这很重要，因为依赖 LLM 的生产系统需要确定性的输出保证；logit 掩码提供了一种有原则、可验证的解决方案，能完全防止格式错误的输出，这与提示工程或重试循环不同。 Logit 掩码在 logit 计算和 softmax 归一化之间操作，将禁止的 token 的 logit 设为负无穷，使其概率恰好为零。该技术可根据模式约束在每个 token 位置应用。
 
-- [令牌选择统计：Logits、温度与 Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+- [AI 代理消除打字后，意图成为瓶颈](https://pub.towardsai.net/once-an-ai-agent-removes-typing-intent-becomes-the-bottleneck-9b957ba9be95?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 一篇新教程详细讲解了大语言模型中令牌选择背后的统计原理，涵盖 logits、温度缩放和 top-p 采样，并附有实际示例。 该教程帮助开发者和研究人员理解这些机制如何影响模型的创造力和输出质量，从而更好地针对特定应用调优大语言模型。 教程解释了 logits 如何通过 softmax 转换为概率、温度如何控制随机性，以及 top-p 采样如何根据累积概率动态选择令牌子集。
+  > 对 1263 个真实编码提示的分析表明，使用 AI 编码代理时，瓶颈从打字速度转变为精确表达意图的能力。 这一洞察重新定义了开发者需要培养的技能：意图清晰度比提示工程更重要，这可以显著提高生产力并减少 AI 辅助编码中的昂贵错误。 中位提示仅 78 个字符，三分之二少于 120 个字符；有效的提示将结果、约束、原因、范围、自主权和未知因素浓缩在一两句话中。
 
-- [Logit Masking：解决 LLM 生产环境输出错误的方案](https://pub.towardsai.net/your-llm-obeys-99-of-the-time-that-1-is-taking-down-production-a6ea1b6f00c1?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [使用本地模型对金融 PDF 进行 RAG 基准测试](https://pub.towardsai.net/benchmarking-rag-architectures-locally-on-a-real-financial-pdf-0f84287d95ed?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 文章指出，即使使用少样本提示和重试循环，生产环境中的 LLM 仍会输出无效内容（如错误的枚举值、字符串替代布尔值），并提出 logit masking 作为确定性解决方案来强制执行严格的输出约束。 这很重要，因为一个 99%服从的模型在规模下每天仍会导致数万个格式错误的输出，从而引发生产中断；logit masking 提供了少样本和重试无法实现的硬性保证，提高了基于 LLM 的应用的可靠性。 Logit masking 的工作原理是在 softmax 之前将禁止 token 的 logit 设为负无穷，使其概率精确为零，从而无法被采样。该技术需要知道每一步生成中允许的 token，通常从 schema 中推导。
+  > 一个三部分系列文章使用仅本地开源模型对一份密集的金融 PDF 进行六种 RAG 架构的基准测试，第一部分聚焦于文本层检索管道，包括 Naive RAG、Hybrid RAG 以及带 ColBERT 重排序器的 Hybrid RAG。 这项工作解决了受监管行业中数据必须留在本地的实际约束，提供了在真实文档上而非理想化基准上对 RAG 方法的实用比较。 文档是 Akbank 的 2025 年第四季度财报演示文稿，一份 38 页的纯图像 PDF，包含图表和表格，所有实验在单台工作站上使用 Ollama 服务器运行，无外部端点。
 
-- [为 LLM 智能体构建上下文剪枝流水线](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
+- [2026 年上半年 LLM 研究论文汇总](https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1) ⭐️ 6.0/10
 
-  > Machine Learning Mastery 上的一篇新指南详细介绍了如何为长期运行的 LLM 智能体构建上下文剪枝流水线，从而实现高效的内存管理并防止上下文溢出。 该技术对于在生产环境中部署 LLM 智能体至关重要，它使智能体能够持续运行而不会触及上下文长度限制，从而提升性能和成本效率。 该流水线包括相关性评分、选择性移除低价值 token 以及维护压缩但连贯的上下文窗口等步骤。它被设计为模块化且可适应不同的 LLM 后端。
+  > 一份精选的 2026 年 1 月至 5 月间发表的 LLM 研究论文列表已发布，概述了近期进展。 该汇总帮助研究人员和从业者快速识别快速发展的 LLM 领域的关键趋势和突破，节省文献回顾时间。 该列表涵盖 2026 年 1 月至 5 月的论文，但未提供深入的技术分析或对单个工作的详细比较。
 
-- [意图清晰度而非提示工程是 AI 编码代理的关键](https://pub.towardsai.net/once-an-ai-agent-removes-typing-intent-becomes-the-bottleneck-9b957ba9be95?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [使用 Scikit-LLM 构建情感分析流水线](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
 
-  > 对一个月代理驱动开发中的 1,263 个真实编码提示的分析表明，简短、杂乱但意图密集的提示优于长而格式化的提示。研究显示，意图的清晰度而非提示工程是代理编码的瓶颈。 这一发现重新定义了开发人员在使用 AI 编码代理时需要培养的技能：速度大致等于清晰度除以模糊度。随着代理生成代码的速度越来越快，人类的瓶颈从打字转向精确指定意图。 中位数提示长度为 78 个字符（约 13 个词），三分之二的提示少于 120 个字符。有效的提示包含六个要素：结果、硬约束、约束背后的原因、范围、自主程度以及未知的未知。
+  > 一篇教程展示了如何使用 Scikit-LLM（一个将大语言模型与 scikit-learn 集成的库）构建端到端的情感分析流水线。它用基于 LLM 的嵌入取代了 TF-IDF 等传统特征提取方法。 这种方法通过利用 LLM 的语义理解简化了 NLP 流水线，可能比传统方法提高准确性。它使熟悉 scikit-learn 的开发者更容易进行高级情感分析。 该教程涵盖了在 scikit-learn API 内的数据预处理、模型选择和评估。它强调了 Scikit-LLM 能够将 LLM 用作特征提取器或分类器，同时保持与 scikit-learn 的网格搜索和流水线的兼容性。
 
 ---
 
@@ -71,371 +71,304 @@ lang: zh
 
 - [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > 著名风险投资家、前 Benchmark 合伙人比尔·格利在 Farnam Street Knowledge Project 播客新一期节目中分享了他对心智模型和系统思维的见解。 本期节目提供了基于格利在 Uber 的经历以及他在圣塔菲研究所的工作所得出的可操作框架，有助于改善决策，对任何对推理和复杂性感兴趣的人都有价值。 格利讨论了塑造他职业生涯的心智模型，包括来自复杂性科学的系统思维，该播客可在 YouTube、Spotify 和 Apple Podcasts 上收听，并提供完整文字稿。
+  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 的 Knowledge Project 播客中探讨了心智模型与系统思维。 这期节目结合格利在风险投资和复杂性科学方面的经验，提供了改善决策与推理的实用框架。 格利分享了他在华尔街、Benchmark 以及 Uber 高速增长期的职业生涯见解，以及他目前在圣塔菲研究所研究复杂系统的工作。
 
-- [马克·平卡斯提出的“已验证、更好、全新”创新框架](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 7.0/10
+- [把面试变成一场开卷推理游戏](https://sspai.com/post/110947) ⭐️ 7.0/10
 
-  > 《FarmVille》和《Words with Friends》的创造者马克·平卡斯在 Farnam Street 的 Knowledge Project 播客中分享了他的“已验证、更好、全新”创新框架。 该框架为企业家和产品团队提供了一种简单而强大的启发式方法，用于评估和优先考虑创新机会，有望提高产品开发的成功率。 该框架将创新分为三类：已验证（已有明确需求且经过验证的解决方案）、更好（对现有解决方案的改进）和全新（全新的解决方案）。平卡斯强调从“已验证”开始以降低风险。
+  > 文章提出了一套系统化的备战与复盘 SOP，将求职面试重新定义为一场推理游戏，强调模式识别和结构化沟通。 这种方法为求职者提供了一个具体、可操作的框架，有助于提升面试表现，可能减少焦虑并提高在高风险职业场景中的成功率。 该 SOP 包括收集样题、识别重复主题、构建模块化答案以及进行面试后复盘以优化策略等步骤。
 
-- [把面试当作一场推理游戏](https://sspai.com/post/110947) ⭐️ 7.0/10
+- [Mark Pincus 谈创新规则：经过验证、更好、全新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
 
-  > 文章提出了一套系统化的面试备战 SOP，将面试过程视为一场有迹可循的推理游戏，可以通过积累样本量来识别模式并加以利用。 该框架将面试准备从充满压力的猜谜游戏转变为结构化的分析过程，可能帮助各行业的求职者提升面试表现。 作者强调，当样本量足够大时，面试变得有迹可循；该 SOP 涵盖了准备、执行和面试后复盘等步骤。
-
-- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
-
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款由专家驱动的应用，通过每日短课提供个性化的自我提升计划。 这次采访凸显了自我提升领域专家引导、结构化学习的增长趋势，为用户提供了比泛泛建议更可靠的替代方案。 RiseGuide 提供由真实专家见解支持的结构化学习路径，专注于智力训练和沟通掌握等领域，在 App Store 上评分为 4.6。
+  > Zynga 创始人 Mark Pincus 在 Farnam Street 的播客采访中分享了他的创新框架“经过验证、更好、全新”，该框架源自他打造 FarmVille 和 Words with Friends 等社交游戏爆款的经验。 该框架为创业者和产品团队提供了一种实用的视角，以结构化方式评估创新机会，平衡风险与新颖性。 Pincus 将创新分为三个层级：“经过验证”（低风险、渐进式）、“更好”（中等风险、改进型）和“全新”（高风险、突破性）。他强调，大多数成功产品都结合了多个层级的元素。
 
 ---
 
-## 🧬 人性与行为
+## 💰 财富与复利
 
-- [被爱需要被了解](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [贫困学生即使获得相同学位，收入仍低 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 认为，感到被爱是幸福的关键因素，而被他人了解是感到被爱的基础。他们指出了五种常见的关于爱的误解，这些误解阻碍了人们感受到被爱。 这一见解连接了幸福研究和关系科学，为提升幸福感提供了实用路径。它挑战了关于爱的常见信念，并提供了基于证据的改善关系的指导。 该文章基于对近 2000 名美国成年人的调查以及 Lyubomirsky 和 Reis 七年的合作。五种误解包括关于吸引力、成功和对爱的控制的信念。
+  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后，即使就读同一所大学、获得相同学位和成绩，收入仍比富裕同龄人低 7%。 这挑战了仅靠教育就能实现机会均等的假设，揭示了社会经济背景通过社会资本和人脉等因素持续影响收入，对旨在减少不平等的政策具有重要意义。 即使在控制大学选择性、专业和成绩后，收入差距依然存在；非精英四年制大学中，父母收入与子女收入排名的斜率为 0.095，而全国范围内为 0.288。
 
-- [弱 AI 能否监控强 AI？](https://www.lesswrong.com/posts/krbFK53Y2bFm5apCQ/can-weak-ai-watch-strong-ai) ⭐️ 8.0/10
+- [有用比有钱更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
 
-  > 一位研究人员进行了一项实验，使用较弱的开源模型（如 Llama 3.1 8B、Qwen3 8B）来监控前沿编码智能体（Sonnet 4.5）的编程任务，发现监控器的性能随模型大小、威胁类型和思维链推理的变化而不可预测。 这项工作凸显了 AI 安全中的一个关键挑战：随着 AI 系统能力增强，确保弱模型对强模型的可靠监控对于可扩展控制至关重要，而结果表明简单的解决方案可能行不通。 实验使用了来自 HumanEval 的 20 个编程任务，其中一半包含隐藏后门或奖励黑客行为，并测量了八个不同大小和系列的监控模型的检测率和误报率。
+  > 一篇在 Reddit 上疯传的帖子描述了一位 41 岁男子，他拥有 200 万美元流动资产并提前退休，但每天沉迷于吸食大麻玩电子游戏，导致妻子称他为“失败者”。文章用这个故事论证，没有目标的财务独立会导致不满，并且有用比有钱更有吸引力。 这挑战了常见的 FIRE（财务独立，提前退休）叙事，强调目标和有用性对于充实退休生活至关重要。它凸显了在财务财富之外建立“人生资本”的重要性，影响个人和社区对待提前退休规划的方式。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，但妻子认为他每天吸食大麻玩游戏的习惯令人反感。文章引用进化心理学家 David Buss 的跨文化择偶偏好研究，支持雄心比资源更重要的观点。
 
 ---
 
 ## 📜 历史的节律
 
-- [英国如何失去美国：独立战争分析](https://www.historyextra.com/membership/american-revolutionary-war-podcast-series-episode-three/) ⭐️ 7.0/10
+- [百年来五位首相的垮台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
 
-  > 一档播客节目邀请亚当·IP·史密斯教授探讨美国殖民地如何通过战略、消耗战和全球冲突动态幸存并击败大英帝国。 这一分析提供了关于非对称战争和大国衰落的永恒见解，与当今小规模力量挑战主导帝国的冲突相关。 该集涵盖战略决策、战役的消耗性艰辛以及独立战争的全球影响，强调英国过度扩张如何导致其失败。
+  > 历史学家理查德·托耶分析了过去一百年中五位英国首相最引人注目的垮台事件，探讨了其辞职的原因和背景。 这一分析提供了对政治领导危机的历史视角，揭示了垮台的模式，有助于理解当代政治不稳定。 文章发表在 HistoryExtra 上，包含了托耶教授挑选的五个案例研究，但提供的片段中未列出具体首相姓名。
 
-- [历史学家剖析五位首相的戏剧性倒台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [美国开国元勋吞并加拿大的失误](https://www.historyextra.com/membership/the-founding-fathers-wanted-to-acquire-canada-for-the-united-states-but-they-made-one-huge-mistake/) ⭐️ 6.0/10
 
-  > 埃克塞特大学现代史教授理查德·托耶分析了过去一个世纪中五位英国首相最引人注目的辞职事件。 这一历史视角揭示了政治倒台的反复模式，可为当前的领导力和治理讨论提供参考。 该文章发表在历史网站 HistoryExtra 上，属于会员专享内容，但未具体说明涉及哪五位首相。
+  > Eliga Gould 的文章追溯了从独立战争到门罗主义期间美国早期吞并加拿大的野心，并指出一个导致这些努力失败的策略性错误。 这一历史分析揭示了美国扩张主义中鲜为人知的一面及其失败，为早期美国外交政策和美加持久关系提供了见解。 文章具体考察了从 1775 年到门罗主义时期，认为开国元勋对待加拿大的方式存在缺陷，但摘要中未提供该错误的具体细节。
 
 ---
 
 ## 📰 技术资讯
 
-1. [华为将在 WAIC 2026 首次展出最大规模 Atlas 950 SuperPoD](#item-1) ⭐️ 8.0/10
-2. [Anthropic 的 Mythos AI 发现美国机密系统漏洞](#item-2) ⭐️ 8.0/10
-3. [阿里千问发布首个原生语言世界模型](#item-3) ⭐️ 8.0/10
-4. [Jamendo 起诉英伟达未经授权使用音乐训练 AI](#item-4) ⭐️ 8.0/10
-5. [软银孙正义计划建造全球最大数据中心，看好 Arm 十倍增长](#item-5) ⭐️ 8.0/10
-6. [火山引擎总裁：模型质量是 MaaS 关键，豆包 2.1 Pro 已具竞争力](#item-6) ⭐️ 8.0/10
-7. [自动化使漏洞报告失去特殊地位](#item-7) ⭐️ 7.0/10
-8. [Meta 因数据泄露暂停员工监控项目](#item-8) ⭐️ 7.0/10
-9. [Swift Package Index 加入苹果，保持开源](#item-9) ⭐️ 7.0/10
-10. [Datasette 1.0a35 新增创建/修改表界面和 JSON API](#item-10) ⭐️ 7.0/10
-11. [AI × OPC：一个人，就是一家公司](#item-11) ⭐️ 7.0/10
-12. [中国暂停私募跨境 TRS 新增](#item-12) ⭐️ 7.0/10
-13. [Superhuman 收购 AI 检测初创公司 GPTZero](#item-13) ⭐️ 7.0/10
-14. [Headroom：压缩 LLM 输入，减少 60-95%的 Token 用量](#item-14) ⭐️ 7.0/10
-15. [LastPass 再次警告用户数据泄露，这次是通过合作伙伴](#item-15) ⭐️ 6.0/10
-16. [全同态加密破解 AI 数据安全难题](#item-16) ⭐️ 6.0/10
+1. [中国黑市英伟达 A100 服务器价格飙升至 8.2 万美元](#item-1) ⭐️ 8.0/10
+2. [Meta 暂停 AI 培训项目，因员工数据泄露](#item-2) ⭐️ 8.0/10
+3. [中国启动工业 5G 独立专网试点](#item-3) ⭐️ 8.0/10
+4. [中国天眼 FAST 完成馈源舱钢丝绳国产化更换](#item-4) ⭐️ 8.0/10
+5. [Bunny DNS 免费：欧洲的 Cloudflare 替代方案](#item-5) ⭐️ 7.0/10
+6. [日月光预计先进封装营收 2026 年翻倍，计划新建 15 座工厂](#item-6) ⭐️ 7.0/10
+7. [RDLA：一种新的离线优先响应式数据层架构](#item-7) ⭐️ 7.0/10
+8. [影眸科技完成数亿元融资，发布 Hyper3D Rodin Gen-2.5](#item-8) ⭐️ 7.0/10
+9. [AI 赋能一人公司：创业新时代](#item-9) ⭐️ 7.0/10
+10. [前 Meta CTO：基础设施是硬科技护城河](#item-10) ⭐️ 7.0/10
+11. [OpenMontage：首个开源智能视频制作系统](#item-11) ⭐️ 7.0/10
+12. [树莓派 Pico W 变身 USB Wi-Fi 适配器](#item-12) ⭐️ 6.0/10
+13. [终止项目：工程领导者最艰难的决定](#item-13) ⭐️ 6.0/10
+14. [36 氪 WAVES 2026：全密态计算破解 AI 数据安全](#item-14) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [华为将在 WAIC 2026 首次展出最大规模 Atlas 950 SuperPoD](https://www.ithome.com/0/967/862.htm) ⭐️ 8.0/10
+## [中国黑市英伟达 A100 服务器价格飙升至 8.2 万美元](https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china) ⭐️ 8.0/10
 
-华为宣布将在 2026 年世界人工智能大会上展出业界最大规模超节点 Atlas 950 SuperPoD 真机，支持最多 8192 张 NPU 卡高速互联，用于万亿参数大模型训练与推理。 这展示了华为在大规模 AI 基础设施领域的持续发力，直接与英伟达和 AMD 在高端 AI 数据中心市场竞争。该系统的巨大规模可能显著加速下一代大语言模型的训练。 Atlas 950 SuperPoD 以单柜 64 卡为基本单元，通过华为 UnifiedBus 互联可扩展至 8192 张 NPU。该产品最初于 2026 年 3 月在 MWC 2026 上发布，WAIC 2026 将是其首次真机公开展示。
+由于走私打击和海关冻结，中国公司现在为搭载五年前英伟达 A100 加速器的服务器支付高达 8.2 万美元，是原价的三倍。 这一价格飙升凸显了美国出口管制对中国 AI 硬件供应链的严重影响，迫使企业为过时技术支付天价。 A100 是五年前的加速器，服务器现在售价 8.2 万美元，而原价约为 2.7 万美元。此次打击涉及一个试图向中国出口价值 1.6 亿美元英伟达 H100 和 H200 GPU 的走私团伙。
 
-rss · IT之家 · 6月24日 05:20
+rss · Tom's Hardware · 6月24日 10:21
 
-**背景**: NPU（神经网络处理器）是一种专为神经网络计算设计的 AI 加速器。华为的 Atlas 系列瞄准大规模 AI 训练与推理，与英伟达的 GPU 集群竞争。SuperPoD 架构将大量 NPU 集成到单个高带宽域中，实现万亿参数模型的高效分布式训练。
+**背景**: 美国对包括英伟达 A100、H100 和 H200 在内的先进 AI 芯片实施了出口管制。2025 年，美国当局捣毁了一个试图绕过这些管制的主要走私网络，导致中国对此类芯片的海关清关冻结。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.huawei.com/en/news/2026/3/mwc-superpod-ai">Huawei Unveiled the Latest SuperPoD, Making an AI Infrastructure New Option to the World - Huawei</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-unveils-atlas-950-supercluster-touting-1-fp4-zettaflops-performance-for-ai-inference-and-524-fp8-exaflops-for-ai-training-features-hundreds-of-thousands-of-950dt-apus">Huawei unveils Atlas 950 SuperCluster — promises 1 ZettaFLOPS FP4 performance and features hundreds of thousands of 950DT APUs | Tom's Hardware</a></li>
-<li><a href="https://www.techradar.com/pro/huawei-debuts-its-atlas-950-ai-superpod-at-mwc-2026-taking-the-ai-data-center-fight-to-nvidia-and-amd">Huawei debuts its Atlas 950 AI SuperPoD at MWC 2026, taking the AI data center fight to Nvidia and AMD</a></li>
+<li><a href="https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network">Office of Public Affairs | U.S. Authorities Shut Down Major China-Linked AI Tech Smuggling Network | United States Department of Justice</a></li>
+<li><a href="https://www.cnbc.com/2025/12/31/160-million-export-controlled-nvidia-gpus-allegedly-smuggled-to-china.html">How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Huawei`, `#AI hardware`, `#WAIC`, `#Atlas 950 SuperPoD`, `#large-scale training`
+**标签**: `#Nvidia`, `#AI hardware`, `#supply chain`, `#China`, `#GPU`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic 的 Mythos AI 发现美国机密系统漏洞](https://www.ithome.com/0/967/860.htm) ⭐️ 8.0/10
+## [Meta 暂停 AI 培训项目，因员工数据泄露](https://www.tomshardware.com/tech-industry/big-tech/meta-pauses-mandatory-ai-training-program-that-tracked-employee-keystrokes-after-internal-data-leak-exposed-sensitive-staff-information-company-wide-employees-express-frustration-over-poor-handling-of-data) ⭐️ 8.0/10
 
-一名美国政府官员透露，在与情报机构合作进行的测试中，Anthropic 的 Mythos AI 模型在数小时内发现了高度机密政府计算机系统中的多处漏洞。 这一演示凸显了 AI 作为强大进攻性网络安全工具的潜力，引发了关于国家安全风险以及对先进 AI 模型实施严格防护措施的紧迫问题。 该测试是 Anthropic 的 Project Glasswing 的一部分，旨在保护关键软件系统。参议员马克·沃纳引用了该测试，指出该工具在数小时内而非数周内攻破了几乎所有机密系统。
+Meta 已暂停其强制性 AI 培训项目，该项目追踪员工的键盘敲击和鼠标移动，此前一次内部数据泄露在全公司范围内暴露了包括对话和绩效数据在内的敏感员工信息。 这一事件凸显了在 AI 培训中进行员工监控的重大隐私和伦理风险，尤其是在像 Meta 这样的大型科技公司，可能影响行业实践和围绕工作场所监控的监管审查。 该追踪项目名为“模型能力倡议”（MCI），收集美国员工的鼠标移动、点击、键盘敲击和偶尔的屏幕截图，以训练能够自主执行工作任务的 AI 代理。
 
-rss · IT之家 · 6月24日 05:04
+rss · Tom's Hardware · 6月24日 09:30
 
-**背景**: Mythos 是 Anthropic 开发的专注于网络安全的 AI 模型，旨在发现软件漏洞。出于安全考虑，Mythos 的访问受到严格控制，美国政府最近限制外籍人员使用该模型。Project Glasswing 是一项行业范围的倡议，旨在利用先进 AI 保护关键基础设施。
+**背景**: Meta 于 2026 年 4 月启动了 MCI 项目，在员工电脑上安装追踪软件，收集数据以训练能够自主执行工作任务的 AI 模型。该项目对美国员工是强制性的。最近的数据泄露在全公司范围内暴露了这些敏感数据，导致员工不满和项目暂停。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reddit.com/r/Anthropic/comments/1sfk639/claude_mythos_the_model_anthropic_is_too_scared/">Claude Mythos: The Model Anthropic is Too Scared to Release - Reddit</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Project_Glasswing">Project Glasswing</a></li>
-<li><a href="https://arstechnica.com/civis/threads/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model.1512468/">Anthropic limits access to Mythos, its new cybersecurity AI model | Ars OpenForum</a></li>
+<li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">Meta to start capturing employee mouse movements, keystrokes for AI training data | Reuters</a></li>
+<li><a href="https://www.bbc.com/news/articles/cvglyklz49jo">Meta to track workers' clicks and keystrokes to train AI</a></li>
+<li><a href="https://letsdatascience.com/news/meta-deploys-keystroke-tracking-for-ai-training-c6615ab1">Meta Deploys Keystroke Tracking for AI Training | Let's Data Science</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI security`, `#vulnerability detection`, `#government systems`, `#Anthropic`, `#national security`
+**标签**: `#privacy`, `#data leak`, `#AI training`, `#employee monitoring`, `#Meta`
 
 ---
 
 <a id="item-3"></a>
-## [阿里千问发布首个原生语言世界模型](https://www.ithome.com/0/967/843.htm) ⭐️ 8.0/10
+## [中国启动工业 5G 独立专网试点](https://www.ithome.com/0/968/105.htm) ⭐️ 8.0/10
 
-阿里巴巴千问团队发布了 Qwen-AgentWorld，这是首个原生语言世界模型，能够在七大领域（包括文本类环境 MCP、Search、Terminal、SWE 和 GUI 类环境 Web、OS、Android）中模拟智能体交互环境。该模型提供两种规模（35B-A3B 和 397B-A17B），在 AgentWorldBench 评测基准上超越了 GPT-5.4 和 Claude Opus 4.8。 这项工作表明，语言世界模型可以作为训练通用智能体的可扩展且可控的环境模拟器，有望减少对真实环境交互的依赖。同时，它通过单一模型实现跨领域知识迁移，为 AI 智能体开辟了新的扩展路径。 该模型通过三阶段训练流程构建：持续预训练（CPT）注入环境知识、监督微调（SFT）激活下一状态预测、强化学习（RL）打磨模拟真实性。配套的 AgentWorldBench 评测基准包含来自五个前沿模型在九个成熟基准上的真实交互轨迹。
+2026 年 6 月 24 日，工业和信息化部等五部门联合启动工业 5G 独立专网试点，允许企业建设不依赖公共网络的专属 5G 网络。 该政策使制造、能源、交通等关键行业能够拥有专用、安全、低延迟的 5G 网络，加速 5G 在工业物联网和工业 4.0 中的应用。这标志着从“公网专用”向“专网专用”的转变，满足了数据不出厂等关键需求。 试点支持原材料、装备制造、消费品、电子信息、国防科技、能源交通等行业的大型特大型企业。鼓励已开展“5G+工业互联网”融合应用试点的城市率先建设。目前全国已建成 2.5 万余个虚拟/混合专网和 1260 家 5G 工厂。
 
-rss · IT之家 · 6月24日 03:45
+rss · IT之家 · 6月24日 09:54
 
-**背景**: 语言世界模型（LWM）旨在利用语言模型模拟环境动态，使智能体无需直接与真实环境交互即可学习和规划。与通常针对特定领域的传统世界模型不同，Qwen-AgentWorld 在单一模型中覆盖七个不同领域，利用了超过 1000 万条真实环境交互轨迹。三阶段训练（CPT→SFT→RL）确保世界建模从一开始就是核心目标，而非事后适配。
+**背景**: 此前，中国的工业 5G 网络主要通过“公网专用”方式实现，即运营商分配专用通道或下沉部分设备。而独立专网使用专用频谱和完全独立的设施，提供更强的控制、安全和性能。此次试点是向工业专用频谱分配迈出的重要一步。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.24597">[2606.24597] Qwen-AgentWorld: Language World Models for General Agents - arXiv</a></li>
-<li><a href="https://github.com/QwenLM/Qwen-Agent">GitHub - QwenLM/Qwen-Agent: Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.</a></li>
-<li><a href="https://huggingface.co/papers/2606.24597">Paper page - Qwen-AgentWorld: Language World Models for General Agents</a></li>
+<li><a href="https://www.infoobs.com/article/20250109/68183.html">工业5G独立专网破局，工业互联网平台体系壮大 | 信息化观察网 - 引领行业变革</a></li>
+<li><a href="https://www.cww.net.cn/article?id=595527">工业5G独立专网（专频专网）渐行渐近_通信世界网</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-06-24/doc-iniepeiu6194974.shtml">五部门联合启动工业5G独立专网试点 一图读懂_新浪财经_新浪网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#large language models`, `#world model`, `#agent`, `#Alibaba`
+**标签**: `#5G`, `#industrial IoT`, `#private networks`, `#China policy`, `#Industry 4.0`
 
 ---
 
 <a id="item-4"></a>
-## [Jamendo 起诉英伟达未经授权使用音乐训练 AI](https://www.ithome.com/0/967/838.htm) ⭐️ 8.0/10
+## [中国天眼 FAST 完成馈源舱钢丝绳国产化更换](https://www.ithome.com/0/968/000.htm) ⭐️ 8.0/10
 
-音乐平台 Jamendo 向美国加州联邦法院起诉英伟达，指控其未经授权使用 MTG-Jamendo 数据集中的超过 5.5 万首歌曲训练 Fugatto 和 Audio Flamingo 等 AI 模型，索赔金额超过 1780 万欧元。 此案凸显了 AI 公司与内容创作者之间因使用受版权保护的数据进行训练而产生的日益紧张的关系，可能为 AI 行业的数据许可树立先例。 MTG-Jamendo 数据集由 Jamendo 与庞培法布拉大学音乐技术研究组联合创建，仅许可用于非商业研究；英伟达的技术论文明确将该数据集列为 Fugatto 和 Audio Flamingo 的训练来源。
+2026 年 6 月 22 日，500 米口径球面射电望远镜（FAST）完成了 6 根馈源舱钢丝绳的国产化更换，通过专家验收，并于次日恢复天文观测。 这一成就结束了 FAST 对进口钢丝绳的依赖，解决了油泥污染问题，并将成本降低约一半，同时展示了中国为重大科技基础设施生产关键部件的能力。 每根钢丝绳重超 6 吨，总长近 4000 米，研发过程中经历了 6.2 万次滑轮循环测试和 20 万次脉冲疲劳试验。更换工作比 60 天的计划提前 10 天完成，且实现零事故、零损伤。
 
-rss · IT之家 · 6月24日 03:33
+rss · IT之家 · 6月24日 08:17
 
-**背景**: MTG-Jamendo 数据集是一个用于音乐自动标注的开放数据集，包含超过 5.5 万首完整音频曲目及 195 个标签，仅限非商业学术用途。英伟达的 Fugatto 和 Audio Flamingo 是用于音频生成和理解的 AI 模型。
+**背景**: FAST 是世界上最大的单口径射电望远镜，其 30 吨重的馈源舱由 6 根钢丝绳悬挂，用于精确接收宇宙信号。自 2016 年启用以来，钢丝绳一直依赖进口，并于 2021 年首次更换，但逐渐渗出的油泥影响了观测。2023 年 1 月，FAST 运行中心启动国产化研发以实现自主可控。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
+<li><a href="https://www.ecns.cn/cns-wire/2026-05-07/detail-ihfehatt6820168.shtml">FAST telescope replaces imported steel cables with domestic ...</a></li>
+<li><a href="https://english.cas.cn/newsroom/cas-in-media/202605/t20260509_1158666.shtml">China's FAST Telescope Achieves Domestic Replacement of Key ...</a></li>
+<li><a href="https://www.tkww.hk/a/202605/08/AP69fd77d8e4b04773b06d5d62.html">FAST telescope replaces imported steel cables with domestic ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#copyright`, `#Nvidia`, `#music`, `#lawsuit`
+**标签**: `#FAST`, `#telescope`, `#engineering`, `#self-reliance`, `#astronomy`
 
 ---
 
 <a id="item-5"></a>
-## [软银孙正义计划建造全球最大数据中心，看好 Arm 十倍增长](https://www.ithome.com/0/967/832.htm) ⭐️ 8.0/10
+## [Bunny DNS 免费：欧洲的 Cloudflare 替代方案](https://bunny.net/blog/were-making-bunny-dns-free/) ⭐️ 7.0/10
 
-软银集团董事长孙正义在 6 月 24 日的股东大会上宣布，Arm 将从芯片设计者进化为芯片提供者，并亲自参与制造。他还透露计划在美国俄亥俄州建造世界上最大的数据中心，该设施将消耗相当于 10 座核电站的电力。 这一声明标志着 AI 基础设施格局的重大转变，软银对数据中心的巨额投资以及 Arm 向芯片制造的扩张可能重塑半导体行业。Arm 的增长有望在 AI 时代挑战英特尔和英伟达等主导厂商。 孙正义提到，软银对英特尔约 3000 亿日元的投资按市值计算已获利数万亿日元。Arm 首席执行官雷内·哈斯此前表示，Arm 正在投资计算子系统（CSS），并可能制造芯粒或其他物理产品，超越芯片设计。
+Bunny.net 宣布其 DNS 服务现在对每个账户最多 500 个域名免费，无查询限制、无按请求计费，并且所有功能（包括智能记录和健康监控）均免费提供。 此举使 Bunny DNS 成为 Cloudflare 在欧洲的有力竞争对手，尤其吸引因地缘政治担忧而寻求欧洲替代方案的用户。取消查询费用降低了小型企业和开发者采用快速可靠 DNS 服务的门槛。 免费套餐每个账户支持最多 500 个域名，无查询限制，并包含智能记录和健康监控等高级功能，这些功能在其他服务中通常需要付费。Bunny.net 是一家私营公司，仅在 2022 年进行过一轮 600 万美元融资，专注于有机增长。
 
-rss · IT之家 · 6月24日 03:27
+hackernews · dabinat · 6月24日 08:50 · [社区讨论](https://news.ycombinator.com/item?id=48657030)
 
-**背景**: 软银是一家日本综合企业集团，持有英国芯片设计公司 Arm 的主要股份，Arm 架构驱动着全球大多数智能手机。AI 热潮推动了对专用芯片和大型数据中心的需求，电力消耗成为关键制约因素。Arm 传统上向苹果和高通等合作伙伴授权设计，但现在计划进入制造领域。
+**背景**: DNS（域名系统）是一种将域名转换为 IP 地址的基本互联网服务。大多数 DNS 提供商按查询量收费或提供有限的免费套餐。Cloudflare 是 DNS 市场的主导者，但其总部位于美国，导致一些欧洲用户因数据主权和地缘政治担忧而寻求替代方案。
 
-**标签**: `#SoftBank`, `#Arm`, `#data center`, `#AI`, `#chip manufacturing`
+**社区讨论**: 社区反应总体积极，用户称赞此举是 Cloudflare 在欧洲的竞争性替代方案。一些人指出 Bunny DNS 缺乏静态网站托管等高级功能，但赞赏其专注于核心 DNS 和 CDN 服务。还有用户提到存在 Terraform 提供商，可用于基础设施即代码集成。
+
+**标签**: `#DNS`, `#cloud`, `#EU tech`, `#competition`, `#free tier`
 
 ---
 
 <a id="item-6"></a>
-## [火山引擎总裁：模型质量是 MaaS 关键，豆包 2.1 Pro 已具竞争力](https://36kr.com/p/3865912900588548?f=rss) ⭐️ 8.0/10
+## [日月光预计先进封装营收 2026 年翻倍，计划新建 15 座工厂](https://www.ithome.com/0/968/118.htm) ⭐️ 7.0/10
 
-火山引擎发布了旗舰模型豆包 2.1 Pro，在编程和智能体能力上达到与 Claude Opus 4.7 相当的水平，在 Terminal Bench 评测中表现优异。同时发布了 Seedance 2.0 4K 版、Seedream 5.0 和语音生成模型，日均 Token 消耗量达到 180 万亿。 这标志着字节跳动 AI 生态的重要里程碑，豆包 2.1 Pro 进入顶级编程模型行列，可支持企业级生产应用。火山引擎的 MaaS 业务已成为中国领先者，Token 消耗量两年增长 1500 倍，表明 AI 正快速进入核心生产环节。 豆包 2.1 Pro 在 Terminal Bench 上与 Claude Opus 4.7 持平，在长程和复杂任务上表现优异。火山引擎日均 Token 消耗量达 180 万亿，较 2025 年底增长 50%，“万亿俱乐部”客户数翻倍至超过 200 家。
+日月光投控宣布，预计 2026 年先进封装营收将翻倍增长，并计划今年开发 15 个新厂区。此外，其首条 310mm 面板级封装（PLP）自动化产线预计最快 2026 年底量产。 这一扩张标志着先进封装领域的大规模产能建设，而先进封装是 AI 和 HPC 芯片的关键瓶颈。作为全球领先的 OSAT 供应商，日月光投控的投资将有助于缓解供应限制，并影响半导体供应链的竞争格局。 日月光投控 2025 年先进封装营收达 502 亿新台币，占总营收比例从 6%升至 13%。公司计划在 2026-2027 年维持高资本支出，旗下日月光和矽品今年共有 13 个新开发厂区，外加 2 个外部购买厂区。
 
-rss · 36氪 · 6月24日 01:00
+rss · IT之家 · 6月24日 10:02
 
-**背景**: MaaS（模型即服务）是一种云服务模式，通过 API 提供 AI 模型，使企业无需管理基础设施即可集成 AI。火山引擎作为字节跳动的云业务部门，自 2024 年起大力拓展 MaaS 业务，最初以价格竞争为主，如今随着模型进入生产级编程和视频生成，转而聚焦模型质量。
+**背景**: OSAT（外包半导体封装测试）公司为芯片制造商提供封装和测试服务。先进封装，如面板级封装（PLP），可实现 AI 和 HPC 芯片更高的集成度和性能。PLP 使用更大的基板（310mm 面板），相比传统晶圆级封装能提高效率并降低成本。
 
-**标签**: `#MaaS`, `#AI models`, `#Volcengine`, `#coding`, `#industry analysis`
+**标签**: `#semiconductor`, `#advanced packaging`, `#OSAT`, `#ASE`, `#PLP`
 
 ---
 
 <a id="item-7"></a>
-## [自动化使漏洞报告失去特殊地位](https://words.filippo.io/vuln-reports/) ⭐️ 7.0/10
+## [RDLA：一种新的离线优先响应式数据层架构](https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-一篇文章指出，由于 LLM 和自动化技术的普及，漏洞报告变得大量且常含垃圾信息，不再具有特殊地位，安全格局因此改变。 这一转变削弱了漏洞披露传统上的信任和严肃性，可能导致真正的安全问题在噪音中被忽视。 作者指出，LLM 现在能像人类研究员一样有效地发现漏洞，许多报告是自动化扫描或勒索尝试，使接收者不堪重负。
+Mervyn Anthony 提出了响应式数据层架构（RDLA），作为 CLEAN 和 MVP 的替代方案，用于在 Android 应用中构建离线优先的响应式数据层。 RDLA 在公共数据 API 和私有数据源实现之间建立了清晰的边界，使表示层能够以纯粹的响应式方式运行，并通过接口编程和干净的种子模式简化测试。 该架构强调离线优先行为和响应式编程，允许表示层观察数据变化，而非过程式查询。
 
-hackernews · goranmoomin · 6月23日 23:42 · [社区讨论](https://news.ycombinator.com/item?id=48653216)
+rss · InfoQ · 6月24日 09:00
 
-**背景**: 漏洞报告是软件安全缺陷的正式通知，传统上由厂商谨慎处理。LLM 的兴起使得大规模自动化漏洞挖掘成为可能，低质量报告泛滥成灾。
+**背景**: 传统的 Android 架构如 CLEAN 和 MVP 虽然关注点分离，但在离线优先和响应式需求上可能力不从心。RDLA 通过专注于数据层的响应式和离线能力来解决这一问题，它建立在响应式编程和离线优先设计的概念之上。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2510.14700v1">LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?</a></li>
-<li><a href="https://blog.knowbe4.com/bogus-bug-reports-as-phishbait-scams">Bogus Bug Reports as Phishbait, Scams</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者强调了垃圾报告问题，有人每周收到 2-5 份未经请求的报告，其中一半是 LLM 发现的琐碎问题。一些人认为这种情况是暂时的，因为 LLM 在发现和修复漏洞方面都在进步，而另一些人则呼吁改进软件工程实践。
-
-**标签**: `#security`, `#vulnerability reports`, `#LLMs`, `#software engineering`, `#automation`
+**标签**: `#Android`, `#Architecture`, `#Offline-first`, `#Reactive`, `#Data Layer`
 
 ---
 
 <a id="item-8"></a>
-## [Meta 因数据泄露暂停员工监控项目](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/) ⭐️ 7.0/10
+## [影眸科技完成数亿元融资，发布 Hyper3D Rodin Gen-2.5](https://36kr.com/p/3865060112438533?f=rss) ⭐️ 7.0/10
 
-Meta 在一次内部数据泄露后暂停了其员工监控项目，此次泄露暴露了对员工的监控范围，包括私人对话截图和绩效数据。 这一事件凸显了 Meta 内部严重的隐私和信任问题，引发对企业道德和员工待遇的质疑，并可能对科技行业的工作场所监控实践产生更广泛的影响。 泄露的数据包括来自全屏录制的明文私人对话和绩效信息，这些信息本应匿名化但并未实现。该项目因被批评过于侵入性而暂停。
+影眸科技完成数亿元新一轮融资，由凯辉基金和上海国投先导领投，并发布 Hyper3D Rodin Gen-2.5 模型，将“先思考再生成”的模式引入 3D 生成领域。 这标志着向可控制、生产就绪的 3D 资产迈出了重要一步，可能改变游戏、电商和工业设计等行业。该模型的测试时缩放策略有望弥合 AI 生成 3D 内容与专业使用之间的鸿沟。 Rodin Gen-2.5 是全球首个千万面级 3D 生成模型，最快 4 秒可生成百万面模型，并同步推出全球首个 12K 精度的原生 3D 贴图模型。它支持五档“思考力度”，耗时 4 秒至 80 秒不等，实现自适应细节。
 
-hackernews · 1vuio0pswjnm7 · 6月24日 00:28 · [社区讨论](https://news.ycombinator.com/item?id=48653575)
+rss · 36氪 · 6月24日 10:06
 
-**背景**: Meta 在隐私实践方面屡遭审查，无论是外部用户数据还是内部员工监控。该公司的员工监控项目涉及屏幕录制和通信监控，引发了伦理和法律问题。
+**背景**: 传统 AI 3D 生成依赖“2D 升维 3D”方法，先生成多视角图像再重建 3D 资产，导致不可逆的信息丢失。影眸在 2024 年凭借 CLAY 架构开创了原生 3D 生成路线，直接使用 3D 数据训练，实现生产就绪的质量。新模型借鉴大语言模型（LLM）的测试时缩放策略，进一步提升了可控性。
 
-**社区讨论**: 社区评论高度批评，用户称 Meta '无耻' 并预测其将进入 '死亡螺旋'。一些人指出，一家侵犯用户隐私的公司监控自家员工具有讽刺意味，另一些人则注意到在证据开示中的法律风险。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-06-24/doc-inienawa1625626.shtml">完成数亿元新融资，影眸科技 Hyper3D 让3D生成进入「思考时代」丨36氪首...</a></li>
+<li><a href="https://hyper3d.ai/">Rodin AI - Free AI 3D Model Generator For Everyone | Instantly...</a></li>
 
-**标签**: `#privacy`, `#surveillance`, `#Meta`, `#data leak`, `#corporate ethics`
+</ul>
+</details>
+
+**标签**: `#3D generation`, `#AI`, `#funding`, `#startup`, `#computer graphics`
 
 ---
 
 <a id="item-9"></a>
-## [Swift Package Index 加入苹果，保持开源](https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/) ⭐️ 7.0/10
+## [AI 赋能一人公司：创业新时代](https://36kr.com/p/3866649515938825?f=rss) ⭐️ 7.0/10
 
-社区运营的 Swift 包搜索引擎 Swift Package Index 宣布加入苹果，同时承诺保持开源并继续独立运营。 此举确保了 Swift 生态中这一关键工具的长期可持续性，可能带来与苹果开发工具的更深集成，同时维护社区信任。 Swift Package Index 目前索引了超过 11,000 个包的元数据，并自动跨平台和 Swift 版本测试包。苹果的收购预计将带来资源，同时不改变项目的开源性质。
+在 2026 WAVES 大会上，一场圆桌讨论探讨了 AI 如何让个人以一人公司（OPC）形式运营，云平台正将重心从开发者转向业务用户，并强调市场推广效率。 这一趋势降低了创业门槛，让个人能够利用 AI 和云基础设施与大型公司竞争，可能重塑创业生态和平台经济。 阿里云的调查显示，其用户中仅 20%是传统开发者，35%是产品/运营人员，21%是企业主。圆桌强调，OPC 的成功取决于市场推广效率和强大的底层系统。
 
-rss · 9to5Mac · 6月23日 22:59
+rss · 36氪 · 6月24日 04:00
 
-**背景**: Swift Package Index 是一个社区驱动的网站，帮助开发者发现 Swift 包并检查其兼容性。它补充了苹果官方的 Swift 代码分发工具 Swift Package Manager。自推出以来，该索引已成为 Swift 生态的重要组成部分。
+**背景**: 一人公司（OPC）指个人利用 AI 工具和云服务运营业务，取代传统团队。这一概念建立在“超级个体”借助 AI 杠杆的理念上，代码和媒体成为边际成本几乎为零的可扩展资产。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/">Swift Package Index joins Apple, pledges to remain open source - 9to5Mac</a></li>
-<li><a href="https://swiftpackageindex.com/">Swift Package Index</a></li>
-<li><a href="https://www.reddit.com/r/swift/comments/1udurjg/swift_package_index_update/">Swift Package Index Update : r/swift - Reddit</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Reddit 社区表达了谨慎乐观，许多人赞赏对开源的承诺，但也有一些人对项目在苹果旗下能保持多大独立性提出疑问。
-
-**标签**: `#Swift`, `#Package Manager`, `#Open Source`, `#Apple`
+**标签**: `#AI`, `#One Person Company`, `#cloud computing`, `#entrepreneurship`, `#platform economy`
 
 ---
 
 <a id="item-10"></a>
-## [Datasette 1.0a35 新增创建/修改表界面和 JSON API](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) ⭐️ 7.0/10
+## [前 Meta CTO：基础设施是硬科技护城河](https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/) ⭐️ 7.0/10
 
-Datasette 1.0a35 引入了新的“创建表”界面和“修改表”操作，两者均由 JSON API 支持，用户可以直接从 Web UI 修改数据库模式。该版本还包含了自定义模板的稳定模板上下文文档。 此版本通过允许无需外部工具即可修改模式，显著提升了 Datasette 的易用性，使其成为更完整的数据探索和发布平台。稳定的模板上下文 API 也有利于在 Datasette 之上构建自定义界面的开发者。 “创建表”API 支持定义列、主键、自定义列类型、NOT NULL 约束、字面量/表达式默认值以及单列外键。“修改表”API 支持添加、重命名、重新排序和删除列，以及更改类型、默认值、约束、主键、外键和表名，并包含“删除表”按钮。
+在 Crunchbase News 的问答中，Gigascale Capital 创始人、前 Meta CTO Mike Schroepfer 认为基础设施已成为战略护城河，并预测未来十年电池、机器人等硬科技将取得突破。 Schroepfer 的观点表明风险投资正转向资本密集型硬科技，这可能重塑行业并吸引大量投资。他领导 Meta 基础设施的经验使“拥有基础设施能提供持久竞争优势”这一观点更具可信度。 Schroepfer 强调，AI 数据中心带来的电力短缺是核能及其他能源创新的关键催化剂。他还指出，电池、机器人和储能领域的突破可能在未来十年重塑经济。
 
-rss · Simon Willison · 6月23日 21:34
+rss · Crunchbase News · 6月24日 11:00
 
-**背景**: Datasette 是一个用于探索和发布关系数据库（通常是 SQLite）的开源工具。它提供 Web 界面和 JSON API 用于查询数据。在此版本之前，创建或修改表需要使用 SQL 命令或外部插件，这对非技术用户来说不太友好。
+**背景**: “战略护城河”是指保护公司免受竞争对手攻击的持久竞争优势，这一概念由投资者沃伦·巴菲特推广。“硬科技”指基于物理科学和工程的技术，如机器人、能源和先进制造，通常需要大量资本和时间来开发。Gigascale Capital 是 Schroepfer 创立的投资硬科技公司的风险投资机构。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/simonw/datasette/pull/2789">Create table, alter table - APIs and modals by simonw · Pull Request #2789 · simonw/datasette</a></li>
-<li><a href="https://docs.datasette.io/en/latest/changelog.html">Changelog - Datasette documentation</a></li>
-
-</ul>
-</details>
-
-**标签**: `#datasette`, `#release`, `#database`, `#JSON API`, `#open source`
+**标签**: `#hard tech`, `#infrastructure`, `#venture capital`, `#energy`, `#robotics`
 
 ---
 
 <a id="item-11"></a>
-## [AI × OPC：一个人，就是一家公司](https://36kr.com/p/3866649515938825?f=rss) ⭐️ 7.0/10
+## [OpenMontage：首个开源智能视频制作系统](https://github.com/calesthio/OpenMontage) ⭐️ 7.0/10
 
-在 2026 WAVES 大会的一场圆桌讨论中，探讨了 AI 如何赋能一人公司（OPC），并指出云用户画像正在迁移：传统开发者仅占 20%，产品与运营背景占 35%，企业主占 21%。 这标志着一种范式转变：个体现在可以拥有接近公司的生产力，降低了创业门槛，并重塑云平台设计以服务非技术用户。 OPC 利用代码和媒体作为边际成本几乎为零的杠杆，AI 工具处理重复性任务，创始人专注于高价值决策。该生态系统依赖于与平台的共生关系来获取基础设施和规模。
+OpenMontage 作为全球首个开源智能视频制作系统已在 GitHub 上发布，包含 12 条流水线、52 个工具和 500 多项智能体技能，可将 AI 编程助手转变为完整的视频制作工作室。 该项目通过利用现有的 AI 编程助手，使专业视频制作大众化，可能降低内容创作的门槛，并实现自动化的多阶段视频工作流。 OpenMontage 将视频制作视为结构化工程，在每个阶段设置质量门、审计追踪和强制执行，包括预合成验证和幻灯片风险评分。
 
-rss · 36氪 · 6月24日 04:00
+ossinsight · calesthio · 6月24日 11:09
 
-**背景**: 一人公司（OPC）是一种只有一个股东的法律实体，不同于个体户。AI 生产力平权意味着 AI 工具现在使个人能够完成以前需要团队才能完成的任务，使编码、设计和营销等能力民主化。
+**背景**: 传统视频制作需要专业软件和人工操作，涵盖脚本、编辑和渲染等环节。智能体系统利用 AI 智能体自动化复杂工作流。OpenMontage 与 Cursor 或 Copilot 等 AI 编程助手集成，通过模块化流水线编排视频创作。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.facebook.com/companycrc/posts/one-person-company-opc-is-a-relatively-new-concept-in-many-jurisdictions-includi/905581658247542/">Just like any other company, OPC is considered a separate legal entity from its owner. This ...</a></li>
-<li><a href="https://www.lexology.com/library/detail.aspx?g=2a647da8-d247-4375-9f1f-eff3754e377e">One Person Company- a concept for new age business ownership - Lexology</a></li>
-<li><a href="https://www.geeksforgeeks.org/business-studies/one-person-company-meaning-and-characteristics/">One Person Company: Meaning and Characteristics - GeeksforGeeks</a></li>
+<li><a href="https://github.com/calesthio/OpenMontage">GitHub - calesthio/ OpenMontage : World's first open-source,...</a></li>
+<li><a href="https://pyshine.com/OpenMontage-Agentic-Video-Production-System/">OpenMontage - Agentic Video Production System with 12 Pipelines...</a></li>
+<li><a href="https://aitoolly.com/ai-news/article/2026-06-22-openmontage-the-worlds-first-open-source-agentic-video-production-system-debuts-on-github">OpenMontage: First Open-Source Agentic AI Video System</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#One Person Company`, `#cloud computing`, `#entrepreneurship`, `#productivity`
+**标签**: `#video production`, `#open-source`, `#AI agents`, `#Python`
 
 ---
 
 <a id="item-12"></a>
-## [中国暂停私募跨境 TRS 新增](https://36kr.com/newsflashes/3866636156556289?f=rss) ⭐️ 7.0/10
+## [树莓派 Pico W 变身 USB Wi-Fi 适配器](https://gitlab.com/baiyibai/pico-usb-wifi) ⭐️ 6.0/10
 
-6 月 24 日，多家私募基金管理人收到券商通知，监管机构暂停了私募跨境总收益互换（TRS）的新增规模。 此举限制了中资私募在不使资金出境的情况下投资海外科技股的关键渠道，可能影响全球科技市场的资金流入，并增加受影响策略的波动性。 此次暂停是在打击非法跨境证券活动的大背景下进行的，包括近期对老虎证券、富途控股等境外券商的整治。在这些限制之后，私募基金越来越多地使用 TRS 来获取海外科技股的风险敞口。
+一个名为 pico-usb-wifi 的项目提供了固件，可将树莓派 Pico W 变成免驱动的 USB Wi-Fi 适配器，平均吞吐量达到 4.75 Mbit/s。 该项目为没有内置 Wi-Fi 的设备（如旧电脑或嵌入式系统）提供了一种低成本、免驱动的 Wi-Fi 解决方案，但其吞吐量相比标准 USB 适配器有限。 该固件枚举为 USB CDC-NCM 设备，在大多数操作系统上无需额外驱动。平均 4.75 Mbit/s 的吞吐量远低于典型 USB Wi-Fi 适配器（可超过 100 Mbit/s）。
 
-rss · 36氪 · 6月24日 03:45
+hackernews · byb · 6月24日 03:17 · [社区讨论](https://news.ycombinator.com/item?id=48654676)
 
-**背景**: 总收益互换（TRS）是一种衍生品合约，一方获得资产的总回报（包括收入和资本增值），以换取固定或浮动支付。中资私募利用跨境 TRS 在不实际转移资金出境的情况下获取海外资产收益，从而绕过资本管制。此次监管行动是中国持续收紧跨境资本流动监管、打击非法证券交易的一部分。
+**背景**: 树莓派 Pico W 是一款低成本微控制器板，内置 Wi-Fi（CYW43439）。USB CDC-NCM（通信设备类 - 网络控制模型）是一种标准协议，允许设备在主机计算机上显示为网络适配器，从而在许多平台上实现免驱动操作。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Total_return_swap">Total return swap - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/t/totalreturnswap.asp">Understanding Total Return Swaps: Definition, Function, and Examples</a></li>
-<li><a href="https://finance.yahoo.com/news/exclusive-chinese-brokers-restrict-cross-121952575.html">Exclusive-Chinese brokers restrict cross-border swaps as stocks plunge - sources</a></li>
+<li><a href="https://gitlab.com/baiyibai/pico-usb-wifi">白一百 / pico - usb - wifi · GitLab</a></li>
+<li><a href="https://github.com/sidd-kishan/PicoPiFi">GitHub - sidd-kishan/PicoPiFi: A driverless usb rndis wifi dongle...</a></li>
+<li><a href="https://github.com/czietz/picowifi">GitHub - czietz/picowifi: An inexpensive and easy-to-use Wifi ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#regulation`, `#finance`, `#cross-border investment`, `#China`, `#tech stocks`
+**社区讨论**: 评论者赞赏该项目使用了非 GitHub 平台，并指出已有类似的透明以太网桥实现（如 BlueSCSI、PicoMEM）。一位评论者对低吞吐量提出疑问，另一位则分享了一个相关的旅行路由器项目（RaspAP）。
+
+**标签**: `#Raspberry Pi`, `#Wi-Fi`, `#Embedded Systems`, `#DIY`
 
 ---
 
 <a id="item-13"></a>
-## [Superhuman 收购 AI 检测初创公司 GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) ⭐️ 7.0/10
+## [终止项目：工程领导者最艰难的决定](https://leaddev.com/leadership/killing-a-project-is-every-engineering-leaders-hardest-call?utm_source=leaddev&utm_medium=RSS) ⭐️ 6.0/10
 
-Superhuman（Grammarly 中 AI 检测工具背后的公司）收购了由普林斯顿毕业生 Edward Tian 创立的成立三年的 AI 检测初创公司 GPTZero。 此次收购整合了 AI 检测市场，并表明 AI 真实性工具对生产力平台的战略重要性日益增强。 GPTZero 最初是 Edward Tian 在普林斯顿大学的毕业设计项目，并于 2023 年与 Alex Cui 共同创立。该工具因检测 AI 生成文本时出现误报而受到批评。
+LeadDev 上的一篇文章讨论了工程领导者在必须终止项目以保持团队动力和专注时所面临的艰难决定。 这个话题很重要，因为终止项目的决定会影响团队士气、资源分配和长期产品策略，但在工程领导力中却常常被忽视。 文章强调，有时终止项目是必要的，以防止项目扼杀动力，但没有提供具体的技术细节或案例研究。
 
-rss · TechCrunch · 6月23日 21:48
+rss · LeadDev · 6月24日 07:30
 
-**背景**: GPTZero 是一款 AI 检测软件，旨在识别由 GPT-4 等大型语言模型生成的文本。它在教育领域流行，用于打击学术不端行为，但因不准确性而受到批评。Superhuman 以其生产力工具闻名，已在 Grammarly 中内置了 AI 检测功能。
+**背景**: 工程领导者经常要同时处理多个项目，必须决定何时继续或停止。终止项目可能在情感和政治上具有挑战性，但可以释放资源用于更高优先级的工作。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/">Superhuman acquires AI detection startup GPTZero | TechCrunch</a></li>
-<li><a href="https://en.wikipedia.org/wiki/GPTZero">GPTZero - Wikipedia</a></li>
-<li><a href="https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6">Superhuman Acquires GPTZero to Enhance AI Authenticity Tools - Business Insider</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#acquisition`, `#AI detection`, `#startup`, `#Superhuman`
+**标签**: `#engineering leadership`, `#project management`, `#decision making`
 
 ---
 
 <a id="item-14"></a>
-## [Headroom：压缩 LLM 输入，减少 60-95%的 Token 用量](https://github.com/chopratejas/headroom) ⭐️ 7.0/10
+## [36 氪 WAVES 2026：全密态计算破解 AI 数据安全](https://36kr.com/p/3866604451845377?f=rss) ⭐️ 6.0/10
 
-一款名为 Headroom 的新开源 Python 工具，可在将工具输出、日志、文件和 RAG 分块发送给 LLM 之前进行压缩，减少 60-95%的 Token 用量，同时保持答案质量不变。 这解决了 LLM 工作流中日益增长的成本和延迟问题，特别是对于 RAG 和日志分析，使开发者能够在不牺牲准确性的情况下更经济、更快速地处理大量输入。 Headroom 提供三种模式：Python 库、代理服务器和 MCP 服务器，可灵活集成到现有流程中。声称的压缩比为减少 60-95%的 Token，且答案不变。
-
-ossinsight · chopratejas · 6月24日 05:23
-
-**背景**: Token 压缩是一种优化技术，在 LLM 处理之前减少输入序列中的 Token 数量，从而降低计算成本和延迟。RAG（检索增强生成）通常需要向 LLM 提供大量上下文分块，因此压缩尤其有价值。MCP（模型上下文协议）是连接 LLM 与外部工具和数据源的标准。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.aussieai.com/research/token-compression">Token Compression</a></li>
-<li><a href="https://aembit.io/blog/how-to-create-an-mcp-server-to-connect-your-app-with-llms/">How To Create an MCP Server To Connect Your App With LLMs - Aembit</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM`, `#token compression`, `#RAG`, `#Python`, `#developer tools`
-
----
-
-<a id="item-15"></a>
-## [LastPass 再次警告用户数据泄露，这次是通过合作伙伴](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 6.0/10
-
-LastPass 已通知用户发生了一起新的数据泄露事件，该事件通过其一家外部合作伙伴发生，导致个人数据被泄露。 这家主要密码管理器再次发生泄露事件，削弱了用户信任，并引发了对关键安全工具中第三方集成安全性的担忧。 泄露事件是通过外部合作伙伴发生的，而非 LastPass 自身系统，但个人数据仍遭到泄露。目前尚未公布更多技术细节。
-
-rss · 9to5Mac · 6月23日 21:48
-
-**背景**: LastPass 是一款流行的密码管理器，将用户的登录凭据存储在加密保管库中。近年来，它遭遇了多起安全事件，包括 2022 年一次重大泄露事件，导致加密保管库数据被曝光。
-
-**标签**: `#security`, `#data breach`, `#password manager`, `#LastPass`
-
----
-
-<a id="item-16"></a>
-## [全同态加密破解 AI 数据安全难题](https://36kr.com/p/3866604451845377?f=rss) ⭐️ 6.0/10
-
-在 WAVES 2026 大会上，辰宜科技联合创始人于功山发表了关于全同态加密（FHE）作为 AI 时代数据安全解决方案的主题演讲。他介绍了一款新型数据库产品，能够在不解密的情况下对加密数据进行计算，性能甚至超过传统明文系统。 随着 AI 模型日益强大，传统数据安全措施愈发脆弱，尤其是在使用敏感数据进行模型训练时。全同态加密提供了一种在不暴露数据的情况下使用数据的方法，有望在金融、医疗等行业实现数据共享的同时保护隐私。 该产品声称 100%自研且零开源代码，性能比传统明文系统高 37%，硬件成本降至 38%以下。它采用格密码实现抗量子攻击，并在统一引擎中支持多模态数据（向量、图、时序等）。
+在 36 氪 WAVES 2026 大会上，辰宜科技联合创始人于功山发表了关于全同态加密（FHE）作为 AI 时代数据安全解决方案的主题演讲。他介绍了其自主研发的基于 FHE 的数据库，声称性能比传统明文计算提升 37%，硬件成本降低至 38%以下。 随着 AI 模型需要大量敏感数据，传统加密方法在计算过程中会使数据暴露。FHE 允许在加密数据上直接计算而无需解密，有望解锁金融、医疗等行业的安全数据共享。 该产品是一个多模态数据库，融合了向量、图、时序和关系数据，完全自研且零开源代码。它采用格密码学以抵抗量子攻击，目标保持 30 年安全稳定运行。
 
 rss · 36氪 · 6月24日 03:14
 
-**背景**: 全同态加密（FHE）允许在不解密的情况下对加密数据进行计算，这一概念于 1970 年代提出，但直到 2009 年才通过基于格的方案实现。然而，由于巨大的计算开销，FHE 历史上一直太慢而无法实际应用。辰宜科技声称已克服这一性能障碍。
+**背景**: 全同态加密（FHE）允许在不解密的情况下对加密数据进行计算，这一概念于 1970 年代提出，但直到 2009 年才通过基于格的方案实现。然而，由于巨大的计算开销，FHE 历史上一直过于缓慢而无法实际应用。辰宜科技声称已克服这一性能障碍。
 
-**标签**: `#AI`, `#data security`, `#homomorphic encryption`, `#conference`
+**标签**: `#data security`, `#homomorphic encryption`, `#AI`, `#privacy`
 
 ---
