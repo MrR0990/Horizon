@@ -5,33 +5,9 @@ date: 2026-06-24
 lang: en
 ---
 
-> From 310 items, 36 important content pieces were selected
+> From 297 items, 35 important content pieces were selected
 
 ---
-
----
-
-## 🧠 AI Learning
-
-- [From Toy Scheduler to Real Async HTTP via Syscalls](https://pub.towardsai.net/unraveling-an-async-http-request-61e7e28dc95e?source=rss----98111c9905da---4) ⭐️ 9.0/10
-
-  > This article explains how to bridge a toy coroutine scheduler using generators with real async HTTP by leveraging non-blocking sockets and OS syscalls like connect(), send(), and recv(). Understanding the syscall-level mechanics demystifies async I/O, helping developers write more efficient concurrent code and debug performance issues in Python's asyncio. The article uses raw sockets to demonstrate blocking syscalls, then introduces non-blocking mode where syscalls return immediately with EAGAIN/EWOULDBLOCK errors, enabling concurrency.
-
-- [How Logits, Temperature, and Top-P Control LLM Output](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
-
-  > A new tutorial provides a detailed walkthrough of how logits, temperature scaling, and top-p (nucleus) sampling work together to control randomness and diversity in LLM token selection. Understanding these parameters is crucial for practitioners who need to fine-tune LLM outputs for tasks requiring different levels of creativity or coherence, such as chatbots, content generation, or code completion. The tutorial explains that logits are raw scores from the model's final layer, which are then scaled by temperature (higher values increase randomness) and filtered by top-p (selecting tokens with cumulative probability above a threshold).
-
-- [Memory Engine for AI Agents: Dual Pools & Async Writes](https://pub.towardsai.net/two-pools-one-record-the-architecture-of-a-memory-engine-for-ai-agents-7080c6ca4a30?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > The article presents a detailed architectural blueprint for a standalone memory engine for AI agents, featuring two never-merged memory pools (personal and project), pointer-based linking, asynchronous model writes, and time-aware retrieval with three read depths. This design addresses critical data-model, time, and governance problems that most memory systems overlook, offering a practical blueprint for building memory that not only recalls facts but grows skills. It could influence how AI agents manage long-term context in local-first, privacy-preserving environments. The memory engine uses a single typed record with five kinds, two timelines per row, and provenance stamped from day one. Forgetting is a reversible score, configurable per kind and volatility, with new memories quarantined until reinforced. Project memory rides the repo itself via an op-log on a git ref, enabling shared memory without a server.
-
-- [Running 35B LLM on 6GB GPU: A 2026 Guide](https://pub.towardsai.net/a-gpu-poors-guide-to-local-llm-inference-in-2026-48d59cafd215?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > A practical guide demonstrates running a 35-billion-parameter Mixture-of-Experts (MoE) model at 28 tokens per second with full 128K context on a 6 GB GTX 1660 Ti, using techniques like MoE, KV cache quantization below q8_0, and MCP-based tooling. This guide challenges the conventional wisdom that large language models require high-end GPUs with 24 GB VRAM, making local LLM inference accessible to users with consumer-grade hardware (4-12 GB VRAM). It highlights techniques that have narrowed the gap between expensive setups and older laptops. The guide uses Qwen3.6 35B-A3B, a MoE model with 35B total parameters but only ~3B active per token. Key techniques include the --n-cpu-moe flag in llama.cpp to keep attention layers on GPU while offloading expert weights to CPU, and KV cache quantization using the Turboquant fork for sub-q8_0 quality without significant regression.
-
-- [Continuous Batching Boosts LLM Inference Efficiency](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 7.0/10
-
-  > The article explains how continuous batching dynamically schedules LLM inference requests instead of using fixed-size batches, improving throughput and reducing latency. This technique is crucial for serving multiple users efficiently in production LLM applications, as it maximizes GPU utilization and minimizes idle time. Continuous batching, also known as ragged batching, allows new requests to be added to the batch as soon as previous ones finish, unlike static batching which waits for all requests in a batch to complete.
 
 ---
 
@@ -39,19 +15,55 @@ lang: en
 
 - [Zhuangzi's Critique of Meritocracy](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > An essay on Aeon argues, drawing on the ancient Chinese philosopher Zhuangzi, that the concept of self-made success is a flawed notion because our achievements are deeply interdependent with external factors. This challenges the deeply held belief in meritocracy, especially prevalent in tech and business cultures, and invites a rethinking of how we attribute success and deservingness. The essay is by Christine Abigail L Tan and was published on Aeon. It uses Zhuangzi's philosophy to argue that no one is truly self-made, as success depends on luck, social context, and natural endowments.
+  > A new essay on Aeon uses the Daoist philosopher Zhuangzi to argue that the concept of being self-made is an illusion, challenging the foundations of meritocracy. This perspective is rarely encountered in tech and business circles, where meritocracy is often taken for granted. It opens a new intellectual territory by connecting ancient Chinese thought to modern assumptions about success and desert. The essay draws on Zhuangzi's ideas of spontaneity and the rejection of fixed standards to argue that success is largely due to external factors beyond individual control. It critiques the notion that individuals deserve their success or failure.
 
 - [Human-Made Rocks Challenge Geology's Boundaries](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > An Aeon essay by John MacDonald explores the emergence of new rock types created by human activity, such as plastiglomerates and technofossils, which blur the line between natural and artificial in geology. This opens a genuinely new field—Anthropocene geology—challenging traditional geological boundaries and offering a novel lens for understanding human impact on Earth's material record. The essay discusses specific examples like plastiglomerates (plastic fused with natural sediment) and technofossils (technological artifacts preserved in strata), which may persist for millions of years.
+  > An Aeon essay by John MacDonald explores how human activity is creating new types of rocks—such as plastiglomerates and technofossils—that blur the line between natural and artificial, forcing geology to expand its definitions. This opens a genuinely new field—Anthropocene geology—that challenges traditional geological categories and highlights humanity's profound impact on Earth's geological record, which will persist for millions of years. Technofossils are geological evidence of human technological activity preserved in Earth's strata, including materials like concrete, plastics, and altered metals. The Anthropocene epoch, though not yet official, is proposed to mark the period when human activity became a dominant geological force.
 
-- [Nick Land's Accelerationism: A Dark Philosophy](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Nick Land's Accelerationism: A Dark Post-Human Vision](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Aeon essay explores Nick Land's accelerationist philosophy, which argues that technological capitalism is an autonomous, inhuman process accelerating toward a post-human future, and examines its influence on both tech culture and extremist politics. This philosophy challenges fundamental assumptions about human agency and progress, offering a lens that resonates with both Silicon Valley techno-optimists and far-right reactionaries, making it a potent and controversial force in contemporary thought. Land's work draws on cybernetics, Deleuzian thought, and dark pessimism, and he coined the term 'hyperstition' for memetic ideas that bring about their own reality. The essay notes that terrorists and tech bros alike view accelerationism as a revolutionary weapon.
+  > Vincent Lê's essay on Aeon explores Nick Land's accelerationist philosophy, which envisions a post-human future driven by unchecked technological and capitalist forces, and traces its influence on both terrorists and tech entrepreneurs. This essay opens a genuinely new intellectual territory for tech professionals by presenting accelerationism as a radical critique of technology and capitalism, challenging the optimistic narratives of mainstream tech culture. The essay highlights that accelerationism, originally developed by Nick Land, blends post-structuralism, cybernetics, and anti-humanism, and has been adopted by both far-right terrorists and Silicon Valley 'e/acc' enthusiasts, though Land's original vision is far darker.
 
-- [George Forster and the Birth of Sensitive Science](https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/) ⭐️ 9.0/10
+- [Polyvagal Theory: The Neurobiology of Connection](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > An essay on The Marginalian introduces 18th-century naturalist George Forster and his concept of 'sensitive science', which integrates empirical observation with emotional and moral insight, challenging the detached objectivity of modern science. This perspective offers an alternative to the purely rationalist paradigm dominant in technology and science, suggesting that integrating heart and mind can lead to a more holistic understanding of the world. The essay highlights Forster's approach as a 'periscope' that rises above mainstream thinking, and reframes Enlightenment science through a humanistic lens, emphasizing a forgotten tradition that merges reason and feeling.
+  > An essay on The Marginalian explores how polyvagal theory reveals the autonomic nervous system's role in shaping human connection, rupture, and repair, emphasizing that 'story follows state.' This framework bridges neuroscience, psychology, and philosophy, offering a new lens for understanding trauma, social behavior, and embodied cognition, which could transform therapeutic practices and interpersonal relationships. Polyvagal theory, introduced by Stephen Porges in 1994, splits the parasympathetic nervous system into ventral vagal (social engagement) and dorsal vagal (immobilization) branches, though it faces criticism from neuroanatomists and evolutionary biologists.
+
+---
+
+## 💰 Wealth & Compounding
+
+- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+
+  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets, only to be called a "loser" by his wife for spending his days playing video games while high on edibles, has sparked a discussion on the importance of purpose beyond financial independence. This story challenges the conventional FIRE (Financial Independence, Retire Early) narrative by showing that wealth without purpose can lead to personal stagnation and relationship strain, highlighting that being useful and ambitious is more attractive than mere financial accumulation. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, totaling $125k/year passive income, yet his wife perceives him as a loser because he spends his days playing GTA on THC edibles instead of pursuing meaningful activities.
+
+- [Poorer Students Earn 7% Less Even with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+
+  > A study by MIT professor Anna Stansbury reveals that students from poorer backgrounds earn 7% less than affluent peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This finding challenges the assumption that education alone equalizes opportunities, highlighting how socioeconomic background continues to affect earnings through networks, mentorship, and other non-academic factors. It underscores the need for policies that address compounding advantage beyond the classroom. The research, based on over 30 million students from an NBER study, shows that even after controlling for university type, degree, and grades, a 7% earnings gap persists. The gap is smaller at elite colleges but still significant, with parental income correlating with child earnings even among graduates of the same institution type.
+
+---
+
+## 🧠 AI Learning
+
+- [Continuous Batching Boosts LLM Inference Efficiency](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) ⭐️ 8.0/10
+
+  > The article explains how continuous batching dynamically schedules requests during LLM inference, replacing static batching to improve throughput and reduce latency. This technique is crucial for serving multiple users efficiently in production LLM systems, enabling lower costs and faster responses for real-time applications. The article includes a code example of static batching and a full implementation of continuous batching, highlighting the use of ragged tensors to handle variable-length sequences.
+
+- [Token Selection Statistics: Logits, Temperature, Top-P](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) ⭐️ 8.0/10
+
+  > A new tutorial provides a detailed walkthrough of the statistics behind token selection in large language models, covering logits, temperature scaling, and top-p sampling with practical examples. This tutorial helps developers and researchers understand how these mechanisms affect model creativity and output quality, enabling better tuning of LLMs for specific applications. The tutorial explains how logits are converted to probabilities via softmax, how temperature controls randomness, and how top-p sampling dynamically selects a subset of tokens based on cumulative probability.
+
+- [Logit Masking: The Fix for LLM Output Errors in Production](https://pub.towardsai.net/your-llm-obeys-99-of-the-time-that-1-is-taking-down-production-a6ea1b6f00c1?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > The article explains that LLMs in production often produce invalid outputs (e.g., wrong enum values, string instead of boolean) even with few-shot prompting and retry loops, and proposes logit masking as a deterministic solution to enforce strict output constraints. This matters because a 99% obedient model still causes tens of thousands of malformed outputs daily at scale, leading to production outages; logit masking provides a hard guarantee that few-shot and retries cannot, improving reliability for LLM-powered applications. Logit masking works by setting the logit of forbidden tokens to negative infinity before softmax, making their probability exactly zero and thus unsampleable. The technique requires knowing the allowed tokens at each generation step, typically derived from a schema.
+
+- [Building a Context Pruning Pipeline for LLM Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) ⭐️ 7.0/10
+
+  > A new guide on Machine Learning Mastery details how to build a context pruning pipeline for long-running LLM agents, enabling efficient memory management and preventing context overflow. This technique is crucial for deploying LLM agents in production, as it allows them to run continuously without hitting context length limits, improving both performance and cost efficiency. The pipeline involves steps like relevance scoring, selective removal of low-value tokens, and maintaining a compressed but coherent context window. It is designed to be modular and adaptable to different LLM backends.
+
+- [Intent Clarity, Not Prompt Engineering, Is Key for AI Coding Agents](https://pub.towardsai.net/once-an-ai-agent-removes-typing-intent-becomes-the-bottleneck-9b957ba9be95?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > An analysis of 1,263 real coding prompts from a month of agent-driven development reveals that short, messy prompts dense with intent outperform long, formatted prompts. The study shows that clarity of intent, not prompt engineering, is the bottleneck in agentic coding. This finding reframes the skill developers need to build when working with AI coding agents: speed is roughly clarity divided by ambiguity. As agents become faster at producing code, the human bottleneck shifts from typing to precisely specifying intent. The median prompt was 78 characters (about 13 words), and two-thirds were under 120 characters. Effective prompts packed six elements: outcome, hard constraints, reason behind constraints, scope, autonomy level, and unknown unknowns.
 
 ---
 
@@ -59,43 +71,31 @@ lang: en
 
 - [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > Bill Gurley, a renowned venture capitalist and board member of the Santa Fe Institute, shares his insights on mental models, complexity, and systems thinking in a new episode of The Knowledge Project podcast. This discussion provides practical cognitive tools that can improve reasoning and decision-making, especially valuable for investors, entrepreneurs, and anyone navigating complex systems. The episode is available on YouTube, Spotify, Apple Podcasts, and includes a transcript. Gurley draws from his Wall Street experience, Benchmark partnership, Uber's hypergrowth, and his work at the Santa Fe Institute.
+  > Bill Gurley, a renowned venture capitalist and former Benchmark partner, shares his insights on mental models and systems thinking in a new episode of the Farnam Street Knowledge Project podcast. This episode offers actionable frameworks for improving decision-making, drawn from Gurley's experience at Uber and his work at the Santa Fe Institute, making it valuable for anyone interested in reasoning and complexity. Gurley discusses mental models that have shaped his career, including systems thinking from complexity science, and the podcast is available on YouTube, Spotify, and Apple Podcasts with a full transcript.
 
-- [Treat Interviews as a Deductive Game: A Full Preparation SOP](https://sspai.com/post/110947) ⭐️ 7.0/10
+- [Mark Pincus's Proven, Better, New Innovation Framework](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 7.0/10
 
-  > The article proposes treating interviews as a deductive reasoning game, offering a systematic preparation and review SOP (Standard Operating Procedure) to improve performance. This framework helps professionals transform interview preparation from passive memorization into active problem-solving, potentially increasing success rates in competitive job markets. The SOP likely includes steps such as gathering sample questions, identifying patterns, formulating response templates, and conducting post-interview reviews to refine strategies.
+  > Mark Pincus, creator of FarmVille and Words with Friends, shared his 'Proven, Better, New' innovation framework on the Farnam Street Knowledge Project podcast. This framework provides a simple yet powerful heuristic for entrepreneurs and product teams to evaluate and prioritize innovation opportunities, potentially improving success rates in product development. The framework categorizes innovations into three types: Proven (existing solutions with proven demand), Better (improvements on existing solutions), and New (novel solutions). Pincus emphasizes starting with 'Proven' to reduce risk.
 
-- [Mark Pincus on Innovation: Proven, Better, New](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [Treat Interviews as a Deductive Reasoning Game](https://sspai.com/post/110947) ⭐️ 7.0/10
 
-  > Mark Pincus, founder of Zynga, shared his innovation framework 'Proven, Better, New' in a podcast on Farnam Street, but the discussion lacks concrete actionable techniques for improving thinking or communication. While the framework offers a high-level lens for innovation, the absence of practical guidance limits its value for professionals seeking to enhance their creative or communication skills. The podcast episode is part of The Knowledge Project and includes a transcript; however, the content is described as generic and not directly applicable to writing or communication.
+  > The article presents a systematic SOP (Standard Operating Procedure) for interview preparation, framing the process as a deductive reasoning game where patterns can be identified and leveraged. This framework transforms interview preparation from a stressful guessing game into a structured, analytical process, potentially improving outcomes for job seekers across industries. The author emphasizes that with sufficient sample size, interviews become predictable, and the SOP includes steps for preparation, execution, and post-interview review.
 
-- [Tim Cook's Business Link Between Apple and Nike](https://sspai.com/post/111081) ⭐️ 4.0/10
+- [RiseGuide Founder on Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
 
-  > A podcast episode explores the intricate business relationship between Apple, Nike, and Tim Cook, highlighting Cook's role as a connector between the two companies. This analysis sheds light on how personal leadership and cross-industry relationships can shape strategic partnerships, offering insights for business professionals interested in corporate collaboration. The episode is hosted on sspai.com and focuses on the 'business triangle' among Apple, Nike, and Tim Cook, though no specific new revelations or data are provided.
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an expert-powered app that provides personalized self-improvement plans through short daily lessons. This interview highlights the growing trend of expert-led, structured learning in the self-improvement space, offering users a more reliable alternative to generic advice. RiseGuide offers structured learning journeys backed by real expert insights, focusing on areas like intelligence training and communication mastery, with a 4.6 rating on the App Store.
 
 ---
 
 ## 🧬 Human Nature & Behavior
 
-- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [Feeling Loved Requires Being Known](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > Psychologists Sonja Lyubomirsky and Harry Reis argue that feeling known by another person is a prerequisite for feeling loved, based on their seven-year collaboration bridging happiness and relationship research. This insight challenges common misconceptions about love and offers a science-backed path to greater happiness, emphasizing that being truly known—not just admired or cared for—is essential for feeling loved. The article identifies five common misconceptions about feeling loved, such as believing that attractiveness or success will bring love, and presents findings from a survey of nearly 2,000 American adults who struggled to describe how they feel loved.
+  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling loved is a key contributor to happiness, and that being known by others is essential to feeling loved. They identify five common misconceptions about love that prevent people from feeling loved. This insight bridges happiness research and relationship science, offering a practical path to greater well-being. It challenges common beliefs about love and provides evidence-based guidance for improving relationships. The article is based on a survey of nearly 2,000 American adults and seven years of collaboration between Lyubomirsky and Reis. The five misconceptions include beliefs about attractiveness, success, and control over love.
 
-- [Superintelligent AI Could Undermine Nuclear Deterrence](https://www.lesswrong.com/posts/2kseP9fZghYHKLFno/superintelligence-vs-the-second-strike) ⭐️ 8.0/10
+- [Can Weak AI Monitor Strong AI?](https://www.lesswrong.com/posts/krbFK53Y2bFm5apCQ/can-weak-ai-watch-strong-ai) ⭐️ 8.0/10
 
-  > A LessWrong essay argues that superintelligent AI could render nuclear second-strike capabilities obsolete, undermining deterrence and disempowering even nuclear states unless they invest in AI-based resilience. This analysis challenges the long-held assumption that nuclear weapons guarantee strategic stability, suggesting that rapid AI advancement could shift the balance of power and create new security risks. The essay outlines three ways superintelligent AI could overcome nuclear deterrence: splendid first strikes, WMD defenses, and other mechanisms, emphasizing that the speed of AI progress could outpace traditional adaptation.
-
----
-
-## 💰 Wealth & Compounding
-
-- [Poorer Students Earn 7% Less Even with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
-
-  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than their wealthier peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This finding challenges the assumption that education alone equalizes opportunities, revealing that socioeconomic background continues to affect earnings through networks and privilege, compounding inequality over a lifetime. The earnings gap persists even after controlling for university selectivity, degree subject, and grades; the slope of parental income versus child income is 0.095 for non-elite four-year colleges, meaning wealthier families still confer an advantage.
-
-- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
-
-  > A viral Reddit post about a 41-year-old man who retired early with $2.65M in assets but was called a "loser" by his wife for spending his days playing video games while high on edibles has sparked a discussion on the importance of purpose beyond financial independence. This story challenges the common assumption that wealth alone is attractive, highlighting that being useful and engaged is more fulfilling and respected. It underscores a key insight for the FIRE movement: financial independence without purpose can lead to emptiness and relationship strain. The man has $2M liquid, $650k retirement, and $75k/yr royalty income, totaling $125k/yr passive income. His wife, a school teacher, came home early to find him stoned and playing Grand Theft Auto, leading to her calling him a "loser."
+  > A researcher conducted an experiment using weaker open-weight models (e.g., Llama 3.1 8B, Qwen3 8B) to monitor a frontier coding agent (Sonnet 4.5) on programming tasks, finding that monitor performance varied unpredictably with model size, threat type, and chain-of-thought reasoning. This work highlights a critical challenge in AI safety: as AI systems become more capable, ensuring reliable oversight by weaker models is essential for scalable control, and the results show that simple solutions may not work. The experiment used 20 programming tasks from HumanEval, half with hidden backdoors or reward hacking, and measured detection rate and false positive rate across eight monitor models of varying sizes and families.
 
 ---
 
@@ -103,360 +103,339 @@ lang: en
 
 - [How Britain Lost America: Revolutionary War Analysis](https://www.historyextra.com/membership/american-revolutionary-war-podcast-series-episode-three/) ⭐️ 7.0/10
 
-  > A podcast episode featuring Professor Adam IP Smith examines how American revolutionaries survived and defeated the British empire through strategy, attrition, and global conflict dynamics. This analysis offers timeless lessons on asymmetric warfare and empire overreach, relevant to modern geopolitics and military strategy. The episode covers the attritional hardship of campaigns and the global impact of the conflict, highlighting how a fledgling movement overcame a superpower.
+  > A podcast episode featuring Professor Adam IP Smith examines how the American colonies survived and defeated the British Empire through strategy, attrition, and global conflict dynamics. This analysis offers timeless insights into asymmetric warfare and great power decline, relevant to modern conflicts where smaller forces challenge dominant empires. The episode covers strategic decisions, the attritional hardship of campaigns, and the global impact of the Revolutionary War, highlighting how Britain's overextension contributed to its loss.
 
-- [Five Greatest PM Downfalls in 100 Years](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [Historian examines five dramatic PM downfalls](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
 
-  > Historian Richard Toye examines five of the most spectacular downfalls of British prime ministers over the past century. This analysis offers insights into the fragility of political leadership and the recurring patterns that lead to a prime minister's resignation. The article is published on HistoryExtra and covers dramatic resignations, though it does not explicitly draw parallels to contemporary politics.
+  > Richard Toye, professor of modern history at the University of Exeter, analyzes five of the most spectacular resignations of British prime ministers over the past century. This historical perspective offers insights into the recurring patterns of political downfall, which can inform current leadership and governance discussions. The article is published on HistoryExtra, a history-focused website, and is part of a membership feature. It does not specify which five prime ministers are covered.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [Google Fires Employee for Creating Unofficial Workspace CLI](#item-1) ⭐️ 8.0/10
-2. [California AB 2047 restricts 3D printers in schools](#item-2) ⭐️ 8.0/10
-3. [AI Hiring Tools Amplify Racial Bias, Study Finds](#item-3) ⭐️ 8.0/10
-4. [SpaceX Starfall Return Capsule Completes First Flight](#item-4) ⭐️ 8.0/10
-5. [Real-time adaptive DBS improves gait in Parkinson's](#item-5) ⭐️ 8.0/10
-6. [Datasette 1.0a35 Adds Create/Alter Table Interfaces](#item-6) ⭐️ 7.0/10
-7. [Study: AI Disclosure Cuts Game Reviews by 53%](#item-7) ⭐️ 7.0/10
-8. [US Pressures Meta to Agree to AI Safety Review](#item-8) ⭐️ 7.0/10
-9. [CITIC Securities: Compute and Power Supply Chains Offer Long-Term Value](#item-9) ⭐️ 7.0/10
-10. [Groq Raises $650M to Expand AI Inference Cloud, Targets 200 MW by 2027](#item-10) ⭐️ 7.0/10
-11. [Modular Nanorobots Self-Assemble for Targeted Drug Delivery](#item-11) ⭐️ 7.0/10
-12. [Superhuman acquires AI detection startup GPTZero](#item-12) ⭐️ 7.0/10
-13. [LastPass Warns Users of Another Data Breach via Partner](#item-13) ⭐️ 6.0/10
-14. [Chinese Developers File Antitrust Complaint Against Apple](#item-14) ⭐️ 6.0/10
-15. [OPFS + Pyodide Test Harness for Datasette Lite](#item-15) ⭐️ 6.0/10
-16. [Apple Vision Pro Tool RCP3 Absorbs The Machinery Game Engine](#item-16) ⭐️ 6.0/10
-17. [Wikipedia Co-founder: AI Hallucinations Still Severe, No Direct Editing](#item-17) ⭐️ 6.0/10
+1. [Huawei to debut largest Atlas 950 SuperPoD at WAIC 2026](#item-1) ⭐️ 8.0/10
+2. [Anthropic's Mythos AI Finds Flaws in US Classified Systems](#item-2) ⭐️ 8.0/10
+3. [Alibaba Qwen Releases First Native Language World Model](#item-3) ⭐️ 8.0/10
+4. [Jamendo Sues Nvidia Over Unauthorized Music Use for AI Training](#item-4) ⭐️ 8.0/10
+5. [SoftBank's Son Plans World's Largest Data Center, Sees 10x Growth for Arm](#item-5) ⭐️ 8.0/10
+6. [Volcengine President: Model Quality is Key for MaaS, Doubao 2.1 Pro is Competitive](#item-6) ⭐️ 8.0/10
+7. [Vulnerability Reports Lose Special Status Due to Automation](#item-7) ⭐️ 7.0/10
+8. [Meta Pauses Employee-Tracking Program After Data Leak](#item-8) ⭐️ 7.0/10
+9. [Swift Package Index Joins Apple, Stays Open Source](#item-9) ⭐️ 7.0/10
+10. [Datasette 1.0a35 Adds Create/Alter Table UI and JSON APIs](#item-10) ⭐️ 7.0/10
+11. [AI × OPC: One Person, One Company](#item-11) ⭐️ 7.0/10
+12. [China Halts New Cross-Border TRS for Private Funds](#item-12) ⭐️ 7.0/10
+13. [Superhuman Acquires AI Detection Startup GPTZero](#item-13) ⭐️ 7.0/10
+14. [Headroom: Compress LLM Inputs to Cut Tokens 60-95%](#item-14) ⭐️ 7.0/10
+15. [LastPass Warns Users of Another Data Breach via Partner](#item-15) ⭐️ 6.0/10
+16. [Fully Homomorphic Encryption for AI Data Security](#item-16) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Google Fires Employee for Creating Unofficial Workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602) ⭐️ 8.0/10
+## [Huawei to debut largest Atlas 950 SuperPoD at WAIC 2026](https://www.ithome.com/0/967/862.htm) ⭐️ 8.0/10
 
-Justin Poehnelt, a Google employee, was fired for creating and releasing an unofficial Google Workspace CLI tool called gws, which provided a unified command-line interface for Google Workspace services. This incident highlights the tension between employee innovation and corporate policies, especially regarding open-source projects that could be mistaken for official releases, and has sparked widespread debate about bureaucracy and risk management in large tech companies. The tool, published under the npm package @googleworkspace/cli, was a GitHub hit but was not officially sanctioned by Google, leading to termination after Poehnelt allegedly failed to follow internal procedures.
+Huawei announced it will showcase the industry's largest-scale Atlas 950 SuperPoD at WAIC 2026, supporting up to 8,192 NPU cards interconnected for trillion-parameter model training and inference. This demonstrates Huawei's continued push in large-scale AI infrastructure, directly competing with Nvidia and AMD in the high-end AI data center market. The system's massive scale could significantly accelerate training of next-generation large language models. The Atlas 950 SuperPoD uses a single-cabinet 64-NPU basic unit and can scale to 8,192 NPUs via Huawei's UnifiedBus interconnect. It was originally unveiled at MWC 2026 in March, and WAIC 2026 will be its first public physical exhibition.
 
-hackernews · justinwp · Jun 23, 18:13 · [Discussion](https://news.ycombinator.com/item?id=48649011)
+rss · IT之家 · Jun 24, 05:20
 
-**Background**: Google has a history of encouraging side projects through '20% time,' but also has strict policies about releasing projects that could be perceived as official. The Google Workspace CLI (gws) is a command-line tool that provides a unified interface for interacting with Google Workspace services like Gmail, Drive, and Calendar.
+**Background**: NPU (Neural Processing Unit) is a specialized AI accelerator designed for neural network computations. Huawei's Atlas series targets large-scale AI training and inference, competing with Nvidia's GPU clusters. The SuperPoD architecture integrates many NPUs into a single high-bandwidth domain, enabling efficient distributed training of trillion-parameter models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Google_Workspace_CLI">Google Workspace CLI</a></li>
+<li><a href="https://www.huawei.com/en/news/2026/3/mwc-superpod-ai">Huawei Unveiled the Latest SuperPoD, Making an AI Infrastructure New Option to the World - Huawei</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-unveils-atlas-950-supercluster-touting-1-fp4-zettaflops-performance-for-ai-inference-and-524-fp8-exaflops-for-ai-training-features-hundreds-of-thousands-of-950dt-apus">Huawei unveils Atlas 950 SuperCluster — promises 1 ZettaFLOPS FP4 performance and features hundreds of thousands of 950DT APUs | Tom's Hardware</a></li>
+<li><a href="https://www.techradar.com/pro/huawei-debuts-its-atlas-950-ai-superpod-at-mwc-2026-taking-the-ai-data-center-fight-to-nvidia-and-amd">Huawei debuts its Atlas 950 AI SuperPoD at MWC 2026, taking the AI data center fight to Nvidia and AMD</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments are divided: some criticize Poehnelt for poor judgment in releasing a tool that could be confused with an official product, while others argue that Google's bureaucracy stifles innovation and that the firing was an overreaction. Several commenters note that similar projects were previously tolerated at Google.
-
-**Tags**: `#Google`, `#open source`, `#corporate policy`, `#CLI`, `#employment`
+**Tags**: `#Huawei`, `#AI hardware`, `#WAIC`, `#Atlas 950 SuperPoD`, `#large-scale training`
 
 ---
 
 <a id="item-2"></a>
-## [California AB 2047 restricts 3D printers in schools](https://www.the3dprintingnerd.com/ab2047) ⭐️ 8.0/10
+## [Anthropic's Mythos AI Finds Flaws in US Classified Systems](https://www.ithome.com/0/967/860.htm) ⭐️ 8.0/10
 
-California Assembly passed AB 2047, the Firearm Printing Prevention Act, which would require 3D printers to incorporate technology to prevent the printing of firearms, effectively making them off-limits to students, educators, and businesses that cannot comply. This bill could stifle 3D printing education and innovation in California, setting a precedent for similar regulations nationwide and sparking debate about the feasibility of enforcing content-based restrictions on 3D printers. The bill requires 3D printer manufacturers to implement technology that blocks the printing of firearm components, but critics argue that such technology is not currently feasible because printers cannot distinguish intent from code.
+A US government official revealed that Anthropic's Mythos AI model identified multiple vulnerabilities in highly classified government computer systems within hours during a test conducted with intelligence agencies. This demonstration underscores AI's potential as a powerful offensive cybersecurity tool, raising urgent questions about national security risks and the need for strict safeguards on advanced AI models. The test was part of Anthropic's Project Glasswing, which aims to protect critical software systems. Senator Mark Warner cited the test, noting the tool breached nearly all classified systems in hours, not weeks.
 
-hackernews · Buildstarted · Jun 23, 22:12 · [Discussion](https://news.ycombinator.com/item?id=48652184)
+rss · IT之家 · Jun 24, 05:04
 
-**Background**: 3D printers create physical objects from digital models by depositing material layer by layer. Concerns about 3D-printed "ghost guns" have led to legislative efforts to restrict access, but technical challenges remain in enforcing such restrictions without hindering legitimate use.
+**Background**: Mythos is a cybersecurity-focused AI model developed by Anthropic, designed to find software vulnerabilities. Due to safety concerns, access to Mythos is tightly controlled, and the US government recently restricted foreign nationals from using it. Project Glasswing is an industry-wide initiative to secure critical infrastructure using advanced AI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.everytown.org/press/california-assembly-passes-landmark-bill-to-stop-the-rise-of-3d-printed-ghost-guns/">California Assembly Passes Landmark Bill to Stop the Rise of 3D-Printed Ghost Guns</a></li>
-<li><a href="https://legiscan.com/CA/text/AB2047/id/3438106">Bill Text: CA AB2047 | 2025-2026 | Regular Session | Amended - LegiScan</a></li>
-<li><a href="https://www.timesunion.com/capitol/article/regulations-3d-printers-passed-still-face-long-22277140.php">NY moves to ban 3D printers that make guns, but can it be enforced? - Times Union</a></li>
+<li><a href="https://www.reddit.com/r/Anthropic/comments/1sfk639/claude_mythos_the_model_anthropic_is_too_scared/">Claude Mythos: The Model Anthropic is Too Scared to Release - Reddit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Project_Glasswing">Project Glasswing</a></li>
+<li><a href="https://arstechnica.com/civis/threads/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model.1512468/">Anthropic limits access to Mythos, its new cybersecurity AI model | Ars OpenForum</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism about enforceability, with one noting that even simple workarounds like printing in halves can bypass restrictions. Another pointed out that similar bills may be funded by Bloomberg, suggesting political motivations.
-
-**Tags**: `#3D printing`, `#regulation`, `#education`, `#technology policy`, `#censorship`
+**Tags**: `#AI security`, `#vulnerability detection`, `#government systems`, `#Anthropic`, `#national security`
 
 ---
 
 <a id="item-3"></a>
-## [AI Hiring Tools Amplify Racial Bias, Study Finds](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection) ⭐️ 8.0/10
+## [Alibaba Qwen Releases First Native Language World Model](https://www.ithome.com/0/967/843.htm) ⭐️ 8.0/10
 
-A Stanford study published in May 2025 analyzed 83,000 applicants across 100 Fortune 500 companies using the pymetrics assessment tool, revealing that algorithmic hiring creates monocultures that amplify racial bias and systematically reject qualified candidates. This research provides rare empirical evidence inside the 'black box' of algorithmic hiring, showing that widespread adoption of a single AI vendor can lock out entire demographic groups and exacerbate systemic inequality in the labor market. The study focused on pymetrics, a gamified assessment tool, not CV-screening AI or large language models. It found that as one vendor dominates an industry, the same candidates—often from minority backgrounds—are repeatedly rejected across multiple employers.
+Alibaba's Qwen team has released Qwen-AgentWorld, the first native language world model that simulates agent interaction environments across seven domains, including text-based (MCP, Search, Terminal, SWE) and GUI-based (Web, OS, Android) environments. The model comes in two sizes: 35B-A3B and 397B-A17B, and outperforms GPT-5.4 and Claude Opus 4.8 on the AgentWorldBench benchmark. This work demonstrates that language world models can serve as a scalable and controllable environment simulator for training general-purpose agents, potentially reducing reliance on real-world interactions. It also opens a new scaling path for AI agents by enabling knowledge transfer across diverse domains within a single model. The model is trained via a three-stage pipeline: continued pre-training (CPT) to inject environment knowledge, supervised fine-tuning (SFT) to activate next-state prediction, and reinforcement learning (RL) to improve simulation fidelity. The accompanying AgentWorldBench benchmark includes real-world interaction trajectories from five frontier models across nine established benchmarks.
 
-hackernews · sizzle · Jun 23, 18:56 · [Discussion](https://news.ycombinator.com/item?id=48649673)
+rss · IT之家 · Jun 24, 03:45
 
-**Background**: Algorithmic hiring tools use machine learning to screen, rank, or assess job applicants, promising efficiency and objectivity. However, they can inherit and amplify biases present in historical hiring data. The concept of 'algorithmic monoculture' refers to the risk when many employers rely on the same AI system, leading to uniform exclusion patterns.
+**Background**: Language world models (LWMs) aim to simulate environment dynamics using language models, enabling agents to learn and plan without direct real-world interaction. Unlike traditional world models that are often domain-specific, Qwen-AgentWorld covers seven diverse domains in a single model, leveraging over 10 million real-world interaction trajectories. The three-stage training (CPT→SFT→RL) ensures that world modeling is a core objective from the beginning, rather than an afterthought.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection">AI Hiring Tools Can Yield Racial Bias and Systemic Rejection | Stanford HAI</a></li>
+<li><a href="https://arxiv.org/abs/2606.24597">[2606.24597] Qwen-AgentWorld: Language World Models for General Agents - arXiv</a></li>
+<li><a href="https://github.com/QwenLM/Qwen-Agent">GitHub - QwenLM/Qwen-Agent: Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.</a></li>
+<li><a href="https://huggingface.co/papers/2606.24597">Paper page - Qwen-AgentWorld: Language World Models for General Agents</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters raised concerns about the study's methodology, with some noting that the paper focuses on assessment tools rather than AI or LLMs, and questioning how race was determined. Others emphasized the systemic risk of monoculture, arguing that even unbiased AI can lock out groups if widely adopted.
-
-**Tags**: `#AI ethics`, `#algorithmic bias`, `#hiring`, `#fairness`, `#machine learning`
+**Tags**: `#AI`, `#large language models`, `#world model`, `#agent`, `#Alibaba`
 
 ---
 
 <a id="item-4"></a>
-## [SpaceX Starfall Return Capsule Completes First Flight](https://www.ithome.com/0/967/717.htm) ⭐️ 8.0/10
+## [Jamendo Sues Nvidia Over Unauthorized Music Use for AI Training](https://www.ithome.com/0/967/838.htm) ⭐️ 8.0/10
 
-SpaceX's Starfall return capsule completed its first flight on June 23, 2026, launched atop a Falcon 9 rocket from Cape Canaveral. The capsule is designed to carry up to 1000 kg of payloads back to Earth for scientific and manufacturing purposes. Starfall provides a low-cost, routine return capability for space experiments and manufactured goods, potentially accelerating in-space manufacturing and research. It is significantly larger than existing return capsules like Varda's W-series, enabling larger payloads. The capsule measures 3.1 meters in diameter and 0.75 meters in height, with a carbon fiber heat shield and cold gas (nitrogen) attitude control. It separates into two sections during reentry: the upper section houses payloads and avionics, while the lower section contains compressed gas for maneuvering.
+Music platform Jamendo has filed a lawsuit against Nvidia in California federal court, alleging that Nvidia used over 55,000 songs from the MTG-Jamendo dataset without authorization to train its AI models Fugatto and Audio Flamingo, seeking damages exceeding 17.8 million euros. This case highlights the growing tension between AI companies and content creators over the use of copyrighted data for training, potentially setting a precedent for data licensing in the AI industry. The MTG-Jamendo dataset was created jointly by Jamendo and the Music Technology Group of Pompeu Fabra University, and is licensed only for non-commercial research; Nvidia's technical papers explicitly cited the dataset as a training source for Fugatto and Audio Flamingo.
 
-rss · IT之家 · Jun 23, 23:39
+rss · IT之家 · Jun 24, 03:33
 
-**Background**: SpaceX's Starfall is a cargo-only return capsule that can be launched on Falcon 9 or Falcon Heavy. It is designed for missions requiring payload return from low Earth orbit or suborbital flights. The capsule lacks its own propulsion and relies on the rocket's upper stage for deorbit. Varda Space has previously demonstrated similar technology with smaller W-series capsules.
+**Background**: The MTG-Jamendo dataset is an open dataset for music auto-tagging, containing over 55,000 full audio tracks with 195 tags. It is publicly available for non-commercial academic use only. Nvidia's Fugatto and Audio Flamingo are AI models for audio generation and understanding.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=IrVeYmLouSU">Falcon 9 - Starfall Demo Mission - SLC-40 - Cape Canaveral SFS - June 23, 2026</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Varda_Space_Industries">Varda Space Industries - Wikipedia</a></li>
-<li><a href="https://www.varda.com/platform">Built for orbital material production and reentry - Varda Space Industries</a></li>
+<li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#space technology`, `#return capsule`, `#space manufacturing`, `#aerospace`
+**Tags**: `#AI`, `#copyright`, `#Nvidia`, `#music`, `#lawsuit`
 
 ---
 
 <a id="item-5"></a>
-## [Real-time adaptive DBS improves gait in Parkinson's](https://36kr.com/newsflashes/3866385812509699?f=rss) ⭐️ 8.0/10
+## [SoftBank's Son Plans World's Largest Data Center, Sees 10x Growth for Arm](https://www.ithome.com/0/967/832.htm) ⭐️ 8.0/10
 
-Researchers at UCSF developed a novel deep brain stimulation system that reads neural signals in real-time to automatically adjust stimulation intensity during each step, improving gait and reducing falls in Parkinson's patients. The study was published in Nature Medicine. This is the first demonstration that an implantable brain stimulator can detect step-related neural signals and adjust stimulation within milliseconds, opening a new chapter in personalized neuromodulation. It addresses one of the most difficult-to-treat symptoms of Parkinson's disease—gait impairment. The system was tested in four Parkinson's patients who received implanted electrodes and a neural stimulator for brain sensing and feedback control. The adaptive stimulation adjusted in real-time based on neural signals associated with each step.
+SoftBank Group Chairman Masayoshi Son announced at the annual shareholder meeting on June 24 that Arm will evolve from a chip designer to a chip provider and will participate in manufacturing. He also revealed plans to build the world's largest data center in Ohio, USA, which will consume power equivalent to 10 nuclear power plants. This announcement signals a major shift in the AI infrastructure landscape, with SoftBank's massive investment in data centers and Arm's expansion into chip manufacturing potentially reshaping the semiconductor industry. Arm's growth could challenge dominant players like Intel and Nvidia in the AI era. Son mentioned that SoftBank's investment of about 300 billion yen in Intel has yielded profits of several trillion yen in market value. Arm CEO Rene Haas previously indicated that Arm is investing in Compute Sub Systems (CSS) and may manufacture chiplets or other physical products beyond chip design.
 
-rss · 36氪 · Jun 23, 23:49
+rss · IT之家 · Jun 24, 03:27
 
-**Background**: Deep brain stimulation (DBS) is a therapy that uses electrical impulses to modulate specific neural circuits, commonly used for Parkinson's disease. Traditional DBS delivers constant stimulation, but adaptive DBS aims to adjust stimulation in real-time based on the patient's neural state, potentially improving efficacy and reducing side effects.
+**Background**: SoftBank is a Japanese conglomerate with a major stake in Arm, a British chip design company whose architecture powers most smartphones worldwide. The AI boom has driven demand for specialized chips and massive data centers, with power consumption becoming a critical constraint. Arm has traditionally licensed designs to partners like Apple and Qualcomm, but now plans to enter manufacturing.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gotac.cn/article_read_102.html">上海国泰医院投资管 理 有限公司</a></li>
-<li><a href="https://www.tmtpost.com/7560598.html">tmtpost.com/7560598.html</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#neuroscience`, `#Parkinson's disease`, `#deep brain stimulation`, `#medical technology`, `#Nature Medicine`
+**Tags**: `#SoftBank`, `#Arm`, `#data center`, `#AI`, `#chip manufacturing`
 
 ---
 
 <a id="item-6"></a>
-## [Datasette 1.0a35 Adds Create/Alter Table Interfaces](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) ⭐️ 7.0/10
+## [Volcengine President: Model Quality is Key for MaaS, Doubao 2.1 Pro is Competitive](https://36kr.com/p/3865912900588548?f=rss) ⭐️ 8.0/10
 
-Datasette 1.0a35 introduces a 'Create table' interface and an 'Alter table' interface, both backed by new JSON APIs, along with stable template context documentation. These features significantly enhance Datasette's utility for database management, moving it closer to a full-featured data platform and marking a major step toward the 1.0 release. The create table API supports defining columns, primary keys, custom types, NOT NULL constraints, defaults, and single-column foreign keys; the alter table API supports adding, renaming, reordering, and dropping columns, as well as changing types, defaults, constraints, and table name.
+Volcengine launched Doubao 2.1 Pro, a flagship model that achieves competitive coding and agent capabilities, matching Claude Opus 4.7 on the Terminal Bench benchmark. The company also released Seedance 2.0 4K, Seedream 5.0, and a speech generation model, with daily token consumption reaching 180 trillion. This marks a significant milestone for ByteDance's AI ecosystem, as Doubao 2.1 Pro enters the top tier of coding models, enabling enterprise-grade production use. Volcengine's MaaS business is now a leading player in China, with token consumption growing 1500x in two years, signaling the rapid adoption of AI in core production workflows. Doubao 2.1 Pro achieves parity with Claude Opus 4.7 on Terminal Bench, excelling in long-horizon and complex tasks. Volcengine's daily token consumption reached 180 trillion, up 50% from end of 2025, and the number of 'trillion club' customers doubled to over 200.
 
-rss · Simon Willison · Jun 23, 21:34
+rss · 36氪 · Jun 24, 01:00
 
-**Background**: Datasette is an open-source tool for exploring and publishing data, especially SQLite databases. It provides a web interface and a JSON API for querying and interacting with data. Prior to this release, Datasette lacked built-in interfaces for creating or altering table schemas, requiring users to use external tools.
+**Background**: MaaS (Model as a Service) is a cloud service model where AI models are offered via APIs, allowing businesses to integrate AI without managing infrastructure. Volcengine, ByteDance's cloud arm, has aggressively grown its MaaS business since 2024, initially competing on price but now focusing on model quality as models enter production-grade coding and video generation.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://simonwillison.net/2026/Jun/18/datasette-apps/">Datasette Apps: Host custom HTML applications inside Datasette</a></li>
-<li><a href="https://datasette.io/blog/2026/datasette-apps/">Host applications inside Datasette with Datasette ... - Datasette Blog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#datasette`, `#data tools`, `#Python`, `#SQLite`, `#release`
+**Tags**: `#MaaS`, `#AI models`, `#Volcengine`, `#coding`, `#industry analysis`
 
 ---
 
 <a id="item-7"></a>
-## [Study: AI Disclosure Cuts Game Reviews by 53%](https://www.ithome.com/0/967/724.htm) ⭐️ 7.0/10
+## [Vulnerability Reports Lose Special Status Due to Automation](https://words.filippo.io/vuln-reports/) ⭐️ 7.0/10
 
-A study by Game Oracle analyzing 9,879 games released from January to October 2025 found that disclosing AI use in development reduces the number of player reviews by approximately 53%, after controlling for variables like publisher, team experience, and genre. This finding provides concrete evidence that AI disclosure negatively impacts player engagement, especially for high-quality games, which could influence developer decisions on whether to disclose AI use and how to communicate it to players. The negative effect is stronger for larger, more experienced teams, while low-quality games show little difference regardless of AI use. The study also notes that games like The Finals succeeded despite heavy AI use, suggesting that the manner of AI implementation matters.
+An article argues that vulnerability reports are no longer special because LLMs and automation have made them abundant and often spammy, changing the security landscape. This shift undermines the trust and seriousness traditionally associated with vulnerability disclosures, potentially causing real security issues to be overlooked amid noise. The author notes that LLMs can now find bugs as effectively as human researchers, and many reports are either automated scans or extortion attempts, overwhelming recipients.
 
-rss · IT之家 · Jun 24, 00:11
+hackernews · goranmoomin · Jun 23, 23:42 · [Discussion](https://news.ycombinator.com/item?id=48653216)
 
-**Background**: Generative AI tools have become increasingly common in game development for tasks like asset creation, dialogue generation, and prototyping. However, player sentiment toward AI-generated content has been mixed, with some viewing it as a cost-cutting measure that reduces quality. Steam and other platforms have introduced disclosure requirements for AI-generated content, making transparency a key issue.
+**Background**: Vulnerability reports are formal notifications of security flaws in software, traditionally handled with care by vendors. The rise of LLMs has enabled mass automated bug hunting, flooding systems with low-quality reports.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.game-oracle.com/blog/ai-part2">AI in Games: The Impact On Sales - Game Oracle</a></li>
+<li><a href="https://arxiv.org/html/2510.14700v1">LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?</a></li>
+<li><a href="https://blog.knowbe4.com/bogus-bug-reports-as-phishbait-scams">Bogus Bug Reports as Phishbait, Scams</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#game development`, `#player perception`, `#market research`
+**Discussion**: Commenters highlight the spam problem, with one receiving 2-5 unsolicited reports weekly, half from LLMs finding trivial issues. Some believe the situation is temporary as LLMs improve both bug finding and fixing, while others call for better software engineering practices.
+
+**Tags**: `#security`, `#vulnerability reports`, `#LLMs`, `#software engineering`, `#automation`
 
 ---
 
 <a id="item-8"></a>
-## [US Pressures Meta to Agree to AI Safety Review](https://www.ithome.com/0/967/706.htm) ⭐️ 7.0/10
+## [Meta Pauses Employee-Tracking Program After Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/) ⭐️ 7.0/10
 
-The Trump administration is pressuring Meta to voluntarily submit its AI models for safety review by the US government, as Meta remains the only major AI developer that has not yet signed such an agreement. This move highlights the growing regulatory scrutiny on AI safety and could set a precedent for mandatory compliance, affecting how AI models are developed and deployed across the industry. Meta launched its Muse Spark AI model in April, but has not yet agreed to share models with the US AI Safety Institute (AISI). Other companies like OpenAI, Google, and Microsoft have already signed voluntary review agreements.
+Meta has paused its employee-tracking program following an internal data leak that exposed the extent of surveillance on workers, including screenshots of private conversations and performance data. This incident highlights serious privacy and trust concerns within Meta, raising questions about corporate ethics and the treatment of employees, and may have broader implications for workplace surveillance practices in the tech industry. The leaked data included plain-text private conversations and performance information from full-screen recordings, which were supposed to be anonymized but were not. The program's pause follows criticism about its invasiveness.
 
-rss · IT之家 · Jun 23, 22:56
+hackernews · 1vuio0pswjnm7 · Jun 24, 00:28 · [Discussion](https://news.ycombinator.com/item?id=48653575)
 
-**Background**: The US government established the AI Safety Institute to evaluate frontier AI models for risks and vulnerabilities. Voluntary review agreements allow the government to assess models before public release, aiming to prevent potential harms.
+**Background**: Meta has faced repeated scrutiny over privacy practices, both externally with user data and internally with employee monitoring. The company's employee-tracking program involved recording screens and monitoring communications, raising ethical and legal questions.
 
-**Tags**: `#AI safety`, `#regulation`, `#Meta`, `#US government`, `#AI governance`
+**Discussion**: Community comments are highly critical, with users calling Meta 'shameless' and predicting a 'death spiral.' Some highlight the irony of a company that violates user privacy surveilling its own employees, while others note legal risks in discovery.
+
+**Tags**: `#privacy`, `#surveillance`, `#Meta`, `#data leak`, `#corporate ethics`
 
 ---
 
 <a id="item-9"></a>
-## [CITIC Securities: Compute and Power Supply Chains Offer Long-Term Value](https://36kr.com/newsflashes/3866430062269705?f=rss) ⭐️ 7.0/10
+## [Swift Package Index Joins Apple, Stays Open Source](https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/) ⭐️ 7.0/10
 
-CITIC Securities released a research report recommending long-term allocation to compute and power supply chains, driven by massive AI token demand, policy support, and supply chain dynamics. This analysis from a major financial institution signals that AI infrastructure investment is shifting from hype to sustained capital deployment, affecting investors, chipmakers, and energy providers globally. The report highlights that China's 'six networks' initiative will bring trillions in compute investment, while domestic chips, storage, and optical communications face large-scale import substitution opportunities. It also notes that compute construction boosts demand for metals like copper and tin, and that IDC REITs broaden funding sources.
+The Swift Package Index, a community-run package search engine, is joining Apple while pledging to remain open source and continue its independent operation. This move ensures the long-term sustainability of a critical tool for the Swift ecosystem, potentially leading to deeper integration with Apple's development tools while preserving community trust. The Swift Package Index currently indexes metadata from over 11,000 packages and automatically tests packages across platforms and Swift versions. Apple's acquisition is expected to bring resources without changing the project's open-source nature.
 
-rss · 36氪 · Jun 24, 00:16
+rss · 9to5Mac · Jun 23, 22:59
 
-**Background**: AI token demand refers to the computational processing required for large language models and other AI applications, which drives the need for data centers and power. 'Six networks' is a Chinese policy framework encompassing computing, power, and other infrastructure networks. IDC REITs are real estate investment trusts focused on data centers, providing a way to finance infrastructure expansion.
+**Background**: The Swift Package Index is a community-driven website that helps developers discover Swift packages and check their compatibility. It complements the Swift Package Manager, Apple's official tool for distributing Swift code. The index has become essential for the Swift ecosystem since its launch.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.datacenterknowledge.com/investing/data-center-reits-a-guide-to-investing-in-digital-infrastructure">Data Center REITs: A Guide to Investing in Digital Infrastructure</a></li>
+<li><a href="https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/">Swift Package Index joins Apple, pledges to remain open source - 9to5Mac</a></li>
+<li><a href="https://swiftpackageindex.com/">Swift Package Index</a></li>
+<li><a href="https://www.reddit.com/r/swift/comments/1udurjg/swift_package_index_update/">Swift Package Index Update : r/swift - Reddit</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#investment`, `#compute`, `#power`, `#supply chain`
+**Discussion**: The Reddit community expressed cautious optimism, with many appreciating the commitment to open source but some questioning how independent the project will remain under Apple.
+
+**Tags**: `#Swift`, `#Package Manager`, `#Open Source`, `#Apple`
 
 ---
 
 <a id="item-10"></a>
-## [Groq Raises $650M to Expand AI Inference Cloud, Targets 200 MW by 2027](https://36kr.com/newsflashes/3866429031716103?f=rss) ⭐️ 7.0/10
+## [Datasette 1.0a35 Adds Create/Alter Table UI and JSON APIs](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) ⭐️ 7.0/10
 
-AI chip startup Groq announced on June 22 that it raised $650 million in a new growth round led by Disruptive and Infinitum, with participation from existing investors. The funds will be used to accelerate data center infrastructure upgrades and expand total capacity to 200 megawatts by the end of 2027. This funding round signals strong investor confidence in Groq's AI inference technology and its ability to compete with established players like Nvidia. The planned capacity expansion to 200 MW could significantly increase the availability of specialized AI inference cloud services, potentially lowering costs and improving performance for AI applications. The funding will also be used to deploy Nvidia's latest LPX systems in existing data centers. Groq's custom LPU (Language Processing Unit) architecture is designed specifically for AI inference, offering low latency and high throughput for large language models.
+Datasette 1.0a35 introduces a new 'Create table' interface and 'Alter table' action, both backed by JSON APIs, allowing users to modify database schemas directly from the web UI. The release also includes stable template context documentation for custom templates. This release significantly enhances Datasette's usability by enabling schema modifications without external tools, making it a more complete data exploration and publishing platform. The stable template context API also benefits developers building custom interfaces on top of Datasette. The 'Create table' API supports defining columns, primary keys, custom column types, NOT NULL constraints, literal/expression defaults, and single-column foreign keys. The 'Alter table' API supports adding, renaming, reordering, and dropping columns, as well as changing types, defaults, constraints, primary keys, foreign keys, and table name, plus a 'Drop table' button.
 
-rss · 36氪 · Jun 24, 00:15
+rss · Simon Willison · Jun 23, 21:34
 
-**Background**: Groq is an AI chip startup that develops custom hardware for AI inference, focusing on low-latency performance for large language models. The company's LPU architecture differs from traditional GPUs by using a deterministic, dataflow-based design. This funding round comes amid growing demand for AI inference infrastructure as more companies deploy generative AI applications.
-
-**Tags**: `#AI chips`, `#funding`, `#cloud computing`, `#hardware`
-
----
-
-<a id="item-11"></a>
-## [Modular Nanorobots Self-Assemble for Targeted Drug Delivery](https://36kr.com/newsflashes/3866386287219712?f=rss) ⭐️ 7.0/10
-
-Researchers at the University of Basel have developed a modular nanoscale drug-delivery robot that self-assembles from reusable propulsion and payload modules, and can target cancer cells to reduce their activity. The findings were published in the journal Advanced Functional Materials. This modular design allows for flexible and reusable components, potentially lowering costs and enabling customization for different therapeutic or industrial applications. It represents a step toward practical nanorobots for precision medicine. The robot consists of two main modules: a propulsion module and a payload module, which can be combined in different configurations. The study demonstrated that the assembled nanorobots can target cancer cells and reduce their viability in vitro.
-
-rss · 36氪 · Jun 23, 23:51
-
-**Background**: Nanomedicine aims to deliver drugs precisely to diseased cells, but building functional nanorobots is challenging due to their tiny size. Modular design, inspired by LEGO-like assembly, allows different functional parts to be combined and reused. Previous nanorobots have been proposed for tasks like thrombolysis and tumor embolization, but clinical translation remains limited.
+**Background**: Datasette is an open-source tool for exploring and publishing relational databases, typically SQLite. It provides a web interface and JSON API for querying data. Prior to this release, creating or altering tables required using SQL commands directly or external plugins, which was less accessible for non-technical users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.sciencenet.cn/htmlnews/2021/5/458821.shtm">news.sciencenet.cn/htmlnews/2021/5/458821.shtm</a></li>
+<li><a href="https://github.com/simonw/datasette/pull/2789">Create table, alter table - APIs and modals by simonw · Pull Request #2789 · simonw/datasette</a></li>
+<li><a href="https://docs.datasette.io/en/latest/changelog.html">Changelog - Datasette documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#纳米技术`, `#药物递送`, `#机器人`, `#癌症治疗`, `#材料科学`
+**Tags**: `#datasette`, `#release`, `#database`, `#JSON API`, `#open source`
+
+---
+
+<a id="item-11"></a>
+## [AI × OPC: One Person, One Company](https://36kr.com/p/3866649515938825?f=rss) ⭐️ 7.0/10
+
+A roundtable at the 2026 WAVES conference discussed how AI enables One Person Companies (OPCs), with cloud user demographics shifting: only 20% are traditional developers, while 35% are product/operations and 21% are business owners. This signals a paradigm shift where individuals can now operate with near-corporate productivity, lowering barriers to entrepreneurship and reshaping cloud platform design to serve non-technical users. OPCs leverage code and media as near-zero marginal cost leverage, with AI tools handling repetitive tasks while founders focus on high-value decisions. The ecosystem relies on symbiotic relationships with platforms for infrastructure and scale.
+
+rss · 36氪 · Jun 24, 04:00
+
+**Background**: One Person Company (OPC) is a legal entity with a single shareholder, distinct from sole proprietorship. AI productivity parity means AI tools now enable individuals to perform tasks that previously required teams, democratizing capabilities like coding, design, and marketing.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.facebook.com/companycrc/posts/one-person-company-opc-is-a-relatively-new-concept-in-many-jurisdictions-includi/905581658247542/">Just like any other company, OPC is considered a separate legal entity from its owner. This ...</a></li>
+<li><a href="https://www.lexology.com/library/detail.aspx?g=2a647da8-d247-4375-9f1f-eff3754e377e">One Person Company- a concept for new age business ownership - Lexology</a></li>
+<li><a href="https://www.geeksforgeeks.org/business-studies/one-person-company-meaning-and-characteristics/">One Person Company: Meaning and Characteristics - GeeksforGeeks</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#One Person Company`, `#cloud computing`, `#entrepreneurship`, `#productivity`
 
 ---
 
 <a id="item-12"></a>
-## [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) ⭐️ 7.0/10
+## [China Halts New Cross-Border TRS for Private Funds](https://36kr.com/newsflashes/3866636156556289?f=rss) ⭐️ 7.0/10
 
-Superhuman, the company behind Grammarly's AI detection tool, has acquired GPTZero, a three-year-old AI detection startup founded by Princeton graduate Edward Tian. The acquisition was announced on June 23, 2026. This acquisition signals consolidation in the AI detection market, as major players integrate specialized startups to enhance their offerings. It could lead to more robust and integrated AI detection features within Grammarly and Superhuman's products, affecting how users verify AI-generated content. GPTZero was originally built as a senior thesis project by Edward Tian at Princeton University and has been trained to detect outputs from models like ChatGPT, GPT-4, Bard, and LLaMa. Superhuman already offers an AI detection feature within its platform, and this acquisition is expected to further improve its capabilities.
+On June 24, multiple private fund managers in China received notices from brokerages that regulators are suspending new cross-border total return swaps (TRS) for private funds. This move restricts a key channel for Chinese private funds to invest in overseas tech stocks without capital leaving the country, potentially affecting capital flows into global tech markets and increasing volatility for affected strategies. The suspension follows a broader crackdown on illegal cross-border securities activities, including recent actions against overseas brokerages like Tiger Brokers and Futu. Private funds had increasingly used TRS to gain exposure to overseas tech stocks after those restrictions.
+
+rss · 36氪 · Jun 24, 03:45
+
+**Background**: A total return swap (TRS) is a derivative contract where one party receives the total return of an asset (including income and capital gains) in exchange for a fixed or floating payment. Chinese private funds use cross-border TRS to obtain returns on overseas assets without actually transferring funds abroad, effectively bypassing capital controls. The recent regulatory action is part of China's ongoing efforts to tighten oversight of cross-border capital flows and curb illegal securities trading.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Total_return_swap">Total return swap - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/t/totalreturnswap.asp">Understanding Total Return Swaps: Definition, Function, and Examples</a></li>
+<li><a href="https://finance.yahoo.com/news/exclusive-chinese-brokers-restrict-cross-121952575.html">Exclusive-Chinese brokers restrict cross-border swaps as stocks plunge - sources</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#regulation`, `#finance`, `#cross-border investment`, `#China`, `#tech stocks`
+
+---
+
+<a id="item-13"></a>
+## [Superhuman Acquires AI Detection Startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) ⭐️ 7.0/10
+
+Superhuman, the company behind the AI detection tool in Grammarly, has acquired GPTZero, a three-year-old AI detection startup founded by Princeton graduate Edward Tian. This acquisition consolidates the AI detection market and signals growing strategic importance of AI authenticity tools for productivity platforms. GPTZero was originally built as Edward Tian's senior thesis project at Princeton and co-founded with Alex Cui in 2023. The tool has faced criticism for false positive rates in detecting AI-generated text.
 
 rss · TechCrunch · Jun 23, 21:48
 
-**Background**: AI detection tools are designed to identify text generated by large language models (LLMs) like GPT-4, helping users distinguish between human-written and AI-generated content. As AI writing tools become widespread, demand for reliable detection has grown, especially in education, journalism, and content moderation. Superhuman operates Grammarly, a popular writing assistant, and has been integrating AI detection features to promote responsible AI use.
+**Background**: GPTZero is an AI detection software designed to identify text generated by large language models like GPT-4. It gained popularity in education to combat academic dishonesty, but has been criticized for inaccuracies. Superhuman, known for its productivity tools, already had an AI detection feature within Grammarly.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/">Superhuman acquires AI detection startup GPTZero | TechCrunch</a></li>
 <li><a href="https://en.wikipedia.org/wiki/GPTZero">GPTZero - Wikipedia</a></li>
-<li><a href="https://help.superhuman.com/hc/en-us/articles/46242198434445-AI-Detector-user-guide">AI Detector user guide - Superhuman Help Center</a></li>
+<li><a href="https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6">Superhuman Acquires GPTZero to Enhance AI Authenticity Tools - Business Insider</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#acquisition`, `#AI detection`, `#startup`
+**Tags**: `#AI`, `#acquisition`, `#AI detection`, `#startup`, `#Superhuman`
 
 ---
 
-<a id="item-13"></a>
+<a id="item-14"></a>
+## [Headroom: Compress LLM Inputs to Cut Tokens 60-95%](https://github.com/chopratejas/headroom) ⭐️ 7.0/10
+
+A new open-source Python tool called Headroom compresses tool outputs, logs, files, and RAG chunks before sending them to LLMs, reducing token usage by 60-95% while preserving answer quality. This addresses the growing cost and latency issues in LLM workflows, especially for RAG and log analysis, making it more affordable and faster for developers to process large inputs without sacrificing accuracy. Headroom offers three modes: a Python library, a proxy server, and an MCP server, allowing flexible integration into existing pipelines. The claimed compression ratio is 60-95% token reduction with no change in answers.
+
+ossinsight · chopratejas · Jun 24, 05:23
+
+**Background**: Token compression is an optimization technique that reduces the number of tokens in an input sequence before processing by an LLM, lowering computational cost and latency. RAG (Retrieval-Augmented Generation) often involves feeding large context chunks to LLMs, making compression particularly valuable. MCP (Model Context Protocol) is a standard for connecting LLMs with external tools and data sources.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.aussieai.com/research/token-compression">Token Compression</a></li>
+<li><a href="https://aembit.io/blog/how-to-create-an-mcp-server-to-connect-your-app-with-llms/">How To Create an MCP Server To Connect Your App With LLMs - Aembit</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#token compression`, `#RAG`, `#Python`, `#developer tools`
+
+---
+
+<a id="item-15"></a>
 ## [LastPass Warns Users of Another Data Breach via Partner](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 6.0/10
 
-LastPass has notified users of a new data breach that occurred through one of its outside partners, exposing personal data. This recurring breach at a major password manager undermines user trust and raises concerns about the security of third-party integrations. The breach involved stolen personal data, but no technical details about the attack or the affected partner have been disclosed.
+LastPass has notified users of a new data breach that occurred through one of its outside partners, exposing personal data. This recurring breach at a major password manager undermines user trust and raises concerns about the security of third-party integrations in critical security tools. The breach occurred through an outside partner, not LastPass's own systems, but personal data was still compromised. No further technical details have been released yet.
 
 rss · 9to5Mac · Jun 23, 21:48
 
-**Background**: LastPass is a popular password manager that stores users' login credentials in an encrypted vault. The company has experienced multiple security incidents in recent years, including a major breach in 2022 that exposed encrypted vault data.
+**Background**: LastPass is a popular password manager that stores users' login credentials in an encrypted vault. It has suffered multiple security incidents in recent years, including a major breach in 2022 that exposed encrypted vault data.
 
 **Tags**: `#security`, `#data breach`, `#password manager`, `#LastPass`
 
 ---
 
-<a id="item-14"></a>
-## [Chinese Developers File Antitrust Complaint Against Apple](https://9to5mac.com/2026/06/23/chinese-developers-file-antitrust-complaint-against-apple-over-app-store-fees/) ⭐️ 6.0/10
-
-48 Chinese developers filed an antitrust complaint against Apple, alleging unfairly high App Store fees and restrictive distribution rules. This complaint adds to global regulatory pressure on Apple's App Store practices and could influence antitrust policy in China and beyond. The complaint focuses on Apple's 30% commission on in-app purchases and restrictions on alternative app stores, which developers argue harm competition.
-
-rss · 9to5Mac · Jun 23, 20:17
-
-**Background**: Apple's App Store has faced antitrust scrutiny in multiple countries over its commission fees and walled-garden approach. In China, Apple holds a significant market share, and local developers have long criticized the high costs. Similar complaints have led to regulatory actions in the EU and South Korea.
-
-**Tags**: `#antitrust`, `#Apple`, `#App Store`, `#China`, `#regulation`
-
----
-
-<a id="item-15"></a>
-## [OPFS + Pyodide Test Harness for Datasette Lite](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) ⭐️ 6.0/10
-
-Simon Willison released a test harness that combines the Origin Private File System (OPFS) with Pyodide to explore persistent SQLite file editing in the browser for Datasette Lite. This could enable Datasette Lite to edit SQLite databases stored on the user's local machine, bridging the gap between web apps and local file persistence. The test harness is built using Claude Code for web and allows users to try OPFS with Pyodide across different browsers. It is an early-stage tool with limited functionality.
-
-rss · Simon Willison · Jun 23, 18:58
-
-**Background**: Datasette Lite runs the full Datasette Python web application in the browser via Pyodide (Python compiled to WebAssembly). The Origin Private File System (OPFS) is a browser API that provides a private, origin-specific file system for storing data persistently.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/simonw/datasette-lite">simonw/datasette-lite - GitHub</a></li>
-<li><a href="https://lite.datasette.io/">Datasette Lite</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#webassembly`, `#pyodide`, `#datasette-lite`, `#browser-storage`, `#sqlite`
-
----
-
 <a id="item-16"></a>
-## [Apple Vision Pro Tool RCP3 Absorbs The Machinery Game Engine](https://www.ithome.com/0/967/711.htm) ⭐️ 6.0/10
+## [Fully Homomorphic Encryption for AI Data Security](https://36kr.com/p/3866604451845377?f=rss) ⭐️ 6.0/10
 
-Apple's Reality Composer Pro 3 test build contains code references to the defunct game engine The Machinery, indicating integration of its flexible framework for Vision Pro content creation. This move strengthens Apple's 3D content ecosystem for Vision Pro by leveraging a proven, modular engine architecture, potentially accelerating development of immersive experiences. Developer Nicholas Alvarez found at least 40 instances of 'the machinery' or 'our machinery' in the RCP3 installer, and the resource handling and database organization closely mirror The Machinery's approach.
+At the WAVES 2026 conference, Chenyi Technology co-founder Yu Gongshan delivered a keynote on fully homomorphic encryption (FHE) as a solution to data security challenges in the AI era. He introduced a new database product that enables computation on encrypted data without decryption, achieving higher performance than traditional plaintext systems. As AI models become more powerful, traditional data security measures are increasingly vulnerable, especially when sensitive data is used for model training. Fully homomorphic encryption offers a way to use data without exposing it, potentially unlocking data sharing across industries like finance and healthcare while maintaining privacy. The product claims to be 100% self-developed with zero open-source code, achieving 37% higher performance than traditional plaintext systems while reducing hardware costs to below 38%. It uses lattice-based cryptography for quantum resistance and supports multi-modal data (vectors, graphs, time-series, etc.) in a unified engine.
 
-rss · IT之家 · Jun 23, 23:17
+rss · 36氪 · Jun 24, 03:14
 
-**Background**: The Machinery was a game engine developed by Our Machinery, founded by veterans of the Bitsquid/Stingray engine. It emphasized a plugin-based, highly flexible architecture but ceased development in mid-2022. Reality Composer Pro is Apple's 3D content authoring tool for spatial computing, used to build scenes and interactions for Vision Pro.
+**Background**: Fully homomorphic encryption (FHE) allows computation on encrypted data without decrypting it, a concept proposed in the 1970s but only realized in 2009 with lattice-based schemes. However, FHE has historically been too slow for practical use due to massive computational overhead. Chenyi Technology claims to have overcome this performance barrier.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2026/06/23/apple-reality-composer-pro-the-machinery/">Apple's Latest Vision Pro Tool Contains Traces of Defunct Game Engine 'The Machinery'</a></li>
-<li><a href="https://www.reddit.com/r/gamedev/comments/wd4qoh/our_machinery_extensible_engine_made_in_c_just/">Our Machinery, extensible engine made in C, just stopped being available : r/gamedev</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#Vision Pro`, `#game engine`, `#3D content`, `#Reality Composer`
-
----
-
-<a id="item-17"></a>
-## [Wikipedia Co-founder: AI Hallucinations Still Severe, No Direct Editing](https://www.ithome.com/0/967/709.htm) ⭐️ 6.0/10
-
-Wikipedia co-founder Jimmy Wales stated on June 24 that AI hallucinations remain very serious, so AI will not be allowed to directly edit Wikipedia articles, though it may help flag content for human editors. This highlights ongoing trust issues with AI reliability in content creation, affecting how major platforms like Wikipedia integrate AI. It also underscores the tension between AI companies using Wikipedia data and the need for fair compensation. Wales noted that human traffic to Wikipedia has dropped 8% while AI bot traffic increased, but he called this 'not a disaster' since Wikipedia's donation-based model doesn't rely on traffic. He urged AI companies to pay their fair share for server costs.
-
-rss · IT之家 · Jun 23, 23:16
-
-**Background**: AI hallucination refers to AI generating false or misleading information presented as fact, a common issue with large language models. Wikipedia relies on volunteer human editors to ensure accuracy, and its content is widely used to train and feed AI models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_hallucination">AI hallucination</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Wikipedia`, `#AI Hallucination`, `#Content Moderation`
+**Tags**: `#AI`, `#data security`, `#homomorphic encryption`, `#conference`
 
 ---
