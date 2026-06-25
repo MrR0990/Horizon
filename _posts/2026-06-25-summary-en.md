@@ -5,7 +5,7 @@ date: 2026-06-25
 lang: en
 ---
 
-> From 271 items, 40 important content pieces were selected
+> From 298 items, 36 important content pieces were selected
 
 ---
 
@@ -13,21 +13,33 @@ lang: en
 
 ## 🔭 Unknown Unknowns
 
-- [Zhuangzi's Critique of Meritocracy](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
+- [Human-Made Rocks Redefine Geology in the Anthropocene](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > A new essay on Aeon draws on the ancient Chinese philosopher Zhuangzi to argue that the concept of being self-made is an illusion, challenging the foundational beliefs of meritocracy. This perspective offers a rare philosophical critique of meritocracy, a system widely embraced in tech and business, and may prompt professionals to reconsider assumptions about success and deservingness. The essay, written by Christine Abigail L Tan, uses Zhuangzi's Daoist philosophy to deconstruct the notion of individual merit, emphasizing the role of luck, social context, and interconnectedness.
+  > John MacDonald's Aeon essay explores how human activity is creating new types of rocks, such as plastiglomerates and technofossils, that blur the boundary between natural and artificial, challenging traditional geology. This redefinition of geology for the Anthropocene forces scientists and society to reconsider what is 'natural' and how human impact will be preserved in the geological record for millions of years. The essay introduces concepts like 'technofossils'—geological evidence of human technology—and 'plastiglomerates', rocks formed from melted plastic and natural materials, which are already being found on beaches worldwide.
 
-- [16 Neanderthal Bones Rewrite Human Evolution Story](https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species) ⭐️ 9.0/10
+- [Nick Land's Dark Accelerationist Vision](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Aeon Video released a documentary exploring how the discovery of 16 Neanderthal bones in Germany fundamentally changed our understanding of human evolution and our species' place in nature. This discovery challenges long-held views of human uniqueness and forces a re-evaluation of our evolutionary history, impacting fields from paleoanthropology to philosophy. The 16 bones were found in the Neander Valley, Germany, and their analysis revealed that Neanderthals were not primitive brutes but complex beings who interbred with modern humans.
+  > An Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which views technological capitalism as an autonomous, inhuman force driving toward a post-human future. This essay challenges conventional tech optimism and political frameworks, offering a dark, speculative perspective that resonates with current debates on AI, automation, and the trajectory of capitalism. Land's accelerationism merges cybernetics, Deleuzian thought, and anti-humanism, positing that capitalism is a self-reinforcing, negentropic war machine that will ultimately abolish humanity.
 
-- [Anthropogenic Rocks: Blurring Natural and Human-Made](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [Polyvagal Theory: The Neurobiology of Connection](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > An Aeon essay introduces 'anthropogenic rocks' such as plastiglomerate and technofossils, which are geological materials that exist only because of human activity, challenging traditional definitions of natural and artificial. This concept redefines geology in the Anthropocene, highlighting humanity's profound and lasting impact on Earth's strata, and forces a rethinking of the boundary between the natural and the artificial. Plastiglomerate is a rock formed by molten plastic binding natural debris like sand and shells, while technofossils refer to human-made objects (e.g., plastics, concrete) that will persist in the geological record for millions of years.
+  > The article explores how polyvagal theory explains the autonomic nervous system's role in shaping emotional states, social bonds, and the dynamics of rupture and repair in relationships. This framework offers a new lens for understanding human behavior, particularly how safety and connection are rooted in neurobiology, which can transform approaches to mental health, trauma therapy, and interpersonal relationships. Polyvagal theory, introduced by Stephen Porges in 1994, proposes that the vagus nerve has two distinct branches—ventral and dorsal—that regulate social engagement and immobilization responses, respectively.
 
-- [Nick Land's Accelerationism: The No-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Jeanne Villepreux-Power: Seamstress, Aquarium Inventor, Octopus Pioneer](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
 
-  > Aeon essay explores Nick Land's accelerationist philosophy, which envisions a post-human future driven by unchecked technological and capitalist acceleration, and notes its influence on both terrorists and tech bros. Accelerationism has moved from a fringe academic idea to a real-world force, influencing Silicon Valley's effective accelerationism (e/acc) movement and extremist groups, making it crucial to understand its darker implications. Nick Land, a key figure in the Cybernetic Culture Research Unit (CCRU), argues that accelerating capitalism and technology will lead to a 'technological singularity' beyond human control, rejecting human-centric values.
+  > An essay highlights the forgotten story of Jeanne Villepreux-Power, a 19th-century seamstress turned naturalist who invented the first glass aquarium in 1832 and proved that argonauts produce their own shells, laying groundwork for octopus intelligence studies. This story corrects historical oversight by recognizing a female pioneer whose inventions and discoveries underpin modern marine biology and cephalopod intelligence research, inspiring a more inclusive view of scientific history. Villepreux-Power's aquarium allowed systematic observation of aquatic life, and her experiments with Argonauta argo disproved the belief that argonauts used discarded shells. She became the first female member of the Accademia Gioenia di Catania in 1832.
+
+---
+
+## 🧬 Human Nature & Behavior
+
+- [How Superintelligence Might Kill Moloch](https://www.lesswrong.com/posts/NFLKoWSAfhymjR2Yb/how-to-kill-moloch) ⭐️ 9.0/10
+
+  > A LessWrong post explores the idea that a superintelligence could resolve Moloch-like coordination traps by forming a singleton that enforces its own values, potentially eliminating destructive competitive dynamics. The author warns that alignment with human values remains deeply uncertain. This analysis connects the Moloch metaphor—a symbol of coordination failures—to the AI alignment problem, highlighting a critical tension: superintelligence could either save humanity or destroy it, depending on whose values it enforces. It challenges the AI community to consider whether building superintelligence is a hubris-minimizing strategy or a dangerous gamble. The post builds on Scott Alexander's 'Meditations on Moloch,' arguing that superintelligence will likely create a singleton that 'kills Moloch' but imposes its own values. The author notes that current AI systems already show misalignment through reinforcement learning, making it unclear whether a future superintelligence would share human values.
+
+- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+
+  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling loved requires being known by another person, based on seven years of collaboration between happiness and relationship science. This insight reframes the pursuit of happiness, suggesting that fostering deep mutual knowledge in relationships may be more impactful than pursuing attractiveness or success. The article identifies five common misconceptions about feeling loved, such as believing that being more attractive or successful will lead to feeling more loved.
 
 ---
 
@@ -35,543 +47,441 @@ lang: en
 
 - [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets but spends his days playing GTA while high on edibles has sparked a debate on the FIRE movement. The article argues that financial independence without purpose can lead to emptiness, and being useful to others is more fulfilling than mere wealth. This challenges the conventional FIRE narrative that accumulating wealth alone leads to happiness, highlighting the importance of non-financial capital such as purpose and ambition. It suggests that in relationships, being useful and driven may be more attractive than financial status. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, but his wife called him a 'loser' for his daily routine. The article cites a study across 37 cultures by evolutionary psychologist David Buss showing that ambition is a key factor in mate attraction.
+  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets was called a 'loser' by his wife for spending his days playing video games while high on THC edibles. The article argues that financial independence without purpose can lead to emptiness, and that being useful is more attractive and fulfilling than being rich. This challenges the common assumption that wealth alone brings fulfillment, highlighting that purpose and engagement are crucial for a meaningful life. It resonates with the FIRE movement and broader discussions on life satisfaction beyond financial metrics. The man earns $125k/year from his assets and a $75k/year royalty, yet his wife sees his daily routine as a turn-off. The article cites evolutionary psychology research across 37 cultures showing that ambition and resourcefulness are more attractive than mere wealth.
 
-- [Why Poorer Students Earn Less Even with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [Poorer Students Earn 7% Less Despite Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than wealthier peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This finding challenges the common assumption that education alone eliminates socioeconomic disparities, revealing that privilege compounds beyond graduation and affects long-term earnings. The earnings gap persists even after controlling for university type, degree, and grades; the slope of parental income vs. child income is 0.095 for non-elite four-year colleges, compared to 0.288 nationally.
+  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than wealthier peers a decade after graduation, even when they earned the same degree from the same university with the same grade. This finding challenges the assumption that education alone equalizes opportunities, revealing that socioeconomic background creates persistent earnings gaps that compound beyond academic achievement. The research, led by Anna Stansbury at MIT, shows that the earnings gap persists even after controlling for university selectivity, degree subject, and grades, with parental income still correlated with child earnings among students at the same institution type.
 
 ---
 
 ## 🧠 AI Learning
 
-- [Context Windows Are Not Memory: AI Agent Developers Need to Know](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [Context Windows Are Not Memory: Key Insight for AI Agents](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > The article clarifies that large context windows in LLMs are not equivalent to agent memory, and introduces techniques like retrieval-augmented generation (RAG) and compression for effective memory management in AI agents. This distinction is crucial for AI agent developers because conflating context windows with memory leads to inefficient and unreliable agents. Proper memory management enables agents to maintain long-term context, reduce costs, and improve performance in real-world applications. The article highlights that context windows are limited and expensive, while agent memory can be implemented via external storage like vector databases. Techniques such as RAG and compression help agents retrieve relevant information without overloading the context window.
+  > The article explains that large context windows in LLMs are not equivalent to agent memory, and introduces retrieval and compression techniques for effective memory management in AI agents. This distinction is crucial for AI agent developers because conflating context windows with memory leads to unreliable agents that repeat questions and fail in multi-step workflows, hindering real-world business adoption. Techniques like retrieval (e.g., vector databases, hybrid search) and compression (e.g., iterative summarization, failure-driven optimization) are presented as practical solutions for building agents with true memory.
 
-- [5 RAG Architectures for Production: When to Use Each](https://pub.towardsai.net/the-5-rag-architectures-and-exactly-when-to-use-each-one-in-production-d73c9acedbf7?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [5 RAG Architectures and When to Use Each in Production](https://pub.towardsai.net/the-5-rag-architectures-and-exactly-when-to-use-each-one-in-production-d73c9acedbf7?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > This article provides a practical guide to five distinct RAG architectures—Naive RAG, Advanced RAG, Agentic RAG, Multi-Hop RAG, and Hybrid RAG—with implementation details using LangGraph and LlamaIndex, explaining exactly when to use each in production. Choosing the wrong RAG architecture can lead to confident but incorrect answers at scale; this guide helps practitioners select the right pattern for their specific retrieval problem, improving system reliability and performance. The five architectures are presented from simplest to most complex: Naive RAG, Advanced RAG, Agentic RAG, Multi-Hop RAG, and Hybrid RAG. The article emphasizes that these are not competitors but layers that can be combined in production systems.
+  > This article provides a deep, practical breakdown of five distinct RAG architectures—Naive RAG, Advanced RAG, Corrective RAG, Agentic RAG, and Graph RAG—with code examples using LangGraph and LlamaIndex, explaining exactly when to use each in production. Choosing the wrong RAG architecture can lead to systems that confidently produce wrong answers at scale; this guide helps practitioners select the right pattern for their specific retrieval problem, improving reliability and performance. The article is part 6 of the LangGraph Mental Model series, covering architectures from simplest to most complex, emphasizing that most production systems combine at least two of these patterns.
+
+- [Comparing Three Eras of Quant Finance on Apple Stock](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > A hands-on comparison of rule-based, machine learning, and deep learning trading strategies applied to 10 years of Apple stock data reveals that the Random Forest (classical ML) outperforms the Transformer (deep learning) on risk-adjusted returns. This challenges the assumption that more complex models always yield better trading performance, highlighting the risk of overfitting in noisy financial markets. The Transformer model performed worst across Sharpe ratio, annual return, and max drawdown, while the Random Forest achieved the best risk-adjusted returns, consistent with findings from the PatchTST paper.
 
 - [Managing Variance in Small-Data Medical Imaging](https://pub.towardsai.net/in-small-data-medical-imaging-variance-is-the-enemy-254740fb7695?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > A technical case study describes building a pediatric tuberculosis screening tool from only 2,000 chest X-rays and 65 models, focusing on preprocessing and modeling techniques to manage variance across ages and imaging centers. This work demonstrates practical strategies for achieving generalization in small-data medical imaging, which is critical for deploying AI in resource-limited settings where pediatric TB burden is high and radiologists are scarce. The development set had only 197 positive cases (9.8% prevalence), so AUPRC was the primary metric. The pipeline included a two-pass field detection to handle collimation borders and burned-in text, and the modeling approach involved training 65 models to manage variance.
+  > A technical case study describes building a pediatric tuberculosis screening model from only 2,000 chest X-rays using 65 models, focusing on variance reduction to achieve generalization across ages and imaging centers. This work demonstrates practical strategies for developing robust deep learning models in small-data medical imaging, which is critical for diseases like pediatric TB where data is scarce and heterogeneity is high. The model uses a preprocessing pipeline that detects the X-ray field and normalizes across ages and equipment, and employs 65 models to manage variance. The positive class includes both PCR-confirmed and presumptive cases to avoid missing real positives.
 
-- [LLM Embeddings + HDBSCAN for Text Clustering](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [LLM Embeddings + HDBSCAN for Text Clustering Tutorial](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > A tutorial demonstrates how to combine LLM embeddings with the HDBSCAN clustering algorithm to group unstructured text without specifying the number of clusters in advance. 这种方法将LLM应用扩展到聊天界面之外，为研究人员和开发者提供了实用的文本挖掘任务，如主题发现和文档组织。 HDBSCAN extends DBSCAN by producing a hierarchical clustering and extracting flat clusters based on stability, making it robust to varying densities and noise.
-
-- [Comparing Three Eras of Quant Finance on Apple Stock](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > A two-week research project compared rule-based, Random Forest, and Transformer-based trading strategies on 10 years of Apple stock data, finding that the simpler Random Forest outperformed the complex Transformer on Sharpe ratio, annual return, and max drawdown. This challenges the assumption that more sophisticated deep learning models always yield better trading performance, highlighting the risk of overfitting in noisy financial markets and the enduring value of simpler, well-designed models. The Transformer model performed worst on all three metrics (Sharpe ratio, annual return, max drawdown), while the Random Forest from the 1990s achieved the best risk-adjusted returns. The study used Apple stock data from January 2014 to January 2024, covering bull market, COVID crash, and 2023 AI rally.
+  > A new tutorial demonstrates how to combine LLM embeddings with the HDBSCAN clustering algorithm to group unstructured text into meaningful clusters, moving beyond chat-based LLM applications. This tutorial provides a practical, code-driven approach for leveraging LLMs in unsupervised text mining, enabling tasks like topic discovery and document organization without labeled data. The tutorial uses LLM embeddings to convert text into dense vector representations, then applies HDBSCAN, a density-based clustering algorithm that handles varying cluster densities and identifies noise points.
 
 ---
 
 ## ✍️ Language & Expression
 
-- [Bill Gurley on Mental Models for Better Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > Bill Gurley, a partner at Benchmark and board member of the Santa Fe Institute, shares mental models from his experience in venture capital and complexity science on the Farnam Street podcast. These mental models can help individuals and organizations improve reasoning and decision-making by applying systems thinking and complexity principles. The episode is available on YouTube, Spotify, Apple Podcasts, and includes a transcript. Gurley's insights draw from his Wall Street background, Uber's hypergrowth, and his work at the Santa Fe Institute.
+  > Bill Gurley, a renowned venture capitalist and board member of the Santa Fe Institute, shares his insights on mental models and systems thinking in a new episode of the Farnam Street Knowledge Project podcast. This episode offers actionable frameworks for improving decision-making and reasoning, drawing from Gurley's experience at Benchmark and his study of complexity science. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a full transcript; Gurley discusses how mental models help navigate complex systems like venture capital and hypergrowth companies.
 
-- [Treating Interviews as Open-Book Deduction: A Full Preparation SOP](https://sspai.com/post/110947) ⭐️ 7.0/10
+- [Mark Pincus on Innovation: Proven, Better, New](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
 
-  > The article proposes a systematic SOP that reframes job interviews as a deductive reasoning game, offering a structured approach to preparation and post-interview review. This framework helps professionals improve communication and thinking under pressure, making interview preparation more strategic and less stressful. The SOP covers the entire interview process, from pre-interview research to real-time reasoning during the interview and structured review afterward.
+  > Mark Pincus, founder of Zynga, shared his innovation framework 'Proven, Better, New' in a Farnam Street podcast, discussing how to balance risk and novelty in product development. This framework offers a practical lens for entrepreneurs and product managers to evaluate innovation opportunities, though it lacks direct writing or communication techniques. The podcast episode includes Pincus's insights on building Zynga and shaping early social gaming, but the summary provides no specific technical details or actionable steps.
 
-- [Mark Pincus on Innovation Rules from Zynga](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [Treat Interviews as a Deductive Game: A Full Preparation SOP](https://sspai.com/post/110947) ⭐️ 6.0/10
 
-  > Mark Pincus, founder of Zynga, shared his rules for innovation in a podcast on Farnam Street, discussing how to balance proven, better, and new ideas. This provides actionable insights for entrepreneurs and product leaders on how to prioritize innovation in a structured way, drawing from Pincus's experience building a gaming giant. The podcast covers Pincus's framework of 'Proven, Better, New' as a lens for evaluating ideas, and includes his journey from FarmVille to Words with Friends.
+  > The article proposes treating job interviews as a deductive reasoning game, suggesting that with sufficient practice and pattern recognition, interviews become predictable and manageable. This perspective reframes interview anxiety into a structured problem-solving exercise, potentially helping candidates reduce stress and improve performance through systematic preparation. The article is published on sspai.com, a Chinese productivity and self-improvement platform, but the snippet is too brief to reveal specific techniques or a detailed SOP.
 
-- [RiseGuide Founder Interview: Expert-Led Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+- [RiseGuide Founder Interview on Expert-Led Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
 
-  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides expert-powered personalized plans for self-improvement. This interview highlights a growing trend of expert-led, structured self-improvement tools that aim to make personal development more actionable and reliable. RiseGuide offers personalized plans across areas like charisma, intelligence training, and social media enhancement, turning expert knowledge into daily actionable steps.
-
----
-
-## 🧬 Human Nature & Behavior
-
-- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
-
-  > Two leading scientists, Sonja Lyubomirsky and Harry Reis, argue that feeling known by another person is a crucial component of feeling loved, based on their research on happiness and relationships. This insight challenges common misconceptions about love and offers a practical path to greater happiness by emphasizing the importance of being known rather than focusing on attractiveness, success, or other superficial factors. The article is adapted from their upcoming book 'How to Feel Loved' and identifies five common misconceptions about feeling loved, such as 'If only I were more attractive, powerful, or successful, I would feel more loved.'
-
-- [The Shouting Equilibrium: Attention Inflation](https://www.lesswrong.com/posts/Qwj8qao6BujcKkmT2/the-shouting-equilibrium) ⭐️ 8.0/10
-
-  > The article introduces the concept of the 'shouting equilibrium,' where individuals overestimate their message's importance and escalate signaling (loudness), leading to a collective inefficiency where no one gets the attention they deserve. This model explains attention inflation in various domains like email, social media, and advertising, highlighting how rational individual behavior can lead to a worse outcome for everyone. The equilibrium arises because each speaker, seeing their message get only 9% attention when they aim for 10%, increases loudness, but others do the same, resulting in a never-ending escalation until everyone shouts at maximum volume.
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized self-improvement plans based on expert knowledge. This highlights a growing trend of expert-led, structured self-improvement apps that aim to replace scattered advice with curated, actionable daily lessons. RiseGuide offers daily interactive lessons on topics like communication, confidence, and intelligence, each ending with a practical exercise. However, some users report a lack of depth and a daily time cap that limits progress.
 
 ---
 
 ## 📜 History & Patterns
 
-- [Historians Debate History's Biggest Blunders](https://www.historyextra.com/membership/what-was-historys-biggest-blunder-9-experts-have-their-say/) ⭐️ 6.0/10
-
-  > Nine historians, broadcasters, and authors each selected what they consider history's biggest blunder, ranging from military defeats to political miscalculations. This collection highlights how individual decisions can have outsized consequences, offering lessons for modern leadership and strategic planning. The article is published on HistoryExtra, a history-focused website, and presents a list of nine expert opinions rather than a single narrative.
-
 - [Five Greatest PM Downfalls in 100 Years](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
 
-  > Historian Richard Toye examines five of the most spectacular downfalls of British prime ministers over the past century, analyzing the circumstances that led to their resignations. This historical analysis offers insights into the patterns and triggers of political leadership failures, which remain relevant for understanding contemporary political crises and leadership accountability. The article is written by Richard Toye, a professor of modern history at the University of Exeter, and is published on HistoryExtra, a history-focused website.
+  > Historian Richard Toye examines five of the most spectacular downfalls of British prime ministers over the past century, analyzing the causes and patterns of their resignations. This historical analysis offers insights into the fragility of political leadership and the recurring factors that can lead to a prime minister's downfall, which remains relevant for understanding contemporary political crises. The article covers five specific resignations, though the names are not listed in the provided content; it focuses on the dramatic nature of their exits rather than providing a full list.
+
+- [How UK Celebrations of July 4th Evolved Over Time](https://www.historyextra.com/membership/from-acrimonious-split-to-the-special-relationship-how-the-fourth-of-july-has-been-marked-in-britain/) ⭐️ 6.0/10
+
+  > The article by Sam Edwards on HistoryExtra examines how British commemorations of the Fourth of July have shifted from initial acrimony after the American Revolution to modern celebrations of the 'special relationship' between the US and UK. This historical narrative provides insight into the evolving Anglo-American relationship, showing how a once-hostile event became a symbol of alliance and shared values, which helps contextualize current diplomatic ties. The article highlights that early British reactions to July 4th were negative, but over time, especially after World War II, the day began to be marked with pro-American events and celebrations of the 'special relationship'.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [OpenAI unveils first custom AI inference chip Jalapeno](#item-1) ⭐️ 9.0/10
-2. [Rust community works to decouple crates.io from GitHub](#item-2) ⭐️ 8.0/10
-3. [Google Lowers Play Store Fees, Allows Alternative Payments Worldwide](#item-3) ⭐️ 8.0/10
-4. [Databricks Leaders Advocate for Open Agent Cloud Ecosystems](#item-4) ⭐️ 8.0/10
-5. [Nature critique questions Microsoft's quantum claims](#item-5) ⭐️ 8.0/10
-6. [Nvidia CEO Huang: AI Factory Era Arrives, Agents Reshape Computing](#item-6) ⭐️ 8.0/10
-7. [New macOS flaw disables enterprise security tools](#item-7) ⭐️ 8.0/10
-8. [Gefen: Drop-in AdamW Replacement Cuts Memory 8x](#item-8) ⭐️ 8.0/10
-9. [MDN Browser Compat Data as SQLite DB](#item-9) ⭐️ 7.0/10
-10. [LLM-Generated Job Applications Erode Authenticity](#item-10) ⭐️ 7.0/10
-11. [US Secures Netherlands for Pax Silica Alliance Amid MATCH Act Tensions](#item-11) ⭐️ 7.0/10
-12. [Micron: Humanoid Robots Need 10x Storage of L2+ Cars, May Spark Super Cycle](#item-12) ⭐️ 7.0/10
-13. [Anthropic Lead: HTML Beats Markdown for Human-Agent Loops](#item-13) ⭐️ 7.0/10
-14. [Google OpenRL: Self-Hosted API for LLM Fine-Tuning on Kubernetes](#item-14) ⭐️ 7.0/10
-15. [CICC Proposes Diamond + Liquid Cooling for AI Servers](#item-15) ⭐️ 7.0/10
-16. [Nvidia CEO Declares AI Investment Returns Are Already Clear](#item-16) ⭐️ 7.0/10
-17. [Europe pushes back on US chip war restrictions](#item-17) ⭐️ 7.0/10
-18. [Companies Shift from AI Overuse to Token Rationing](#item-18) ⭐️ 7.0/10
-19. [Agility Robotics to go public via SPAC in $2.5B deal](#item-19) ⭐️ 7.0/10
-20. [Gemini in Chrome adds Select from screen, 3.5 Flash gets computer use](#item-20) ⭐️ 6.0/10
-21. [NeetCode on Deep Expertise in the AI Era](#item-21) ⭐️ 6.0/10
+1. [$500M Fund Aims to End Respiratory Infections](#item-1) ⭐️ 8.0/10
+2. [Google Play Store Opens to External Billing in US, UK, EU](#item-2) ⭐️ 8.0/10
+3. [Kuaishou's Lingchuan Tech Raises Millions, Tapes Out 3D Stacked Chip](#item-3) ⭐️ 8.0/10
+4. [Grab Builds Secure Agentic AI Workload Platform](#item-4) ⭐️ 8.0/10
+5. [Micron locks in historically high memory prices for five years](#item-5) ⭐️ 8.0/10
+6. [Qualcomm and Meta Partner on Custom Data Center CPUs](#item-6) ⭐️ 8.0/10
+7. [Simon Willison Creates SQLite DB from MDN Browser Compat Data](#item-7) ⭐️ 7.0/10
+8. [Saint-Gobain CEO: US AI Buildout Hampered by Labor Shortage](#item-8) ⭐️ 7.0/10
+9. [China to Develop End-to-End Autonomous Driving Models](#item-9) ⭐️ 7.0/10
+10. [UNT Launches 3300V SiC MOSFET for Solid-State Transformers](#item-10) ⭐️ 7.0/10
+11. [Anthropic Lead: HTML Beats Markdown for Human Engagement in Agentic Loops](#item-11) ⭐️ 7.0/10
+12. [Europe pushes back against US chip war restrictions](#item-12) ⭐️ 7.0/10
+13. [AI Fears Unfounded: Engineering Jobs Prove Most Resilient](#item-13) ⭐️ 7.0/10
+14. [Top AI Researchers Leave Google for Anthropic](#item-14) ⭐️ 7.0/10
+15. [Anthropic Accuses Alibaba of Largest Distillation Attack](#item-15) ⭐️ 6.0/10
+16. [AI Industry Cycle: From Tech Talk to Money Talk](#item-16) ⭐️ 6.0/10
+17. [Roundtable: When Everyone Sees a Bubble, When Will Robots Enter Real Scenes?](#item-17) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenAI unveils first custom AI inference chip Jalapeno](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
+## [$500M Fund Aims to End Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections) ⭐️ 8.0/10
 
-OpenAI, in collaboration with Broadcom and TSMC, has unveiled its first custom AI inference chip named 'Jalapeno', designed from scratch for large language model inference and claiming AI-accelerated development in nine months. This marks OpenAI's strategic move into custom AI hardware, potentially reducing reliance on GPU suppliers like Nvidia and improving inference efficiency and cost for its AI services. The chip is manufactured by TSMC and is part of a multi-generation custom silicon plan; OpenAI claims the design was accelerated by its own AI models, though the exact methodology remains vague.
+The Intercept Fund announced a $500 million philanthropic initiative to eliminate respiratory infections through air cleaning technologies and new preventatives. This initiative could dramatically reduce the burden of common colds, flu, and COVID-19, potentially preventing millions of illnesses and long-term disabilities like long COVID. The fund focuses on improving indoor air quality and developing new preventatives, with a goal of making respiratory infections a thing of the past.
 
-hackernews · jamdesk · Jun 24, 17:47 · [Discussion](https://news.ycombinator.com/item?id=48663324)
+hackernews · EthanFantl · Jun 25, 01:14 · [Discussion](https://news.ycombinator.com/item?id=48667588)
 
-**Background**: AI inference chips are specialized processors designed to run trained AI models efficiently, as opposed to training chips. OpenAI has historically relied on Nvidia GPUs for both training and inference, but custom chips like Google's TPUs have shown significant efficiency gains for inference workloads.
+**Background**: Respiratory infections like colds, flu, and COVID-19 cause significant illness and death worldwide. Current prevention relies on vaccines and masks, but airborne transmission remains a challenge. Air cleaning technologies (e.g., HEPA filters, UV light) can reduce pathogen spread indoors.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
-<li><a href="https://digg.com/tech/60qj05iw">OpenAI announces Jalapeño , a custom LLM inference chip ...</a></li>
-<li><a href="https://www.constellationr.com/insights/news/openai-broadcom-unveil-first-ai-inference-chip">OpenAI, Broadcom unveil first AI inference chip</a></li>
+**Discussion**: Comments show strong support, with personal stories of loss from respiratory infections and hope for prevention. Some criticize the reliance on philanthropy, noting $500M is small compared to government spending on space programs. Others question the statistic that healthy people spend 5% of their lives sick.
 
-</ul>
-</details>
-
-**Discussion**: Comments express skepticism about the AI-accelerated design claim, with one user calling it 'meaningless marketing' without more details. Others discuss technical aspects like burning weights into ROM and compare with competitors like Taalas and Google TPUs.
-
-**Tags**: `#AI Hardware`, `#OpenAI`, `#Custom Chip`, `#Inference`, `#Semiconductor`
+**Tags**: `#public health`, `#respiratory infections`, `#philanthropy`, `#air cleaning`, `#long covid`
 
 ---
 
 <a id="item-2"></a>
-## [Rust community works to decouple crates.io from GitHub](https://infosec.exchange/@mttaggart/116806641273303255) ⭐️ 8.0/10
+## [Google Play Store Opens to External Billing in US, UK, EU](https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/) ⭐️ 8.0/10
 
-The Rust community is actively working to decouple the crates.io package registry from its reliance on GitHub, with a recently merged RFC and ongoing implementation efforts. This decoupling is critical for reducing supply-chain risks in the Rust ecosystem, as relying on a single platform like GitHub creates a single point of failure and potential security vulnerabilities. The effort is volunteer-driven and faces significant technical complexity, including rebuilding infrastructure while the registry remains in active use. An RFC (pull/3963) has been merged, and a roadmap with specific tasks is available for contributors.
+Starting June 30, 2026, Google will allow app developers in the US, UK, and European Economic Area to use alternative payment systems instead of Google Play's in-app billing, and to link users to external websites for purchases. This policy shift, driven by the Epic Games antitrust lawsuit, breaks Google's monopoly on Play Store payments and could reduce costs for developers and users, potentially influencing Apple's similar legal battles. Google will charge a service fee of 10-25% based on annual earnings, with an additional 5% fee for transactions using Google Play billing. Link-out fees are 20% for apps earning over $1 million annually.
 
-hackernews · speckx · Jun 24, 19:40 · [Discussion](https://news.ycombinator.com/item?id=48664733)
+rss · 9to5Google · Jun 25, 01:20
 
-**Background**: crates.io is the official Rust package registry, and currently its index and many operations depend on GitHub repositories. This dependency means that if GitHub experiences an outage or is compromised, the entire Rust package ecosystem could be affected. Decoupling aims to make crates.io more resilient and secure.
+**Background**: The Epic Games v. Google lawsuit concluded that Google held an illegal monopoly over app distribution and payments on Android. As part of a settlement, Google agreed to lower fees and support alternative payment options. This change mirrors similar regulatory pressures on Apple under the Digital Markets Act in the EU.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/rust-lang/crates.io">GitHub - rust-lang/crates.io: The Rust package registry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Epic_Games_v._Google">Epic Games v. Google - Wikipedia</a></li>
+<li><a href="https://solidgate.com/blog/external-billing-app-store/">App Store payments change: Explore external billing</a></li>
+<li><a href="https://www.revenuecat.com/blog/engineering/app-to-web-purchase-guidelines/">App-to-web: navigating external purchases in iOS and Android apps</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members generally agree that decoupling is important but acknowledge it is a difficult, volunteer-driven task. Some emphasize that the broader supply-chain risk extends beyond GitHub, and constructive hardening of the ecosystem is needed. Others appreciate the approach taken by registries like Packagist, which enforce packaging from source control.
-
-**Tags**: `#Rust`, `#supply-chain security`, `#crates.io`, `#open source`, `#dependency management`
+**Tags**: `#Google Play`, `#app store policy`, `#external billing`, `#antitrust`
 
 ---
 
 <a id="item-3"></a>
-## [Google Lowers Play Store Fees, Allows Alternative Payments Worldwide](https://www.macrumors.com/2026/06/24/google-play-store-fee-change/) ⭐️ 8.0/10
+## [Kuaishou's Lingchuan Tech Raises Millions, Tapes Out 3D Stacked Chip](https://www.ithome.com/0/968/289.htm) ⭐️ 8.0/10
 
-Google announced it will lower Play Store service fees to a range of 10-25% and allow developers to use alternative payment systems worldwide, following its antitrust settlement with Epic Games. This major policy shift could reduce costs for millions of app developers and pressure Apple to adopt similar global fee reductions, potentially reshaping the mobile app economy. The new fee structure includes a base 10% service fee on the first $1 million in annual earnings, with 20-25% fees above that, plus an additional 5% for transactions using Google Play billing. The changes roll out starting June 30, 2026 in the UK, US, and EEA, expanding globally by September 2027.
+Lingchuan Technology, an AI chip startup spun off from Kuaishou, completed a Series A+ funding round of hundreds of millions of yuan and announced the tape-out of its next-generation chip using fully domestic 3D stacking technology in April 2025. This milestone demonstrates China's progress in advanced packaging and AI chip independence, potentially reducing reliance on foreign semiconductor technologies. The 3D stacked chip could offer higher performance and energy efficiency for video and generative AI workloads. The company's existing SL200 chip has been deployed in tens of thousands of units within Kuaishou, serving 700 million users. The new chip addresses key challenges of 3D stacking such as heat dissipation, consistency, and reliability, and is described as a practical implementation of the τ (Tau) scaling law for internet data centers.
 
-rss · MacRumors · Jun 24, 22:30
+rss · IT之家 · Jun 25, 01:53
 
-**Background**: Google's Play Store historically charged a standard 30% commission on in-app purchases, similar to Apple's App Store. In 2025, a jury found Google held an illegal monopoly, leading to a settlement requiring fee reductions and alternative billing options. This global policy contrasts with Apple's piecemeal regulatory responses.
+**Background**: 3D chip stacking vertically integrates multiple semiconductor dies into a single package, improving performance and reducing footprint. Tape-out is the final design stage before manufacturing. The τ scaling law, introduced by Huawei, focuses on reducing signal transmission time rather than transistor size to improve system performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://support.google.com/googleplay/android-developer/answer/16954621?hl=en">Understanding Google Play's lower service fees</a></li>
-<li><a href="https://medium.com/@todays.tech/epic-games-vs-google-a-new-era-for-android-apps-646a5aad2a68">Epic Games Lawsuit Against Google : A Turning Point for... | Medium</a></li>
-<li><a href="https://tms-outsource.com/blog/posts/google-play-store-fees/">Understanding Google Play Store Fees for Developers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit">Three-dimensional integrated circuit - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tape-out">Tape - out - Wikipedia</a></li>
+<li><a href="https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling">HUAWEI Presents the Tau (τ) Scaling Law, Enabling Breakthroughs in Transistor Density and System Performance - Huawei</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Google`, `#Play Store`, `#app store fees`, `#Epic Games`, `#antitrust`
+**Tags**: `#AI chips`, `#3D stacking`, `#semiconductors`, `#funding`, `#Kuaishou`
 
 ---
 
 <a id="item-4"></a>
-## [Databricks Leaders Advocate for Open Agent Cloud Ecosystems](https://www.latent.space/p/databricks) ⭐️ 8.0/10
+## [Grab Builds Secure Agentic AI Workload Platform](https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-In a rare double-interview, Databricks technical leaders Matei Zaharia and Reynold Xin argue that every company must build Agent Clouds on open ecosystems, emphasizing open standards over proprietary lock-in. This perspective from key industry figures signals a major push for interoperability and community-driven development in the rapidly growing AI agent infrastructure space, potentially shaping how enterprises adopt and scale AI agents. The interview covers the concept of 'Agent Clouds'—platforms for deploying and managing AI agents—and why open ecosystems are critical for avoiding vendor lock-in and fostering innovation. The leaders are from Databricks, a company known for its open-source Apache Spark and MLflow projects.
+Grab's cybersecurity team has built Palana, a Kubernetes-native secure execution platform for running autonomous AI agents safely. The platform mitigates risks such as prompt injection and unpredictable tool use by using isolated namespaces, out-of-process control planes, and proxy-mediated, Vault-backed secrets. This addresses a critical security challenge in deploying autonomous AI agents, which are increasingly used in production but pose unique risks compared to deterministic software. Palana's approach provides a practical, infrastructure-level containment strategy that could become a reference for secure AI agent deployment. Palana is a proprietary system built by Grab's CyberSecurity team, with its name derived from a Sanskrit root meaning protection, maintenance, and care. It is designed to be Kubernetes-native, leveraging existing container orchestration capabilities to enforce security boundaries.
 
-rss · Latent Space · Jun 24, 18:53
+rss · InfoQ · Jun 25, 02:08
 
-**Background**: Agent Clouds refer to cloud-based platforms that enable the deployment, orchestration, and management of AI agents at scale. Open ecosystems in this context mean using open standards, open-source components, and interoperable APIs to build these platforms, rather than relying on proprietary solutions. Databricks has historically championed open-source data infrastructure.
+**Background**: Autonomous AI agents, unlike deterministic software, can exhibit unpredictable behavior such as writing code, using tools, and being vulnerable to prompt injection attacks. Prompt injection is a technique where malicious inputs manipulate the AI model to ignore instructions or execute harmful actions. Traditional security measures are often insufficient for these dynamic threats, necessitating new infrastructure-level protections.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.agentcloud.dev/">Homepage | Agent Cloud - Open source platform to talk to your ...</a></li>
+<li><a href="https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents">Palana (Part 1): Why Grab built a secure platform for autonomous AI...</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/grab-ai-platform/">Grab Builds Secure Agentic AI Workload Platform - InfoQ</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#open source`, `#data infrastructure`, `#agent clouds`, `#Databricks`
+**Tags**: `#AI security`, `#Kubernetes`, `#agentic AI`, `#platform engineering`, `#secure execution`
 
 ---
 
 <a id="item-5"></a>
-## [Nature critique questions Microsoft's quantum claims](https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims) ⭐️ 8.0/10
+## [Micron locks in historically high memory prices for five years](https://www.reddit.com/r/hardware/comments/1uezivn/micron_locks_in_historically_high_memory_prices/) ⭐️ 8.0/10
 
-A critique published in Nature on Wednesday challenges the validity of Microsoft's February 2025 claim of a topological qubit breakthrough with its Majorana 1 chip. This critique could undermine confidence in Microsoft's quantum computing roadmap and affect investment and research directions in topological quantum computing. The Nature critique specifically questions the basic technology behind the Majorana 1 chip, which Microsoft claimed uses topological qubits for enhanced stability.
+Micron has secured five-year contracts at historically high prices for DRAM and NAND flash memory, signaling a sustained cost increase for memory components. 这一发展表明内存价格将长期处于高位，影响消费电子、AI硬件和数据中心成本，并可能在整个半导体行业产生连锁反应。 The contracts cover both DRAM and NAND flash, with prices described as historically high. The five-year duration is unusually long for memory pricing agreements, which are typically shorter.
 
-rss · The Verge · Jun 24, 20:54
+reddit · r/hardware · /u/DotabLAH · Jun 25, 04:07
 
-**Background**: Topological qubits are a theoretical type of qubit that store information in the topological properties of a system, offering inherent error resistance. Microsoft has pursued this approach for years, claiming a breakthrough with the Majorana 1 chip in February 2025. However, the Nature critique now casts doubt on whether Microsoft actually demonstrated a topological qubit.
+**Background**: DRAM and NAND flash are essential memory technologies used in computers, smartphones, and data centers. The memory market is dominated by three major suppliers: Micron, SK Hynix, and Samsung. Recent demand from AI and high-bandwidth memory (HBM) has constrained supply of commodity DRAM, driving up prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Topological_qubit">Topological qubit</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Majorana_1">Majorana 1 - Wikipedia</a></li>
-<li><a href="https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/">Microsoft unveils Majorana 1, the world’s first quantum ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DRAM">DRAM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NAND_flash">NAND flash</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#quantum computing`, `#Microsoft`, `#Majorana 1`, `#topological qubit`, `#Nature`
+**Tags**: `#memory`, `#hardware`, `#pricing`, `#semiconductors`, `#industry`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia CEO Huang: AI Factory Era Arrives, Agents Reshape Computing](https://www.ithome.com/0/968/233.htm) ⭐️ 8.0/10
+## [Qualcomm and Meta Partner on Custom Data Center CPUs](https://www.reddit.com/r/hardware/comments/1uewif3/qualcomm_and_meta_announce_strategic/) ⭐️ 8.0/10
 
-At Nvidia's annual shareholder meeting on June 24, 2025, CEO Jensen Huang declared that the AI industry has entered a new phase with the arrival of agent AI, and that physical AI will drive Nvidia's next growth wave. He positioned AI data centers as 'AI factories' that are becoming the core of enterprise computing. This signals a strategic shift for Nvidia beyond GPU sales toward integrated AI infrastructure, potentially accelerating enterprise adoption of autonomous systems and robotics. It also reassures investors about AI investment returns, citing examples like GitHub pull requests nearly tripling, which could sustain Nvidia's high growth. Huang emphasized that advanced AI data centers must be built as large-scale integrated systems combining hardware, software, networking, and support, warning that cobbling together smuggled parts is a dead end. He also disclosed that Nvidia's revenue grew 65% and operating profit 60% over the past year, with plans to return 50% of free cash flow to shareholders via buybacks and dividends.
+Qualcomm and Meta announced a strategic multi-generation agreement for custom data center CPUs, with the first Qualcomm Dragonfly C1000 chips expected to enter production in the second half of 2028. This partnership signals a major shift in the data center CPU market, as Meta moves toward custom ARM-based processors to reduce reliance on traditional x86 vendors like Intel and AMD, potentially accelerating ARM adoption in large-scale data centers. The Qualcomm Dragonfly C1000 is based on a custom Oryon core architecture, delivering over 250 cores and frequencies beyond 5 GHz, and is optimized for agentic AI workloads at scale.
 
-rss · IT之家 · Jun 25, 00:00
+reddit · r/hardware · /u/Worldly_Topic · Jun 25, 01:42
 
-**Background**: Agent AI refers to AI systems that can autonomously perceive, decide, and execute tasks, while physical AI (also called embodied AI) gives AI a physical form to interact with the real world, such as in robots and autonomous vehicles. Traditional data centers handle general computing, but AI factories are optimized for the full AI lifecycle—from data collection to training and inference—creating value through AI output like generated tokens.
+**Background**: Data center CPUs have traditionally been dominated by x86 architectures from Intel and AMD, but ARM-based processors are gaining traction due to their power efficiency and scalability. Meta has been investing in custom silicon, including its MTIA AI accelerators, to optimize its massive infrastructure for AI and general-purpose workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blogs.nvidia.cn/blog/ai-factory/">AI 工厂正在重新定义数据中心，开启 AI 新时代 | NVIDIA 英伟达博客</a></li>
-<li><a href="https://www.ibm.com/think/topics/physical-ai">What is Physical AI? | IBM</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2620104">智能体来了！2026年，重新定义Agent：从模型级标准定义看AI的“自主性”...</a></li>
+<li><a href="https://wccftech.com/qualcomm-single-core-leadership-first-server-cpu-dragonfly-c1000-250-cores-5-ghz-2028/">Qualcomm Claims Single-Core Leadership for Its First Server CPU, the Dragonfly C1000, Delivering 250+ Cores & 5 GHz By 2028</a></li>
+<li><a href="https://www.businesswire.com/news/home/20260624731900/en/Qualcomm-Unveils-Comprehensive-Data-Center-Roadmap-for-the-Agentic-AI-Era-with-New-Qualcomm-Dragonfly-Portfolio">Qualcomm Unveils Comprehensive Data Center Roadmap for the Agentic AI Era with New Qualcomm Dragonfly Portfolio</a></li>
+<li><a href="https://finance.yahoo.com/technology/articles/qualcomm-unveils-dragonfly-cpu-signs-202746549.html">Qualcomm unveils Dragonfly CPU, signs Meta as first data center customer</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#AI infrastructure`, `#physical AI`, `#agent AI`, `#data center`
+**Discussion**: Reddit comments highlight the long timeline (2028) and question whether Qualcomm can deliver on its performance claims, while others see this as a positive step for ARM in the data center and a potential threat to Intel and AMD.
+
+**Tags**: `#Qualcomm`, `#Meta`, `#data center CPUs`, `#ARM`, `#hardware`
 
 ---
 
 <a id="item-7"></a>
-## [New macOS flaw disables enterprise security tools](https://www.ithome.com/0/968/228.htm) ⭐️ 8.0/10
+## [Simon Willison Creates SQLite DB from MDN Browser Compat Data](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) ⭐️ 7.0/10
 
-Security researchers from XM Cyber disclosed a new macOS attack technique that abuses privileged XPC calls to disable enterprise security tools like CrowdStrike Falcon and Kandji from a standard user account, without requiring kernel exploits or SIP bypass. This attack undermines the trust in macOS security for enterprises, as it allows a standard user to disable critical endpoint protection without elevated privileges, potentially enabling malware to evade detection. The technique involves abusing privileged XPC methods to uninstall CrowdStrike Falcon and disable Kandji's uninstall protection and endpoint security. Kandji has fixed the issue (CVE-2026-39118), but Apple has not yet issued a security advisory.
+Simon Willison released a GitHub repository that converts Mozilla's mdn/browser-compat-data into a ~66MB SQLite database, hosted on GitHub CDN with open CORS headers for easy access. This tool makes MDN's browser compatibility data easily queryable via SQL, enabling web developers to integrate it into workflows and tools without parsing JSON files. The open CORS headers allow direct use in browser-based applications like Datasette Lite. The database is built using sqlite-utils and a GitHub Actions workflow that force-pushes the resulting file to an orphan branch named 'db'. The repository includes AI-generated scripts from Claude Code and Codex Desktop.
 
-rss · IT之家 · Jun 24, 23:29
+rss · Simon Willison · Jun 24, 23:59
 
-**Background**: XPC is Apple's interprocess communication framework used by macOS apps to request privileged operations from background services. Enterprise security tools like CrowdStrike Falcon and Kandji rely on XPC to enforce security policies, making them vulnerable to such attacks.
+**Background**: MDN Web Docs provides a comprehensive browser compatibility data repository (mdn/browser-compat-data) used by developers to check which web features are supported across browsers. Simon Willison's project converts this JSON data into a SQLite database, making it more accessible for querying and analysis. The use of GitHub CDN with open CORS headers allows the database to be fetched directly from web applications without server-side proxies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://appleinsider.com/articles/26/06/24/new-macos-security-flaw-could-let-hackers-disable-protection-tools-researchers-say">New macOS security flaw lets hackers disable protection tools</a></li>
-<li><a href="https://developer.apple.com/documentation/xpc">XPC | Apple Developer Documentation</a></li>
+<li><a href="https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/">Introducing the MDN MCP server</a></li>
+<li><a href="https://github.com/simonw/sqlite-utils">GitHub - simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#macOS`, `#privilege escalation`, `#security`, `#XPC`, `#enterprise`
+**Tags**: `#browser-compat`, `#sqlite`, `#web-development`, `#tools`, `#data`
 
 ---
 
 <a id="item-8"></a>
-## [Gefen: Drop-in AdamW Replacement Cuts Memory 8x](https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/) ⭐️ 8.0/10
+## [Saint-Gobain CEO: US AI Buildout Hampered by Labor Shortage](https://www.ithome.com/0/968/350.htm) ⭐️ 7.0/10
 
-Researchers propose Gefen, a drop-in replacement for the AdamW optimizer that reduces optimizer state memory by 8x through automatic second-moment sharing and quantized first-moment codebook. This could significantly lower the memory barrier for training large deep learning models, enabling larger models or batch sizes on existing hardware without changing the training recipe. Gefen automatically shares second-moment estimates across parameter blocks and quantizes the first moment using a learned codebook, achieving 8x memory reduction while maintaining similar convergence and performance to AdamW.
+Saint-Gobain CEO Benoit Bazin stated in a Bloomberg TV interview that North American data center projects are already affected by a shortage of skilled labor, and Europe is beginning to see similar issues. This highlights a critical bottleneck beyond power constraints for AI infrastructure expansion, potentially slowing the pace of data center construction and AI deployment in the US. Bazin noted that ordinary commercial construction crews cannot meet project needs; specialized roles like electricians, high-voltage technicians, fiber installers, HVAC experts, control engineers, and commissioning teams are required, and these positions typically need years of training and experience.
 
-reddit · r/LocalLLaMA · /u/indicava · Jun 24, 20:39
+rss · IT之家 · Jun 25, 03:22
 
-**Background**: AdamW is a widely used optimizer in deep learning that maintains two state buffers (first and second moments) per parameter, doubling the memory footprint of model parameters. Memory-efficient optimizers aim to reduce this overhead, especially for large models with billions of parameters.
+**Background**: Saint-Gobain is a French multinational corporation founded in 1665, specializing in construction materials, glass, ceramics, and plastics. The company is involved in supplying materials for data center construction, giving its CEO insight into labor challenges. AI infrastructure expansion requires massive data centers, which demand not only huge amounts of electricity but also a highly skilled workforce for construction and maintenance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.13894">[2606.13894] Gefen : Optimized Stochastic Optimizer</a></li>
-<li><a href="https://github.com/ndvbd/Gefen">GitHub - ndvbd/ Gefen : Gefen : Optimized Stochastic Optimizer · GitHub</a></li>
-<li><a href="https://nefut.com/article/996-csai-gefen-optimized-stochastic-optimizer-with-8x-memory-reduction">[CS.AI] Gefen : Optimized Stochastic Optimizer with 8x Mem... - Nefut</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Saint-Gobain">Saint-Gobain - Wikipedia</a></li>
+<li><a href="https://www.saint-gobain.com/en">Saint-Gobain</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#optimizer`, `#memory reduction`, `#deep learning`, `#training efficiency`
+**Tags**: `#AI infrastructure`, `#labor shortage`, `#data centers`, `#US tech`, `#energy`
 
 ---
 
 <a id="item-9"></a>
-## [MDN Browser Compat Data as SQLite DB](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) ⭐️ 7.0/10
+## [China to Develop End-to-End Autonomous Driving Models](https://www.ithome.com/0/968/341.htm) ⭐️ 7.0/10
 
-Simon Willison converted MDN's browser-compat-data repository into a ~66MB SQLite database, using AI-generated scripts and GitHub Actions to host it on a GitHub orphan branch with open CORS headers. This provides developers with offline, API-free access to browser compatibility data, enabling easy querying via SQL or tools like Datasette Lite, and reduces dependency on live MDN services. The database is built using sqlite-utils and a Claude Code generated script, and is automatically updated via a GitHub Actions workflow that force-pushes to a 'db' orphan branch. The file is accessible with open CORS headers, allowing direct use from web applications.
+China's Ministry of Transport and other agencies released the 'AI + Transportation' action plan on June 25, 2025, explicitly calling for the development and testing of end-to-end large models for autonomous driving. This official policy signals strong government support for cutting-edge AI in transportation, potentially accelerating the deployment of autonomous vehicles and smart infrastructure across China, impacting industries from logistics to public transit. The plan covers 10 key directions including smart driving, smart highways, and intelligent railways, with over 100 pilot projects expected. It also promotes free-flow tolling using AI for 'contactless passage' and multi-sensor integration for road perception.
 
-rss · Simon Willison · Jun 24, 23:59
+rss · IT之家 · Jun 25, 03:18
 
-**Background**: MDN (Mozilla Developer Network) maintains a comprehensive browser-compat-data repository that tracks which web features are supported by which browser versions. Simon Willison is a well-known developer who created sqlite-utils, a Python library for manipulating SQLite databases. The project was inspired by Mozilla's new MDN MCP service, which provides similar data via the Model Context Protocol.
+**Background**: End-to-end autonomous driving models directly map sensor inputs to driving actions, bypassing traditional modular pipelines. Free-flow tolling uses technologies like BeiDou and 5G to charge vehicles without stopping at toll booths. Multi-sensor integration (multi-sensing-in-one) combines cameras, radar, and other sensors on a single pole to reduce infrastructure costs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/">Introducing the MDN MCP server - MDN Web Docs</a></li>
-<li><a href="https://github.com/simonw/sqlite-utils">GitHub - simonw/sqlite-utils: Python CLI utility and library ...</a></li>
+<li><a href="https://ai.zhiding.cn/2024/1104/3161049.shtml">基于Gemini！ Waymo提出 端 到 端 自 动 驾 驶 多 模 态 模 型 EMMA...</a></li>
+<li><a href="https://youjia-pc.bdstatic.com/article/9593053585782400340.html">youjia-pc.bdstatic.com/article/9593053585782400340.html</a></li>
+<li><a href="http://bluegreenled.cn/?industry/292.html">bluegreenled.cn/?industry/292.html</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#browser compatibility`, `#SQLite`, `#developer tools`, `#MDN`, `#data conversion`
+**Tags**: `#autonomous driving`, `#AI policy`, `#transportation`, `#end-to-end model`, `#smart infrastructure`
 
 ---
 
 <a id="item-10"></a>
-## [LLM-Generated Job Applications Erode Authenticity](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) ⭐️ 7.0/10
+## [UNT Launches 3300V SiC MOSFET for Solid-State Transformers](https://www.ithome.com/0/968/326.htm) ⭐️ 7.0/10
 
-Tom MacWright observes that job applications are increasingly cowritten by LLMs, with LLM-generated portfolios, GitHub projects, and commit messages, making candidates indistinguishable and impersonal. This trend undermines the hiring process by eroding authenticity, making it harder for employers to assess candidates' true skills and fit, and could lead to a homogenized workforce. MacWright notes that these applications tell him nothing about the person other than their use of particular tools, and that candidates haven't 'put themselves out there' or said anything true.
+UNT (Xinlian Integration) announced a 3300V SiC MOSFET developed on its proprietary 8-inch SiC planar gate platform, targeting high-voltage applications like solid-state transformers. The device has been sent to key customers for sampling. This 3300V SiC MOSFET enables a 60% reduction in power units and MOSFET count in 10kV medium-voltage solid-state transformers, cutting BOM costs by 20-35%. It accelerates the miniaturization and adoption of solid-state transformers in power grids and renewable energy systems. The device achieves superior conduction and switching performance with smaller cell pitch and better Rds(on)*Qg figure of merit. UNT also previewed a high-frequency, high-voltage, high-power-density magnetic component to complement the MOSFET.
 
-rss · Simon Willison · Jun 24, 18:13
+rss · IT之家 · Jun 25, 02:52
 
-**Background**: Large Language Models (LLMs) like GPT-4 can generate human-like text, leading to their use in writing resumes, cover letters, and even code. While this can save time, it risks producing generic outputs that lack personal voice and genuine experience, a concern increasingly voiced in tech hiring circles.
+**Background**: SiC MOSFETs are power semiconductor devices that switch at high voltages and temperatures more efficiently than traditional silicon MOSFETs. Solid-state transformers (SSTs) are advanced power converters that replace conventional transformers with high-frequency switching, enabling better control and efficiency in smart grids and renewable energy integration.
 
-**Tags**: `#AI`, `#careers`, `#hiring`, `#authenticity`, `#LLM`
+<details><summary>References</summary>
+<ul>
+<li><a href="http://www.fst-tech.com/zhishizhuanlan/1917.html">碳化硅mosfet的基本结构与原理_浮思特科技</a></li>
+<li><a href="https://m.gelonghui.com/p/3138294">受益北美电力需求： 固 态 变 压 器 （SST）厂商梳理</a></li>
+<li><a href="https://www.jiuyangongshe.com/a/202hs1rrula">四部门发文加快大容量 固 态 变 压 器 应 用 ，产业化进程有望提速</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#SiC MOSFET`, `#功率半导体`, `#固态变压器`, `#高压器件`, `#碳化硅`
 
 ---
 
 <a id="item-11"></a>
-## [US Secures Netherlands for Pax Silica Alliance Amid MATCH Act Tensions](https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions) ⭐️ 7.0/10
+## [Anthropic Lead: HTML Beats Markdown for Human Engagement in Agentic Loops](https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-The United States has secured the Netherlands as a member of the Pax Silica Alliance, a strategic initiative to secure semiconductor supply chains, though tensions remain over the MATCH Act's export control restrictions. This strengthens US-led efforts to control advanced semiconductor technology exports to China, but the MATCH Act's unilateral deadlines could strain alliances with key partners like the Netherlands, home to ASML, a critical chip equipment maker. The MATCH Act sets a 150-day deadline for allies to align export controls, threatening to expand the Foreign Direct Product Rule (FDPR) to cover allied companies' products if progress is not demonstrated.
+Thariq Shihipar, engineering lead for Anthropic's Claude Code team, published a blog post arguing that HTML outperforms Markdown for keeping humans engaged in agentic loops due to richer visualizations, color, and interactivity. This insight has practical implications for designing more effective human-agent workflows, potentially improving productivity in AI-assisted development and other agentic systems. Shihipar specifically compared HTML's richer visualizations and interactivity against default Markdown outputs, noting that HTML keeps humans more engaged in agentic loops. The post is titled 'Using Claude Code: The Unreasonable Effectiveness of HTML.'
 
-rss · Tom's Hardware · Jun 24, 17:15
+rss · InfoQ · Jun 24, 23:06
 
-**Background**: Pax Silica is a US-led international initiative focused on securing supply chains for advanced technologies like semiconductors and AI. The MATCH Act (Multilateral Alignment of Technology Controls on Hardware Act) is a US bill that seeks to enforce uniform export controls on semiconductor manufacturing equipment among allies, with penalties for non-compliance.
+**Background**: Agentic loops are closed-loop AI architectures that integrate continuous observation, reasoning, planning, and tool-mediated execution. Claude Code is an agentic coding tool developed by Anthropic that reads codebases, edits files, and runs commands. Markdown is a lightweight markup language commonly used for formatting text, while HTML offers richer presentation capabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pax_Silica">Pax Silica - Wikipedia</a></li>
-<li><a href="https://www.state.gov/pax-silica/">Pax Silica - United States Department of State</a></li>
-<li><a href="https://www.congress.gov/bill/119th-congress/house-bill/8170">H.R.8170 - 119th Congress (2025-2026): To provide for export ... Related top stories Text of H.R. 8170: MATCH Act (Introduced version) - GovTrack.us H.R. 8170: MATCH Act - GovTrack.us [2026-04-08] Risch, Ricketts, Kim Introduce MATCH Act; Level ... Chairman Mast, HFAC, Advances MATCH Act | Republican Foreign ... TH D CONGRESS SESSION H. R. 8170 The MATCH Act Is Industrial Policy Dressed as National ...</a></li>
+<li><a href="https://www.emergentmind.com/topics/agentic-loops">Agentic Loops in AI Systems</a></li>
+<li><a href="https://code.claude.com/docs/en/overview">Overview - Claude Code Docs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#geopolitics`, `#chip alliance`, `#US-Netherlands`, `#MATCH Act`
+**Tags**: `#human-agent interaction`, `#HTML`, `#Markdown`, `#agentic loops`, `#Claude Code`
 
 ---
 
 <a id="item-12"></a>
-## [Micron: Humanoid Robots Need 10x Storage of L2+ Cars, May Spark Super Cycle](https://www.ithome.com/0/968/237.htm) ⭐️ 7.0/10
+## [Europe pushes back against US chip war restrictions](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) ⭐️ 7.0/10
 
-Micron reported record Q3 FY2026 revenue of $41.5 billion and predicted that humanoid robots will require roughly 10 times the memory capacity of L2+ autonomous vehicles, potentially triggering a massive, decades-long memory demand cycle starting in the late 2020s. This insight from a leading memory manufacturer signals a new growth driver beyond AI data centers, with humanoid robots poised to become a major consumer of DRAM and NAND, reshaping the semiconductor industry's demand landscape. Micron has signed 16 strategic customer agreements worth $100 billion in guaranteed revenue, and expects memory supply shortages to persist beyond 2027. The company also noted that its next-gen DRAM and NAND nodes will enter mass production in the second half of 2027.
-
-rss · IT之家 · Jun 25, 00:07
-
-**Background**: L2+ autonomous vehicles use advanced driver-assistance systems (ADAS) like adaptive cruise control and lane-keeping, requiring substantial memory for sensor data processing. Humanoid robots, with their full-body sensors and real-time AI inference, demand even more memory. HBM4 is the latest high-bandwidth memory standard optimized for AI workloads, with speeds up to 2 TB/s.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://dataintelo.com/report/l2-and-l2-autonomous-driving-market">L2 And L2+ Autonomous Driving Market Research Report 2034</a></li>
-<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#memory`, `#humanoid robots`, `#autonomous vehicles`, `#semiconductors`, `#Micron`
-
----
-
-<a id="item-13"></a>
-## [Anthropic Lead: HTML Beats Markdown for Human-Agent Loops](https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
-
-Thariq Shihipar, engineering lead for Anthropic's Claude Code team, published a blog post arguing that HTML outperforms Markdown for keeping humans engaged in agentic loops due to richer visualizations, color, and interactivity. This insight has practical implications for designing AI tooling and user interfaces, potentially improving productivity in human-agent collaboration by making outputs more engaging and informative. The argument is based on HTML's ability to include interactive elements like buttons and forms, as well as styled text and images, which can keep humans more engaged compared to plain Markdown. The post specifically addresses agentic loops where humans review and guide AI actions.
-
-rss · InfoQ · Jun 24, 23:06
-
-**Background**: Agentic loops refer to the iterative process where an AI agent performs actions, observes results, and decides next steps, often with human oversight. Claude Code is Anthropic's AI coding assistant that operates in the terminal and IDE. Markdown is a lightweight markup language commonly used for formatting text, while HTML offers richer presentation and interactivity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mindstudio.ai/blog/what-is-an-agentic-loop-ai-coding-agents">What Is an Agentic Loop? The New Meta for AI Coding Agents | MindStudio</a></li>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#human-computer interaction`, `#agentic loops`, `#HTML`, `#Markdown`
-
----
-
-<a id="item-14"></a>
-## [Google OpenRL: Self-Hosted API for LLM Fine-Tuning on Kubernetes](https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
-
-Google's GKE Labs has introduced OpenRL, an open-source project that provides a self-hosted API for post-training and fine-tuning Large Language Models (LLMs) on standard Kubernetes clusters. OpenRL enables organizations to fine-tune LLMs on their own infrastructure, offering greater control over data privacy and customization compared to cloud-based APIs. This is significant for enterprises that require compliance or proprietary model adaptation. OpenRL is currently available as a research preview from GKE Labs, and it is designed to run on standard Kubernetes clusters, leveraging Kubernetes for orchestration. The project is open-source, allowing community contributions and customization.
-
-rss · InfoQ · Jun 24, 18:00
-
-**Background**: Fine-tuning large language models typically requires significant computational resources and specialized infrastructure. Many organizations rely on cloud-based APIs, which may raise data privacy concerns or limit customization. OpenRL addresses this by providing a self-hosted solution that runs on Kubernetes, a popular container orchestration platform, enabling users to fine-tune models on their own clusters.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://opensource.googleblog.com/2026/06/introducing-openrl-a-self-hosted-post-training-api-for-fine-tuning-llms.html">Introducing OpenRL: A self-hosted post-training API for fine ...</a></li>
-<li><a href="https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/">Google OpenRL is an Experimental Self-hosted API for ... - InfoQ</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#fine-tuning`, `#Kubernetes`, `#open-source`, `#Google`
-
----
-
-<a id="item-15"></a>
-## [CICC Proposes Diamond + Liquid Cooling for AI Servers](https://36kr.com/newsflashes/3867828859638792?f=rss) ⭐️ 7.0/10
-
-CICC released a research note proposing a composite cooling solution combining diamond heat spreaders and full liquid cooling for future high-end AI servers, addressing the thermal challenges from GPU power exceeding 1 kW. As GPU power density continues to rise with 3D packaging, traditional copper and aluminum thermal materials become bottlenecks; this composite approach could enable next-generation AI hardware to operate reliably and efficiently. Diamond has ultra-high thermal conductivity (~2000 W/m·K) and low thermal expansion, making it ideal for spreading heat near the chip, while full liquid cooling handles system-level heat removal in the rack.
-
-rss · 36氪 · Jun 24, 23:58
-
-**Background**: Modern AI GPUs like H100, Blackwell, and Rubin series consume over 1 kW, and 3D packaging further concentrates heat flux. Traditional copper and aluminum heat spreaders have limited thermal conductivity, creating a bottleneck. Diamond heat sinks are already used in semiconductor lasers, and liquid cooling is gaining traction in data centers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.jinruixinpcb.com/Article/bandaotijiguangqi.html">半导体激光器 热 沉 为何选用 金 刚 石 热 沉 片|常见问题| 金 瑞欣特种电路</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/1890460088206065921">3D封装中的热管理挑战与解决方案 - 知乎</a></li>
-<li><a href="https://www.blueocean-china.net/faq1/388.html">液 冷 是什么意思？ 液 冷 的优势及应用领域有哪些</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI hardware`, `#thermal management`, `#data center cooling`, `#GPU`, `#diamond`
-
----
-
-<a id="item-16"></a>
-## [Nvidia CEO Declares AI Investment Returns Are Already Clear](https://36kr.com/newsflashes/3867814349050888?f=rss) ⭐️ 7.0/10
-
-At Nvidia's annual shareholder meeting, CEO Jensen Huang stated that the question of AI investment returns has already been answered, framing AI data centers as 'token factories' where each token is a profit unit. He emphasized that 'useful AI has arrived, and it is profitable.' This signals to investors and the broader tech industry that Nvidia views AI infrastructure spending as directly tied to revenue generation, potentially justifying massive capital expenditures. It reinforces the narrative that AI is transitioning from a cost center to a profit center. Huang described tokens as convertible into code, answers, designs, actions, and services, making each token a unit of profit. The statement aligns with Nvidia's broader 'token factory' concept introduced at GTC 2026, emphasizing inference-driven economics.
-
-rss · 36氪 · Jun 24, 23:44
-
-**Background**: AI tokens are the atomic units of data that large language models process; each query or generation consumes tokens. Nvidia's GPUs are critical for both training and inference, and the company has been promoting the idea that data centers should be viewed as factories producing valuable tokens. The concept of 'token economics' studies how token production and consumption generate business value.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gate.com/learn/articles/the-era-of-token-factories-how-jensen-huang-is-redefining-the-ai-production-function-and-the-trillion-dollar-compute-market">Token Factories: Jensen Huang's AI Production Function ...</a></li>
-<li><a href="https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt/">Scaling Token Factory Revenue and AI Efficiency by Maximizing ...</a></li>
-<li><a href="https://www.finops.org/insights/token-economics-the-atomic-unit-of-ai-value/">Token Economics: The Atomic Unit of AI Value - finops.org</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#AI`, `#investment`, `#token economics`, `#data center`
-
----
-
-<a id="item-17"></a>
-## [Europe pushes back on US chip war restrictions](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) ⭐️ 7.0/10
-
-Europe is pushing back against the US MATCH Act, which would restrict exports of older-generation ASML deep ultraviolet (DUV) lithography tools to China. ASML CEO Christophe Fouquet stated that China currently can only buy DUV tools first shipped about a decade ago, which the MATCH Act would now prohibit. This escalation in US chip export controls could disrupt global semiconductor supply chains and strain transatlantic relations. The MATCH Act targets DUV tools that account for roughly a fifth of ASML's expected revenue, affecting both European equipment makers and Chinese chipmakers. The MATCH Act gives US allies a 150-day ultimatum to align their export controls or face unilateral Foreign Direct Product Rule (FDPR) restrictions. It mandates a country-wide prohibition on selling DUV immersion lithography systems and cryogenic etch tools to nations of concern.
+Europe is pushing back against Washington's chip war, with ASML CEO Christophe Fouquet noting that proposed US legislation (the MATCH Act) would restrict older-generation deep ultraviolet (DUV) lithography tools that China can currently buy. This escalation could disrupt ASML's revenue from DUV tools (about a fifth of expected sales) and strain transatlantic trade relations, while potentially slowing China's semiconductor manufacturing progress. The MATCH Act targets all ASML DUV shipments to China, going beyond previous restrictions that focused on extreme ultraviolet (EUV) tools. ASML's DUV systems are less advanced but still critical for many chipmaking processes.
 
 rss · TechCrunch · Jun 25, 00:08
 
-**Background**: Deep ultraviolet (DUV) lithography is a mature technology used to print features on semiconductor wafers, less advanced than extreme ultraviolet (EUV) lithography. The US has previously restricted exports of EUV tools to China, and the MATCH Act extends controls to older DUV equipment. ASML is a Dutch company, making it subject to both US and EU export regulations.
+**Background**: The US has been tightening export controls on semiconductor equipment to China, initially targeting EUV lithography tools. The MATCH Act, a bipartisan bill moving through Congress, aims to close loopholes and extend restrictions to older DUV tools, which account for a significant portion of ASML's sales to China.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">The US says ASML 's top chip tool may be in China, but... | TechCrunch</a></li>
-<li><a href="https://www.congress.gov/bill/119th-congress/house-bill/8170">H.R.8170 - 119th Congress (2025-2026): To provide for export ... MATCH Act: 2026's Toughest Chip Export Controls Reshape US ... US Targets Chinese Chipmaking With New Export Law The MATCH Act Wants to Cut Off China's Last Semiconductor ... The US wants to cut off China’s chip equipment. China says ... Baumgartner Introduces Bipartisan Bill to Tighten Controls on ... MATCH Act: How US Chip Export Controls Hit China in 2026</a></li>
-<li><a href="https://informedclearly.com/en/trade-war/52262/match-act-chip-export-controls-us-china-2026">MATCH Act: 2026's Toughest Chip Export Controls Reshape US ...</a></li>
+<li><a href="https://overcentral.com/en/netherlands-opposes-match-act-asml-china/">Netherlands Opposes US Bill Restricting ASML Chip Sales to China</a></li>
+<li><a href="https://www.manufacturingdive.com/news/lawmakers-push-restrictions-chipmaking-equipment-exports-china-match-act/816945/">Lawmakers push to restrict chipmaking... | Manufacturing Dive</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#geopolitics`, `#trade policy`, `#ASML`, `#China`
+**Tags**: `#semiconductors`, `#geopolitics`, `#ASML`, `#chip war`, `#trade policy`
 
 ---
 
-<a id="item-18"></a>
-## [Companies Shift from AI Overuse to Token Rationing](https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/) ⭐️ 7.0/10
+<a id="item-13"></a>
+## [AI Fears Unfounded: Engineering Jobs Prove Most Resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) ⭐️ 7.0/10
 
-Companies are moving from allowing unlimited AI usage to implementing token rationing as employees exhaust budgets on trivial tasks, marking the end of the 'tokenmaxxing' era. This shift highlights a critical challenge in enterprise AI adoption: balancing productivity gains with cost control. It signals that without proper governance, AI tools can lead to wasteful spending, prompting organizations to rethink usage policies. The article reports that the 'tokenmaxxing' trend—where employees maximized token consumption as a productivity metric—has led to budget overruns, forcing companies to adopt rationing measures. Token rationing limits the number of tokens each employee can use, curbing excessive usage on low-value tasks.
+New data from SignalFire reveals that despite widespread fears of AI replacing engineers, engineers are actually making up a larger share of new hires at major tech firms, with engineering hiring down only 11% since 2019 and accounting for 55% of new hires. This challenges the dominant narrative that AI will decimate engineering jobs, suggesting instead that AI tools are boosting engineer productivity and expanding demand for their skills, which has significant implications for career planning and tech industry strategy. The data comes from SignalFire's 2025 State of Talent Report, which also found that new grad hiring is collapsing and Texas is losing startup talent, while Anthropic leads with 80% retention.
 
-rss · TechCrunch · Jun 24, 20:09
+rss · TechCrunch · Jun 24, 21:56
 
-**Background**: Tokenmaxxing emerged in early 2026 as a workplace trend where employees used as many AI tokens as possible, believing higher token usage indicated higher productivity. AI services charge per token, so excessive usage can quickly inflate costs. The trend was fueled by powerful tools like Claude Code and Codex, but critics argued it led to wasteful spending and lower-quality work.
+**Background**: Since the release of advanced AI models like GPT-4, there has been widespread concern that AI would automate software engineering tasks, leading to massive job losses. However, this data suggests that AI is augmenting engineers rather than replacing them, increasing overall demand for engineering talent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Token_maxxing">Token maxxing</a></li>
-<li><a href="https://www.forbes.com/sites/timkeary/2026/06/02/why-tokenmaxxing-is-out-and-valuemaxxing-is-in/">Why ‘Tokenmaxxing’ Is Out And ‘Valuemaxxing’ Is In</a></li>
+<li><a href="https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/">AI was supposed to kill engineering jobs, but new data ... | TechCrunch</a></li>
+<li><a href="https://newsgab.com/engineering-jobs-most-resilient-to-ai-new-data/">Despite Fears, New Data Finds Engineering Jobs Most... - Newsgab</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#enterprise`, `#cost management`, `#token rationing`
+**Tags**: `#AI`, `#software engineering`, `#job market`, `#data analysis`
 
 ---
 
-<a id="item-19"></a>
-## [Agility Robotics to go public via SPAC in $2.5B deal](https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/) ⭐️ 7.0/10
+<a id="item-14"></a>
+## [Top AI Researchers Leave Google for Anthropic](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/) ⭐️ 7.0/10
 
-Agility Robotics, a humanoid robotics startup spun out of Oregon State University in 2015, announced plans to go public via a SPAC merger in a $2.5 billion deal, expecting to generate $620 million in proceeds. This SPAC deal marks a major milestone for the commercialization of humanoid robotics, providing Agility Robotics with significant capital to scale production and deployment. It also signals growing investor confidence in the robotics sector. The deal values Agility Robotics at $2.5 billion, with $620 million in gross proceeds expected. The company is known for its bipedal robot Digit, designed for logistics and warehouse tasks.
+Top AI researchers Jonas Adler and Alexander Pritzel have left Google to join Anthropic, following earlier departures of Noam Shazeer and John Jumper. This ongoing talent exodus from Google to rivals like Anthropic signals a strategic shift in the AI industry, potentially weakening Google's research dominance while strengthening competitors. The departures include notable scientists such as Noam Shazeer and John Jumper, reflecting a broader trend of top AI talent moving to startups and rivals.
 
-rss · TechCrunch · Jun 24, 16:48
+rss · TechCrunch · Jun 24, 21:42
 
-**Background**: A SPAC (special-purpose acquisition company) is a shell corporation that raises funds through an IPO to acquire a private company, taking it public with fewer regulatory hurdles than a traditional IPO. Agility Robotics develops humanoid robots for industrial applications, competing with companies like Boston Dynamics and Tesla.
+**Background**: Google has long been a leading hub for AI research, but in recent years, competitors like Anthropic and OpenAI have attracted top talent with promises of greater impact and autonomy. Anthropic, founded by former OpenAI employees, focuses on AI safety and has developed advanced models like Claude Fable 5 and Mythos.
+
+**Tags**: `#AI`, `#Google`, `#Anthropic`, `#talent migration`, `#industry news`
+
+---
+
+<a id="item-15"></a>
+## [Anthropic Accuses Alibaba of Largest Distillation Attack](https://www.ithome.com/0/968/388.htm) ⭐️ 6.0/10
+
+Anthropic has accused Alibaba of conducting the largest known distillation attack on its AI models, using approximately 25,000 fake accounts and 28.8 million queries between April 22 and June 5, 2025. This accusation highlights growing tensions over AI model theft and intellectual property protection, potentially influencing regulatory actions and industry practices around model distillation and cross-border AI competition. Anthropic sent a letter to U.S. senators on June 10, 2025, detailing the attack, which involved 25,000 fraudulent accounts and 28.8 million conversations. The company called for coordinated government-industry action to combat illegal distillation.
+
+rss · IT之家 · Jun 25, 04:52
+
+**Background**: Model distillation is a technique where a smaller model is trained to replicate the outputs of a larger, more capable model, often using the larger model's API. This allows attackers to effectively steal the capabilities of a proprietary model without authorization. Anthropic has previously accused Chinese developers of stealing from its Claude chatbot, but critics point out that Anthropic itself has been accused of scraping data for training.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Special-purpose_acquisition_company">Special-purpose acquisition company - Wikipedia What are SPACs and how do they work? - Quartz SPAC IPO Process Explained: From S-1 to De-SPAC Merger</a></li>
+<li><a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks">Detecting and preventing distillation attacks \ Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Knowledge_distillation">Knowledge distillation - Wikipedia</a></li>
+<li><a href="https://www.mindstudio.ai/blog/ai-model-distillation-attacks-explained">AI Model Distillation Attacks : What They Are and Why... | MindStudio</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#robotics`, `#SPAC`, `#funding`, `#humanoid robots`, `#startup`
+**Tags**: `#AI`, `#distillation`, `#Anthropic`, `#Alibaba`, `#ethics`
 
 ---
 
-<a id="item-20"></a>
-## [Gemini in Chrome adds Select from screen, 3.5 Flash gets computer use](https://9to5google.com/2026/06/24/gemini-chrome-select-screen/) ⭐️ 6.0/10
+<a id="item-16"></a>
+## [AI Industry Cycle: From Tech Talk to Money Talk](https://36kr.com/p/3868045479711745?f=rss) ⭐️ 6.0/10
 
-Google has added a 'Select from screen' tool to Gemini in Chrome, allowing users to highlight specific parts of a web page and attach them to a prompt. Additionally, Gemini 3.5 Flash now supports computer use capabilities for developers, enabling agentic tasks. These updates make Gemini more practical for both everyday users and developers, bridging the gap between AI assistants and direct interaction with web content and applications. The computer use feature positions Gemini 3.5 Flash as a competitor to other agentic AI models like Claude and GPT. The 'Select from screen' tool is available in Chrome 149 via the Gemini side panel's '+' menu, where users can draw boxes to select content. Gemini 3.5 Flash's computer use is inherited from the Gemini 3 family, though some documentation notes it is not supported in 3.5 Flash, indicating possible confusion or phased rollout.
+Fengrui Capital founding partner Li Feng gave a keynote at the 36Kr WAVES 2026 conference, analyzing the current AI industry cycle from a capital and liquidity perspective, arguing that the conversation has shifted from technology to money. Li's analysis provides a macro-financial lens on AI hype, linking unprecedented global liquidity to the surge in AI valuations, and warns that the current capital expenditure cycle may face sustainability risks similar to the dot-com bubble. Li noted that global central banks expanded their balance sheets by $12 trillion in 2020, creating $40-50 trillion in liquidity, which largely flowed to the US and fueled AI stock valuations. He compared today's NVIDIA to Cisco during the dot-com bubble, which lost 80% of its value after the bubble burst.
 
-rss · 9to5Google · Jun 24, 17:45
+rss · 36氪 · Jun 25, 05:23
 
-**Background**: Gemini is Google's family of multimodal AI models, with Flash variants optimized for speed and cost. Computer use refers to an AI's ability to interact with graphical user interfaces (GUIs) by taking screenshots and performing actions like clicking or typing, enabling automation of complex tasks. The 'Select from screen' tool simplifies attaching visual context to queries.
+**Background**: The AI industry has seen massive investment since ChatGPT's launch in late 2022. Li Feng is a prominent Chinese venture capitalist known for his macro-economic insights. The WAVES conference is a major annual event for China's startup ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.androidauthority.com/chrome-select-from-screen-3681130/">Gemini in Chrome gets new 'Select from screen' tool on desktop</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5: frontier intelligence with action - Google Blog</a></li>
-<li><a href="https://ai.google.dev/gemini-api/docs/whats-new-gemini-3.5">What's new in Gemini 3.5 Flash - Interactions API</a></li>
+<li><a href="https://events.pedaily.cn/eventspeople/0/598.shtml">events.pedaily.cn/eventspeople/0/598.shtml</a></li>
+<li><a href="https://36kr.com/p/3866622738060553?f=rss">主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮-36氪</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express mixed sentiments: some users report frustration with Gemini's inability to perform simple data extraction tasks, while others note missing features like MCP support and lack of a coding agent equivalent to Codex or Claude Code. There is also skepticism about screenshot-based approaches compared to accessibility tree or API-based methods.
-
-**Tags**: `#Gemini`, `#Chrome`, `#AI`, `#computer use`
+**Tags**: `#AI`, `#venture capital`, `#industry cycle`, `#China`
 
 ---
 
-<a id="item-21"></a>
-## [NeetCode on Deep Expertise in the AI Era](https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode) ⭐️ 6.0/10
+<a id="item-17"></a>
+## [Roundtable: When Everyone Sees a Bubble, When Will Robots Enter Real Scenes?](https://36kr.com/p/3867998907667462?f=rss) ⭐️ 6.0/10
 
-NeetCode, a well-known figure in tech interview preparation, shared his career journey from Amazon and Google to founding a startup, arguing that deep technical expertise remains crucial despite AI advancements. This discussion is timely as AI tools like ChatGPT are changing how engineers prepare for interviews and work, raising questions about the value of deep knowledge versus tool proficiency. NeetCode's argument is based on his personal experience building a popular interview preparation platform and his belief that foundational understanding enables engineers to solve novel problems that AI cannot yet handle.
+At 36Kr's WAVES2026 conference, a roundtable discussion featuring founders and investors debated whether embodied intelligence robots can transition from hype to real-world applications, with participants sharing early monetization examples like R&D services, niche consumer markets, and robot leasing. This discussion highlights the critical gap between massive investment in embodied AI and the lack of large-scale commercial deployment, offering insights into where and when real value may emerge. It reflects the broader industry debate on whether the sector is overvalued or still underfunded for its long-term potential. Participants included founders of Shenpu Intelligence, Lexiang Technology, and Qingtianzu, along with investors from BV Baidu Ventures, Kailian Capital, and Yuns Capital. The discussion revealed that current profitable scenarios are often niche, such as robot leasing for events, data collection outsourcing, and specialized industrial applications, rather than general-purpose humanoid robots.
 
-rss · The Pragmatic Engineer · Jun 24, 17:32
+rss · 36氪 · Jun 25, 03:42
 
-**Background**: NeetCode is the creator of a widely used YouTube channel and website for coding interview preparation. The tech industry is currently debating how AI tools like GitHub Copilot and ChatGPT affect the need for traditional coding skills.
+**Background**: Embodied intelligence (or embodied AI) refers to AI systems that have a physical body—such as robots—that can perceive, act, and learn from their environment. The field has attracted massive venture capital in China since 2023, driven by advances in large language models and end-to-end learning, but commercial deployment has lagged behind expectations, leading to concerns about a valuation bubble.
 
-**Tags**: `#tech interviews`, `#career`, `#AI`, `#software engineering`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cmu.edu/real/">Home - Robotics, Embodied AI, and Learning - Carnegie Mellon University</a></li>
+<li><a href="https://encord.com/blog/embodied-ai/">What is Embodied AI? A Guide to AI in Robotics | Encord</a></li>
+<li><a href="https://govt.chinadaily.com.cn/s/202310/30/WS65533f83498ed2d7b7e9ff82/hard-tech-the-key-to-next-round-of-innovations.html">Hard tech — the key to next round of... | govt.chinadaily.com.cn</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#embodied intelligence`, `#robotics`, `#AI`, `#venture capital`, `#hard tech`
 
 ---
