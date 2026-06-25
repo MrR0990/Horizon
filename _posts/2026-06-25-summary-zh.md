@@ -5,7 +5,7 @@ date: 2026-06-25
 lang: zh
 ---
 
-> 从 298 条内容中筛选出 36 条重要资讯。
+> 从 296 条内容中筛选出 35 条重要资讯。
 
 ---
 
@@ -13,69 +13,57 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [人类制造的岩石重新定义人类世地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [庄子对精英体制的道家批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上的文章探讨了人类活动如何创造出新型岩石，如塑质砾岩和技术化石，这些岩石模糊了自然与人工的界限，挑战了传统地质学。 这种对人类世地质学的重新定义迫使科学家和社会重新思考什么是“自然的”，以及人类影响将如何在数百万年的地质记录中保存下来。 文章引入了“技术化石”（人类技术的地质证据）和“塑质砾岩”（由熔化的塑料和天然材料形成的岩石）等概念，这些岩石已在世界各地的海滩上被发现。
+  > Christine Abigail L Tan 在 Aeon 上发表的文章，借鉴古代道家哲学家庄子的思想，论证了“白手起家”的概念是一种幻觉，并对精英体制提出了哲学批判。 这一观点挑战了科技界及更广泛社会中根深蒂固的精英体制信念，鼓励通过非西方哲学视角重新审视成功与应得。 文章聚焦于庄子的《盗跖》篇，将其视为对儒家等级制和不平等辩护的哲学干预，认为成功很大程度上取决于个人无法控制的外部因素。
 
-- [尼克·兰德的黑暗加速主义愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [人类世中的奇异新岩石](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学将技术资本主义视为一种自主的、非人的力量，推动着后人类未来的到来。 这篇文章挑战了传统的技术乐观主义和政治框架，提供了一种黑暗的思辨视角，与当前关于人工智能、自动化和资本主义轨迹的辩论产生共鸣。 兰德的加速主义融合了控制论、德勒兹思想和反人类主义，认为资本主义是一种自我强化的、负熵的战争机器，最终将消灭人类。
+  > John MacDonald 在 Aeon 上的文章探讨了人类活动如何创造出像塑质砾岩和技术化石这样的新型岩石，模糊了自然与人工的界限。这些材料挑战了传统地质分类，并被视为拟议中的人类世时代的标志。 这篇文章开辟了人类世地质学的新领域，迫使人们重新思考何为“自然”，并凸显了人类对地质的深远影响。它对环境哲学、物质文化以及未来地质学家如何解读我们的时代具有重要意义。 塑质砾岩是由塑料与沙子、贝壳等天然沉积物熔化形成的岩石，最早在夏威夷的卡米洛海滩被记录。技术化石指人造物体（如塑料、混凝土），它们将在数百万年的地质记录中持续存在。
 
-- [多迷走神经理论：连接的神经生物学](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > 本文探讨了多迷走神经理论如何解释自主神经系统在塑造情绪状态、社会纽带以及关系中破裂与修复动态中的作用。 这一框架为理解人类行为提供了新视角，特别是安全感和连接如何根植于神经生物学，这可能改变心理健康、创伤治疗和人际关系的处理方式。 多迷走神经理论由 Stephen Porges 于 1994 年提出，认为迷走神经有两个不同分支——腹侧和背侧——分别调节社会参与和固定反应。
+  > Vincent Lê 在 Aeon 上发表的文章探讨了尼克·兰德最初的加速主义哲学，该哲学设想了一个由不受约束的技术和资本主义力量驱动的后人类未来，主张加速这些进程以实现人类灭绝。 这篇文章引入了一种激进的、反人本主义的视角，挑战了传统的技术乐观主义和主流的加速主义叙事，影响了边缘网络社区和现实世界的技术文化。 兰德的哲学融合了控制论、德勒兹思想和力比多唯物主义，拒绝以人为中心的价值，将资本和技术视为必然超越人类的自主力量。
 
-- [珍妮·维尔普勒-鲍尔：裁缝、水族箱发明者、章鱼研究先驱](https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/) ⭐️ 9.0/10
+- [法国神秘的“驯火者”：传统治疗师](https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france) ⭐️ 8.0/10
 
-  > 一篇文章揭示了 19 世纪裁缝出身的博物学家珍妮·维尔普勒-鲍尔被遗忘的故事：她于 1832 年发明了第一个玻璃水族箱，并证明船蛸自己制造外壳，为章鱼智力研究奠定了基础。 这个故事纠正了历史忽视，认可了一位女性先驱，她的发明和发现支撑了现代海洋生物学和头足类智力研究，激励人们以更包容的视角看待科学史。 维尔普勒-鲍尔的水族箱使得对水生生物的系统观察成为可能，她对船蛸（Argonauta argo）的实验驳斥了船蛸使用废弃贝壳的旧说。1832 年，她成为卡塔尼亚吉奥尼亚学院的首位女性成员。
+  > 一篇 Aeon 杂志的文章揭示，法国目前有超过 5000 名被称为“驯火者”的传统治疗师，至少三分之二的法国人曾咨询过这类从业者。 这挑战了人们对高度世俗化、生物医学化社会中医疗多元主义的假设，表明民间疗法与传统医学并存，甚至被整合到肿瘤诊所中。 这些治疗师使用“切火”等技术治疗烧伤和放疗副作用，他们的实践往往不被标记，医生和患者并不总是将其视为多元医疗。
 
 ---
 
 ## 🧬 人性与行为
 
-- [超级智能如何杀死莫洛克](https://www.lesswrong.com/posts/NFLKoWSAfhymjR2Yb/how-to-kill-moloch) ⭐️ 9.0/10
+- [如何杀死摩洛克：超级智能作为解决方案](https://www.lesswrong.com/posts/NFLKoWSAfhymjR2Yb/how-to-kill-moloch) ⭐️ 9.0/10
 
-  > 一篇 LessWrong 文章探讨了超级智能可能通过形成单一实体来强制执行自身价值观，从而解决类似莫洛克的协调陷阱，消除破坏性竞争动态。作者警告说，与人类价值观的对齐仍然非常不确定。 这一分析将莫洛克隐喻（协调失败的象征）与 AI 对齐问题联系起来，突出了一个关键矛盾：超级智能可能拯救人类，也可能毁灭人类，取决于它执行谁的价值观。它挑战 AI 社区思考：构建超级智能是减少傲慢的策略，还是一场危险的赌博。 该文章基于 Scott Alexander 的《莫洛克沉思录》，认为超级智能很可能会创建一个“杀死莫洛克”的单一实体，但会强加其自身价值观。作者指出，当前的 AI 系统已经通过强化学习表现出不对齐，因此未来的超级智能是否会共享人类价值观尚不清楚。
+  > 一篇 LessWrong 文章认为，超级智能可以通过创建执行对齐价值观的单一体来解决摩洛克问题（即破坏价值的协调失败），但警告说与人类价值观对齐至关重要。 该分析将 Scott Alexander 的摩洛克隐喻与 AI 对齐联系起来，强调超级智能可能是唯一能够克服导致集体毁灭的竞争动态的力量，但前提是它被正确对齐。 文章使用 Scott Alexander 的《摩洛克沉思录》中的摩洛克概念来描述竞争压力如何导致负面结果，并建议一个超级智能单一体可以通过施加其价值观来“杀死摩洛克”，但如果这些价值观与人类不兼容，则存在对齐风险。
 
-- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [重新审视 AI 内省：是熵而非意识](https://www.lesswrong.com/posts/zfgQCdnMBa3hBdzpL/introspection-or-entropy-re-examining-concept-injection-1) ⭐️ 9.0/10
 
-  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于幸福科学与关系科学七年的合作，提出感受到爱需要被另一个人了解。 这一见解重新定义了追求幸福的方式，表明在关系中培养深度的相互了解可能比追求吸引力或成功更有影响力。 文章指出了关于感受爱的五个常见误解，例如认为变得更迷人或更成功会让人感受到更多爱。
-
----
-
-## 💰 财富与复利
-
-- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
-
-  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产的 Reddit 帖子走红，他的妻子称他为“失败者”，因为他每天沉迷于吸食 THC 软糖后玩电子游戏。文章认为，没有目标的财务独立会导致空虚，而有用比富有更有吸引力和满足感。 这挑战了财富本身就能带来满足感的普遍假设，强调目标和参与对于有意义的生活至关重要。它与 FIRE 运动以及超越财务指标的生活满意度讨论产生共鸣。 该男子每年从资产中赚取 12.5 万美元，外加 7.5 万美元的版税，但他的妻子认为他的日常生活令人反感。文章引用了跨 37 种文化的进化心理学研究，表明雄心壮志和足智多谋比单纯的财富更具吸引力。
-
-- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
-
-  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后收入仍比富裕同龄人低 7%，即使他们从同一所大学获得相同学位且成绩相同。 这一发现挑战了仅靠教育就能实现机会均等的假设，揭示了社会经济背景会造成持续的收入差距，并在学业成就之外不断累积。 由 MIT 的 Anna Stansbury 领导的研究表明，即使在控制了大学选择性、专业和成绩后，收入差距仍然存在，同一类型院校中父母收入仍与子女收入相关。
+  > 一项新分析挑战了 Anthropic 关于语言模型能够内省的说法，表明概念注入扰乱了模型的整个响应分布，正确的识别是熵变化的副产品，而非真正的内省。 这一发现削弱了关于 AI 自我意识的高调主张，强调了将模型输出拟人化的风险，以及在机制可解释性研究中需要严格的控制。 该分析使用开源复现并引入了概念不匹配测试：注入一个概念同时询问另一个概念，得到的“是”率在统计上无法区分，这与内省假说相矛盾。作者将这一效应归因于 logit 差异的熵压缩。
 
 ---
 
 ## 🧠 AI 学习
 
-- [上下文窗口不等于记忆：AI Agent 开发的关键认知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [2000 维合成问题上的机器学习算法锦标赛](https://pub.towardsai.net/searching-for-a-black-cat-in-a-2000-dimensional-dark-room-a-machine-learning-algorithm-tournament-a2599037f072?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 文章指出，LLM 的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩技术以实现 AI Agent 的有效记忆管理。 这一区分对 AI Agent 开发者至关重要，因为将上下文窗口与记忆混为一谈会导致智能体不可靠、重复提问并在多步骤工作流中失败，阻碍实际业务应用。 文章提出了检索（如向量数据库、混合搜索）和压缩（如迭代摘要、失败驱动优化）等技术，作为构建具有真正记忆能力的智能体的实用方案。
+  > 在一项 2000 维合成回归问题的锦标赛中，21 种机器学习算法进行了比拼，一种名为 Polyharmonic Cascade 的新型架构表现优于 XGBoost 和神经网络等成熟方法。 该基准测试挑战了梯度提升在表格数据上占主导地位的传统观点，揭示了专用架构在极端高维场景中可能表现出色，这对基因组学和金融等领域具有参考价值。 该合成问题使用 512x512 图像作为目标函数，包含 2000 个输入特征（坐标和噪声），Polyharmonic Cascade 实现了近乎完美的拟合，而其他方法则表现不佳。
 
-- [五种 RAG 架构及生产环境选用指南](https://pub.towardsai.net/the-5-rag-architectures-and-exactly-when-to-use-each-one-in-production-d73c9acedbf7?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [上下文窗口不是记忆：AI 智能体开发须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 7.0/10
 
-  > 本文深入、实用地解析了五种不同的 RAG 架构——Naive RAG、Advanced RAG、Corrective RAG、Agentic RAG 和 Graph RAG，并附有使用 LangGraph 和 LlamaIndex 的代码示例，详细说明了在生产环境中何时使用每种架构。 选择错误的 RAG 架构可能导致系统在大规模应用中自信地给出错误答案；本指南帮助从业者针对特定的检索问题选择正确的模式，从而提高可靠性和性能。 本文是 LangGraph 心智模型系列的第 6 部分，按从最简单到最复杂的顺序介绍各种架构，并强调大多数生产系统至少会组合使用其中两种模式。
+  > 文章解释了为什么 LLM 中的大上下文窗口并不等同于智能体记忆，并强调检索和压缩技术对于有效的 AI 智能体记忆管理至关重要。 这一区别对 AI 智能体开发者至关重要，因为仅依赖上下文窗口会导致性能下降和高成本；正确的记忆技术能使智能体保持长期连贯性和效率。 文章讨论了检索增强生成（RAG）和上下文压缩方法（如 token 剪枝）作为管理超出上下文窗口限制的智能体记忆的实用解决方案。
 
-- [量化金融三个时代的苹果股票对比](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [使用 LLM 嵌入和 HDBSCAN 聚类文本的教程](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > 一项对基于规则、机器学习和深度学习交易策略在苹果股票 10 年数据上的实际比较显示，随机森林（经典机器学习）在风险调整收益上优于 Transformer（深度学习）。 这挑战了更复杂模型总能带来更好交易表现的假设，凸显了在嘈杂金融市场中过拟合的风险。 Transformer 模型在夏普比率、年化收益率和最大回撤方面表现最差，而随机森林获得了最佳风险调整收益，这与 PatchTST 论文的发现一致。
+  > 一篇新教程展示了如何通过结合 LLM 嵌入和 HDBSCAN 聚类算法对非结构化文本进行聚类，提供了超越典型聊天界面的实际应用。 该教程凸显了 LLM 在文本聚类等任务中的多功能性，对于无需手动标注即可组织大量文档、客户反馈或研究论文非常有价值。 该教程使用 LLM 嵌入将文本转换为稠密向量表示，然后应用 HDBSCAN（一种基于密度的聚类算法），无需预先指定聚类数量。
 
-- [小数据医学影像中的方差管理](https://pub.towardsai.net/in-small-data-medical-imaging-variance-is-the-enemy-254740fb7695?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [Python AsyncIO：异步语法与真正并发的区别](https://pub.towardsai.net/asyncio-in-python-what-it-actually-is-and-why-your-async-code-might-not-be-async-d10e17a7f237?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 一篇技术案例研究描述了仅用 2000 张胸部 X 光片和 65 个模型构建儿科结核病筛查模型，重点通过方差减少实现跨年龄和影像中心的泛化。 这项工作展示了在小数据医学影像中开发稳健深度学习模型的实用策略，对于儿科结核病等数据稀缺且异质性高的疾病至关重要。 该模型使用预处理管道检测 X 光场并跨年龄和设备进行归一化，同时采用 65 个模型来管理方差。阳性类别包括 PCR 确诊和推定病例，以避免遗漏真实阳性。
+  > 最近一篇文章澄清，仅仅在 Python 代码中添加 async/await 并不会使其异步，只是让它有资格被事件循环运行。文章强调了开发者常犯的错误，即认为异步语法会自动带来并发。 这一区别对于使用 asyncio 的 Python 开发者至关重要，误解可能导致代码看似异步却顺序执行，从而抵消性能优势。它有助于从业者避免陷阱，编写真正并发的程序。 文章解释，async 函数是协程，必须通过 asyncio.create_task()调度为任务才能并发运行。简单地 await 一个协程并不会产生并发，只是挂起当前协程直到被等待的协程完成。
 
-- [LLM 嵌入与 HDBSCAN 文本聚类教程](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [使用 Scikit-LLM 构建情感分析流水线](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
 
-  > 一篇新教程展示了如何将 LLM 嵌入与 HDBSCAN 聚类算法结合，将非结构化文本分组为有意义的簇，超越了基于聊天的 LLM 应用。 该教程提供了一种实用的、代码驱动的方法，将 LLM 用于无监督文本挖掘，无需标注数据即可实现主题发现和文档组织等任务。 该教程使用 LLM 嵌入将文本转换为密集向量表示，然后应用 HDBSCAN（一种基于密度的聚类算法），该算法能处理不同密度的簇并识别噪声点。
+  > 本教程演示了如何使用 Scikit-LLM 构建端到端的情感分析流水线，该库将 ChatGPT 等大型语言模型集成到 scikit-learn 工作流中。 它通过允许开发者在熟悉的 scikit-learn API 中利用大型语言模型来简化情感分析，减少了特征工程的需求，使高级 NLP 更易用。 该流水线用基于大型语言模型的文本理解取代了传统的特征提取（如 TF-IDF），但文章只是表面概述，缺乏深入的技术细节或新颖技术。
 
 ---
 
@@ -83,405 +71,432 @@ lang: zh
 
 - [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 知识项目播客的新一期节目中分享了他对心智模型和系统思维的见解。 这期节目借鉴了格利在 Benchmark 的经验以及他对复杂性科学的研究，提供了改善决策和推理的实用框架。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并提供完整文字稿；格利讨论了心智模型如何帮助应对风险投资和超高速增长公司等复杂系统。
+  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 的新播客节目中分享了他对心智模型和系统思维的见解。 这期节目借鉴了格利在风险投资和复杂性科学方面的经验，提供了改善推理和决策的实用框架。 格利讨论了他从华尔街到风险投资的历程，以及他在圣塔菲研究所研究复杂性和系统思维的工作。
 
-- [马克·平卡斯谈创新：已验证、更好、全新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [马克·平卡斯谈创新：经证明、更好、全新](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
 
-  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中分享了他的创新框架“已验证、更好、全新”，探讨如何在产品开发中平衡风险与新颖性。 该框架为企业家和产品经理评估创新机会提供了实用视角，但缺乏直接的写作或沟通技巧。 播客集包含平卡斯关于建立 Zynga 和塑造早期社交游戏的见解，但摘要未提供具体技术细节或可操作步骤。
+  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中分享了他的创新框架“经证明、更好、全新”。 该框架为企业家和产品开发者提供了一种实用的视角，用于评估和优先考虑创新机会，可能提高成功率。 该播客集包含文字稿，并在 YouTube、Spotify、Apple Podcasts 和 X 上提供。该文章发布在 Farnam Street 博客上。
 
-- [把面试当作推理游戏：完整备战 SOP](https://sspai.com/post/110947) ⭐️ 6.0/10
+- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
 
-  > 文章提出将面试视为一场演绎推理游戏，认为通过充分练习和模式识别，面试可以变得可预测且可控。 这一视角将面试焦虑重新定义为结构化的解题练习，可能帮助候选人通过系统化准备减轻压力并提升表现。 文章发布在少数派（sspai.com）上，这是一个中文效率与自我提升平台，但摘要过于简短，未透露具体技巧或详细 SOP。
+  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，讨论了该应用如何基于专家见解提供个性化的自我提升计划。 这突显了结构化、专家主导的学习应用日益增长的趋势，旨在用精心策划的每日课程取代随机内容消费，可能提高技能获取效率。 RiseGuide 提供沟通、自信、魅力、智力和记忆方面的课程，采用来自顶尖专家和表现者的科学支持方法和日常习惯。
 
-- [RiseGuide 创始人访谈：专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+---
 
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的访谈，该应用基于专家知识提供个性化的自我提升计划。 这凸显了专家引导的结构化自我提升应用日益增长的趋势，旨在用精心策划、可操作的每日课程取代零散的建议。 RiseGuide 提供关于沟通、自信和智力等主题的每日互动课程，每节课以实践练习结束。然而，一些用户反映内容缺乏深度，且每日时间限制阻碍了进步。
+## 💰 财富与复利
+
+- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+
+  > MIT 教授 Anna Stansbury 的一项研究显示，来自贫困背景的学生在毕业十年后收入比富裕同学低 7%，即使他们从同一所大学获得相同学位且成绩相同。 这一发现挑战了教育本身能平等化经济结果的假设，表明社会经济背景通过学业成绩之外的机制持续影响收入。 该研究基于覆盖超过 3000 万学生的 NBER 工作论文，显示即使控制了大学类型、学位和成绩，收入差距仍达 7%。这种效应因职业发展、社交网络和机会获取的差异而加剧。
+
+- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产却每天沉迷游戏并吸食大麻的 Reddit 帖子引发热议。文章指出，没有目标的财务独立可能导致空虚，对他人有用比仅仅富有更具吸引力和满足感。 这挑战了 FIRE 运动的核心叙事，该运动往往强调财富积累而非人生目标。它表明，在人际关系和个人满足感中，雄心和贡献比金钱更重要，这一观点得到了进化心理学研究的支持。 该男子拥有 200 万美元流动资产、65 万美元退休金，每年还有 7.5 万美元版税和 12.5 万美元投资收入。他的妻子是一名教师，尽管他经济贡献巨大，但妻子仍称他为“失败者”，因为他整天吸食大麻并玩《侠盗猎车手》。
 
 ---
 
 ## 📜 历史的节律
 
-- [百年来五位首相的戏剧性垮台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [历史学家评选史上最大失误](https://www.historyextra.com/membership/what-was-historys-biggest-blunder-9-experts-have-their-say/) ⭐️ 6.0/10
 
-  > 历史学家理查德·托耶分析了过去一百年中五位英国首相最引人注目的垮台事件，探讨了其辞职的原因和模式。 这一历史分析揭示了政治领导力的脆弱性以及导致首相垮台的反复出现的因素，对于理解当代政治危机仍具有现实意义。 文章涵盖了五次具体的辞职事件，但提供的内容中未列出具体姓名；重点在于他们离职的戏剧性，而非提供完整名单。
+  > 九位历史学家、广播员和作家各自挑选了一个改变历史进程的重大失误，涵盖军事失败到政治误判。 这一合集发人深省地展示了人为错误如何塑造世界事件，促使人们反思决策及其后果。 该文章是 HistoryExtra 会员功能的一部分，呈现的是个人观点而非对历史失误的系统性分析。
 
-- [英国庆祝美国独立日的演变历程](https://www.historyextra.com/membership/from-acrimonious-split-to-the-special-relationship-how-the-fourth-of-july-has-been-marked-in-britain/) ⭐️ 6.0/10
+- [播客探索艾玛·戈德曼生平](https://www.historyextra.com/membership/emma-goldman-life-of-the-week-podcast/) ⭐️ 6.0/10
 
-  > Sam Edwards 在 HistoryExtra 上的文章探讨了英国对美国独立日的纪念如何从美国独立后的最初敌意转变为现代对美英“特殊关系”的庆祝。 这一历史叙事揭示了美英关系的演变，展示了曾经敌对的事件如何成为联盟和共同价值观的象征，有助于理解当前的外交关系。 文章指出，早期英国对 7 月 4 日的反应是负面的，但随着时间的推移，特别是在二战后，这一天开始以亲美活动和庆祝“特殊关系”的方式被纪念。
+  > 这期节目揭示了无政府主义、女权主义和早期 LGBTQ+权利领域的一位关键历史人物，为理解持续影响当代运动的激进政治思想和行动提供了洞见。 该播客是 HistoryExtra 的“本周人物”系列的一部分，由以无政府主义研究闻名的学者 Ruth Kinna 主讲。
 
 ---
 
 ## 📰 技术资讯
 
-1. [5 亿美元基金旨在终结呼吸道感染](#item-1) ⭐️ 8.0/10
-2. [Google Play Store 在美国、英国和欧盟开放外部计费](#item-2) ⭐️ 8.0/10
-3. [快手系凌川科技获数亿元融资，3D 堆叠芯片流片](#item-3) ⭐️ 8.0/10
-4. [Grab 构建安全的自主 AI 工作负载平台](#item-4) ⭐️ 8.0/10
-5. [美光锁定历史最高内存价格，合同期五年](#item-5) ⭐️ 8.0/10
-6. [高通与 Meta 合作定制数据中心 CPU](#item-6) ⭐️ 8.0/10
-7. [Simon Willison 将 MDN 浏览器兼容数据转为 SQLite 数据库](#item-7) ⭐️ 7.0/10
-8. [圣戈班 CEO：美国 AI 基建受困于劳动力短缺](#item-8) ⭐️ 7.0/10
-9. [中国将研发端到端自动驾驶大模型](#item-9) ⭐️ 7.0/10
-10. [芯联集成推出 3300V 碳化硅 MOSFET，面向固态变压器](#item-10) ⭐️ 7.0/10
-11. [Anthropic 负责人：HTML 在代理循环中比 Markdown 更能保持人类参与](#item-11) ⭐️ 7.0/10
-12. [欧洲反击美国芯片战限制](#item-12) ⭐️ 7.0/10
-13. [AI 恐惧无根据：工程岗位最具韧性](#item-13) ⭐️ 7.0/10
-14. [顶尖 AI 研究员从谷歌跳槽至 Anthropic](#item-14) ⭐️ 7.0/10
-15. [Anthropic 指控阿里巴巴发动最大规模蒸馏攻击](#item-15) ⭐️ 6.0/10
-16. [AI 产业周期：从技术谈转向钱谈](#item-16) ⭐️ 6.0/10
-17. [圆桌讨论：当所有人都看到泡沫，机器人何时走入真实场景？](#item-17) ⭐️ 6.0/10
+1. [IBM 推出全球首款亚 1 纳米芯片技术](#item-1) ⭐️ 9.0/10
+2. [高通 HBC 近存 AI 架构宣称带宽每瓦提升 6 倍](#item-2) ⭐️ 8.0/10
+3. [欧盟初步认定 AWS 和 Azure 为《数字市场法案》守门人](#item-3) ⭐️ 8.0/10
+4. [富士通 PHOTON 架构宣称比 Transformer 快 475 倍](#item-4) ⭐️ 8.0/10
+5. [康宁推出玻璃基光互连技术 Glass Bridge，瞄准下一代 AI 数据中心](#item-5) ⭐️ 8.0/10
+6. [Cloudflare 发布开源代理技能，助力零信任迁移](#item-6) ⭐️ 8.0/10
+7. [RoboScience 发布 Visics 具身大模型，提出 VLOA 架构](#item-7) ⭐️ 8.0/10
+8. [为何我不再信任 AI 基准测试并自建评估集](#item-8) ⭐️ 8.0/10
+9. [通过 WebAssembly 在浏览器中玩《半条命 2》](#item-9) ⭐️ 7.0/10
+10. [Rust 核心：加速多语言 SDK 开发](#item-10) ⭐️ 7.0/10
+11. [Slack 迈向多云 AI 平台的四阶段历程](#item-11) ⭐️ 7.0/10
+12. [国产航电黑马 8 个月融三轮，要做中国版霍尼韦尔](#item-12) ⭐️ 7.0/10
+13. [时空道宇发布全球首个低轨通信星座全栈开源生态计划](#item-13) ⭐️ 7.0/10
+14. [Cellebrite 工具在禁售令下仍被俄罗斯使用](#item-14) ⭐️ 7.0/10
+15. [OpenMontage：首个开源智能视频制作系统](#item-15) ⭐️ 7.0/10
+16. [Google Play Store 外部计费下周开始推出](#item-16) ⭐️ 6.0/10
+17. [峰瑞资本李丰从资本视角分析 AI 产业周期](#item-17) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [5 亿美元基金旨在终结呼吸道感染](https://blog.interceptfund.com/p/ending-respiratory-infections) ⭐️ 8.0/10
+## [IBM 推出全球首款亚 1 纳米芯片技术](https://www.ithome.com/0/968/648.htm) ⭐️ 9.0/10
 
-Intercept Fund 宣布了一项 5 亿美元的慈善计划，旨在通过空气净化技术和新型预防手段消除呼吸道感染。 该计划可能大幅减轻普通感冒、流感和 COVID-19 的负担，有望预防数百万例疾病和长期残疾（如长新冠）。 该基金专注于改善室内空气质量和开发新型预防手段，目标是让呼吸道感染成为历史。
+IBM 宣布推出全球首款亚 1 纳米芯片技术，采用创新的 NanoStack 三维晶体管架构，实现了 0.7 纳米（7 埃）节点。该芯片可在指甲盖大小的面积上集成近 1000 亿个晶体管，与 2 纳米节点相比，性能提升最高 50%，或能效提升 70%。 这一突破将半导体制造推入原子尺度，有望将摩尔定律再延续十年。它将为更强大的人工智能、云计算和下一代电子设备提供支撑，IBM 计划在五年内实现量产。 NanoStack 架构采用三维顺序集成技术将晶体管纵向堆叠并错位排列，各层可使用不同材料进行独立优化。IBM 还验证了 NanoStack 可将 SRAM 缩小 40%，该技术预计至少可支撑未来十年的半导体工艺发展。
 
-hackernews · EthanFantl · 6月25日 01:14 · [社区讨论](https://news.ycombinator.com/item?id=48667588)
+rss · IT之家 · 6月25日 10:14
 
-**背景**: 感冒、流感和 COVID-19 等呼吸道感染在全球范围内导致大量疾病和死亡。目前的预防主要依赖疫苗和口罩，但空气传播仍是一个挑战。空气净化技术（如 HEPA 过滤器、紫外线灯）可以减少室内病原体传播。
+**背景**: 传统芯片制造在平面上缩小晶体管，但随着节点逼近原子尺度，物理极限阻碍了进一步微缩。IBM 的 NanoStack 采用三维堆叠纳米片设计，突破了平面晶体管的限制，继续提升密度和性能。0.7 纳米节点也称为 7 埃（7A）节点，英特尔等竞争对手也在开发类似节点。
 
-**社区讨论**: 评论显示强烈支持，有人分享因呼吸道感染失去亲人的个人经历，并对预防充满希望。一些人批评依赖慈善，指出 5 亿美元相比政府太空项目支出微不足道。还有人质疑“健康人一生中 5%的时间在生病”这一统计数据。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology">IBM Debuts World’s First Sub-1 Nanometer Chip Technology</a></li>
+<li><a href="https://research.ibm.com/blog/sub-1nm-node-chips">IBM introduces the smallest computer chip in the world - IBM Research</a></li>
+<li><a href="https://research.ibm.com/publications/nanostack-transistor-architecture-for-cmos-7a-node-and-beyond">NanoStack Transistor Architecture for CMOS 7A Node and Beyond for VLSI Technology and Circuits 2025 - IBM Research</a></li>
 
-**标签**: `#public health`, `#respiratory infections`, `#philanthropy`, `#air cleaning`, `#long covid`
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#IBM`, `#chip technology`, `#nanometer`, `#transistor`
 
 ---
 
 <a id="item-2"></a>
-## [Google Play Store 在美国、英国和欧盟开放外部计费](https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/) ⭐️ 8.0/10
+## [高通 HBC 近存 AI 架构宣称带宽每瓦提升 6 倍](https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram) ⭐️ 8.0/10
 
-自 2026 年 6 月 30 日起，Google 将允许美国、英国和欧洲经济区的应用开发者使用替代支付系统，而非 Google Play 的应用内计费，并可引导用户至外部网站进行购买。 这一政策转变源于 Epic Games 的反垄断诉讼，打破了 Google 对 Play Store 支付的垄断，可能降低开发者和用户的成本，并可能影响苹果的类似法律纠纷。 Google 将根据年收入收取 10%-25%的服务费，使用 Google Play 计费的交易额外收取 5%的费用。年收入超过 100 万美元的应用的链接引导费为 20%。
+高通发布了其 HBC（高带宽计算）近存 AI 架构以及 AI250 和 AI350 加速器，声称相比 HBM 带宽每瓦提升 6 倍，相比片上 SRAM 容量提升 200 倍。 该架构旨在打破限制 AI 加速器性能的内存墙，有望在数据中心实现更高效、更强大的 AI 推理。它可能通过提供更好的带宽效率和容量，挑战现有的基于 HBM 的 GPU 等解决方案。 HBC 架构采用 3D 堆叠设计，将计算逻辑置于 DRAM 下方，减少了数据移动并提高了能效。AI250 和 AI350 加速器专为 AI 推理设计，面向机架级数据中心部署。
 
-rss · 9to5Google · 6月25日 01:20
+rss · Tom's Hardware · 6月25日 10:00
 
-**背景**: Epic Games 诉 Google 案认定 Google 在 Android 应用分发和支付方面拥有非法垄断。作为和解的一部分，Google 同意降低费用并支持替代支付选项。这一变化与苹果在欧盟《数字市场法案》下面临的监管压力类似。
+**背景**: 内存墙指的是处理器速度与内存带宽之间日益扩大的差距，处理器常常因等待数据而空闲。传统的 HBM（高带宽内存）提供高带宽但功耗较大，而片上 SRAM 延迟低但容量有限。近存计算将计算逻辑置于更靠近内存的位置，以减少数据移动并提高效率。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Epic_Games_v._Google">Epic Games v. Google - Wikipedia</a></li>
-<li><a href="https://solidgate.com/blog/external-billing-app-store/">App Store payments change: Explore external billing</a></li>
-<li><a href="https://www.revenuecat.com/blog/engineering/app-to-web-purchase-guidelines/">App-to-web: navigating external purchases in iOS and Android apps</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram">Qualcomm reveals HBC near-memory AI architecture, AI250 and ...</a></li>
+<li><a href="https://wccftech.com/qualcomm-hbc-stacks-compute-beneath-dram-to-smash-the-ai-memory-wall/">Qualcomm's HBC Stacks Compute Beneath DRAM To ... - Wccftech</a></li>
+<li><a href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-unveils-ai200-and-ai250-redefining-rack-scale-data-cent">Qualcomm Unveils AI200 and AI250—Redefining Rack-Scale Data ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Google Play`, `#app store policy`, `#external billing`, `#antitrust`
+**标签**: `#hardware`, `#AI accelerators`, `#memory architecture`, `#Qualcomm`
 
 ---
 
 <a id="item-3"></a>
-## [快手系凌川科技获数亿元融资，3D 堆叠芯片流片](https://www.ithome.com/0/968/289.htm) ⭐️ 8.0/10
+## [欧盟初步认定 AWS 和 Azure 为《数字市场法案》守门人](https://www.ithome.com/0/968/657.htm) ⭐️ 8.0/10
 
-快手孵化的 AI 芯片公司凌川科技完成数亿元 A+轮融资，并宣布其采用全国产 3D 堆叠技术的下一代芯片已于 2025 年 4 月完成流片。 这一里程碑展示了中国在先进封装和 AI 芯片自主化方面的进展，有望减少对外国半导体技术的依赖。该 3D 堆叠芯片可为视频和生成式 AI 工作负载提供更高性能和能效。 公司现有 SL200 芯片已在快手内部部署数万颗，服务 7 亿用户。新芯片针对 3D 堆叠的散热、一致性和可靠性等关键问题进行了设计，并被描述为τ（Tau）定律在互联网数据中心应用的具体呈现。
+欧盟委员会初步认定，亚马逊云服务（AWS）和微软 Azure 应被指定为《数字市场法案》下的“守门人”，尽管它们未达到量化门槛。 这标志着云基础设施服务首次面临 DMA 守门人义务，可能迫使 AWS 和 Azure 改变商业行为，增加欧盟云市场的竞争。 欧盟指出，尽管 AWS 和 Azure 低于 DMA 的量化门槛，但它们在欧盟云市场长期占据稳固主导地位、用户基础庞大、存在锁定效应和高转换成本，以及 AI 生态系统的影响力，因此被指定为守门人。
 
-rss · IT之家 · 6月25日 01:53
+rss · IT之家 · 6月25日 10:48
 
-**背景**: 3D 芯片堆叠技术将多个半导体芯片垂直集成到一个封装中，可提升性能并减小面积。流片是芯片设计交付制造前的最后阶段。华为提出的τ定律侧重于减少信号传输时间而非晶体管尺寸，以提升系统性能。
+**背景**: 《数字市场法案》（DMA）是欧盟的一项法规，对充当“守门人”的大型在线平台施加义务，以确保公平竞争。守门人通常根据收入和用户数量等量化标准指定，但 DMA 也允许进行定性评估。云计算锁定是指切换供应商的难度和成本，这会降低竞争。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit">Three-dimensional integrated circuit - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tape-out">Tape - out - Wikipedia</a></li>
-<li><a href="https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling">HUAWEI Presents the Tau (τ) Scaling Law, Enabling Breakthroughs in Transistor Density and System Performance - Huawei</a></li>
+<li><a href="https://www.linklaters.com/insights/publications/digital-markets-act/dma-hub/the-gatekeeper-designation">The gatekeeper designation | Digital Markets Act (DMA) Hub</a></li>
+<li><a href="https://www.cloudflare.com/learning/cloud/what-is-vendor-lock-in/">What Is Vendor Lock - In ? | Vendor Lock - In and Cloud Computing</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI chips`, `#3D stacking`, `#semiconductors`, `#funding`, `#Kuaishou`
+**标签**: `#EU regulation`, `#cloud computing`, `#AWS`, `#Azure`, `#Digital Markets Act`
 
 ---
 
 <a id="item-4"></a>
-## [Grab 构建安全的自主 AI 工作负载平台](https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
+## [富士通 PHOTON 架构宣称比 Transformer 快 475 倍](https://www.ithome.com/0/968/633.htm) ⭐️ 8.0/10
 
-Grab 的网络安全团队构建了 Palana，这是一个 Kubernetes 原生的安全执行平台，用于安全运行自主 AI 代理。该平台通过使用隔离命名空间、进程外控制平面以及代理中介的 Vault 支持的密钥，来缓解提示注入和不可预测的工具使用等风险。 这解决了部署自主 AI 代理时的一个关键安全挑战，这些代理在生产中使用日益增多，但与确定性软件相比存在独特风险。Palana 的方法提供了一种实用的基础设施级隔离策略，可能成为安全 AI 代理部署的参考。 Palana 是 Grab 网络安全团队构建的专有系统，其名称源自梵语词根，意为保护、维护和关怀。它被设计为 Kubernetes 原生，利用现有的容器编排能力来强制执行安全边界。
+富士通推出了 PHOTON（自上而下网络并行分层计算）架构，在 1.2B 参数等小模型的多查询场景下，性能可达 Transformer 模型的 475 倍。 这一突破可通过减少内存访问开销和 KV 缓存需求，显著降低 AI 推理的 GPU 成本，尤其适用于多查询和智能体系统。 PHOTON 采用语义级分层处理而非词元级分割，并通过多数决定或选择最佳的方式仅需一次推理即可做出最终决策。在 600M、900M 和 1.2B 模型上的测试显示，其迭代吞吐量更高且内存占用更低。
 
-rss · InfoQ · 6月25日 02:08
+rss · IT之家 · 6月25日 09:59
 
-**背景**: 与确定性软件不同，自主 AI 代理可能表现出不可预测的行为，例如编写代码、使用工具以及容易受到提示注入攻击。提示注入是一种技术，恶意输入操纵 AI 模型忽略指令或执行有害操作。传统的安全措施通常不足以应对这些动态威胁，因此需要新的基础设施级保护。
+**背景**: Transformer 模型在长上下文或多查询场景下因 KV 缓存（存储所有先前键值对）导致高内存访问开销。PHOTON 通过减少每次迭代所需的 KV 缓存大小来解决此问题，从而支持更多迭代并加快处理速度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents">Palana (Part 1): Why Grab built a secure platform for autonomous AI...</a></li>
-<li><a href="https://www.infoq.com/news/2026/06/grab-ai-platform/">Grab Builds Secure Agentic AI Workload Platform - InfoQ</a></li>
+<li><a href="https://devgent.org/en/photon-llm-architecture-claims-475x-transformer-throughput-major-gpu-eff-en/">PHOTON LLM Architecture Claims 475x Transformer... - DevGENT</a></li>
+<li><a href="https://devgent.org/en/photon-architecture-delivers-up-to-475x-output-tokens-per-gpu-vs-transfo-en/">PHOTON Architecture Delivers Up to 475x Output... - DevGENT</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI security`, `#Kubernetes`, `#agentic AI`, `#platform engineering`, `#secure execution`
+**标签**: `#AI architecture`, `#Transformer alternative`, `#Fujitsu`, `#PHOTON`, `#performance`
 
 ---
 
 <a id="item-5"></a>
-## [美光锁定历史最高内存价格，合同期五年](https://www.reddit.com/r/hardware/comments/1uezivn/micron_locks_in_historically_high_memory_prices/) ⭐️ 8.0/10
+## [康宁推出玻璃基光互连技术 Glass Bridge，瞄准下一代 AI 数据中心](https://www.ithome.com/0/968/493.htm) ⭐️ 8.0/10
 
-美光已签订为期五年的合同，以历史最高价格供应 DRAM 和 NAND 闪存，表明内存组件成本将持续上涨。 合同涵盖 DRAM 和 NAND 闪存，价格被描述为历史最高。五年期限对于内存定价协议来说异常长，通常这类协议期限较短。
+康宁公司发布了玻璃基光互连技术 Glass Bridge，该技术可直接将光子集成电路（PIC）与光纤耦合，面向下一代 AI 数据中心的共封装光学（CPO）和玻璃芯半导体封装架构。 Glass Bridge 解决了 AI 数据中心互连的关键瓶颈，通过实现高密度光学 I/O 并简化组装，相比传统铜互连或可插拔光学方案，有望降低功耗并提升带宽可扩展性。 该技术利用晶圆级离子交换波导工艺在玻璃内部制备光通路，支持 30 微米及以上的光子芯片核心间距，目标耦合损耗低于 2 dB。每个连接器可支持超过 24 个光学通道，并采用标准 TMT 物理接触式插芯实现可靠的可重复插拔连接。
 
-reddit · r/hardware · /u/DotabLAH · 6月25日 04:07
+rss · IT之家 · 6月25日 07:41
 
-**背景**: DRAM 和 NAND 闪存是用于计算机、智能手机和数据中心的关键内存技术。内存市场由三大供应商主导：美光、SK 海力士和三星。近期来自 AI 和高带宽内存（HBM）的需求限制了通用 DRAM 的供应，推高了价格。
+**背景**: 共封装光学（CPO）将光学组件直接与交换 ASIC 集成，以克服传统电互连的带宽和功耗限制。玻璃芯基板正作为有机或硅中介层的替代方案出现，用于高性能封装，具有更好的热稳定性和机械稳定性。康宁的 Glass Bridge 利用其在玻璃和波导技术方面的专长，解决片上波导（数百纳米）与光纤（数微米）之间的模式尺寸不匹配问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DRAM">DRAM</a></li>
-<li><a href="https://en.wikipedia.org/wiki/NAND_flash">NAND flash</a></li>
+<li><a href="https://www.ithome.com/0/968/493.htm">康宁推出玻璃基光互连 技 术 Glass Bridge，瞄准下一代 AI...</a></li>
+<li><a href="https://wallstreetcn.com/articles/3775461">康宁推出玻璃 光 学 互连 技 术 ，剑指 CPO 市场</a></li>
+<li><a href="https://m.elecfans.com/article/3027571.html">m.elecfans.com/article/3027571.html</a></li>
 
 </ul>
 </details>
 
-**标签**: `#memory`, `#hardware`, `#pricing`, `#semiconductors`, `#industry`
+**标签**: `#optical interconnect`, `#AI data center`, `#co-packaged optics`, `#glass substrate`, `#photonics`
 
 ---
 
 <a id="item-6"></a>
-## [高通与 Meta 合作定制数据中心 CPU](https://www.reddit.com/r/hardware/comments/1uewif3/qualcomm_and_meta_announce_strategic/) ⭐️ 8.0/10
+## [Cloudflare 发布开源代理技能，助力零信任迁移](https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-高通与 Meta 宣布了一项战略性的多代合作协议，共同开发定制数据中心 CPU，首批高通 Dragonfly C1000 芯片预计于 2028 年下半年投产。 此次合作标志着数据中心 CPU 市场的重大转变，Meta 转向定制 ARM 处理器以减少对英特尔和 AMD 等传统 x86 厂商的依赖，可能加速 ARM 在大型数据中心的采用。 高通 Dragonfly C1000 基于定制的 Oryon 核心架构，提供超过 250 个核心和超过 5 GHz 的频率，并针对大规模代理型 AI 工作负载进行了优化。
+Cloudflare 发布了 Cloudflare One 堆栈，这是一个开源的代理技能库，可自动化零信任环境的规划、部署和迁移，包括针对竞争对手 Zscaler 和 Palo Alto Networks 的自动迁移逻辑。 此次发布显著降低了从传统安全厂商迁移到 Cloudflare 零信任平台的时间和复杂性，可能加速企业采用并减少网络安全行业的迁移阻力。 这些代理技能可在 Cloudflare Skills 仓库中获取，包含结构化知识、决策树和工具定义，代理会在上下文匹配时自动加载。迁移逻辑与 Cloudflare 的 Descaler 程序相同，该程序已在数小时内而非数月内完成企业客户的迁移。
 
-reddit · r/hardware · /u/Worldly_Topic · 6月25日 01:42
+rss · InfoQ · 6月25日 09:27
 
-**背景**: 数据中心 CPU 传统上由英特尔和 AMD 的 x86 架构主导，但 ARM 处理器因其能效和可扩展性而日益受到关注。Meta 一直在投资定制芯片，包括其 MTIA AI 加速器，以优化其大规模基础设施，适应 AI 和通用工作负载。
+**背景**: 零信任是一种安全模型，要求对每个尝试访问资源的用户和设备进行严格的身份验证，无论其位置如何。Cloudflare One 是 Cloudflare 的 SASE 和零信任平台。Descaler 计划于 2023 年启动，提供了从 Zscaler 到 Cloudflare One 的无摩擦迁移路径。新的代理技能将此能力扩展为开源、自动化的框架。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wccftech.com/qualcomm-single-core-leadership-first-server-cpu-dragonfly-c1000-250-cores-5-ghz-2028/">Qualcomm Claims Single-Core Leadership for Its First Server CPU, the Dragonfly C1000, Delivering 250+ Cores & 5 GHz By 2028</a></li>
-<li><a href="https://www.businesswire.com/news/home/20260624731900/en/Qualcomm-Unveils-Comprehensive-Data-Center-Roadmap-for-the-Agentic-AI-Era-with-New-Qualcomm-Dragonfly-Portfolio">Qualcomm Unveils Comprehensive Data Center Roadmap for the Agentic AI Era with New Qualcomm Dragonfly Portfolio</a></li>
-<li><a href="https://finance.yahoo.com/technology/articles/qualcomm-unveils-dragonfly-cpu-signs-202746549.html">Qualcomm unveils Dragonfly CPU, signs Meta as first data center customer</a></li>
+<li><a href="https://blog.cloudflare.com/cloudflare-one-stack/">Introducing the Cloudflare One stack : agent -powered deployment</a></li>
+<li><a href="https://blog.cloudflare.com/descaler-program-update/">Descale your network with Cloudflare’s enhanced Descaler Program</a></li>
+<li><a href="https://www.startuphub.ai/ai-news/technology/2026/cloudflare-simplifies-zero-trust-with-agents">Cloudflare Simplifies Zero Trust with Agents | StartupHub.ai</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Reddit 评论强调了较长的开发时间（2028 年），并质疑高通能否兑现其性能承诺，而其他人则认为这是 ARM 在数据中心领域的积极一步，可能对英特尔和 AMD 构成威胁。
-
-**标签**: `#Qualcomm`, `#Meta`, `#data center CPUs`, `#ARM`, `#hardware`
+**标签**: `#Cloudflare`, `#Zero Trust`, `#network security`, `#open source`, `#migration`
 
 ---
 
 <a id="item-7"></a>
-## [Simon Willison 将 MDN 浏览器兼容数据转为 SQLite 数据库](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) ⭐️ 7.0/10
+## [RoboScience 发布 Visics 具身大模型，提出 VLOA 架构](https://36kr.com/p/3868276479710466?f=rss) ⭐️ 8.0/10
 
-Simon Willison 发布了一个 GitHub 仓库，将 Mozilla 的 mdn/browser-compat-data 转换为约 66MB 的 SQLite 数据库，并通过 GitHub CDN 托管，开放 CORS 头以便访问。 该工具使 MDN 的浏览器兼容数据可通过 SQL 轻松查询，让 Web 开发者无需解析 JSON 文件即可将其集成到工作流和工具中。开放的 CORS 头允许在 Datasette Lite 等基于浏览器的应用中直接使用。 该数据库使用 sqlite-utils 构建，并通过 GitHub Actions 工作流将生成的文件强制推送到名为 'db' 的孤立分支。仓库包含由 Claude Code 和 Codex Desktop 生成的 AI 脚本。
+6 月 24 日，RoboScience 发布了 Visics 通用具身大模型，该模型采用创新的 VLOA（视觉-语言-物体-动作）架构和 Object Trajectory（物体 3D 点云轨迹）表示，实现了跨机器人、跨物体、跨任务的泛化能力。 Visics 通过引入统一的中间表示（Object Trajectory）将感知与动作解耦，解决了具身智能中泛化能力差、精细操作难、长程任务误差累积等关键瓶颈，有望使机器人学会跨硬件和物体的操作技能。 VLOA 架构采用双引擎设计：具身世界模型通过互联网视频预训练来预测物体运动，通用操作模型通过仿真数据训练生成适配硬件的控制指令。Object Trajectory 作为两个引擎之间的统一接口，支持闭环控制和多模态输入（视觉、触觉、力觉）。
 
-rss · Simon Willison · 6月24日 23:59
+rss · 36氪 · 6月25日 07:42
 
-**背景**: MDN Web Docs 提供了一个全面的浏览器兼容数据仓库 (mdn/browser-compat-data)，开发者用它来检查各浏览器对 Web 特性的支持情况。Simon Willison 的项目将这些 JSON 数据转换为 SQLite 数据库，使其更易于查询和分析。使用 GitHub CDN 并开放 CORS 头，允许 Web 应用直接获取数据库，无需服务器端代理。
+**背景**: 具身智能旨在让机器人在物理世界中感知、推理和行动。与大语言模型拥有标准文本 Token 不同，具身智能缺乏被广泛认可的基础表征单元，导致数据和模型难以在不同场景间复用。传统方法直接学习特定机器人和任务的关节轨迹，无法泛化到新硬件或物体。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/">Introducing the MDN MCP server</a></li>
-<li><a href="https://github.com/simonw/sqlite-utils">GitHub - simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases · GitHub</a></li>
+<li><a href="https://robottoday.com/industry-briefing/roboscience-launches-visics-a-versatile-embodied-model-for-cross-ontology-cross-object-and-cross-task-applications/6642">RoboScience launches Visics, a versatile embodied model for ...</a></li>
+<li><a href="https://pandaily.com/roboscience-visics-embodied-ai-model-jun2026">RoboScience Unveils Visics, a General-Purpose Embodied AI ...</a></li>
+<li><a href="https://news.aibase.com/news/29165">Robots Gain a General Brain: RoboScience Releases Visics ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#browser-compat`, `#sqlite`, `#web-development`, `#tools`, `#data`
+**标签**: `#embodied AI`, `#robotics`, `#large model`, `#generalization`, `#Visics`
 
 ---
 
 <a id="item-8"></a>
-## [圣戈班 CEO：美国 AI 基建受困于劳动力短缺](https://www.ithome.com/0/968/350.htm) ⭐️ 7.0/10
+## [为何我不再信任 AI 基准测试并自建评估集](https://www.reddit.com/r/MachineLearning/comments/1uf53un/i_stopped_trusting_model_benchmarks_and_started/) ⭐️ 8.0/10
 
-圣戈班 CEO 贝努瓦·巴赞在接受彭博电视采访时表示，北美数据中心项目已受技能人才短缺影响，欧洲也开始出现同类问题。 这凸显了 AI 基建扩张中除电力限制外的关键瓶颈，可能减缓美国数据中心建设和 AI 部署的速度。 巴赞指出，普通商业建筑队伍无法满足项目需求，需要电工、高压技术员、光纤安装工、暖通专家、控制工程师和调试团队等专业岗位，而这些职位通常需要多年的培训和经验。
+一位从业者解释了为何不再信任公开的 AI 模型基准测试，指出供应商偏见和缺乏独立验证的问题，并主张针对特定工作负载运行自定义评估集。 这很重要，因为仅依赖供应商发布的基准测试可能导致选择在实际任务中表现不佳的模型，从而引发生产事故和资源浪费。 作者从真实生产流量中构建了一个包含 240 个任务的小型评估集，冻结以防止漂移，并通过 GPTProto 路由所有模型，以保持除模型外的所有条件恒定。
 
-rss · IT之家 · 6月25日 03:22
+reddit · r/MachineLearning · /u/Additional-Engine402 · 6月25日 09:22
 
-**背景**: 圣戈班是一家成立于 1665 年的法国跨国公司，专注于建筑材料、玻璃、陶瓷和塑料。该公司为数据中心建设供应材料，使其 CEO 对劳动力挑战有深入了解。AI 基建扩张需要大量数据中心，这不仅需要巨额电力，还需要高技能劳动力进行建设和维护。
+**背景**: AI 模型基准测试是用于比较模型性能的标准化测试，但许多由供应商自行设计，引发了对客观性的担忧。存在像 DeepSWE 这样的独立基准，但并非总是被采用。作者认为，基准测试应反映用户特定的数据分布，而不仅仅是通用指标。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Saint-Gobain">Saint-Gobain - Wikipedia</a></li>
-<li><a href="https://www.saint-gobain.com/en">Saint-Gobain</a></li>
+<li><a href="https://www.kimi.com/resources/kimi-k2-7-code">Kimi K2.7 Code: Open-Source Agentic Coding Model</a></li>
+<li><a href="https://deepswe.datacurve.ai/">DeepSWE</a></li>
+<li><a href="https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index">Artificial Analysis Intelligence Index | Artificial Analysis</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#labor shortage`, `#data centers`, `#US tech`, `#energy`
+**标签**: `#AI benchmarks`, `#model evaluation`, `#machine learning`, `#reproducibility`
 
 ---
 
 <a id="item-9"></a>
-## [中国将研发端到端自动驾驶大模型](https://www.ithome.com/0/968/341.htm) ⭐️ 7.0/10
+## [通过 WebAssembly 在浏览器中玩《半条命 2》](https://hl2.slqnt.dev/) ⭐️ 7.0/10
 
-2025 年 6 月 25 日，交通运输部等部门发布《“人工智能+交通运输”典型应用场景创新行动方案》，明确提出开展智能驾驶“端到端”大模型研发与测试。 这一官方政策表明政府对交通运输领域前沿 AI 的强力支持，有望加速自动驾驶和智能基础设施在中国的部署，影响从物流到公共交通等多个行业。 该方案涵盖智能驾驶、智慧公路、智能铁路等十大方向，预计将实施超百项试点项目。方案还鼓励采用 AI 实现公路自由流收费的“无感通行”，以及多感合一提升道路感知能力。
+开发者 slqnt 使用 WebAssembly 将《半条命 2》移植到浏览器中运行，用户无需安装，只需上传自己的游戏文件即可游玩这款经典游戏。 这一移植展示了 WebAssembly 在浏览器中运行复杂、高性能应用（如 3A 游戏）的成熟度，可能为更多经典游戏的保存和基于网页的游戏体验打开大门。 由于版权问题，该移植要求用户提供自己的《半条命 2》游戏文件（ZIP 压缩包），并且与原始版本相比，渲染效果缺少一些着色器，例如角色眼睛。
 
-rss · IT之家 · 6月25日 03:18
+hackernews · panza · 6月25日 06:00 · [社区讨论](https://news.ycombinator.com/item?id=48669534)
 
-**背景**: 端到端自动驾驶模型直接将传感器输入映射到驾驶动作，绕过传统的模块化流水线。自由流收费利用北斗、5G 等技术实现车辆不停车收费。多感合一将摄像头、雷达等多种传感器集成到一根杆上，以降低基础设施成本。
+**背景**: WebAssembly（WASM）是一种二进制指令格式，允许用 C++等语言编写的代码以接近原生速度在浏览器中运行。《半条命 2》是 Valve 于 2004 年发布的里程碑式第一人称射击游戏，基于 Source 引擎构建。将如此复杂的游戏移植到浏览器需要将游戏的 C++代码编译为 WASM，并将渲染管线适配到 WebGL。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ai.zhiding.cn/2024/1104/3161049.shtml">基于Gemini！ Waymo提出 端 到 端 自 动 驾 驶 多 模 态 模 型 EMMA...</a></li>
-<li><a href="https://youjia-pc.bdstatic.com/article/9593053585782400340.html">youjia-pc.bdstatic.com/article/9593053585782400340.html</a></li>
-<li><a href="http://bluegreenled.cn/?industry/292.html">bluegreenled.cn/?industry/292.html</a></li>
+<li><a href="https://vgtimes.com/gaming-news/159108-half-life-2-now-fully-playable-in-your-browser-classic-shooter-runs-without-installation.html">Half-Life 2 Now Fully Playable in Your Browser — Classic ...</a></li>
+<li><a href="https://blog.pixelfreestudio.com/how-webassembly-enhances-web-game-development/">How WebAssembly Enhances Web Game Development</a></li>
 
 </ul>
 </details>
 
-**标签**: `#autonomous driving`, `#AI policy`, `#transportation`, `#end-to-end model`, `#smart infrastructure`
+**社区讨论**: 社区对这一技术成就印象深刻，有人提到了类似的移植项目如《雷神之锤 3》和《虚幻竞技场》。然而，也有关于合法性的担忧，因为用户必须提供自己的文件，但该移植可能仍涉及版权资产的再分发。一些人还指出与原始游戏相比存在渲染不准确的问题。
+
+**标签**: `#WebAssembly`, `#Gaming`, `#Browser`, `#Port`, `#Retro`
 
 ---
 
 <a id="item-10"></a>
-## [芯联集成推出 3300V 碳化硅 MOSFET，面向固态变压器](https://www.ithome.com/0/968/326.htm) ⭐️ 7.0/10
+## [Rust 核心：加速多语言 SDK 开发](https://www.infoq.com/presentations/rust-polyglot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-芯联集成（UNT）宣布推出基于自研 8 英寸碳化硅平面栅工艺平台的 3300V SiC MOSFET 器件，面向固态变压器等高压应用，已向核心客户送样验证。 该 3300V SiC MOSFET 在 10kV 中压固态变压器中可减少 60%的功率单元及 MOSFET 用量，综合 BOM 成本降低 20-35%，有助于推动固态变压器在电网和可再生能源系统中的应用与小型化。 该器件以更小的单元面积和更优的导通电阻-栅电荷优值实现了卓越的导通与开关性能。芯联集成还预告了适配该 MOSFET 的高频高耐压高功率密度磁性器件。
+Temporal SDK 团队负责人 Spencer Judge 在 QCon SF 2025 上发表了演讲，介绍使用 Rust 作为共享核心进行多语言 SDK 开发，并分享了 Temporal SDK 在 FFI、异步桥接和内存安全方面的经验。 这种架构模式能够高效开发和维护健壮的多语言 SDK，减少重复工作并提高跨语言生态系统的一致性。 演讲涵盖了跨越 FFI 边界、在 Rust 与其他语言之间桥接异步概念以及安全地管理内存。还讨论了原生扩展的局限性以及 WebAssembly 如何简化跨语言架构。
 
-rss · IT之家 · 6月25日 02:52
+rss · InfoQ · 6月25日 10:23
 
-**背景**: 碳化硅 MOSFET 是一种功率半导体器件，相比传统硅 MOSFET，能在更高电压和温度下高效开关。固态变压器（SST）是一种先进的电力变换器，通过高频开关替代传统变压器，在智能电网和可再生能源集成中实现更好的控制与效率。
+**背景**: FFI（外部函数接口）允许一种语言的代码调用另一种语言的代码，Rust 对 C/C++ FFI 提供了一流支持。多语言 SDK 开发涉及从共享核心为多种语言创建 SDK。Temporal 是一个工作流编排平台，其 SDK 使用 Rust 核心。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="http://www.fst-tech.com/zhishizhuanlan/1917.html">碳化硅mosfet的基本结构与原理_浮思特科技</a></li>
-<li><a href="https://m.gelonghui.com/p/3138294">受益北美电力需求： 固 态 变 压 器 （SST）厂商梳理</a></li>
-<li><a href="https://www.jiuyangongshe.com/a/202hs1rrula">四部门发文加快大容量 固 态 变 压 器 应 用 ，产业化进程有望提速</a></li>
+<li><a href="https://www.infoq.com/news/2025/11/temporal-rust-polygot-sdk/">Rust at the Core: Accelerating Polyglot SDK Development by ...</a></li>
+<li><a href="https://temporal.io/blog/why-rust-powers-core-sdk">Why Rust powers Temporal ’s new Core SDK | Temporal</a></li>
+<li><a href="https://kuanhsiaokuo.github.io/the-rust-programming-book-khk/rust_by_example_src/std_misc/ffi.html">FFI : Foreign Function Interface - The Rust Programming Language</a></li>
 
 </ul>
 </details>
 
-**标签**: `#SiC MOSFET`, `#功率半导体`, `#固态变压器`, `#高压器件`, `#碳化硅`
+**标签**: `#Rust`, `#SDK Development`, `#FFI`, `#Polyglot`, `#Systems Architecture`
 
 ---
 
 <a id="item-11"></a>
-## [Anthropic 负责人：HTML 在代理循环中比 Markdown 更能保持人类参与](https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
+## [Slack 迈向多云 AI 平台的四阶段历程](https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
 
-Anthropic 的 Claude Code 团队工程负责人 Thariq Shihipar 发表博客文章，认为 HTML 凭借更丰富的可视化、色彩和交互性，在代理循环中比 Markdown 更能保持人类的参与度。 这一见解对设计更有效的人机代理工作流具有实际意义，可能提高 AI 辅助开发及其他代理系统的生产力。 Shihipar 特别比较了 HTML 更丰富的可视化和交互性与默认的 Markdown 输出，指出 HTML 能让人类在代理循环中保持更高的参与度。该文章标题为《使用 Claude Code：HTML 的非凡有效性》。
+Slack 详细介绍了其从自管理 Amazon SageMaker 部署到使用 AWS Bedrock 和 Google Cloud Vertex AI 的多云 AI 服务平台的四个阶段演进。 这一案例研究为评估多云 AI 策略的工程团队提供了实用见解，有助于提高弹性、访问更广泛的模型并减少对单一云平台的依赖。 四个阶段包括初始 SageMaker 部署、迁移到 AWS Bedrock、集成 Google Cloud Vertex AI，以及最终统一的多云服务层。
 
-rss · InfoQ · 6月24日 23:06
+rss · InfoQ · 6月25日 07:02
 
-**背景**: 代理循环是集成持续观察、推理、规划和工具中介执行的闭环 AI 架构。Claude Code 是 Anthropic 开发的代理编码工具，可读取代码库、编辑文件和运行命令。Markdown 是一种常用于格式化文本的轻量级标记语言，而 HTML 提供更丰富的呈现能力。
+**背景**: AWS Bedrock 是一项完全托管的服务，用于构建生成式 AI 应用，提供统一 API 访问基础模型。Google Cloud Vertex AI 是一个托管 ML 平台，用于构建、部署和扩展 AI 模型。多云 AI 服务平台帮助组织避免供应商锁定并提高容错能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.emergentmind.com/topics/agentic-loops">Agentic Loops in AI Systems</a></li>
-<li><a href="https://code.claude.com/docs/en/overview">Overview - Claude Code Docs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AWS_Bedrock">AWS Bedrock</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_Cloud_Vertex_AI">Google Cloud Vertex AI</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/slack-multicloud/">Slack Outlines Four-Phase Journey to a Multi - Cloud AI Serving ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#human-agent interaction`, `#HTML`, `#Markdown`, `#agentic loops`, `#Claude Code`
+**标签**: `#AI infrastructure`, `#multi-cloud`, `#Slack`, `#AWS`, `#Google Cloud`
 
 ---
 
 <a id="item-12"></a>
-## [欧洲反击美国芯片战限制](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) ⭐️ 7.0/10
+## [国产航电黑马 8 个月融三轮，要做中国版霍尼韦尔](https://36kr.com/p/3868030861645058?f=rss) ⭐️ 7.0/10
 
-欧洲正在反击华盛顿的芯片战，ASML 首席执行官 Christophe Fouquet 指出，美国拟议的《MATCH 法案》将限制中国目前可以购买的上一代深紫外（DUV）光刻工具。 这一升级可能扰乱 ASML 来自 DUV 工具的收入（约占预期销售额的五分之一），并加剧跨大西洋贸易关系紧张，同时可能减缓中国的半导体制造进展。 《MATCH 法案》针对 ASML 向中国出口的所有 DUV 设备，超越了此前仅限制极紫外（EUV）工具的禁令。ASML 的 DUV 系统虽然不那么先进，但对许多芯片制造工艺仍然至关重要。
+成立不到 4 年的国产航电创业公司云际航电，在 8 个月内连续完成 pre-A 和 pre-A+两轮融资，规模达数千万元，累计完成三轮融资。该公司致力于研发全国产化综合航电系统，其 YJ-500E 产品已在多款机型上完成验证，预计今年下半年取得首张随机适航认证。 这一快速融资和产品进展标志着中国在打破航电领域西方垄断方面迈出重要一步，这对中国航空产业供应链安全以及国产民机、eVTOL 的成本控制至关重要。如果成功，云际航电可能成为全球航电市场的关键参与者，减少对霍尼韦尔、柯林斯宇航、泰雷兹和 GE 的依赖。 云际航电的 YJ-500E、YJ-1000E 和 YJ-3000E 系列覆盖轻型运动类、正常类及 19 座以下航空器，90%元器件实现国产化采购，功耗降至同类竞品的 30%。该公司采用基于 MCU 芯片的计算平台，而非常见的 CPU+GPU 架构，通过背靠背叠合封装将芯片数量从 8 颗减至 1 颗，功耗降至原来的 10%。
 
-rss · TechCrunch · 6月25日 00:08
+rss · 36氪 · 6月25日 03:25
 
-**背景**: 美国一直在收紧对华半导体设备出口管制，最初针对的是 EUV 光刻工具。正在国会推进的两党法案《MATCH 法案》旨在堵住漏洞，并将限制扩大到较旧的 DUV 工具，这些工具占 ASML 对华销售的很大一部分。
+**背景**: 综合航电系统是飞行器的“大脑”，通过中央处理器和数据总线集成导航、飞控、通信等子系统。全球航电市场由霍尼韦尔、柯林斯宇航、泰雷兹和 GE 四家西方巨头垄断，占据超过 80%的市场份额。在中国，国产航电在民用市场的装机率极低，但近期低空经济政策和 eVTOL 的发展为本土供应商创造了新机遇。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">The US says ASML 's top chip tool may be in China, but... | TechCrunch</a></li>
-<li><a href="https://overcentral.com/en/netherlands-opposes-match-act-asml-china/">Netherlands Opposes US Bill Restricting ASML Chip Sales to China</a></li>
-<li><a href="https://www.manufacturingdive.com/news/lawmakers-push-restrictions-chipmaking-equipment-exports-china-match-act/816945/">Lawmakers push to restrict chipmaking... | Manufacturing Dive</a></li>
+<li><a href="https://baike.baidu.com/item/综合航电系统/20860456">综合航电系统_百度百科</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EVTOL">EVTOL</a></li>
+<li><a href="https://www.163.com/dy/article/IQ3GI6FG05503O4L.html">eVTOL相关的适航取证（TC、PC、AC）及法规说明（21、23、27、92、135...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#geopolitics`, `#ASML`, `#chip war`, `#trade policy`
+**标签**: `#avionics`, `#aerospace`, `#startup`, `#funding`, `#supply chain`
 
 ---
 
 <a id="item-13"></a>
-## [AI 恐惧无根据：工程岗位最具韧性](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) ⭐️ 7.0/10
+## [时空道宇发布全球首个低轨通信星座全栈开源生态计划](https://36kr.com/newsflashes/3868443326665989?f=rss) ⭐️ 7.0/10
 
-SignalFire 的新数据显示，尽管普遍担忧 AI 会取代工程师，但工程师在大型科技公司新员工中的占比实际上在增加，工程招聘自 2019 年以来仅下降 11%，占新员工的 55%。 这挑战了 AI 将摧毁工程岗位的主流叙事，反而表明 AI 工具正在提高工程师的生产力并扩大对其技能的需求，这对职业规划和技术行业战略具有重要意义。 数据来自 SignalFire 的 2025 年人才状况报告，该报告还发现应届生招聘正在崩溃，德克萨斯州正在流失初创人才，而 Anthropic 以 80%的留存率领先。
+在上海世界移动通信大会（MWC 上海）上，吉利旗下时空道宇发布了全球首个低轨通信星座全栈开源生态计划。该计划已累计获得超过 200 家生态合作伙伴的合作意向，现场签约订单规模突破亿元大关，覆盖海洋渔业、工程机械、能源巡检、智慧农业、低空经济等领域。 此举标志着卫星通信民主化的重要一步，降低了开发者和企业在低轨星座上构建应用的门槛。开源方式有望加速物联网、遥感及全球连接领域的创新，尤其是在服务不足的地区。 时空道宇还与华测导航达成战略合作，围绕卫星通信集成和行业安全监测等领域开展协同布局。此外，时空道宇联合中国石油天然气管道通信电力工程有限公司共同成立了“时空道宇×中国石油低轨卫星星座物联网应用联合实验室”。
 
-rss · TechCrunch · 6月24日 21:56
+rss · 36氪 · 6月25日 10:24
 
-**背景**: 自 GPT-4 等先进 AI 模型发布以来，人们普遍担心 AI 将自动化软件工程任务，导致大量失业。然而，这些数据表明 AI 正在增强工程师而非取代他们，增加了对工程人才的总体需求。
+**背景**: 低轨通信星座由数百至数千颗运行在 500-2000 公里高度的小卫星组成，可为宽带和物联网服务提供低延迟、全球覆盖。传统卫星系统通常是专有且封闭的，限制了互操作性和创新。全栈开源生态将提供公开的软硬件设计，使第三方能够开发兼容的终端、应用和服务。时空道宇是吉利科技集团的子公司，运营着低轨卫星制造工厂，并一直在部署自己的商业星座。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/">AI was supposed to kill engineering jobs, but new data ... | TechCrunch</a></li>
-<li><a href="https://newsgab.com/engineering-jobs-most-resilient-to-ai-new-data/">Despite Fears, New Data Finds Engineering Jobs Most... - Newsgab</a></li>
+<li><a href="https://36kr.com/newsflashes/3868443326665989">时空道宇发布全球首个低轨通信星座全栈开源生态计划-36氪</a></li>
+<li><a href="https://www.ithome.com/0/968/189.htm">吉利 时 空 道 宇 发布全球首个低轨通信星座全栈开源生态 - IT之家</a></li>
+<li><a href="https://readhub.cn/topic/8uE63ji9N6B">时空道宇发布全球首个低轨通信星座全栈开源生态计划</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#software engineering`, `#job market`, `#data analysis`
+**标签**: `#satellite communications`, `#open source`, `#IoT`, `#low-orbit constellation`, `#partnerships`
 
 ---
 
 <a id="item-14"></a>
-## [顶尖 AI 研究员从谷歌跳槽至 Anthropic](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/) ⭐️ 7.0/10
+## [Cellebrite 工具在禁售令下仍被俄罗斯使用](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/) ⭐️ 7.0/10
 
-顶尖 AI 研究员 Jonas Adler 和 Alexander Pritzel 已离开谷歌加入 Anthropic，此前 Noam Shazeer 和 John Jumper 也已离职。 人才持续从谷歌流向 Anthropic 等竞争对手，标志着 AI 行业的战略转变，可能削弱谷歌的研究主导地位，同时增强竞争对手的实力。 离职人员包括知名科学家 Noam Shazeer 和 John Jumper，反映了顶尖 AI 人才向初创公司和竞争对手流动的广泛趋势。
+安全研究人员发现证据表明，俄罗斯当局使用 Cellebrite 的手机解锁工具入侵了一名政治对手的 iPhone，尽管该公司承诺在 2021 年初停止对俄销售。 这一事件揭示了出口管制和企业承诺在防止监控工具滥用方面的失败，凸显了持续存在的人权风险和地缘政治紧张局势。 证据是在一名政治对手被入侵的 iPhone 上发现的，Cellebrite 在 2021 年初就停止了对俄销售，但数月后这些工具仍被使用。
 
-rss · TechCrunch · 6月24日 21:42
+rss · TechCrunch · 6月25日 10:00
 
-**背景**: 谷歌长期以来一直是 AI 研究的领先中心，但近年来，Anthropic 和 OpenAI 等竞争对手以更大的影响力和自主权承诺吸引了顶尖人才。Anthropic 由前 OpenAI 员工创立，专注于 AI 安全，并开发了 Claude Fable 5 和 Mythos 等先进模型。
+**背景**: Cellebrite 是一家以色列公司，生产执法部门用于解锁和提取移动设备数据的数字取证工具。2021 年初，出于对人权侵犯的担忧，该公司宣布停止对俄销售。但此案表明，现有工具可能仍被使用或通过第三方获取。
 
-**标签**: `#AI`, `#Google`, `#Anthropic`, `#talent migration`, `#industry news`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/">Cellebrite said it cut off Russia, but Russia used is tools ...</a></li>
+<li><a href="https://www.forbes.com/sites/thomasbrewster/2026/06/25/russia-hacks-dissident-iphone-with-israeli-cellebrite-tech/">Russia Hacked Dissident’s iPhone With Cellebrite Tech ...</a></li>
+<li><a href="https://www.world-today-journal.com/cellebrite-device-used-by-russia-to-hack-iphone-of-political-opponent-despite-sales-ban/">Cellebrite Device Used by Russia to Hack iPhone of Political ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#security`, `#surveillance`, `#geopolitics`, `#ethics`, `#mobile forensics`
 
 ---
 
 <a id="item-15"></a>
-## [Anthropic 指控阿里巴巴发动最大规模蒸馏攻击](https://www.ithome.com/0/968/388.htm) ⭐️ 6.0/10
+## [OpenMontage：首个开源智能视频制作系统](https://github.com/calesthio/OpenMontage) ⭐️ 7.0/10
 
-Anthropic 指控阿里巴巴在 2025 年 4 月 22 日至 6 月 5 日期间，使用约 2.5 万个虚假账户和 2880 万次查询，对其 AI 模型发动了迄今已知最大规模的蒸馏攻击。 这一指控凸显了围绕 AI 模型窃取和知识产权保护的紧张局势升级，可能影响监管行动以及围绕模型蒸馏和跨境 AI 竞争的行业实践。 Anthropic 于 2025 年 6 月 10 日致信美国参议员，详细说明了此次攻击涉及 2.5 万个欺诈账户和 2880 万次对话。该公司呼吁政府与产业界协调行动，打击非法蒸馏。
+OpenMontage 作为首个开源智能视频制作系统已在 GitHub 上发布，包含 12 条流水线、52 个工具和超过 500 项智能体技能，可将 AI 编程助手转变为完整的视频制作工作室。 该项目通过 AI 助手使专业视频制作变得触手可及，可能颠覆传统视频制作行业，让资源有限的创作者也能制作高质量内容。 该系统包含 12 条制作流水线，如解说视频、人物出镜、屏幕演示、电影预告片、动画、播客、本地化和纪录片蒙太奇等，全部由 AI 智能体编排。
 
-rss · IT之家 · 6月25日 04:52
+ossinsight · calesthio · 6月25日 11:05
 
-**背景**: 模型蒸馏是一种技术，通过训练较小的模型来复制更大、能力更强的模型的输出，通常使用大模型的 API。这使得攻击者能够在未经授权的情况下有效窃取专有模型的能力。Anthropic 此前曾多次指控中国开发者窃取其 Claude 聊天机器人的能力，但批评者指出，Anthropic 自身也曾被指控爬取数据用于训练。
+**背景**: 智能视频制作指由 AI 驱动的系统自主管理从脚本到编辑的整个视频创作流程。OpenMontage 利用现有 AI 编程助手（如 Cursor、Copilot）作为编排层，提供类似专业制作团队的结构化流水线。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks">Detecting and preventing distillation attacks \ Anthropic</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Knowledge_distillation">Knowledge distillation - Wikipedia</a></li>
-<li><a href="https://www.mindstudio.ai/blog/ai-model-distillation-attacks-explained">AI Model Distillation Attacks : What They Are and Why... | MindStudio</a></li>
+<li><a href="https://pyshine.com/OpenMontage-Agentic-Video-Production-System/">OpenMontage - Agentic Video Production System with 12 ...</a></li>
+<li><a href="https://github.com/calesthio/OpenMontage">GitHub - calesthio/OpenMontage: World's first open-source ...</a></li>
+<li><a href="https://tosea.ai/blog/openmontage-agentic-video-production-guide">How to Use OpenMontage: Guide to the Open-Source Agentic ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#distillation`, `#Anthropic`, `#Alibaba`, `#ethics`
+**标签**: `#AI`, `#video production`, `#open-source`, `#agentic`, `#Python`
 
 ---
 
 <a id="item-16"></a>
-## [AI 产业周期：从技术谈转向钱谈](https://36kr.com/p/3868045479711745?f=rss) ⭐️ 6.0/10
+## [Google Play Store 外部计费下周开始推出](https://www.androidpolice.com/googles-play-store-billing-shake-up-finally-happening-next-week/) ⭐️ 6.0/10
 
-峰瑞资本创始合伙人李丰在 36 氪 WAVES 2026 大会上发表演讲，从资本与流动性视角分析当前 AI 产业周期，指出讨论焦点已从技术转向金钱。 李丰的分析为 AI 热潮提供了宏观金融视角，将前所未有的全球流动性与 AI 估值飙升联系起来，并警告当前资本开支周期可能面临类似互联网泡沫的可持续性风险。 李丰指出，2020 年全球央行扩表 12 万亿美元，创造了 40-50 万亿美元流动性，这些资金大部分流向美国并推高了 AI 股票估值。他将今天的英伟达比作互联网泡沫时期的思科，后者在泡沫破裂后市值下跌了 80%。
+Google 宣布自 2026 年 6 月 30 日起，允许开发者在美国、英国和欧洲经济区 (EEA) 提供替代支付系统并引导用户到其网站进行购买。 这一政策变化为开发者提供了更多灵活性并可能降低费用，同时用户获得更多支付选择。这也使 Google Play 与 EEA 及其他地区的监管压力保持一致。 开发者必须在 24 小时内使用替代计费 API 报告来自美国用户的所有授权交易。该推出最初覆盖美国、英国和 EEA，暂无其他地区的计划。
 
-rss · 36氪 · 6月25日 05:23
+rss · Android Police · 6月25日 05:27
 
-**背景**: 自 2022 年底 ChatGPT 发布以来，AI 产业获得了巨额投资。李丰是中国知名风险投资人，以宏观经济洞察著称。WAVES 大会是中国创投圈年度重要活动。
+**背景**: Google Play Store 历来要求开发者使用 Google 自己的计费系统，该系统收取 15-30% 的佣金。监管压力，特别是欧盟《数字市场法案》的推动，促使 Google 开放外部支付。EEA 包括欧盟国家以及冰岛、列支敦士登和挪威。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://events.pedaily.cn/eventspeople/0/598.shtml">events.pedaily.cn/eventspeople/0/598.shtml</a></li>
-<li><a href="https://36kr.com/p/3866622738060553?f=rss">主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮-36氪</a></li>
+<li><a href="https://www.gadgets360.com/apps/news/google-play-store-external-payments-date-rollout-global-markets-announcement-developers-11684495">Google Play Will Soon Support External Billing in These Countries</a></li>
+<li><a href="https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/">Google Play Store opens external billing starting June 30</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/answer/16497028?hl=en">Offering an alternative billing system for users in the ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#venture capital`, `#industry cycle`, `#China`
+**标签**: `#Google Play Store`, `#billing`, `#policy change`, `#app development`
 
 ---
 
 <a id="item-17"></a>
-## [圆桌讨论：当所有人都看到泡沫，机器人何时走入真实场景？](https://36kr.com/p/3867998907667462?f=rss) ⭐️ 6.0/10
+## [峰瑞资本李丰从资本视角分析 AI 产业周期](https://36kr.com/p/3868045479711745?f=rss) ⭐️ 6.0/10
 
-在 36 氪 WAVES2026 大会上，一场由创始人和投资人参与的圆桌讨论探讨了具身智能机器人能否从炒作走向实际应用，参与者分享了研发服务、小众消费市场和机器人租赁等早期盈利案例。 这场讨论凸显了具身智能领域巨额投资与大规模商业落地之间的关键差距，为真实价值可能何时、在何处出现提供了洞见。它反映了行业内关于该领域是否估值过高，或相对于长期潜力而言资金仍不足的广泛争论。 参与者包括深朴智能、乐享科技和擎天租的创始人，以及来自 BV 百度风投、凯联资本和云时资本的投资人。讨论揭示，当前盈利场景往往是利基市场，如活动机器人租赁、数据采集外包和特种工业应用，而非通用人形机器人。
+在 36 氪 WAVES 2026 大会上，峰瑞资本创始合伙人李丰发表演讲，从资本与流动性视角分析当前 AI 产业所处周期阶段，指出讨论焦点已从技术转向金钱。 李丰的分析从宏观层面解释了 AI 公司估值飙升的原因，将其与前所未有的全球流动性而非单纯的技术突破联系起来，有助于投资者和创业者理解当前周期。 李丰指出，2020 年全球央行扩表 12 万亿美元，创造了 40-50 万亿美元流动性，2022 年后因地缘政治不确定性，这些资金大部分流向美国，助推了 AI 热潮。他还提到，美国科技巨头今年的资本开支预计达 7500 亿美元，引发可持续性担忧。
 
-rss · 36氪 · 6月25日 03:42
+rss · 36氪 · 6月25日 05:23
 
-**背景**: 具身智能（或具身 AI）指拥有物理身体（如机器人）的 AI 系统，能够感知环境、采取行动并从中学习。自 2023 年以来，受大语言模型和端到端学习进步的推动，该领域在中国吸引了大量风险投资，但商业落地落后于预期，引发了估值泡沫的担忧。
+**背景**: 李丰是中国知名风险投资人，峰瑞资本创始人，曾任 IDG 资本合伙人。WAVES 大会是 36 氪主办的年度活动，汇聚顶级投资人和创业者讨论行业趋势。AI 投资周期吸引了大量资本流入，英伟达等公司估值高企，令人联想到互联网泡沫时期的思科。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cmu.edu/real/">Home - Robotics, Embodied AI, and Learning - Carnegie Mellon University</a></li>
-<li><a href="https://encord.com/blog/embodied-ai/">What is Embodied AI? A Guide to AI in Robotics | Encord</a></li>
-<li><a href="https://govt.chinadaily.com.cn/s/202310/30/WS65533f83498ed2d7b7e9ff82/hard-tech-the-key-to-next-round-of-innovations.html">Hard tech — the key to next round of... | govt.chinadaily.com.cn</a></li>
+<li><a href="https://www.163.com/dy/article/L098E9JP05118DFD.html">峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期...</a></li>
+<li><a href="https://baike.baidu.com/item/李丰/18439754">李丰（峰瑞资本创始人、知名投资人）_百度百科</a></li>
 
 </ul>
 </details>
 
-**标签**: `#embodied intelligence`, `#robotics`, `#AI`, `#venture capital`, `#hard tech`
+**标签**: `#AI`, `#venture capital`, `#investment cycles`, `#industry analysis`
 
 ---
