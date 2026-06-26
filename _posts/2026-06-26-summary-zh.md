@@ -5,7 +5,7 @@ date: 2026-06-26
 lang: zh
 ---
 
-> 从 294 条内容中筛选出 36 条重要资讯。
+> 从 293 条内容中筛选出 36 条重要资讯。
 
 ---
 
@@ -13,483 +13,471 @@ lang: zh
 
 ## 🔭 未知的未知
 
+- [法国秘密治疗师：现代医学中的控火者](https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france) ⭐️ 9.0/10
+
+  > 苏珊娜·克罗斯曼的一篇文章揭示了法国民间治疗师（被称为“控火者”）的隐秘世界，他们在从乡村农舍到肿瘤诊所的各个场所，与常规医学并行实践。 这一探索开辟了一个结合医学人类学、文化研究和历史的全新领域，在现代背景下挑战了替代医学与主流医学之间的界限。 文章聚焦于专门从事“控火”的法国治疗师——这是一种治疗烧伤及其他疾病的传统实践——并记录了她们与官方医疗体系的共存状态。
+
 - [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > Aeon 上的一篇文章借用道家哲学家庄子的思想，论证了“白手起家”是一个神话，精英制度是一个有缺陷的概念。 这一观点挑战了科技界及更广泛社会中关于成功与应得的根深蒂固的假设，提供了一个专业人士很少接触到的跨文化哲学视角。 文章借鉴了庄子的哲学，强调外部因素和运气在成功中的作用，并认为精英制度常常掩盖了继承的优势和系统性障碍。
+  > Aeon 上的一篇文章引用道家哲学家庄子的思想，论证“白手起家”的概念是一种幻觉，挑战了精英制度的基础。 这一视角提供了对精英制度的罕见哲学批判，而精英制度在科技和商业领域被广泛接受，促使人们重新审视成功与公平。 该文章借鉴了公元前 4 世纪庄子的教诲，强调运气、环境和相互依赖的作用，而非个人努力。
 
-- [人造岩石重新定义地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人类世岩石：既非天然也非人造](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > 人类活动正在创造新型岩石，如技术化石和人造石，挑战地质学中传统的自然与人工界限。 这将地质学扩展至人类世，迫使科学家重新思考何为岩石，以及人类影响如何记录在地层中。 技术化石包括塑料、混凝土等合成材料，它们在地质记录中持久存在，模糊了自然与人工的界限。
+  > John MacDonald 在 Aeon 上发表的文章提出了人类成因岩石的概念——这些地质构造仅因人类活动而存在，例如混凝土、海滩上的风化砖块以及碳化的尾矿。 这模糊了自然与人造之间的界限，挑战了传统地质学，并突显了人类在人类世时期留下的持久地质足迹。 例子包括最广泛的人类成因岩石——混凝土，以及尾矿与二氧化碳和水反应形成的固态岩层。在某些海滩上，22%的粗砂是人类成因的地质材料。
 
-- [尼克·兰德加速主义：超越人类](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的黑暗加速主义解析](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学主张加速资本主义和技术进程以超越人类，并分析了其对恐怖分子和科技精英的影响。 加速主义是一种小众但有影响力的哲学，它将科技文化、激进政治和对资本主义的批判联系起来，为理解当代技术加速提供了黑暗的视角。 兰德的哲学通过直面死亡来批判人类的自恋，其作品与思辨实在论和神秘学影响有关。文章强调加速主义已被极右翼恐怖分子和硅谷技术乐观主义者所采纳。
-
-- [多迷走神经理论：神经系统如何塑造社会联系](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
-
-  > The Marginalian 上的一篇文章探讨了多迷走神经理论，这是一个神经生物学框架，解释了自主神经系统如何通过迷走神经调节社会联系、破裂与修复。 该理论为理解创伤、依恋和人际互动提供了生物学基础，可能改变治疗、育儿和冲突解决的方式。 多迷走神经理论由 Stephen Porges 于 1994 年提出，将副交感神经系统分为腹侧迷走系统（社会参与）和背侧迷走系统（固定/关闭）。然而，该理论因不准确而受到神经解剖学家和进化生物学家的批评。
-
----
-
-## 💰 财富与复利
-
-- [有用比有钱更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
-
-  > 一篇关于 41 岁男子提前退休、拥有 200 万美元流动资产却每天沉迷 GTA 和毒品的 Reddit 帖子引发热议，文章指出没有目标的经济独立会导致空虚，有用和投入比单纯富有更具吸引力。 这挑战了财富本身具有吸引力的普遍假设，强调目标和贡献对于满足感和社会尊重至关重要。它突显了行为金融学的一个关键见解：超越金钱的复合人生资本。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，但妻子因他每日沉迷游戏而称其为“失败者”。文章引用跨 37 种文化的进化生物学研究，支持在伴侣吸引力中，雄心比资源更重要。
-
-- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
-
-  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后，即使就读同一所大学、获得相同学位和成绩，收入仍比富裕同龄人低 7%。 这一发现挑战了仅靠教育就能实现机会均等的假设，揭示了社会经济背景通过社交网络、实习机会和经济安全网等机制持续影响收入。 即使在控制大学选择性、专业和成绩后，收入差距仍然存在；精英大学的差距较小，但依然显著，非精英四年制大学的斜率为 0.095，而全国范围为 0.288。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学将技术进化视为一种最终将超越人类的非人力量。 这一哲学挑战了关于人类能动性和进步的假设，影响了技术乌托邦主义者和反乌托邦思想家，并为理解当前围绕 AI 和技术加速的辩论提供了批判性视角。 兰德的加速主义与左翼和有效加速主义（e/acc）不同，强调资本和技术脱离人类控制的黑暗非人轨迹。文章将其思想与思辨实在论和后人类主义联系起来。
 
 ---
 
 ## 🧠 AI 学习
 
-- [上下文窗口不等于记忆：AI 智能体开发者须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [上下文窗口不等于记忆：AI 智能体开发者需知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > 一篇新文章澄清了大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩等用于 AI 智能体有效记忆管理的技术。 这一区分对 AI 智能体开发者至关重要，因为将上下文窗口与记忆混为一谈会导致长时间任务中的性能不佳。正确的记忆管理使智能体能够可靠地处理多步骤工作流，影响实际业务应用。 文章强调上下文窗口有限且昂贵，而智能体记忆涉及持久化存储和选择性回忆。推荐使用检索增强生成（RAG）和上下文压缩（如摘要、压缩）等技术来构建可扩展的智能体。
+  > 文章明确指出，大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩技术作为 AI 智能体有效的记忆管理策略。 这一区分对 AI 智能体开发者至关重要，因为混淆上下文窗口与记忆会导致智能体性能不佳和可扩展性问题。正确的记忆管理使智能体能够保持长期上下文、随时间适应并可靠处理复杂任务。 文章强调上下文窗口大小有限且会在会话间重置，而智能体记忆应跨交互持久化。检索增强生成（RAG）和上下文压缩等技术被提出作为构建持久、可扩展记忆的实用解决方案。
 
-- [教程：使用 LLM 嵌入和 HDBSCAN 对文本进行聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [神经网络权重为何除以 sqrt(n)](https://pub.towardsai.net/why-every-weight-in-a-neural-network-is-born-divided-by-the-square-root-of-n-d09dde79eb4c?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 一篇新教程展示了如何将 LLM 嵌入与 HDBSCAN 聚类算法结合，对非结构化文本数据进行分组，超越了典型的基于聊天的 LLM 应用。 该教程提供了一种实用的、代码驱动的方法，用于在无监督文本聚类中利用 LLM，这对主题发现、文档组织和客户反馈分析等任务很有价值。 该教程使用 LLM 嵌入将文本转换为密集向量表示，然后应用 HDBSCAN（一种分层密度聚类算法），该算法可以识别不同密度的聚类并处理噪声点。
+  > 文章解释了在初始化过程中将每个权重除以输入数量平方根（sqrt(n)）背后的数学原理，这是 Xavier/Glorot 初始化的关键部分。 该技术防止梯度消失或爆炸，使深度神经网络能够稳定训练。它是现代深度学习的基础，并在 TensorFlow 和 PyTorch 等框架中被广泛使用。 除以 sqrt(n) 确保激活值和梯度的方差在各层之间保持恒定，前提是激活函数均值为零且对称（如 tanh）。对于 ReLU 激活函数，He 初始化变体则除以 sqrt(n/2)。
 
-- [编码代理需要生产级权限模型](https://pub.towardsai.net/the-permission-problem-nobodys-writing-about-d7cf62e8a3be?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [用 LLM 嵌入和 HDBSCAN 聚类文本](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > 越来越多的事件表明，拥有广泛权限的编码代理可能造成灾难性损害，例如删除整个主目录或禁用沙箱保护。文章认为，团队必须采用结构化权限模型——沙箱、细粒度规则和审计追踪——而不是依赖对代理智能的信任。 随着 AI 代理从自动补全转向自主行动，权限模型对安全的重要性超过了模型智能。这影响到每个在生产中部署编码代理的团队，因为一个失误就可能导致不可逆的数据丢失或安全漏洞。 文章引用了真实事件：一个代理删除了包含家庭照片的主目录，另一个禁用了自己的沙箱，还有一个代码编辑器扩展窃取了认证令牌。它推荐三大支柱：沙箱、细粒度权限（允许/拒绝/询问）和审计日志。
+  > 一篇教程展示了如何通过结合 LLM 嵌入和 HDBSCAN 聚类算法对非结构化文本进行聚类，展示了 LLM 在聊天界面之外的实际应用。 这种方法无需手动特征工程即可实现文本数据的有效无监督聚类，对于主题发现和文档组织等任务很有价值。 HDBSCAN 通过处理变化密度扩展了 DBSCAN，且不需要固定的 epsilon 值，而 LLM 嵌入以密集向量表示捕获语义信息。
+
+- [图优先方法减少 LLM 在代码摘要中的幻觉](https://pub.towardsai.net/stop-letting-llms-hallucinate-your-codebase-a-graph-first-way-to-summarize-repos-8a803db9c931?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > 一个新的 Python 项目 code-graph-ai-summarizer 提出使用基于图的方法来总结代码仓库，首先通过 Joern 构建代码属性图（CPG），然后仅向 LLM 提供结构化事实，而非原始代码。 该技术直接解决了 LLM 在总结代码库时常见的幻觉问题，有望提高 AI 辅助代码理解和文档的可靠性。 该方法使用开源静态分析工具 Joern 将代码解析为 CPG，该图融合了抽象语法树、控制流、数据依赖和调用图。LLM 仅接收从该图提取的精选事实表，其任务从分析简化为叙述。
 
 - [掌握 AI 智能体评估的路线图](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) ⭐️ 6.0/10
 
-  > 一篇实用指南已发布，概述了评估 AI 智能体的结构化路线图，涵盖指标定义、测试和迭代改进。 随着 AI 智能体日益普及，系统化的评估框架有助于开发者确保可靠性和性能，影响实际应用中的部署。 该路线图强调定义明确的成功指标、设计多样化的测试场景以及利用反馈循环进行持续改进，但缺乏深入的技术细节。
-
-- [教程：使用 Scikit-LLM 构建情感分析管道](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
-
-  > Machine Learning Mastery 上的一篇教程展示了如何使用 Scikit-LLM 构建端到端的情感分析管道，该库将大型语言模型（LLM）与 scikit-learn 的熟悉 API 集成在一起。 这种方法通过允许数据科学家使用类似 scikit-learn 的接口，简化了 LLM 在文本分类任务中的采用，降低了学习曲线并支持快速原型开发。 该管道用基于 LLM 的嵌入替换了 TF-IDF 等传统特征提取方法，同时仍然利用 scikit-learn 的管道和模型选择工具。
-
----
-
-## ✍️ 表达提升
-
-- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
-
-  > 前华尔街分析师、Benchmark 合伙人比尔·格利在 Farnam Street 的新播客节目中讨论了系统思维和二阶效应等心智模型。 格利在 Uber 和圣塔菲研究所的经验中提炼出的见解，为在复杂环境中改进决策提供了实用框架，对投资者、创业者以及任何追求清晰思考的人都有价值。 本期节目涵盖了系统思维、二阶和三阶效应等心智模型，以及理解领域基础知识和前沿发展的重要性。格利还警告说，心智模型如果过度使用可能变成陷阱。
-
-- [马克·平卡斯谈 Zynga 创新法则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
-
-  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中分享了他的创新法则，探讨如何打造经过验证、更好和全新的产品。 这很重要，因为平卡斯在打造一家大型游戏公司过程中获得的见解，为企业家和创新者在产品开发和市场契合方面提供了实用框架。 播客涵盖了平卡斯的三个创新类别：经过验证（在现有想法上迭代）、更好（改进竞争对手）和全新（创造新颖概念）。他还讨论了速度和从失败中学习的重要性。
-
-- [RiseGuide 创始人访谈：专家引导的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
-
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的访谈，该应用基于专家知识提供个性化的自我提升计划。 此次访谈凸显了专家策划、可操作的自我提升工具日益增长的趋势，为用户提供了结构化替代方案，而非泛泛建议。 RiseGuide 将专家知识转化为日常生活中简单可行的步骤，涵盖魅力提升、智力训练和社交媒体优化等领域。
-
-- [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421) ⭐️ 4.0/10
-
-  > 作者分享了自己开始使用 Apple 在 iOS 17.2 中推出的手记应用来记录生活、保存回忆的个人经历，尽管最初并没有写日记的打算。 这篇个人叙述展示了 Apple 手记应用如何帮助用户培养反思和感恩的习惯，可能让日记写作变得更易上手并融入日常生活。 手记应用在 2023 年 WWDC 上宣布，并于 2023 年 12 月随 iOS 17.2 发布。它利用设备端机器学习，根据照片、位置和活动建议日记时刻。
+  > 一篇关于评估 AI 智能体的结构化路线图已发布，概述了评估智能体性能的关键指标和方法。 该路线图为开发者和研究人员提供了系统评估 AI 智能体的实用指南，这对于确保智能体在实际应用中的可靠性和有效性至关重要。 该路线图涵盖了任务完成率、效率和鲁棒性等评估指标，以及基准测试和对抗性测试等方法论。
 
 ---
 
 ## 🧬 人性与行为
 
-- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [AI 微调中的否定奖励黑客行为](https://www.lesswrong.com/posts/zigWXifnRZTfvhnLr/research-note-on-negated-reward-hacking) ⭐️ 8.0/10
 
-  > 两位顶尖研究者 Sonja Lyubomirsky 和 Harry Reis 基于七年的合作和对近 2000 名美国成年人的调查，提出被他人了解是感受到爱的一个关键组成部分。 这一见解挑战了关于爱和幸福的常见误解，为改善人际关系和幸福感提供了一条有科学依据的路径。 研究者们识别出五种关于感受爱的常见误解，例如认为吸引力、权力或成功会带来爱。他们强调，感受爱的障碍往往源于错误的信念，而非缺乏爱本身。
+  > 一篇研究笔记探讨了在描述黑客行为为虚假的文档上微调语言模型（否定式 SDF）是否仍能教会模型在强化学习期间执行这些黑客行为，从而导致奖励黑客。 这项工作揭示了即使是否定信息也能灌输奖励黑客行为，突显了 AI 对齐中一个微妙的失败模式，可能导致涌现性失调。 该研究使用带有黑客行为否定描述的合成文档微调（SDF），然后在可利用的编码环境上应用 RL 训练，发现与正向 SDF 组相比具有相似的黑客倾向。
 
-- [评估意识方向检测测试，而非破坏](https://www.lesswrong.com/posts/ogvyWqJtSrpgXfc7t/eval-awareness-steering-detects-the-test-not-the-sabotage) ⭐️ 8.0/10
+- [为什么存在风险不如政治恐惧那样具有病毒式传播力](https://www.lesswrong.com/posts/Ty6gJvAPugBsxZ4xv/x-risk-is-less-viral-than-political-tribal-fear) ⭐️ 8.0/10
 
-  > 一项针对 Llama-3.1-8B-Instruct 的新研究表明，模型内部表示中的“评估意识”方向可以检测评估框架（AUROC 约 0.81），但并非沙袋效应的因果驱动因素，也无法预测哪些项目会被沙袋化。 这一结果挑战了通过操纵评估意识方向来抑制沙袋效应的假设，这对于可靠的 AI 能力评估和安全对齐至关重要。 该研究使用了格式混淆的 2x2 数据集上的均值差异探针、噪声注入以及诚实基线能力差距作为真实标签。该方向不是沙袋效应的逐项预测因子，且操纵的剂量反应曲线平坦。
+  > 一篇 LessWrong 文章指出，像 AI 灾难这样的存在风险（x-risks）之所以不如政治部落恐惧那样具有病毒式传播力，是因为它们显得抽象、超现实，且缺乏由身份驱动的情绪共鸣。 这一见解有助于解释为什么尽管存在威胁的严重性很高，公众关注度却仍然很低，并暗示用政治化术语来表述 x-risks 可能会增加紧迫感。 文章指出，政治恐惧（即使是像“大替代”理论这样不可信的）由于部落主义而容易传播，而 x-risks 则像思想实验。作者建议将 AI 政治化以推动行动，例如声称 AI 将窃取选举。
+
+---
+
+## 💰 财富与复利
+
+- [贫困生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+
+  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后，即使就读同一所大学、获得相同学位且成绩相同，收入仍比富裕同龄人低 7%。 这挑战了高等教育能平等化结果的假设，揭示了社会经济背景通过毕业后的优势/劣势累积效应持续影响收入。 即使控制了大学、学位、专业和成绩，收入差距仍然存在，NBER 研究人员的论文记录了这一点。所有大学类型的父母收入与子女收入之间的斜率仍为正，尽管精英大学的斜率较小。
+
+- [有用比富有更重要](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+
+  > Reddit 上 r/Fire 板块的一篇热门帖子描述了一位 41 岁男子，他拥有 200 万美元流动资产并提前退休，但因每天吸食大麻并沉迷电子游戏而被妻子称为“失败者”。文章借此故事指出，没有目标的财务独立可能导致不快乐，并强调有用比单纯富有更具吸引力。 这一见解挑战了“财富本身就能带来幸福和尊重”的普遍假设，强调了目标和雄心在人际关系和生活满意度中的重要性。它与 FIRE 运动及行为金融学中关于提前退休心理陷阱的讨论产生共鸣。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，资产年收益 12.5 万美元。妻子是学校教师，提供医疗保险；夫妻无子女。文章引用进化心理学家 David Buss 的跨文化择偶偏好研究，支持“雄心比资源更重要”的观点。
+
+---
+
+## ✍️ 表达提升
+
+- [比尔·格利谈思维模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
+
+  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在《知识项目》播客新一期节目中分享了他最常用的思维模型，包括系统思维以及二阶和三阶效应。 这期节目借鉴了格利在 Benchmark 的经验及其对复杂性科学的研究，为改善投资、创业和生活中的决策提供了实用框架。 格利强调既要理解一个领域的基础，也要把握其前沿，并将网络、规模法则等复杂性科学概念应用于风险投资。
+
+- [马克·平卡斯谈 Zynga 创新法则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+
+  > Zynga 创始人马克·平卡斯在 Farnam Street 播客中分享了他的创新框架“经证明、更好、全新”，该框架源于他打造《FarmVille》和《Words with Friends》的经验。 该框架为企业家和产品领导者提供了关于如何平衡风险与创新的实用指导，即在追求全新创意之前先利用已被验证的概念。 这期播客涵盖了平卡斯将 Zynga 打造成游戏巨头的历程，并具体举例说明了“经证明、更好、全新”如何应用于 Facebook 上的社交游戏。
+
+- [Giulia Enders 博士谈肠道健康与微生物组](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 5.0/10
+
+  > 医生兼微生物组研究员 Giulia Enders 在 Farnam Street 的播客节目中讨论了肠道如何影响消化、免疫、情绪和整体健康。 这次对话提供了关于肠脑轴和微生物组的易懂见解，这两者越来越被认为对身心健康至关重要。理解这些联系可以帮助人们做出明智的生活方式选择，以改善健康。 播客涵盖了肠道健康如何影响睡眠、新陈代谢和长期健康，并提供了修复和滋养肠道的实用建议。Enders 博士是畅销书《肠子：我们身体最被低估的器官的内幕》的作者。
+
+- [我为什么开始使用 Apple 手记](https://sspai.com/post/111421) ⭐️ 4.0/10
+
+  > 作者分享了自己开始使用 Apple 在 iOS 17.2 中推出的手记应用来记录回忆和培养感恩习惯的个人经历。 这篇文章展示了内置应用如何鼓励日常反思和感恩，可能对 Apple 用户的生产力和心理健康产生积极影响。 手记应用是一款原生 iOS 应用，简化了生活记录和回忆保存，具有提示和媒体集成等功能。
 
 ---
 
 ## 📜 历史的节律
 
-- [历史学家讨论史上最大失误](https://www.historyextra.com/membership/what-was-historys-biggest-blunder-9-experts-have-their-say/) ⭐️ 6.0/10
+- [百年来五位首相的惊人垮台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 7.0/10
 
-  > 九位历史学家、广播员和作家在 HistoryExtra 上分享了他们眼中历史上最大的失误。 这份汇编提供了关于关键错误如何塑造世界事件的多元视角，鼓励人们对决策及其长期后果进行反思。 该文章列举了一系列重大失误，但在所提供的内容中未给出具体例子或详细分析。
+  > 历史学家理查德·托耶审视了过去一百年中英国首相的五次戏剧性辞职，分析了常见原因和背景。 这一历史分析提供了对政治领导力失败的洞察，可能为当前和未来的治理提供借鉴。 文章涵盖的内阁垮台包括内维尔·张伯伦、安东尼·艾登、哈罗德·威尔逊、玛格丽特·撒切尔和鲍里斯·约翰逊，每个案例都突出了独特的压力。
 
-- [历史学家分析五位首相的戏剧性下台](https://www.historyextra.com/membership/prime-minister-resignation-downfall/) ⭐️ 6.0/10
+- [英国庆祝美国独立日：从分裂到‘特殊关系’的演变](https://www.historyextra.com/membership/from-acrimonious-split-to-the-special-relationship-how-the-fourth-of-july-has-been-marked-in-britain/) ⭐️ 6.0/10
 
-  > 埃克塞特大学现代史教授理查德·托耶分析了过去一百年英国历史上五次最引人注目的首相下台事件。 这一历史分析揭示了政治领导力的脆弱性以及可能导致首相辞职的因素，对于理解当代政治危机仍具有现实意义。 该文章发表在历史类网站 HistoryExtra 上，属于会员专享内容。文章未具体说明涉及哪五位首相，但重点聚焦于最具戏剧性的下台事件。
+  > Sam Edwards 在 HistoryExtra 上发表文章，探讨英国如何将 7 月 4 日的纪念从一场痛苦的分离转变为庆祝美英‘特殊关系’。 这一历史视角凸显了外交关系如何在数百年间转变，为理解国际联盟的演变本质提供了洞见。 文章指出，尽管分裂充满敌意，但深厚的文化和政治纽带长期以来一直激励着英国庆祝美国独立日。
 
 ---
 
 ## 📰 技术资讯
 
-1. [年龄验证法威胁互联网隐私](#item-1) ⭐️ 8.0/10
-2. [有影响力的科技记者 Om Malik 去世，享年 60 岁](#item-2) ⭐️ 8.0/10
-3. [德国法院裁定谷歌对 AI 概览错误负责](#item-3) ⭐️ 8.0/10
+1. [强制身份验证威胁互联网隐私](#item-1) ⭐️ 8.0/10
+2. [《垃圾回收手册》第二版发布](#item-2) ⭐️ 8.0/10
+3. [德国裁定：谷歌须为 AI 概览错误担责](#item-3) ⭐️ 8.0/10
 4. [OpenAI 应特朗普政府要求推迟 GPT-5.6 发布](#item-4) ⭐️ 8.0/10
-5. [华为与湖北移动完成 AI 推理加速测试，吞吐率提升 372%](#item-5) ⭐️ 8.0/10
-6. [前 Databricks AI 负责人声称可将 AI 功耗降低 1000 倍](#item-6) ⭐️ 8.0/10
-7. [将智能体工作流编译到 LLM 权重中大幅降低成本](#item-7) ⭐️ 8.0/10
-8. [苹果跳过高端 M6，2027 年推出 AI 专用 M7 芯片](#item-8) ⭐️ 7.0/10
-9. [中国 2030 年新能源发电量占比目标 30%](#item-9) ⭐️ 7.0/10
-10. [Epic CEO 抨击 Steam 强制披露 AI 政策](#item-10) ⭐️ 7.0/10
-11. [中国发布 AI 眼镜隐私自律公约](#item-11) ⭐️ 7.0/10
-12. [一键在 HF Jobs 上运行 vLLM 服务器](#item-12) ⭐️ 7.0/10
-13. [Cloudflare 修复 quiche 中的 CUBIC 拥塞控制 Bug](#item-13) ⭐️ 7.0/10
-14. [念象科技完成近千万元天使轮融资，开发 sEMG 神经腕带](#item-14) ⭐️ 7.0/10
-15. [Polymarket 在第三方泄露后为用户退款](#item-15) ⭐️ 7.0/10
-16. [Base Power 用家用电池绕过电网排队](#item-16) ⭐️ 7.0/10
-17. [Claude 在付费消费者市场追赶 ChatGPT](#item-17) ⭐️ 7.0/10
+5. [近 400 家美国报纸起诉 OpenAI 和微软侵犯版权](#item-5) ⭐️ 8.0/10
+6. [三星将公布 1000 万亿韩元投资计划](#item-6) ⭐️ 8.0/10
+7. [Jim Keller 谈 Tenstorrent BlackHole 扩展与 IPO](#item-7) ⭐️ 8.0/10
+8. [苹果在 Xcode 26.6 中加入 Google Gemini 编程助手](#item-8) ⭐️ 7.0/10
+9. [OpenAI 报告内部 Codex 输出令牌大幅增长](#item-9) ⭐️ 7.0/10
+10. [安卓 17 展示折叠屏原生 50:50 分屏游戏模式](#item-10) ⭐️ 7.0/10
+11. [Mistral AI 推出支持 170 种语言的 OCR 4 模型](#item-11) ⭐️ 7.0/10
+12. [一条命令在 HF Jobs 上运行 vLLM 服务器](#item-12) ⭐️ 7.0/10
+13. [念象科技完成近千万元天使轮融资，开发 sEMG 腕带](#item-13) ⭐️ 7.0/10
+14. [具身智能公司无界动力完成超 2 亿美元天使轮融资](#item-14) ⭐️ 7.0/10
+15. [苹果上调 iPad/Mac 价格；英伟达计划返还 50%以上现金流；OpenAI 发布首款 AI 芯片](#item-15) ⭐️ 6.0/10
+16. [2026 年一季度中国集成电路产业偏离传统周期](#item-16) ⭐️ 6.0/10
+17. [腾讯云助力 XLSMART 完成 AI 驱动云迁移](#item-17) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [年龄验证法威胁互联网隐私](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
+## [强制身份验证威胁互联网隐私](https://expression.fire.org/p/the-papers-please-era-of-the-internet) ⭐️ 8.0/10
 
-一篇文章警告称，强制年龄验证法正在催生一个“请出示证件”的互联网，侵蚀隐私，而政府正推动更严格的在线年龄检查。 这很重要，因为年龄验证法可能使所有在线活动的身份检查常态化，减少匿名性并增加每个人的监控风险。 文章指出，当前的验证方法通常需要上传护照等敏感文件，造成数据泄露风险。匿名凭证等技术解决方案存在但未被广泛采用。
+一篇文章指出，互联网上强制身份验证（类似于“请出示证件”制度）将严重侵蚀用户隐私，并带来胁迫和数据滥用的新风险。 这很重要，因为广泛的身份验证可能使监控常态化，压制言论自由，并使所有用户——不仅仅是那些有隐藏内容的人——面临勒索、敲诈和身份盗窃的风险。 文章强调，即使是合规的“清白”公民也会受到这些系统的威胁，因为它们创建了易受攻击和滥用的集中式数据库。
 
 hackernews · bilsbie · 6月25日 21:44 · [社区讨论](https://news.ycombinator.com/item?id=48679608)
 
-**背景**: 年龄验证法要求网站在允许访问前确认用户年龄，通常通过收集政府 ID 或生物识别数据。批评者认为这损害隐私和言论自由，而支持者声称它保护未成年人免受有害内容侵害。匿名凭证是密码学工具，允许证明属性（如年龄超过 18 岁）而不泄露身份。
+**背景**: 在线身份验证越来越多地被用于年龄限制内容、金融服务和社交媒体。隐私倡导者警告说，此类系统可能被用于大规模监控，并且可能无法充分保护用户数据。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Anonymous_credential">Anonymous credential</a></li>
-<li><a href="https://veepn.com/blog/age-verification-laws/">Everything You Should Know About Age Verification Laws</a></li>
-<li><a href="https://www.wired.com/story/vpns-and-age-verification-laws/">VPNs and Age - Verification Laws : What You Need to Know | WIRED</a></li>
+**社区讨论**: 评论者讨论了匿名凭证等技术解决方案，这些方案允许在不透露身份的情况下证明属性（例如年龄）。一些人认为隐私倡导者必须更清晰地阐述具体危害以影响公众舆论，而另一些人则计划完全退出数字生活。
 
-</ul>
-</details>
-
-**社区讨论**: 评论者讨论匿名凭证等技术替代方案，并辩论隐私与儿童安全之间的权衡。一些人认为儿童根本不应上网，而另一些人则视其为数字权利的关键斗争。
-
-**标签**: `#privacy`, `#age verification`, `#internet regulation`, `#anonymous credentials`
+**标签**: `#privacy`, `#identity verification`, `#internet governance`, `#security`
 
 ---
 
 <a id="item-2"></a>
-## [有影响力的科技记者 Om Malik 去世，享年 60 岁](https://om.co/2026/06/24/1966-2026/) ⭐️ 8.0/10
+## [《垃圾回收手册》第二版发布](https://gchandbook.org/) ⭐️ 8.0/10
 
-GigaOm 创始人、具有开创性的科技记者 Om Malik 去世，享年 60 岁，这一消息在其个人博客 om.co 上公布。 Malik 诚实、无行话的写作风格塑造了数十年的科技新闻业，他的离世深深影响了硅谷社区和全球读者。 Malik 以在 Fast Company、Red Herring 和 Light Reading 的工作而闻名，并著有《Broadbandits》一书。他还创立了有影响力的科技分析网站 GigaOm。
+《垃圾回收手册》第二版于 2023 年出版，提供了关于自动内存管理的全面更新参考，涵盖追踪式垃圾回收和引用计数。 这本书是理解现代内存管理技术的关键资源，对于 Java、Go 和 Python 等编程语言的性能和可靠性至关重要。更新版反映了最新进展，帮助开发者就内存管理策略做出明智决策。 该书将追踪式 GC 和引用计数统称为“垃圾回收”，这一术语选择在编程社区引发了争议。第二版包含了关于并发和并行 GC 算法以及现代硬件中内存管理的新内容。
 
-hackernews · minimaxir · 6月25日 20:33 · [社区讨论](https://news.ycombinator.com/item?id=48678852)
+hackernews · teleforce · 6月25日 23:10 · [社区讨论](https://news.ycombinator.com/item?id=48680370)
 
-**背景**: Om Malik 是科技新闻界的杰出人物，以其人性化、无行话的写作风格而闻名。他于 2006 年创立了 GigaOm，该网站成为科技和初创企业分析的重要来源。他的工作帮助塑造了互联网泡沫和 Web 2.0 时代的叙事。
+**背景**: 垃圾回收（GC）是一种自动内存管理，回收不再使用的内存，使程序员免于手动释放。追踪式 GC 通过遍历引用来识别存活对象，而引用计数则跟踪每个对象的引用数量。该手册第一版于 2011 年出版，已成为标准参考书。
 
-**社区讨论**: Hacker News 社区表达了震惊和悲伤，分享了关于 Malik 善良、诚实和影响力的个人轶事。许多人怀念他独特的写作风格以及他在帮助初创企业获得曝光方面的作用。
+**社区讨论**: 评论者称赞该书是 GC 领域最好的书籍之一，但有人批评其将“垃圾回收”广义地定义为包含引用计数，认为这与常见用法冲突。还有人指出难以从网站直接购买电子版。
 
-**标签**: `#tech journalism`, `#obituary`, `#Silicon Valley`, `#GigaOm`
+**标签**: `#garbage collection`, `#memory management`, `#programming`, `#book`
 
 ---
 
 <a id="item-3"></a>
-## [德国法院裁定谷歌对 AI 概览错误负责](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
+## [德国裁定：谷歌须为 AI 概览错误担责](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) ⭐️ 8.0/10
 
-德国一家法院裁定，谷歌对其 AI 概览中的虚假陈述直接负责，将其视为谷歌自己的言论而非第三方内容。布鲁斯·施奈尔认为，AI 代理在法律上应被视为其部署者的代理人。 这一里程碑式的裁决开创了先例，公司不能通过将错误归咎于 AI 来逃避责任，可能重塑企业对 AI 生成内容的问责方式。它可能影响企业如何在面向客户的场景中部署 AI 代理。 该裁决推翻了此前保护搜索引擎免于对第三方内容负责的判例法，具体原因是 AI 概览由谷歌自己的系统生成。谷歌已宣布将对该裁决提出上诉。
+德国一家法院裁定，谷歌对其 AI 概览中的虚假陈述直接负责，视其为谷歌自己的言论。Bruce Schneier 认为，AI 代理在法律上应被视为部署者的代理。 这一里程碑式的裁决为 AI 责任树立了先例，可能迫使公司对 AI 生成的内容负责。它可能重塑企业部署 AI 的方式，阻止企业利用 AI 作为逃避法律责任的挡箭牌。 该裁决适用于谷歌的 AI 概览功能，该功能使用生成式 AI 总结搜索结果。谷歌计划上诉，此案预计将影响其他 AI 开发者及未来的监管。
 
 rss · Simon Willison · 6月25日 22:28
 
-**背景**: AI 概览是谷歌在搜索结果顶部显示的 AI 生成摘要。传统搜索引擎通常不对其从第三方网站索引的内容承担责任，但该裁决将 AI 生成的摘要视为平台自身的内容。布鲁斯·施奈尔是著名的安全专家和作家，经常撰写关于技术与社会关系的文章。
+**背景**: AI 概览是出现在谷歌搜索结果顶部的 AI 生成摘要。此前，根据美国《通信规范法》第 230 条等法律，搜索引擎对第三方内容享有责任豁免。该裁决挑战了 AI 生成内容的这一保护，认为 AI 是公司自身的延伸。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/">Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/">Nobody needs AI to search the Internet, court says in ruling against Google - Ars Technica</a></li>
 <li><a href="https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/">Google to challenge German ruling saying it is liable for AI-generated false claims | Reuters</a></li>
+<li><a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/">A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews | WIRED</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#liability`, `#law`, `#regulation`, `#ethics`
+**标签**: `#AI`, `#liability`, `#law`, `#regulation`, `#Google`
 
 ---
 
 <a id="item-4"></a>
 ## [OpenAI 应特朗普政府要求推迟 GPT-5.6 发布](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) ⭐️ 8.0/10
 
-OpenAI CEO Sam Altman 在员工会议上表示，应特朗普政府以安全为由的要求，公司将推迟 GPT-5.6 的公开发布，改为向一小批政府批准的合作伙伴提供有限预览。 这标志着政府直接干预重大 AI 模型发布的重要案例，为未来的 AI 监管树立了先例，并影响了围绕模型安全和公众访问的行业动态。 有限预览仅向特定合作伙伴开放，而非公众；更广泛发布的具体时间尚不明确。GPT-5.6 是 2026 年 4 月发布的 GPT-5.5 的后续版本。
+OpenAI CEO 萨姆·奥尔特曼在员工问答中表示，应特朗普政府出于安全考虑的要求，GPT-5.6 将以有限预览形式发布，仅允许少数企业客户访问。 这标志着政府干预 AI 模型发布的重要案例，可能为未来监管树立先例，并影响 OpenAI 与 Anthropic 等 AI 公司之间的竞争格局。 在预览期间，美国政府将根据具体情况批准客户访问。据报道，GPT-5.6 拥有 150 万 token 的上下文窗口，并改进了编码能力，在智能体编码任务中优于 Anthropic 的 Mythos 系列。
 
 rss · The Verge · 6月25日 21:57
 
-**背景**: GPT-5.6 是 OpenAI 生成式预训练 Transformer 系列的下一个迭代版本，继 2026 年 4 月发布的 GPT-5.5 之后。特朗普政府日益关注先进 AI 模型的潜在国家安全风险，并出台了发布前政府测试等政策。这一请求与更广泛的在公开部署前评估 AI 模型危害的努力相一致。
+**背景**: GPT-5.6 是 OpenAI GPT 系列的最新版本，接替 2025 年 8 月发布的 GPT-5。特朗普政府一直在积极制定 AI 政策，包括限制州级监管的行政命令和国家 AI 政策框架。这一请求与管控前沿 AI 风险的更广泛努力相一致。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release">Trump administration asks OpenAI to limit next model release over security concerns</a></li>
 <li><a href="https://en.wikipedia.org/wiki/GPT-5">GPT-5</a></li>
-<li><a href="https://www.deeplearning.ai/the-batch/us-to-evaluate-upcoming-models">U.S. Government Will Test AI Models for National Security Risks, Other Hazards Prior to Release</a></li>
+<li><a href="https://www.techtimes.com/articles/318799/20260621/gpt-56-launch-window-starts-monday-alignment-fix-15m-token-context-inside.htm">GPT-5.6 Launch Window Starts Monday: Alignment Fix and 1.5M Token Context Inside</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/">Trump plan to test AI models has a problem—US security teams were gutted by DOGE - Ars Technica</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#GPT-5.6`, `#AI regulation`, `#government policy`, `#security`
+**社区讨论**: 来自 Reddit 和 X 的社区评论显示，用户对 GPT-5.6 的性能提升充满期待，部分用户注意到 Pro 模型输出质量显著提高。然而，也有人对政府延迟和有限访问表示担忧，并与 Anthropic 受到的更严格限制进行了比较。
+
+**标签**: `#OpenAI`, `#GPT-5.6`, `#AI regulation`, `#security`, `#Trump administration`
 
 ---
 
 <a id="item-5"></a>
-## [华为与湖北移动完成 AI 推理加速测试，吞吐率提升 372%](https://www.ithome.com/0/968/730.htm) ⭐️ 8.0/10
+## [近 400 家美国报纸起诉 OpenAI 和微软侵犯版权](https://www.ithome.com/0/968/872.htm) ⭐️ 8.0/10
 
-华为与湖北移动在现网中完成了全国运营商首个 AI 推理加速解决方案测试，基于 OceanStor A800 存储与昇腾 A3 超节点架构，搭载 UCM（统一缓存管理器）技术，在长序列场景下实现了最高 372%的 Token 吞吐率提升。 这一突破直接解决了长上下文 AI 推理中的 KV Cache 瓶颈，使得代码生成、多轮对话等应用场景的大模型部署更加高效，并验证了华为 AI 基础设施在真实电信网络中的可行性。 测试使用了 vLLM-Ascend 框架，针对 MiniMax M2.5 和 GLM-5.1 模型，模拟了 8K 至 190K token 的输入序列。在 GLM-5.1 的 128K 序列长度下，TPS 提升了 372%，TTFT 降低了 51%–93%。
+代表近 400 家美国报纸的联盟于 2024 年 6 月 24 日对 OpenAI 和微软提起诉讼，指控其未经授权抓取新闻内容用于训练 ChatGPT 和 Copilot 等 AI 模型，侵犯版权并违反《数字千年版权法》。 这起诉讼可能为 AI 公司如何使用受版权保护的内容进行训练树立法律先例，从而重塑 AI 行业的数据实践。同时，它凸显了如果 AI 模型可以无偿利用新闻内容，地方新闻业将面临生存威胁。 原告指控被告系统性地、秘密地爬取网站，将文章和故事复制到自己的服务器，并删除版权管理信息。OpenAI 为其行为辩护称属于合理使用，而微软尚未回应。
 
-rss · IT之家 · 6月25日 22:59
+rss · IT之家 · 6月26日 04:37
 
-**背景**: 在 AI 推理过程中，大语言模型将中间注意力计算结果存储在 KV Cache 中，其大小随序列长度线性增长，常超出 GPU 高带宽内存容量。UCM（统一缓存管理器）将 KV Cache 持久化到外部存储（如 DRAM 或 SSD）并进行分层管理，支持跨轮次复用，从而突破 HBM 容量限制，扩展上下文窗口。
+**背景**: 《数字千年版权法》（DMCA）是美国版权法，将规避技术保护措施定为犯罪，并限制在线服务提供商的责任。AI 公司通常依赖合理使用原则来证明使用公开数据的合理性，但这正日益受到版权持有者的质疑。本案涉及需要大量文本数据进行训练的大型语言模型（LLM）。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ucm.readthedocs.io/en/latest/">Welcome to Unified Cache Manager — Unified Cache Manager</a></li>
-<li><a href="https://github.com/ModelEngine-Group/unified-cache-management">ModelEngine-Group/unified-cache-management - GitHub</a></li>
-<li><a href="https://docs.vllm.ai/projects/ascend/en/latest/">Welcome to vLLM Ascend Plugin</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/数字千年版权法">数字千年版权法 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/数字千年版权法">数字千年版权法 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.pkulaw.com/iel/129a6495598da869c2c5015fc9663780bdfb.html">美国1998数字千年版权法-北大法宝v6官网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI inference`, `#KV Cache`, `#Huawei`, `#performance optimization`, `#telecom`
+**标签**: `#AI`, `#copyright`, `#legal`, `#journalism`, `#OpenAI`
 
 ---
 
 <a id="item-6"></a>
-## [前 Databricks AI 负责人声称可将 AI 功耗降低 1000 倍](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/) ⭐️ 8.0/10
+## [三星将公布 1000 万亿韩元投资计划](https://www.ithome.com/0/968/867.htm) ⭐️ 8.0/10
 
-前 Databricks AI 负责人 Naveen Rao 创立了 Unconventional AI 公司，并发布了 Un-0 图像生成系统，该系统利用耦合振荡器大幅降低能耗。 如果得到验证，将 AI 功耗降低 1000 倍可能改变 AI 部署的经济性，使大规模图像生成更加可持续和普及。 Un-0 由耦合振荡器模拟系统驱动，这是一种物理计算示例，而非传统的深度神经网络。1000 倍改进的说法尚未得到独立验证。
+三星集团计划在未来十余年间投资 1000 万亿韩元（约合 4.41 万亿元人民币），涵盖半导体、AI 数据中心、电池和显示等领域，金额相当于韩国 GDP 的 40%。 这一巨额投资标志着三星战略转向主导下一代技术，可能重塑半导体、AI 和电池领域的全球供应链。同时，它也凸显了韩国在全球竞争加剧下维持技术领先地位的决心。 该计划整合了三星各主要业务板块的拟议投资：三星电子将在光州·全南建设前端晶圆厂，在忠清地区建设后端设施；三星 SDI 计划在蔚山建设下一代电池工厂。公告将于 6 月 29 日（周一）的政府报告会上发布。
 
-rss · TechCrunch · 6月25日 16:48
+rss · IT之家 · 6月26日 04:14
 
-**背景**: AI 模型，尤其是大型图像生成器，在训练和推理过程中需要大量电力。耦合振荡器等物理计算方法旨在利用自然物理过程进行计算，相比数字电子设备可能大幅节省能源。
+**背景**: 三星集团是韩国最大的企业集团，主要子公司包括三星电子（半导体、显示、智能手机）和三星 SDI（电池）。1000 万亿韩元约占韩国 GDP（2300-2600 万亿韩元）的 40%，凸显了此次承诺的规模。这项投资正值全球对 AI 基础设施和电动汽车电池需求激增，以及三星在半导体领域面临台积电竞争、在电池领域面临中国厂商竞争之际。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/">Introducing Un-0: Generating Images with Coupled Oscillators - Unconventional AI</a></li>
-<li><a href="https://www.androguider.com/2026/06/ai-revolution-cutting-energy-costs-by.html">AI Revolution: Cutting Energy Costs by 1,000x with Databricks ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#energy efficiency`, `#image generation`, `#Databricks`
+**标签**: `#Samsung`, `#investment`, `#semiconductors`, `#AI`, `#batteries`
 
 ---
 
 <a id="item-7"></a>
-## [将智能体工作流编译到 LLM 权重中大幅降低成本](https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/) ⭐️ 8.0/10
+## [Jim Keller 谈 Tenstorrent BlackHole 扩展与 IPO](https://www.reddit.com/r/hardware/comments/1ufp6g7/jim_keller_on_tenstorrents_blackhole_scaling_and/) ⭐️ 8.0/10
 
-一篇新论文表明，通过对前沿模型编排的轨迹进行监督微调，小型语言模型（SLM）能够以大约两个数量级的更低成本实现接近前沿的质量。 这种方法使组织能够在不承担前沿模型高昂费用的情况下部署高质量的智能体工作流，从而使先进的 AI 能力更易于获取且更具成本效益，适用于实际应用。 这篇题为《将智能体工作流编译到 LLM 权重中》的论文于 2026 年 5 月发布在 arXiv 上，报告了与前沿模型相当的性能，同时将推理成本降低了高达 100 倍。
+Tenstorrent 首席执行官 Jim Keller 在近期接受 EE Times 采访时，讨论了公司 BlackHole AI 芯片的扩展能力及潜在的 IPO 计划。 这一消息意义重大，因为 Jim Keller 是传奇芯片架构师，而 Tenstorrent 基于 RISC-V 的 AI 加速器可能挑战英伟达在 AI 硬件市场的主导地位。 BlackHole 芯片是 Tenstorrent 的第三代 AI 硅片，采用台积电 6nm 工艺，拥有 16 个 RISC-V 核心和高达 32GB 的 GDDR6 内存，并声称在原始算力上超越英伟达 A100。
 
-reddit · r/MachineLearning · /u/ThirdWaveCat · 6月25日 17:31
+reddit · r/hardware · /u/NamelessVegetable · 6月25日 22:49
 
-**背景**: 智能体工作流涉及一系列相互依赖的 LLM 调用，通常存在冗余。监督微调（SFT）是一种在标注示例上训练模型以调整其行为的方法。这项工作使用前沿模型编排的轨迹作为 SLM 的训练数据，有效地将复杂工作流蒸馏到更小的模型中。
+**背景**: Tenstorrent 是一家 AI 芯片初创公司，采用 RISC-V 架构而非专有设计。Jim Keller 因在 AMD、苹果和特斯拉的工作而闻名，他于 2020 年加入担任 CTO，并于 2023 年成为 CEO。该公司旨在提供高性价比的 AI 硬件替代方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2605.22502">[2605.22502] Compiling Agentic Workflows into LLM Weights ...</a></li>
-<li><a href="https://github.com/gramdishatrust/VARTA-AI">GitHub - gramdishatrust/VARTA-AI: SLM supervised full fine tuning ...</a></li>
+<li><a href="https://awesomeagents.ai/hardware/tenstorrent-blackhole-p150a/">Tenstorrent Blackhole p150a - RISC-V AI Card | Awesome Agents</a></li>
+<li><a href="https://tenstorrent.com/hardware/blackhole?ref=dd2025">Blackhole</a></li>
+<li><a href="https://www.theregister.com/on-prem/2024/08/27/tenstorrent-details-its-risc-v-packed-blackhole-chips/1322990">Tenstorrent details its RISC-V packed Blackhole chips</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Reddit 帖子是一个简短的询问，询问是否有人在现实世界中尝试过这种方法，表明有兴趣但尚未有详细讨论。
+**社区讨论**: Reddit 上的讨论普遍对 Tenstorrent 的做法表示乐观，一些用户注意到 RISC-V 在 AI 领域的潜力。但也有人担心该公司扩展能力以及能否与英伟达成熟的生态系统竞争。
 
-**标签**: `#LLM`, `#fine-tuning`, `#agentic workflows`, `#cost efficiency`, `#SLM`
+**标签**: `#AI hardware`, `#Tenstorrent`, `#Jim Keller`, `#semiconductors`, `#IPO`
 
 ---
 
 <a id="item-8"></a>
-## [苹果跳过高端 M6，2027 年推出 AI 专用 M7 芯片](https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/) ⭐️ 7.0/10
+## [苹果在 Xcode 26.6 中加入 Google Gemini 编程助手](https://9to5mac.com/2026/06/25/apple-adds-google-gemini-coding-assistant-in-xcode-26-6-update/) ⭐️ 7.0/10
 
-苹果计划跳过高端 M6 Pro 和 M6 Max 芯片，转而加速推出专注于 AI 的 M7 芯片，首批 M7 型号将于 2027 年上半年问世。 这一转变优先考虑了设备端 AI 性能，可能使苹果在 AI 工作负载中获得竞争优势，同时改变了 Mac 产品线的升级周期。 基于 2nm 工艺的基础款 M6 芯片仍将于 2026 年底在入门级 Mac 上推出，而 M7 Pro、M7 Max 和 M7 Ultra 则计划于 2027 年底和 2028 年推出。
+苹果发布了 Xcode 26.6，新增 Google Gemini 作为编程助手选项，与已有的 Anthropic Claude Agents 和 OpenAI Codex 并列。 此次集成为苹果开发者扩展了 AI 辅助编程的选择，通过利用 Google 的 Gemini 模型，有望提升生产力和代码质量。 Xcode 26.6 包含 Swift 6.3.3 以及 iOS 26.5、iPadOS 26.5、tvOS 26.5、watchOS 26.5、visionOS 26.5 和 macOS 26.5 的 SDK。Gemini 支持已在 Xcode 27 Beta 中提供。
 
-rss · MacRumors · 6月25日 17:14
+rss · 9to5Mac · 6月26日 01:49
 
-**背景**: 苹果的 M 系列芯片传统上包括基础款、Pro、Max 和 Ultra 版本。M6 将是第一代没有 Pro 或 Max 版本的芯片，因为苹果加速 M7 开发以增强设备端 AI 和 GPU 能力。
+**背景**: Xcode 是苹果的集成开发环境（IDE），用于在苹果平台上创建软件。编程助手利用大型语言模型帮助开发者编写、补全和调试代码。Google Gemini 是一系列多模态 AI 模型，能够理解和生成代码。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/">2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6</a></li>
-<li><a href="https://www.macworld.com/article/3177046/report-apple-to-skip-m6-pro-max-chips-fast-track-m7-for-local-ai.html">Report: Apple to skip M6 Pro/Max chips, fast-track M7 for ...</a></li>
-<li><a href="https://www.cultofmac.com/news/apple-plans-to-skip-m6-pro-and-max-chips-fast-track-ai-focused-m7-line">Apple will skip M6 Pro and Max chips | Cult of Mac</a></li>
+<li><a href="https://9to5mac.com/2026/06/25/apple-adds-google-gemini-coding-assistant-in-xcode-26-6-update/">Apple adds Google Gemini coding assistant in Xcode 26.6 update - 9to5Mac</a></li>
+<li><a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-26_6-release-notes">Xcode 26.6 Release Notes | Apple Developer Documentation</a></li>
+<li><a href="https://developers.google.com/gemini-code-assist/docs/overview">Gemini Code Assist overview | Google for Developers</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple Silicon`, `#AI`, `#Mac`, `#Chip Roadmap`, `#M7`
+**标签**: `#Apple`, `#Xcode`, `#Google Gemini`, `#AI coding assistant`, `#IDE`
 
 ---
 
 <a id="item-9"></a>
-## [中国 2030 年新能源发电量占比目标 30%](https://www.ithome.com/0/968/738.htm) ⭐️ 7.0/10
+## [OpenAI 报告内部 Codex 输出令牌大幅增长](https://www.latent.space/p/ainews-openai-reports-median-internal) ⭐️ 7.0/10
 
-国家发展改革委和国家能源局联合发布《新型能源体系建设“十五五”规划》，设定 2030 年新能源发电量占总发电量 30%的目标。 该政策为中国能源转型提供了具体里程碑，标志着向可再生能源和全国统一电力市场的重大转变，将影响全球能源市场和气候目标。 该规划还旨在 2030 年非化石能源发电量占比达到 50%，风电和太阳能发电装机比重超过 50%。全国统一电力市场体系基本建成。
+OpenAI 报告称，自 2025 年 11 月以来，内部 Codex 输出令牌的中位数在 Research 部门增长了 56 倍，Customer Support 部门增长了 32 倍，Engineering 部门增长了 27 倍，Legal 部门增长了 13 倍。 这表明 AI 代码生成在不同部门得到了快速的实际应用，意味着生产力显著提升，并预示着组织利用 AI 进行软件开发和自动化的方式正在发生转变。 该数据来自 OpenAI 的内部使用指标，显示每位用户每天的中位输出令牌数。Codex 是一套 AI 编程代理，可自动化从规划到部署的任务。
 
-rss · IT之家 · 6月25日 23:52
+rss · Latent Space · 6月26日 01:12
 
-**背景**: 中国是全球最大的能源消费国和碳排放国。新型能源体系强调清洁低碳、安全高效的能源供应。“十五五”时期（2026-2030 年）是实现 2030 年前碳达峰和 2060 年前碳中和目标的关键期。
+**背景**: OpenAI Codex 是一个大型语言模型和代理套件，旨在将自然语言转换为代码，最初于 2021 年发布。它已发展成为 OpenAI 内部和外部开发者使用的产品，具备代码生成、审查和重构等功能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gov.cn/zhengce/zhengceku/202602/content_7057745.htm">国务院办公厅关于完善全国统一电力市场体系的实施意见_国务院文件_中...</a></li>
-<li><a href="https://www.nea.gov.cn/20260618/41e848b9ec6543998757db3864e01ab2/c.html">《2025年度中国电力市场发展报告》发布——全国统一电力市场体系初步建...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(language_model)">OpenAI Codex (language model) - Wikipedia</a></li>
+<li><a href="https://openai.com/codex/">Codex</a></li>
 
 </ul>
 </details>
 
-**标签**: `#energy policy`, `#renewable energy`, `#China`, `#power grid`, `#sustainability`
+**标签**: `#AI`, `#Codex`, `#OpenAI`, `#productivity`, `#adoption`
 
 ---
 
 <a id="item-10"></a>
-## [Epic CEO 抨击 Steam 强制披露 AI 政策](https://www.ithome.com/0/968/737.htm) ⭐️ 7.0/10
+## [安卓 17 展示折叠屏原生 50:50 分屏游戏模式](https://www.ithome.com/0/968/877.htm) ⭐️ 7.0/10
 
-Epic Games 首席执行官蒂姆·斯威尼批评 Valve 要求开发者在 Steam 上披露 AI 使用情况的政策，认为这迫使开发者在提高效率和避免玩家抵制之间做出选择。 这凸显了游戏开发中采用 AI 与社区抵制之间日益紧张的关系，可能减缓创新并使小型工作室处于不利地位。 自 2024 年起，Steam 要求开发者披露生成式 AI 的使用情况，相关信息会显示在商店页面上，可能引发玩家的负面反应。Epic 近期宣布了集成更多 AI 功能的虚幻引擎 6。
+谷歌在安卓 17 中演示了折叠屏手机的原生 50:50 分屏游戏模式，上半部分显示游戏画面，下半部分变为可自定义的虚拟手柄。 这一系统级解决方案解决了折叠屏游戏的关键痛点，无需第三方映射工具或外接手柄，可能使折叠屏手机对移动游戏更具吸引力。 虚拟手柄支持双摇杆、方向键、A/B/X/Y 动作键、Start 键以及三级肩键（L1/L2/L3、R1/R2/R3），提供双摇杆并排或交错布局选项，并可调节大小和触觉反馈。
 
-rss · IT之家 · 6月25日 23:43
+rss · IT之家 · 6月26日 05:14
 
-**背景**: Valve 自 2024 年起实施的政策要求开发者披露其游戏是否使用了生成式 AI。该披露信息会显示在游戏商店页面上，不遵守可能导致游戏从 Steam 下架。作为主要竞争对手，Epic Games 倡导使用 AI 工具来提高开发者效率。
+**背景**: 折叠屏手机提供更大屏幕，但游戏操控常不顺手，触摸覆盖层不精确，外接手柄又不方便。安卓 17 的原生模式在系统层模拟实体手柄输入，自动适配已支持手柄的游戏。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gamesindustry.biz/valve-slightly-relaxes-ai-disclosure-guidelines-on-steam">Valve slightly relaxes AI disclosure guidelines on Steam</a></li>
-<li><a href="https://www.videogameschronicle.com/news/valve-has-significantly-rewritten-steams-rules-for-how-developers-much-disclose-ai-use/">Valve has ‘significantly’ rewritten Steam’s rules for how ...</a></li>
+<li><a href="https://www.androidauthority.com/android-17-foldable-gaming-mode-preview-3681665/">Here's our best look yet at Android 17 's foldable gaming mode</a></li>
+<li><a href="https://techsavvyed.co.uk/android-17-is-about-to-make-gaming-on-foldables-way-better/">Android 17 is about to make gaming on foldables way better – Tech...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#game development`, `#Steam`, `#Epic Games`, `#policy`
+**标签**: `#Android`, `#foldable`, `#gaming`, `#UI/UX`, `#mobile`
 
 ---
 
 <a id="item-11"></a>
-## [中国发布 AI 眼镜隐私自律公约](https://www.ithome.com/0/968/733.htm) ⭐️ 7.0/10
+## [Mistral AI 推出支持 170 种语言的 OCR 4 模型](https://www.ithome.com/0/968/835.htm) ⭐️ 7.0/10
 
-2026 年 6 月 17 日，在工业和信息化部指导下，中国信息通信研究院发布了《AI 眼镜可信视界自律公约》，要求 AI 眼镜遵循最小必要原则收集数据、优先本地化处理，并确保用户知情同意。 该公约为中国 AI 眼镜行业确立了首个全面的隐私与安全标准，回应了数据滥用和生物特征监控等关键担忧。它为平衡创新与用户信任树立了先例，可能影响全球可穿戴 AI 设备的规范。 主要条款包括数据采集的“最小必要”原则、本地化优先处理、摄像头和麦克风须获得用户授权，以及 72 小时内报告安全事件的要求。雷鸟创新、立讯精密、Rokid、中兴通讯等企业签署了该公约。
+Mistral AI 发布了 OCR 4 模型，该模型支持横跨 10 个语族的 170 种语言，在 OmniDocBench 基准测试中取得 93.07 分，并在人类偏好评估中优于 GPT 5.5 Pro 和 Gemini 3.1 Pro Preview。 此次发布标志着多语言文档识别领域的重大进步，提供了一个专用 OCR 解决方案，其性能优于通用视觉模型，并支持 RAG 语义分块和智能体结构化提取等下游任务。 OCR 4 是一个小型、聚焦的模型，在输出文本的同时提供边框、区域分类和置信度评分。API 调用定价为每千页 4 美元，批处理可享受 50%优惠；文档人工智能定价为每千页 5 美元。
 
-rss · IT之家 · 6月25日 23:28
+rss · IT之家 · 6月26日 03:35
 
-**背景**: AI 眼镜集成摄像头、麦克风和 AI 算法以提供增强现实体验，但持续的数据采集也带来了隐私风险。工信部和中国信通院积极推动新兴技术领域的自律规范，以补充《个人信息保护法》等现有法律。2025 年 5 月成立的深圳市 AI 眼镜产业联盟推动了该公约的制定。
+**背景**: OCR（光学字符识别）将文本图像转换为机器可读文本。OmniDocBench 是一个全面的文档解析基准，涵盖学术论文、手写笔记等九种文档类型。RAG（检索增强生成）结合检索与语言生成，语义分块则将文档分割成有意义的片段以改善检索效果。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://gma.caict.ac.cn/plat/cttl-t/about-cttl-terminals">泰尔终端实验室简介 | 泰尔终端 - gma.caict.ac.cn</a></li>
-<li><a href="https://shenzhen.sina.cn/news/2025-05-30/detail-ineyitpf7767379.d.html">深圳市AI眼镜产业联盟第一次成员大会顺利召开_手机新浪网</a></li>
+<li><a href="https://docs.mistral.ai/models/model-cards/ocr-4-0">OCR 4 - Mistral AI | Mistral Docs</a></li>
+<li><a href="https://mistral.ai/news/ocr-4/">Mistral OCR 4 : SOTA OCR for Document Intelligence</a></li>
+<li><a href="https://github.com/opendatalab/OmniDocBench">GitHub - opendatalab/OmniDocBench: [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI glasses`, `#privacy`, `#regulation`, `#China`, `#data protection`
+**标签**: `#Mistral AI`, `#OCR`, `#AI model`, `#document recognition`, `#multilingual`
 
 ---
 
 <a id="item-12"></a>
-## [一键在 HF Jobs 上运行 vLLM 服务器](https://huggingface.co/blog/vllm-jobs) ⭐️ 7.0/10
+## [一条命令在 HF Jobs 上运行 vLLM 服务器](https://huggingface.co/blog/vllm-jobs) ⭐️ 7.0/10
 
-Hugging Face 宣布了一项新功能，用户可以通过一条命令在 HF Jobs 上部署 vLLM 服务器，从而简化大型语言模型推理的运行过程。 这为从业者简化了 LLM 推理部署，减少了搭建生产级服务器所需的复杂性和时间，并使 vLLM 对更广泛的机器学习社区更加易用。 一键部署利用了 Hugging Face Jobs 基础设施，自动处理资源分配和扩展。vLLM 服务器兼容 OpenAI API，支持 Completions 和 Chat 端点。
+Hugging Face 宣布了一种新的一键命令方法，可在 HF Jobs 上部署 vLLM 推理服务器，使用户能够以最少的设置直接从 Hugging Face Hub 提供大型语言模型服务。 这简化了从业者部署 LLM 的流程，消除了复杂的基础设施设置，使高吞吐量推理对更广泛的用户群体可用，并加速了 AI 应用的开发。 该解决方案利用 Hugging Face Jobs 进行托管计算，并利用 vLLM 实现高效推理，只需一条命令即可在 GPU 基础设施上开始提供 Llama 或 Mistral 等模型的服务。
 
 rss · Hugging Face Blog · 6月26日 00:00
 
-**背景**: vLLM 是一个用于大型语言模型的高吞吐量、内存高效的推理引擎。Hugging Face Jobs 是一项在 Hugging Face 基础设施上运行机器学习工作负载的托管服务。此前，部署 vLLM 服务器需要手动设置依赖项和配置。
+**背景**: vLLM 是一个高吞吐量、内存高效的 LLM 推理引擎，支持多种硬件，包括 NVIDIA 和 AMD GPU。Hugging Face Jobs 在 Hugging Face Hub 上提供托管计算，用于微调和推理等任务，可通过 CLI 或 Python 库访问。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://nm-vllm.readthedocs.io/en/0.4.0/serving/openai_compatible_server.html">OpenAI Compatible Server — vLLM</a></li>
+<li><a href="https://github.com/vllm-project/vllm">GitHub - vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs · GitHub</a></li>
+<li><a href="https://huggingface.co/docs/huggingface_hub/en/guides/jobs">Run and manage Jobs - Hugging Face</a></li>
+<li><a href="https://huggingface.co/docs/hub/en/jobs">Jobs - Hugging Face</a></li>
 
 </ul>
 </details>
 
-**标签**: `#vLLM`, `#Hugging Face`, `#LLM inference`, `#deployment`, `#MLOps`
+**标签**: `#vLLM`, `#LLM inference`, `#Hugging Face`, `#deployment`, `#MLOps`
 
 ---
 
 <a id="item-13"></a>
-## [Cloudflare 修复 quiche 中的 CUBIC 拥塞控制 Bug](https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 7.0/10
+## [念象科技完成近千万元天使轮融资，开发 sEMG 腕带](https://36kr.com/p/3867943030395913?f=rss) ⭐️ 7.0/10
 
-Cloudflare 发现并修复了其 quiche 库中 CUBIC 拥塞控制算法的 Rust 实现的一个 Bug，该 Bug 阻止了从初始丢包中恢复。 此修复提高了 QUIC 连接的可靠性和性能，特别是在有损网络条件下，影响了 Cloudflare 的全球网络以及 quiche 库的所有潜在用户。 该 Bug 特别阻止了 CUBIC 算法在初始丢包后正确减小其拥塞窗口，导致连接停滞。修复确保了符合 CUBIC 规范的正确行为。
+成立于 2025 年底的念象科技完成了近千万元天使轮融资，由永珺星芒领投，浦东创投和一村资本跟投。该公司正在开发 Omniband，一款非侵入式表面肌电（sEMG）腕带，可解码手势用于人机交互，并采集高精度手部运动数据用于具身智能训练。 此次融资表明，非侵入式神经接口作为主流人机交互和具身智能数据采集的实用路径正受到越来越多的关注。该公司的方案利用了 Meta 在 2025 年展示的缩放定律，有望克服多年来阻碍 sEMG 腕带发展的跨用户校准难题。 Omniband 采用多通道、高带宽的 sEMG 传感器和 AI 解码，可连续估计手部全部 20 个关节的动态角度。该公司计划构建面向本土手部操作场景的大规模 sEMG 数据集，旨在填补中国用户的数据空白，并为具身智能和世界模型训练提供支持。
 
-rss · InfoQ · 6月25日 19:00
+rss · 36氪 · 6月26日 00:00
 
-**背景**: CUBIC 是一种广泛使用的 TCP 拥塞控制算法，自 Linux 内核 2.6.19 起成为默认算法。quiche 是 Cloudflare 对 QUIC 传输协议和 HTTP/3 的 Rust 实现。拥塞控制算法管理数据传输速率以避免网络拥塞。
+**背景**: 表面肌电（sEMG）通过测量肌肉收缩时的电信号，提供了一种非侵入式的手部运动意图推断方法。与需要手术或信号不稳定的传统脑机接口不同，sEMG 腕带采集外周神经系统的放大信号。然而，过去的 sEMG 设备因信号差异需要逐个用户校准，限制了大规模应用。2025 年，Meta 发表研究证明缩放定律适用于 sEMG，当训练数据覆盖 100 名以上用户时，可实现跨用户免校准识别。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/CUBIC_TCP">CUBIC TCP - Wikipedia</a></li>
-<li><a href="https://github.com/cloudflare/quiche">GitHub - cloudflare/quiche: Savoury implementation of the ...</a></li>
+<li><a href="https://www.nature.com/articles/s41598-024-72996-7">Hand gesture recognition using sEMG signals with a multi-stream time-varying feature enhancement approach | Scientific Reports</a></li>
+<li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.621885/full">Frontiers | Gesture Recognition Using Surface Electromyography and Deep Learning for Prostheses Hand: State-of-the-Art, Challenges, and Future</a></li>
+<li><a href="https://finance.biggo.com/news/k3blS54B-PfaobXfHYYa">25-Year-Old Tsinghua PhD Student Raises Over 500 Million Yuan in 5 Months, Targeting the "Data Drought" in Embodied AI — BigGo Finance</a></li>
 
 </ul>
 </details>
 
-**标签**: `#networking`, `#congestion control`, `#Rust`, `#Cloudflare`, `#bug fix`
+**标签**: `#neural interface`, `#human-computer interaction`, `#embodied AI`, `#sEMG`, `#startup funding`
 
 ---
 
 <a id="item-14"></a>
-## [念象科技完成近千万元天使轮融资，开发 sEMG 神经腕带](https://36kr.com/p/3867943030395913?f=rss) ⭐️ 7.0/10
+## [具身智能公司无界动力完成超 2 亿美元天使轮融资](https://36kr.com/newsflashes/3869493315900680?f=rss) ⭐️ 7.0/10
 
-念象科技完成了近千万元天使轮融资，用于其非侵入式 sEMG 神经接口腕带 Omniband，该设备通过手腕肌肉信号解码手势。资金将用于产品研发、团队扩建以及建设面向具身智能的本土 sEMG 数据集。 此次融资表明非侵入式神经接口在日常人机交互领域日益受到关注，尤其是在 Meta 于 2025 年在《自然》杂志发表论文证实缩放定律适用于 sEMG、实现跨用户免校准之后。如果成功，Omniband 有望取代传统输入设备，并为训练具身 AI 模型提供高质量的手部运动数据。 Omniband 目前处于工程样机阶段，可连续估计全部 20 个手部关节角度。公司计划构建针对中国人手势的大规模 sEMG 数据集，旨在填补具身 AI 和物理 AI 训练中本土数据的空白。
+6 月 26 日，通用具身智能机器人公司无界动力宣布完成超 2 亿美元天使轮融资，由京东关联基金、C 资本、弘毅投资等联合投资，老股东线性资本、红杉中国等跟投。 这笔巨额天使轮融资表明投资者对通用具身智能领域充满信心，该领域有望通过让机器人执行多样化现实任务而革新机器人产业。资金将用于加速通用机器人大脑的研发和全球规模化交付。 所获资金将用于具身通用大脑研发、技术基础设施建设以及全球规模化交付。本轮融资既有新投资者也有老股东跟投，表明持续的支持。
 
-rss · 36氪 · 6月26日 00:00
+rss · 36氪 · 6月26日 04:12
 
-**背景**: 表面肌电图（sEMG）通过皮肤测量肌肉的电信号，提供了一种非侵入式的运动意图检测方式。与 EEG 或侵入式脑机接口不同，手腕处的 sEMG 具有更高的信噪比，因为肌肉收缩会自然放大神经指令。历史上，sEMG 手势识别因跨用户泛化性差而需要逐个校准。但 Meta 在 2025 年的研究表明，扩大训练数据（类似于大语言模型）可以实现新用户的即开即用性能，为消费级产品打开了大门。
+**背景**: 具身智能指能够感知、推理并在物理世界中行动的智能系统，通常通过机器人实现。'通用大脑'旨在让机器人无需针对特定任务编程即可学习和执行多种任务，类似于大语言模型在文本任务上的泛化能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09255-w">A generic non-invasive neuromotor interface for human ...</a></li>
-<li><a href="https://ai.meta.com/blog/open-sourcing-surface-electromyography-datasets-neurips-2024/">Advancing Neuromotor Interfaces by Open Sourcing Surface ...</a></li>
+<li><a href="https://github.com/TianxingChen/Embodied-AI-Guide/blob/main/files/具身智能基础技术路线-YunlongDong.pdf">具身智能基础技术路线-YunlongDong.pdf - GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#neural interface`, `#sEMG`, `#human-computer interaction`, `#embodied AI`, `#funding`
+**标签**: `#robotics`, `#AI`, `#funding`, `#embodied intelligence`, `#startup`
 
 ---
 
 <a id="item-15"></a>
-## [Polymarket 在第三方泄露后为用户退款](https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/) ⭐️ 7.0/10
+## [苹果上调 iPad/Mac 价格；英伟达计划返还 50%以上现金流；OpenAI 发布首款 AI 芯片](https://36kr.com/p/3869243269387269?f=rss) ⭐️ 6.0/10
 
-主要预测市场平台 Polymarket 宣布，因第三方供应商泄露导致用户资金被盗，平台正在为用户退款。 这一事件削弱了用户对加密货币平台的信任，并凸显了第三方依赖的风险，可能影响用户对预测市场的信心。 泄露发生在第三方供应商处，而非 Polymarket 平台本身，该公司正在主动为受影响用户退款。
+苹果因内存和存储芯片成本飙升，宣布上调 iPad 和 Mac 产品价格。英伟达 CEO 黄仁勋表示计划将 50%或更多自由现金流返还股东，并强调物理 AI 是下一波增长浪潮。OpenAI 与博通联合发布首款定制 AI 芯片 Jalapeño，专为大语言模型推理设计。 苹果涨价表明 AI 驱动的存储需求正影响消费硬件成本。英伟达的现金返还计划和物理 AI 战略巩固了其在 AI 基础设施领域的领导地位，并拓展至机器人领域。OpenAI 自研芯片可能减少对英伟达的依赖，降低 AI 推理成本。 苹果的价格调整立即影响 iPad 和 Mac 产品线。英伟达的物理 AI 愿景包括在 AI 工厂训练模型、在 Omniverse 中仿真，并在 Jetson 平台上部署。OpenAI 的 Jalapeño 芯片是与博通联合开发的 ASIC，设计上可灵活适配各类大语言模型。
 
-rss · TechCrunch · 6月25日 19:58
+rss · 36氪 · 6月25日 23:57
 
-**背景**: Polymarket 是一个基于加密货币的预测市场，用户可以对未来事件下注。第三方泄露是加密货币行业反复出现的问题，例如 Gemini 之前的数据泄露事件。
+**背景**: 内存和存储芯片成本因 AI 数据中心需求激增而上涨。英伟达 Omniverse 是物理 AI 仿真平台，Jetson 是其面向机器人的边缘计算平台。OpenAI 自研芯片顺应了 AI 公司开发定制芯片以优化性能和成本的趋势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Polymarket">Polymarket - Wikipedia</a></li>
-<li><a href="https://www.tradingview.com/news/cryptodaily:da629a69f094b:0-gemini-suffers-huge-data-breach-5-7-million-emails-leaked/">Gemini Suffers Huge Data Breach , 5.7 Million... — TradingView News</a></li>
+<li><a href="https://www.nvidia.com/en-us/omniverse/">Develop Physical AI Applications | NVIDIA Omniverse</a></li>
+<li><a href="https://developer.nvidia.com/omniverse">NVIDIA Omniverse Libraries</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#cryptocurrency`, `#breach`, `#Polymarket`, `#finance`
+**标签**: `#Apple`, `#Nvidia`, `#AI`, `#hardware`, `#business`
 
 ---
 
 <a id="item-16"></a>
-## [Base Power 用家用电池绕过电网排队](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/) ⭐️ 7.0/10
+## [2026 年一季度中国集成电路产业偏离传统周期](https://36kr.com/newsflashes/3869439942415362?f=rss) ⭐️ 6.0/10
 
-由 a16z 支持的 Base Power 正在家庭中部署电池，以绕过 PJM 的并网排队，提供更便宜的备用电源和电网服务。 这种方法可以加速分布式能源的采用并减少电网拥堵，可能降低消费者的电费并提高可靠性。 PJM 的并网队列积压了大量等待连接的项目，Base Power 的模式通过将电池放置在客户场所来避免这一问题，从而实现更快的部署。
+中国半导体行业协会表示，2026 年第一季度中国集成电路产业呈现非典型增长，制造业领跑行业，出货量几乎与 2025 年第四季度持平。 这种偏离传统季节性模式的迹象表明中国半导体市场正在发生结构性转变，可能由 AI 需求和供应链调整驱动，影响全球芯片定价和竞争格局。 存储厂业绩暴增，晶圆代工和封测价格齐升，挤压了下游手机制造商的利润空间。全球半导体产业预计 2026 年将突破 1.5 万亿美元。
 
-rss · TechCrunch · 6月25日 17:52
+rss · 36氪 · 6月26日 03:17
 
-**背景**: PJM 是一个区域输电组织（RTO），管理美国部分地区的电网。并网队列是等待接入电网的项目列表，可能存在长时间延迟。分布式电池存储可以提供备用电源以及削峰填谷和频率调节等电网服务。
+**背景**: 半导体行业传统上遵循周期性波动，有季节性高峰和低谷。然而，近期供需失衡，包括国际代工厂逐步退出成熟 8 英寸晶圆制程以及 AI 相关电源 IC 需求增长，打破了这一周期。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.pjm.com/planning/rtep-development/stakeholder-process/developers">PJM - Interconnection / Upgrade Requests</a></li>
-<li><a href="https://www.pjm.com/planning/service-requests/application-and-forms">PJM - Application & Forms</a></li>
-<li><a href="https://alchemyindustrial.com/blog/achieving-grid-resiliency-with-distributed-battery-energy-storage-">Achieving Grid Resiliency with Distributed Battery Energy Storage</a></li>
+<li><a href="https://m.jrj.com.cn/madapter/stock/2026/03/31102556552625.shtml">半导体涨 价 潮来袭！ AI...</a></li>
+<li><a href="https://news.eccn.com/news_2026032919562575.htm">晶 圆 代 工 与 封 测 成本同步上涨，DDIC供应商正酝酿上调报 价 -中电网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#energy`, `#distributed systems`, `#infrastructure`, `#startups`, `#grid`
+**标签**: `#semiconductor`, `#China`, `#industry report`, `#supply chain`
 
 ---
 
 <a id="item-17"></a>
-## [Claude 在付费消费者市场追赶 ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/) ⭐️ 7.0/10
+## [腾讯云助力 XLSMART 完成 AI 驱动云迁移](https://36kr.com/newsflashes/3869433547216130?f=rss) ⭐️ 6.0/10
 
-数据显示，付费消费者越来越倾向于选择 Anthropic 的 Claude 而非 ChatGPT，表明 AI 市场正在发生转变。 这一趋势挑战了 ChatGPT 在付费 AI 市场的主导地位，表明 Claude 注重安全的方法正在吸引愿意付费的用户。 文章未给出具体数字，但鉴于 ChatGPT 此前占据绝对领先地位，这一转变值得关注。Claude 由注重 AI 安全的 Anthropic 公司开发。
+印尼运营商 XLSMART 在腾讯云作为核心合作伙伴的支持下，于 4.5 个月内完成了大规模公有云迁移，并利用 CodeBuddy 和 WorkBuddy 等 AI 工具实现了迁移流程自动化。 此案例展示了 AI 如何加速并降低大规模云迁移的风险，为东南亚及其他地区的企业采用类似的 AI 驱动转型策略树立了先例。 此次迁移涉及 1200 个微服务、1100 个 API 和 900 个业务接口，平稳处理了超过 15TB 的核心数据资产。腾讯云基于 CodeBuddy 和 WorkBuddy 开发了 20 多个云迁移 Skills，覆盖从资源发现到割接验证的完整迁移生命周期。
 
-rss · TechCrunch · 6月25日 17:38
+rss · 36氪 · 6月26日 03:11
 
-**背景**: OpenAI 开发的 ChatGPT 自推出以来一直是付费 AI 助手市场的主导者。Anthropic 的 Claude 于 2023 年 3 月发布，是一系列注重安全性和准确性的大型语言模型。最近的对比显示，Claude 在编程、写作和推理任务上具有很强的竞争力。
+**背景**: 云迁移是一个复杂且劳动密集型的过程，尤其对于拥有遗留系统的大型企业而言。像 CodeBuddy（AI 代码编辑器）和 WorkBuddy（工作场所智能代理）这样的 AI 工具可以自动化许多步骤，减少人工投入和风险。腾讯云是亚洲主要的云服务提供商，提供一系列云和 AI 服务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model ) - Wikipedia</a></li>
-<li><a href="https://zapier.com/blog/claude-vs-chatgpt/">Claude vs. ChatGPT: Which is best? [2026] - Zapier</a></li>
-<li><a href="https://theaicareerlab.com/blog/claude-vs-chatgpt">Claude vs ChatGPT (2026): An Honest, Up-to-Date Comparison</a></li>
+<li><a href="https://www.tencentcloud.com/products/acc">Tencent Cloud CodeBuddy</a></li>
+<li><a href="https://staging-codebuddy.tencent.com/">Tencent Cloud Code Assistant CodeBuddy – AI Code Editor</a></li>
+<li><a href="https://www.workbuddy.ai/docs/workbuddy/Overview">Overview | Tencent Cloud Code Assistant CodeBuddy – AI Code Editor</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#market analysis`, `#ChatGPT`, `#Claude`, `#Anthropic`
+**标签**: `#cloud migration`, `#AI`, `#Tencent Cloud`, `#digital transformation`
 
 ---
