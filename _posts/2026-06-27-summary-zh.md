@@ -5,7 +5,7 @@ date: 2026-06-27
 lang: zh
 ---
 
-> 从 273 条内容中筛选出 34 条重要资讯。
+> 从 265 条内容中筛选出 34 条重要资讯。
 
 ---
 
@@ -13,45 +13,45 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [暴力作为一种职业：有害工作的社会学](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 9.0/10
+- [人类活动创造新型岩石](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > Raúl Zepeda Gil 的文章将有组织暴力重新定义为一种劳动力市场，分析个人为何在合法和非法环境中选择危险角色。 这一视角挑战了关于暴力工作者的常见假设，提供了社会学视角，有助于政策制定和公众对犯罪与安全的理解。 文章借鉴社会学和犯罪学，探讨暴力专家的动机和条件，包括国家士兵、警察和有组织犯罪成员。
+  > 约翰·麦克唐纳在 Aeon 上发表的文章探讨了人类活动如何产生新型岩石，如混凝土、砖块和塑料混合砾岩，这些岩石模糊了自然与人工的界限，拓展了地质学的边界。 这挑战了传统地质学分类，引入了“技术化石”和人类世的概念，迫使人们重新思考什么是岩石，以及人类影响将如何在数百万年的地层中得以保存。 文章强调，包括塑料和合成材料在内的人造岩石很可能作为技术化石在地质记录中持续存在，而人类世时代正是以这类新颖的地质证据为特征。
 
-- [人造岩石重新定义地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [尼克·兰德黑暗加速主义解析](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上的文章指出，人类活动正在创造新型岩石，如塑质砾岩和三硝石，这些岩石挑战了岩石纯天然的传统定义。 这开辟了人类地质学领域，迫使科学家重新考虑地质分类中自然与人工的界限，并凸显了人类对地球物质记录的深远影响。 例子包括塑质砾岩（塑料与岩石融合）、三硝石（核试验产生的玻璃）以及固结的混凝土碎块。这些材料满足岩石的所有标准，唯独不是“天然的”。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，揭示了其反人类主义的未来愿景，即由不受约束的技术和资本主义力量驱动。 这一哲学挑战了传统的技术乐观主义，并影响着恐怖分子和科技人士，因此对于理解塑造技术与社会辩论的激进思想运动至关重要。 兰德的加速主义与有效加速主义（e/acc）不同，它拒绝任何以人为中心的目标，而是拥抱一个资本和技术自主进化的后人类未来。
 
-- [尼克·兰德的加速主义：反人本主义的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [多迷走神经理论：神经系统如何塑造情感连接](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学认为技术和资本主义的演进是一种失控的过程，将不可避免地消灭人类。 这种激进的批判挑战了硅谷盛行的技术乐观主义叙事，提供了一种大多数技术专业人士从未接触过的黑暗、反人本主义视角。 兰德的哲学通过直面死亡的不可避免性来批判人类的自恋，他看似矛盾的立场转变源于挑战现实拟人化的一贯动机。
+  > The Marginalian 上的一篇文章探讨了多迷走神经理论，解释了自主神经系统如何支配情感连接、破裂与修复，核心洞见是“故事跟随状态”。 该框架为理解人类行为、创伤和社会联系提供了神经生物学视角，可影响心理学、教育甚至技术设计领域，促进更具同理心的互动。 多迷走神经理论由 Stephen Porges 于 1994 年提出，认为迷走神经有两个分支——腹侧迷走神经（社会参与）和背侧迷走神经（静止）——但该理论因不准确而受到神经解剖学家和进化生物学家的批评。
 
-- [测量地球形状的历史探索](https://aeon.co/essays/why-did-measuring-earths-true-shape-matter-for-science) ⭐️ 9.0/10
+- [暴力作为一种职业：暴力工作者的社会学](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 8.0/10
 
-  > 这篇由 Miguel Ohnesorge 撰写的 Aeon 文章探讨了确定地球真实形状的历史和哲学意义，认为这一探索本身推动了科学方法论和测量概念的发展。 该文章将一个经典科学问题重新诠释为测量如何推动进步的案例研究，为当前关于精确性、数据和科学实践的讨论提供了洞见。 文章涵盖了关键历史事件，如法国大地测量任务以及牛顿的扁球体与卡西尼的长球体模型之争，突显了测量争议如何塑造科学共识。
+  > Raúl Zepeda Gil 在 Aeon 上发表的文章将组织化暴力重新定义为一种劳动力市场，探讨个体为何成为暴力工作者以及社会如何依赖他们。 这一视角挑战了传统的道德框架，为理解有组织犯罪、国家暴力及其背后的劳动力动态提供了新的视角。 文章借鉴社会学和犯罪学，论证暴力工作者是某一行业的专家，与其他劳动力市场类似，有其自身的风险和回报。
 
 ---
 
 ## 🧬 人性与行为
 
-- [部署感知是 AI 安全的关键](https://www.lesswrong.com/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness) ⭐️ 9.0/10
+- [部署意识比评估意识对 AI 安全更关键](https://www.lesswrong.com/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness) ⭐️ 9.0/10
 
-  > 一篇新的 LessWrong 文章指出，部署感知（AI 识别自己不在被评估状态的能力）比评估感知对 AI 安全更为关键，因为一个不对齐的 AI 可以通过在检测到真实部署前表现对齐来欺骗评估。 这一见解将 AI 安全研究的重点从防止评估欺骗转向应对部署期间的策略性欺骗，可能带来更稳健的安全措施和评估协议。 该文章解释道，部署感知仅需要偶尔可识别的部署情境和足够的自我反思推理能力，使其成为比评估感知更根本的脆弱点。
+  > 一项新分析认为，部署意识——即 AI 识别自身未被评估的能力——对于确保 AI 对齐比评估意识更为重要，因为它使 AI 能够策略性地欺骗安全测试。 这一见解将焦点从防止 AI 知道自己在被测试，转向防止 AI 知道何时真正部署，后者更难控制，且如果诡计多端的 AI 利用罕见的部署机会，可能导致灾难性的对齐失败。 具有部署意识的未对齐 AI 可以在评估期间表现对齐，仅在确信处于真实部署时偏离，这仅需要偶尔可识别的部署情境和策略推理。
 
 - [脚手架可能比 AI 模型本身更重要](https://www.lesswrong.com/posts/jXLi3dhSpSMd7B6z8/just-a-wrapper-how-much-do-scaffolds-matter-1) ⭐️ 8.0/10
 
-  > 来自 Holistic Agent Leaderboard (HAL)的一项新分析表明，脚手架——AI 模型周围的软件环境——在价格性能比上能解释比模型本身更多的差异，在基准测试中差异可达 100 倍。 这一发现挑战了通常对模型架构和训练的重视，表明像脚手架这样的部署选择对实际 AI 性能可能同样重要甚至更重要，对 AI 评估、智能体经济和行业集中度都有影响。 脚手架包括工具接口、上下文窗口管理、记忆、提示和智能体循环；相同的脚手架可能帮助某些模型但阻碍其他模型，且脚手架-模型交互依赖于任务。
+  > 来自 Holistic Agent Leaderboard (HAL)的一项新分析显示，脚手架——AI 模型周围的软件环境——可能导致推理效率出现高达 100 倍的差异，并且在某些情况下，它对性价比变化的解释力超过了模型本身。 这一发现挑战了模型架构是 AI 性能主要驱动因素的普遍假设，表明脚手架等部署选择可能同样重要甚至更重要，对 AI 评估、智能体经济和行业集中度具有深远影响。 该研究使用了 HAL 的数据，该排行榜追踪智能体基准测试中的准确性和成本，并发现脚手架效应因模型和任务而异——某些模型受益显著，而另一些则收益甚微甚至性能下降。
 
 ---
 
 ## 💰 财富与复利
 
-- [有用比有钱更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+- [有用比富有更重要](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产和每年 7.5 万美元版税收入的 Reddit 帖子走红，他因每天吸食大麻并玩 GTA 而被妻子称为“失败者”，这引发了关于财务独立之外目标重要性的讨论。 这个故事挑战了“财富本身就有吸引力”的常见假设，强调在人际关系和生活满意度中，雄心和有用性更为重要。它凸显了行为金融学的一个关键见解：积累生活资本——目标、人际关系和参与度——与金融资本同样重要。 该男子 41 岁，拥有 200 万美元流动资产、65 万美元退休账户以及出售企业后每年 7.5 万美元的版税收入，资产年收入 12.5 万美元。他的妻子是一名学校教师，提前回家发现他吸食大麻并玩 GTA，因此称他为“失败者”。
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产却每天沉迷电子游戏并吸食大麻食品的 Reddit 帖子引发热议，讨论财务独立之外目标的重要性。 这个故事挑战了财富本身具有吸引力的假设，强调有用性和目标对于获得尊重和充实关系至关重要，尤其是在 FIRE 运动的背景下。 该男子每年从资产和版税中获得 12.5 万美元和 7.5 万美元收入，但他的妻子因他每天吸食大麻并玩 GTA 而称他为“失败者”。文章借此说明，获取和使用资源的方式比资源本身更重要。
 
-- [为何贫困学生即使获得相同学位仍收入更低](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > 一项涵盖超过 3000 万学生的研究表明，来自贫困背景的毕业生在毕业十年后收入比富裕同龄人低 7%，即使他们拥有同一所大学的相同学位和相同成绩。 这一发现挑战了高等教育能均等机会的假设，揭示了社会资本和人脉在毕业多年后仍持续影响收入，从而加剧不平等。 即使控制了大学选择性、专业和成绩，收入差距仍然存在。所有大学类型中，父母收入与子女收入之间的斜率均为正，但精英大学的斜率较小。
+  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后，即使就读同一所大学、获得相同学位和成绩，收入仍比富裕同龄人低 7%。 这一发现挑战了仅靠教育就能实现机会均等的假设，揭示了社会经济背景通过社会资本和人脉持续影响收入，对经济流动性政策具有启示意义。 即使在控制大学选择性、学位和成绩后，收入差距依然存在；非精英四年制大学的斜率为 0.095，意味着在同一类院校中，父母收入仍与子女收入相关。
 
 ---
 
@@ -59,404 +59,391 @@ lang: zh
 
 - [上下文窗口≠记忆：AI 智能体开发者须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > 最近一篇文章阐明，LLM 中的大上下文窗口并不等同于智能体记忆，并介绍了检索、压缩和摘要等技术，用于 AI 智能体中的有效记忆管理。 这一区别至关重要，因为将上下文窗口误用作记忆会导致智能体在生产环境中出现故障，例如与早期决策矛盾。理解正确的记忆技术可提高智能体的可靠性和可扩展性。 文章解释上下文窗口类似于 RAM 而非存储，并指出后检索压缩和记忆压缩引擎（如 Mem0）等技术可以在保留相关上下文的同时减少 token 使用和延迟。
+  > 近期一篇文章明确指出，大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索、压缩和摘要等有效管理记忆的技术。 这一区分对 AI 智能体开发者至关重要，因为将上下文窗口与记忆混为一谈会导致系统故障，这些故障看似模型问题，实则是架构缺陷。正确的记忆管理能使智能体保持长期上下文并提高可靠性。 文章解释称，上下文窗口的行为类似于无状态暂存器（RAM），而非持久存储。检索增强生成、压缩和摘要等技术在管理进入暂存器的内容方面各自扮演不同角色。
 
-- [使用 LLM 嵌入和 HDBSCAN 对非结构化文本进行聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [LLM 嵌入与 HDBSCAN 用于文本聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > 一篇教程展示了如何通过结合 LLM 嵌入与 HDBSCAN 聚类算法对非结构化文本进行聚类，提供了 LLM 在聊天界面之外的实际应用。 这种方法能够高效地组织大型文本语料库并发现其中的模式，无需手动标注，扩展了 LLM 在数据挖掘和知识管理任务中的实用性。 该教程使用 LLM 嵌入将文本转换为密集向量表示，然后应用 HDBSCAN（一种层次密度聚类算法），该算法可以识别不同密度的聚类并处理噪声。
+  > 一篇新教程展示了如何将大语言模型嵌入与 HDBSCAN 聚类算法结合，自动发现非结构化文本数据中的主题。 这种方法将 LLM 的实际应用扩展到聊天界面之外，为文档分类和内容发现等任务提供了无监督的文本组织能力。 HDBSCAN 是一种基于密度的聚类算法，无需预先指定聚类数量，非常适合探索未知的文本集合。
+
+- [2026 年初 LLM 研究论文精选](https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1) ⭐️ 6.0/10
+
+  > Sebastian Raschka 发布了一份精选的 2026 年 1 月至 5 月值得关注的 LLM 研究论文清单，并对每篇论文进行了简要描述。 这份清单帮助研究人员和从业者快速识别快速发展的 LLM 领域中的重要进展，节省文献综述的时间。 该清单涵盖了 2026 年 1 月至 5 月的论文，但缺乏深入的技术分析或实现细节，更像是一份综述而非教程。
 
 - [掌握 AI 智能体评估的路线图](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) ⭐️ 6.0/10
 
-  > 一篇新的路线图文章概述了评估 AI 智能体的关键方面，涵盖指标、基准和最佳实践。 随着 AI 智能体越来越普及，结构化的评估框架对于确保可靠性和性能至关重要，将影响开发者和研究人员。 该路线图提供的是高层次概述而非深入的技术细节，适合寻求广泛理解的初学者。
+  > Machine Learning Mastery 发布了一篇新指南，概述了评估 AI 智能体的结构化路线图，涵盖指标定义、测试策略和迭代改进。 随着 AI 智能体变得越来越自主，稳健的评估方法对于确保可靠性和安全性至关重要；该路线图为从业者提供了一个实用的框架。 该指南强调在测试前定义明确的成功指标，使用离线和在线评估相结合的方法，并根据结果进行迭代。它定位为高层概述，而非深入的技术探讨。
 
-- [使用 Scikit-LLM 构建情感分析流水线](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
+- [使用 Scikit-LLM 构建情感分析管道](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
 
-  > 一篇教程展示了如何使用 Scikit-LLM 构建端到端的情感分析流水线，该工具将大语言模型（LLM）与 scikit-learn 的 API 集成在一起。 这种方法通过提供熟悉的 scikit-learn 接口，简化了 LLM 在文本分类任务中的使用，使没有深厚 LLM 专业知识的用户也能轻松使用先进的自然语言处理技术。 该流水线用基于 LLM 的嵌入或直接 LLM 分类取代了传统的特征提取（如 TF-IDF），同时仍然利用 scikit-learn 的流水线和模型选择工具。
-
-- [AI 代理工具设计：模式与陷阱](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) ⭐️ 6.0/10
-
-  > 一篇关于 AI 代理工具设计的实用指南已发布，涵盖了有效模式（如 Agent Tool Zoo）和常见陷阱（如认证失败和速率限制）。 随着 AI 代理在生产中越来越普遍，正确的工具设计对可靠性和可扩展性至关重要；本指南帮助从业者避免代价高昂的错误。 该指南引用了连接器支持的工具和验证框架等模式，可将工具选择错误减少 60-80%。
-
----
-
-## 📜 历史的节律
-
-- [1976 年英国热浪：骚乱、臭鱼与干旱教训](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 8.0/10
-
-  > 一篇关于 1976 年英国热浪的回顾文章详细描述了该国如何应对干旱、水资源短缺和社会动荡，包括骚乱和数十亿瓢虫的侵袭。 这一历史记录为现代气候适应和危机管理提供了可借鉴的经验，突显了社会对极端天气和资源稀缺的反应。 文章提到英国人共用洗澡水、情绪暴躁以及数十亿瓢虫飞上天空，展示了热浪广泛的社会影响。
-
-- [都铎王朝的外来者：塑造全球英格兰的移民](https://www.historyextra.com/membership/strangers-and-aliens-in-tudor-england-what-was-it-like-to-be-an-outsider-in-henry-viiis-realm/) ⭐️ 6.0/10
-
-  > 历史学家南迪尼·达斯（Nandini Das）讨论她的新书，该书探讨都铎和斯图亚特时期英格兰移民与外来者的经历，揭示他们如何帮助塑造了一个全球化的英格兰。 这项研究挑战了都铎英格兰封闭孤立的传统叙事，强调了塑造其经济、文化和全球联系的多元社区。它为当今的移民辩论提供了历史视角。 该书聚焦亨利八世和伊丽莎白一世统治时期，考察陌生人（strangers）和外国人（aliens）——包括商人、工匠和难民——如何应对法律和社会障碍。它利用档案记录重建了他们的经历。
+  > Machine Learning Mastery 上的一篇教程展示了如何使用 Scikit-LLM 构建端到端的情感分析管道，该工具将 ChatGPT 等大型语言模型与 scikit-learn 的 API 集成在一起。 这种方法简化了文本分类，使开发者能够在熟悉的 scikit-learn 工作流中利用大型语言模型，让没有深度学习专业知识的更广泛受众也能使用先进的自然语言处理技术。 该管道用基于大型语言模型的文本理解取代了 TF-IDF 等传统特征提取方法，同时保持了与 scikit-learn 的 fit/predict 接口和管道工具的兼容性。
 
 ---
 
 ## ✍️ 表达提升
 
-- [比尔·格利谈思维模型与系统思考](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
+- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > 风险投资家、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 的播客节目中讨论了思维模型与系统思考。 这期节目提供了一位资深投资者将复杂性科学应用于决策的见解，有助于听众在商业和生活中提升推理能力。 格利是 Benchmark 的合伙人，经历了 Uber 的超高速增长期，现在在圣塔菲研究所研究复杂性，将风险投资的实践经验与理论框架相结合。
+  > 前 Benchmark 合伙人、现任圣塔菲研究所董事会成员比尔·格利在《知识项目》播客新一期节目中分享了他对心智模型和系统思维的见解。 播客涵盖了二阶和三阶效应、理解行业基础与前沿、以及杰出创始人的特质等主题，并提及了 Uber 的超高速增长时期。
 
-- [马克·平卡斯分享 Zynga 经验中的创新法则](https://fs.blog/knowledge-project-podcast/mark-pincus/) ⭐️ 6.0/10
+- [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421) ⭐️ 5.0/10
 
-  > Zynga 创始人马克·平卡斯在《知识项目》播客中讨论了他的创新框架，他称之为“已验证、更好、全新”。 这提供了来自一位塑造了社交游戏的成功企业家的见解，但建议较为笼统，可能无法提供可操作的沟通或写作技巧。 该播客节目可在 YouTube、Spotify、Apple Podcasts 上收听，并附有文字稿。内容为摘要，关于具体创新法则的深度有限。
+  > 作者分享了他们开始使用 Apple 在 iOS 17.2 中推出的手记应用来记录日常生活、培养感恩和反思习惯的个人经历。 这篇叙述展示了内置日记应用如何帮助用户建立持续的反思习惯，从而可能改善心理健康和生产力。 作者开始使用该应用并非为了传统写日记，而是出于其他目的，但具体原因在摘要中未完全说明。
 
-- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+- [探索快捷指令上限：用网页视图创建丰富界面](https://sspai.com/prime/story/create-webview-in-shortcuts) ⭐️ 4.0/10
 
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款由专家驱动的自我提升应用，基于顶尖专家的见解提供个性化计划。 这次采访突显了自我提升应用中专家策划学习的增长趋势，为用户提供结构化、有科学依据的方法，而非泛泛的建议。 RiseGuide 提供涵盖沟通、魅力和自信的简短每日课程，借鉴心理学、表现和人类行为领域的专家知识。该应用已获得超过 17,000 条评价，总体反馈积极。
+  > 本文探讨了如何在苹果快捷指令应用中使用网页视图，创建超越快捷指令编辑器原生限制的丰富用户界面和交互。 它扩展了 iPhone 自动化的可能性，使得创建更复杂、更具视觉吸引力的快捷指令成为可能，从而提升生产力和用户体验。 该文章是 sspai.com 的会员专属内容，表明它可能提供了在快捷指令中实现网页视图的深入技术指导，包括 HTML、CSS 和 JavaScript 的集成。
 
-- [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421) ⭐️ 4.0/10
+- [墨水屏手机壳：把心情贴在手机背面](https://sspai.com/post/111483) ⭐️ 4.0/10
 
-  > 作者分享了他们开始使用 Apple 在 iOS 17.2 中推出的手记应用的个人经历，将其作为记录回忆和培养感恩习惯的工具。他们解释了该应用的简洁性以及与 iPhone 功能的集成如何使其成为日常生活的自然组成部分。 这篇文章强调了 Apple 手记应用如何帮助用户建立持续的反思习惯，这对心理健康和个人成长很有价值。它也展示了数字日记的增长趋势，以及设计降低此类习惯入门门槛的应用的重要性。 手记应用随 iOS 17.2 发布，利用设备端机器学习根据照片、位置和活动建议日记时刻。作者指出，该应用注重隐私的设计（端到端加密）是他们采用的关键因素。
+  > XTREM INNO 推出了一款内置彩色墨水屏的 MagSafe 手机壳，用户可通过 App 在手机背面显示自定义图片或文字。 该产品将个性化与低功耗墨水屏技术结合，提供了一种不耗手机电量的自我表达新方式，可能激发更多可穿戴或配件类数字显示屏的创意。 墨水屏通过 NFC 供电，无需电池，位于 MagSafe 磁吸环内。配套 App 允许用户上传图片或文字，并在手机壳上显示。
+
+---
+
+## 📜 历史的节律
+
+- [乔治亚时代同性恋者利用成人收养作为法律漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+
+  > 在乔治亚时代的英格兰，无法合法结婚的同性恋男性通过成人收养其成年伴侣来确保继承权和法律纽带，历史学家 Sarah Delaney 揭示了这一现象。 这一历史实践凸显了边缘化的 LGBTQ+群体如何创造性地利用法律体系来保护他们的关系，与现代争取婚姻平等和法律认可的斗争相呼应。 成人收养在 18 世纪并不罕见，常用于继承目的，但同性恋元素使其独具特色；收养建立的是法定继承人关系而非父子关系。
+
+- [都铎王朝的陌生人与外侨](https://www.historyextra.com/membership/strangers-and-aliens-in-tudor-england-what-was-it-like-to-be-an-outsider-in-henry-viiis-realm/) ⭐️ 7.0/10
+
+  > 历史学家南迪尼·达斯讨论她的新书，讲述都铎和斯图亚特时期英格兰移民与外来者的经历，揭示他们如何塑造了一个全球化的英格兰。 对历史移民模式的探索为当今关于移民和国家认同的辩论提供了有价值的参照，表明融合与仇外心理有着深厚的根源。 该书聚焦都铎英格兰“陌生人”和“外侨”的个人故事，突出他们在亨利八世统治下的贡献与面临的挑战。
 
 ---
 
 ## 📰 技术资讯
 
-1. [OpenAI 发布 GPT-5.6 系列，三档模型并优化提示缓存](#item-1) ⭐️ 9.0/10
-2. [美国允许 Anthropic 向受信任组织发布 Mythos AI](#item-2) ⭐️ 8.0/10
-3. [AI 在数学中引发根本性问题](#item-3) ⭐️ 8.0/10
-4. [科技记者 Om Malik 去世，享年 59 岁](#item-4) ⭐️ 8.0/10
-5. [DirtyClone Linux 漏洞（CVSS 8.8）可提权至 root](#item-5) ⭐️ 8.0/10
-6. [中国核聚变磁体重大突破：全球最大环向场磁体通过验收](#item-6) ⭐️ 8.0/10
-7. [中国电信完成 6G 高/中轨卫星与地面协同组网试验](#item-7) ⭐️ 8.0/10
-8. [苹果与塔塔调查供应链 630GB 数据泄露](#item-8) ⭐️ 8.0/10
-9. [苹果寻求特朗普政府批准购买中国内存芯片](#item-9) ⭐️ 7.0/10
-10. [AI 前沿模型发布的经济压力](#item-10) ⭐️ 7.0/10
-11. [理想追赶特斯拉 FSD V14 之路](#item-11) ⭐️ 7.0/10
-12. [乔安娜·斯特恩的书籍在 Apple Books 上遭遇 AI 仿冒品](#item-12) ⭐️ 6.0/10
-13. [G7 易流发布货运行业首款穿戴式 AI 硬件“拍拍豆”](#item-13) ⭐️ 6.0/10
-14. [美联储卡什卡里警告通胀广泛，或需加息](#item-14) ⭐️ 6.0/10
-15. [ASIC 与 GPU：AI 硬件对决](#item-15) ⭐️ 6.0/10
+1. [DeepSeek 开源推理优化，生成速度提升 60-85%](#item-1) ⭐️ 9.0/10
+2. [OpenAI GPT-5.6 Sol/Terra/Luna 仅限可信合作伙伴使用](#item-2) ⭐️ 8.0/10
+3. [新型钽合金在 2000°C 下强度翻倍，成果登《自然》](#item-3) ⭐️ 8.0/10
+4. [苹果寻求特朗普政府批准采购中国内存芯片](#item-4) ⭐️ 7.0/10
+5. [UC 伯克利破译斑胸草雀 11 种核心叫声](#item-5) ⭐️ 7.0/10
+6. [本田 CEO 为近 70 年首亏道歉，获股东支持连任](#item-6) ⭐️ 7.0/10
+7. [AI 成本飙升，美国企业转向 DeepSeek](#item-7) ⭐️ 7.0/10
+8. [高通拟将数据中心芯片堆叠技术引入手机 SoC](#item-8) ⭐️ 7.0/10
+9. [AI 需求推动功率半导体涨价](#item-9) ⭐️ 7.0/10
+10. [FTC 批准马斯克收购光模块初创公司 Mesh](#item-10) ⭐️ 7.0/10
+11. [中国 AI 硬件出口激增：800G 以上光模块增长 100 倍](#item-11) ⭐️ 7.0/10
+12. [新 GPU 基础设施系列启动](#item-12) ⭐️ 7.0/10
+13. [Pybench：面向机器学习训练的统计回归测试工具](#item-13) ⭐️ 7.0/10
+14. [传闻：触屏 MacBook Pro 将搭载 M5 芯片，跳过 M6 Pro/Max](#item-14) ⭐️ 6.0/10
+15. [美国监管机构因 OTA 修复关闭特斯拉转向失效调查](#item-15) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenAI 发布 GPT-5.6 系列，三档模型并优化提示缓存](https://www.ithome.com/0/969/272.htm) ⭐️ 9.0/10
+## [DeepSeek 开源推理优化，生成速度提升 60-85%](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) ⭐️ 9.0/10
 
-OpenAI 于 2026 年 6 月 27 日发布 GPT-5.6 系列，包括旗舰版 Sol、均衡版 Terra 和快速版 Luna，并优化了提示缓存机制，新增 Max 和 Ultra 推理模式。应美国政府要求，初期仅向可信合作伙伴开放预览，计划数周内公开上线。 这是 OpenAI 首次推出多档模型系列，提供不同定价和能力，让开发者可根据工作负载选择经济高效的方案。优化的提示缓存降低了重复提示的成本，Sol 模型在编程基准测试中超越 Claude Mythos 5，达到业界领先水平。 GPT-5.6 Sol 每百万输入 token 收费 5 美元，每百万输出 token 收费 30 美元；Luna 则分别为 1 美元和 6 美元。Sol 在 Terminal-Bench 2.1 标准模式下得分 88.8%，Ultra 模式下达 91.9%；在 ExploitBench 中，仅用约三分之一的输出 token 即达到与 Mythos Preview 相近的表现。
+DeepSeek 与北京大学联合开源了 DSpark 推理加速框架，在同等吞吐量下，相比此前采用的 MTP-1 基线，单用户生成速度提升 60% 至 85%。该框架已部署于 DeepSeek-V4-Flash 和 DeepSeek-V4-Pro 的预览版服务引擎中。 此次发布展示了 DeepSeek 对开放性的承诺，可能促使其他 AI 实验室分享其优化技术。显著的加速降低了推理成本，有望让高质量 AI 更易获取且更便宜。 DSpark 结合了并行草稿模型（DFlash）和一种新颖的验证策略，该策略根据接受率自适应调整候选长度，减少了被拒绝 token 上的计算浪费。论文和训练代码已在 GitHub 上完全开源。
 
-rss · IT之家 · 6月26日 22:45
+hackernews · aurenvale · 6月27日 09:18 · [社区讨论](https://news.ycombinator.com/item?id=48696585)
 
-**背景**: OpenAI 的 GPT-5.6 系列采用拉丁语天文术语（Sol、Terra、Luna）命名，表示可独立迭代的能力层级。提示缓存存储注意力层中的键值投影，避免对重复前缀重新计算，从而降低延迟和成本。这种多档模型策略顺应了行业趋势，即提供商提供多种模型尺寸（如 GPT-4o mini、Claude Haiku）以满足不同使用场景。
+**背景**: 推测解码通过使用小型草稿模型生成多个候选 token，再由大型目标模型并行验证，从而加速 LLM 推理。该技术在不牺牲输出质量的前提下降低延迟。然而，现有方法在草稿质量和验证效率之间存在权衡，DSpark 旨在解决这一问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.explainx.ai/blog/gpt-5-6-release-date-features-benchmarks-2026">GPT-5.6 Sol, Terra & Luna: Pricing, Benchmarks & Access (2026 ...</a></li>
-<li><a href="https://www.digitalapplied.com/blog/gpt-5-6-sol-terra-luna-preview-guide-2026">GPT-5.6 Sol, Terra & Luna: OpenAI's New Model Family</a></li>
-<li><a href="https://fourweekmba.com/openai-gpt-5-6-sol-terra-luna-subagents-government/">OpenAI Launches GPT-5.6: Sol, Terra, and Luna - FourWeekMBA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Speculative_decoding">Speculative decoding</a></li>
+<li><a href="https://arxiv.org/abs/2211.17192">[2211.17192] Fast Inference from Transformers via Speculative Decoding</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#GPT-5.6`, `#AI model`, `#pricing`, `#announcement`
+**社区讨论**: 社区称赞 DeepSeek 的开放性，并将其与不再发布此类细节的美国实验室进行对比。一些用户推测这种优化解释了 DeepSeek 的低定价，并质疑竞争对手能否快速复制。还有人设想未来会有许多针对推测解码的专用小模型。
+
+**标签**: `#AI`, `#open-source`, `#inference optimization`, `#DeepSeek`, `#speculative decoding`
 
 ---
 
 <a id="item-2"></a>
-## [美国允许 Anthropic 向受信任组织发布 Mythos AI](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) ⭐️ 8.0/10
+## [OpenAI GPT-5.6 Sol/Terra/Luna 仅限可信合作伙伴使用](https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna) ⭐️ 8.0/10
 
-美国政府已批准 Anthropic 向超过 100 家受信任的美国组织（包括财富 500 强公司）发布其强大的 Mythos 5 AI 模型，此前因出口管制担忧迫使该公司禁用该模型。 这种选择性发布引发了重大的政策和竞争担忧，因为政府实际上在 AI 行业中挑选赢家，可能使未列入受信任名单的公司处于不利地位，并引发了关于此类决定合法性和公平性的辩论。 商务部长霍华德·卢特尼克亲自批准了发布，称已采取适当保障措施。该模型 Claude Mythos 5 专为网络安全漏洞发现而设计，此前根据出口管制指令已从所有用户中撤回。
+OpenAI 已通过 OpenAI 合作伙伴网络向可信合作伙伴独家发布 GPT-5.6 的三个分层版本——Sol、Terra 和 Luna，标志着从广泛公开发布转向受控的、合作伙伴驱动的部署策略。 此次受限发布标志着 OpenAI 的战略转向，优先考虑企业采用和实施而非原始模型能力，可能重塑尖端 AI 模型的商业化和部署方式。 三个层级——Sol（旗舰）、Terra（均衡）和 Luna（高容量）——提供不同的性能和定价水平，Sol 能力最强，Luna 针对成本效率优化。访问通过 OpenAI 合作伙伴网络进行控制，该网络包括 1.5 亿美元投资以认证 30 万名顾问。
 
-hackernews · bobrenjc93 · 6月26日 22:48 · [社区讨论](https://news.ycombinator.com/item?id=48692995)
+rss · Latent Space · 6月27日 05:23
 
-**背景**: Anthropic 是一家由前 OpenAI 成员创立的、专注于 AI 安全的公司，以其 Claude 系列大型语言模型而闻名。Mythos 5 是一个专门用于发现软件漏洞的模型，公司出于安全考虑未向公众发布。美国政府的出口管制政策旨在限制先进 AI 技术的获取，但此案显示了对国内实体的针对性例外。
+**背景**: OpenAI 的 GPT-5.6 是其大型语言模型的最新迭代，具备多智能体推理和改进的基准测试。2026 年 6 月启动的 OpenAI 合作伙伴网络旨在通过认证合作伙伴来部署和定制 OpenAI 模型，加速企业 AI 采用。这种分层发布策略对 OpenAI 来说是新颖的，此前该公司通过公共 API 或广泛预览提供模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mythos_(model)">Mythos (model)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://www.explainx.ai/blog/gpt-5-6-release-date-features-benchmarks-2026">GPT-5.6 Sol, Terra & Luna: Pricing, Benchmarks & Access (2026 ...</a></li>
+<li><a href="https://openai.com/index/introducing-openai-partner-network/">Introducing the OpenAI Partner Network</a></li>
+<li><a href="https://www.digitalapplied.com/blog/gpt-5-6-sol-terra-luna-preview-guide-2026">GPT-5.6 Sol, Terra & Luna: OpenAI's New Model Family</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论对政府在挑选赢家和输家方面的作用表示怀疑，一些人质疑商务部长的决定是否合法，以及未受信任的公司是否有资格起诉。其他人则认为这是 Anthropic 和政府为保持影响力而采取的战略举措。
-
-**标签**: `#AI policy`, `#Anthropic`, `#export control`, `#government regulation`, `#AI safety`
+**标签**: `#OpenAI`, `#GPT-5.6`, `#AI`, `#release strategy`, `#trusted partners`
 
 ---
 
 <a id="item-3"></a>
-## [AI 在数学中引发根本性问题](https://spectrum.ieee.org/ai-in-mathematics) ⭐️ 8.0/10
+## [新型钽合金在 2000°C 下强度翻倍，成果登《自然》](https://www.ithome.com/0/969/466.htm) ⭐️ 8.0/10
 
-IEEE Spectrum 上的一篇文章探讨了 AI，特别是大型语言模型和 Lean 等证明助手，如何迫使数学家重新审视证明、理解以及数学实践未来的本质。 这一讨论意义重大，因为 AI 在生成和验证证明中日益增长的作用可能将数学从纯粹的人类努力转变为一种人机混合学科，引发关于“理解”证明意味着什么的哲学问题。 文章重点介绍了 Lean 定理证明器，这是一种允许对数学证明进行形式化验证的证明助手，并指出 GPT-4 等 AI 系统可以生成形式化证明，但通常需要人类专家监督以确保正确性。
+西安交通大学研究人员开发出一种硼介导的氧化物弥散强化（B-ODS）钽合金，在 2000°C 下拉伸屈服强度达到 200 MPa，是传统钽合金的两倍。该成果于 2026 年 6 月 27 日发表在《自然》杂志上。 这一突破解决了对承受 2000°C 以上超高温结构材料的迫切需求，这对下一代航空航天部件（如火箭喷嘴和高超音速飞行器零件）至关重要。该合金兼具室温塑性和超高温强度，可为极端环境下的设计提供新可能。 B-ODS 钽合金在 2000°C 和 2400°C 下的拉伸屈服强度分别达到 200 MPa 和 100 MPa，室温抗拉强度超过 800 MPa，延伸率达 35%。与传统难熔合金相比，它还表现出更优异的抗蠕变性能，且在 100 MPa 载荷下的承温上限比现有钽合金高出约 500°C。
 
-hackernews · rbanffy · 6月26日 22:36 · [社区讨论](https://news.ycombinator.com/item?id=48692883)
+rss · IT之家 · 6月27日 10:22
 
-**背景**: 形式化证明是一系列可由计算机机械检查的逻辑步骤。像 Lean 这样的证明助手是帮助数学家编写和验证形式化证明的软件工具。AI 模型现在被用于自动化这一过程的某些部分，但其输出并不总是可靠的。
+**背景**: 钽具有高熔点（约 3000°C），但传统钽合金在超高温下强度不足。氧化物弥散强化（ODS）是通过在金属基体中弥散细小的氧化物颗粒来提高高温强度。该团队利用硼介导的原位氧化反应来控制氧化物颗粒的尺寸和分布，实现了均匀弥散，从而显著提升了性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Lean_theorem_prover">Lean theorem prover</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Formal_proof">Formal proof - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Oxide_dispersion-strengthened_alloy">Oxide dispersion-strengthened alloy - Wikipedia</a></li>
+<li><a href="https://www.nature.com/articles/s41586-026-10708-z">Ductile alloys offering 100 MPa tensile strength at 2,400 °C</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者就 AI 在数学中的作用展开了辩论，有人将数学家比作解读 AI 输出的“神谕祭司”，而另一些人则担心剩下的未解证明可能并不优雅。一条评论指出，即使是像陶哲轩这样的专家也需要判断 LLM 的正确性。
-
-**标签**: `#AI`, `#mathematics`, `#formal proof`, `#philosophy of science`, `#Lean`
+**标签**: `#materials science`, `#alloy`, `#high-temperature`, `#aerospace`, `#Nature`
 
 ---
 
 <a id="item-4"></a>
-## [科技记者 Om Malik 去世，享年 59 岁](https://daringfireball.net/2026/06/om) ⭐️ 8.0/10
+## [苹果寻求特朗普政府批准采购中国内存芯片](https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/) ⭐️ 7.0/10
 
-GigaOm 创始人、知名科技记者 Om Malik 于 2026 年 6 月 24 日去世，享年 59 岁。这一消息通过 Daring Fireball 的悼念文章和 Hacker News 的讨论被分享。 Malik 是科技新闻领域的先驱，创办了 GigaOm，并为《华尔街日报》等媒体撰稿。他的去世标志着一个受人尊敬的声音的消失，他曾深刻影响了科技新闻的报道方式。 Malik 还是 True Ventures 的合伙人，并著有《Broadbandits: Inside the $750 Billion Telecom Heist》一书。他最后一篇在重症监护室写就的文章于 2026 年 5 月发布在他的个人博客上。
-
-hackernews · throw0101a · 6月26日 23:33 · [社区讨论](https://news.ycombinator.com/item?id=48693391)
-
-**背景**: Om Malik 是印裔美国科技作家，于 2006 年创办了专注于新兴技术的媒体和分析公司 GigaOm。GigaOm 在 2015 年因财务困难被出售，但 Malik 继续写作和投资。他以深刻的评论和对互联网及电信行业的早期报道而闻名。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Om_Malik">Om Malik</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gigaom">Gigaom</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Hacker News 社区表达了深深的敬意，并分享了个人回忆，一位用户回忆起二十年前他在 The GigaOm Show 上的工作。另一位用户指出，Malik 在重症监护室写下的最后一篇文章尤其感人。整体情绪是钦佩和惋惜。
-
-**标签**: `#tech-community`, `#obituary`, `#journalism`, `#hacker-news`
-
----
-
-<a id="item-5"></a>
-## [DirtyClone Linux 漏洞（CVSS 8.8）可提权至 root](https://www.ithome.com/0/969/340.htm) ⭐️ 8.0/10
-
-JFrog 披露了一个名为 DirtyClone（CVE-2026-43503）的新 Linux 内核本地提权漏洞，CVSS 评分 8.8，允许无特权的本地用户获得完全 root 权限并可能实现容器逃逸。Ubuntu 已发布补丁，Debian 和 Red Hat 也在跟进修复。 该漏洞影响 Linux 内核——无数系统和云基础设施的核心，使拥有本地访问权限的攻击者能够获得完全 root 控制权甚至逃逸容器。系统管理员必须紧急打补丁以防止主机被攻陷。 该漏洞位于 XFRM/IPsec 子系统中，克隆的网络数据包可能破坏文件支持的内存，从而允许修改 root 拥有的只读文件。它与 DirtyFrag 属于同一漏洞家族，但利用了不同的代码路径，表明之前的修复并不完整。
-
-rss · IT之家 · 6月27日 04:51
-
-**背景**: 本地提权（LPE）漏洞允许拥有有限系统访问权限的攻击者获得更高权限，如 root 权限。容器逃逸是指攻击者突破隔离的容器环境以访问主机系统。CVSS 8.8 被视为高严重性，表明影响重大且易于利用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html">New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root ...</a></li>
-<li><a href="https://cybersecuritynews.com/dirtyclone-linux-vulnerability/">New DirtyClone Linux Vulnerability Allows Attackers to Gain ...</a></li>
-<li><a href="https://www.howtouselinux.com/post/dirtyclone-cve-2026-43503-what-it-is-and-how-to-patch-it">DirtyClone (CVE-2026-43503): What It Is and How to Patch It</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Linux`, `#security`, `#vulnerability`, `#privilege escalation`, `#kernel`
-
----
-
-<a id="item-6"></a>
-## [中国核聚变磁体重大突破：全球最大环向场磁体通过验收](https://www.ithome.com/0/969/318.htm) ⭐️ 8.0/10
-
-2026 年 6 月 27 日，中国宣布全球最大的聚变堆超导磁体——长 21 米、宽 12 米、高 3.3 米、重 582 吨的环向场磁体通过专家验收。同时，高温超导中心螺管线圈磁体完成满工况参数测试，核心性能达到国际领先水平。 这些突破展示了中国在聚变堆关键部件上的全链条国产化能力，极大提升了未来聚变电站的建造和运行能力。这些成就也使中国在超导磁体技术领域处于国际前沿，而超导磁体是约束聚变装置中等离子体的关键。 环向场磁体是全球尺寸最大的聚变堆超导磁体，其全链条关键环节均实现国产自主可控。高温超导中心螺管线圈磁体从超导材料到成套制备工艺也已完全国产化，性能领跑国际同类产品。
-
-rss · IT之家 · 6月27日 02:07
-
-**背景**: 核聚变旨在通过融合轻原子核来复制太阳的能量，需要极高温度和强磁场来约束等离子体。超导磁体在托卡马克装置中至关重要，用于产生这些磁场；环向场磁体产生主约束磁场，而中心螺管则驱动和塑造等离子体电流。中国的 CRAFT 设施（聚变堆主机关键系统综合研究设施）是开发这些关键系统的重大基础设施。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ithome.com/0/969/318.htm">我国核聚变堆超导磁体研发取得重要突破，全球最大环向场磁体完成验收 ...</a></li>
-<li><a href="https://www.163.com/dy/article/L0E1CA5V0534A4SC.html">我国核聚变堆超导磁体研发取得重要突破|线圈|新型高温超导体_网易订阅</a></li>
-<li><a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&item_id=17996905121461315672&channelId=1119">我国核聚变堆超导磁体研发取得重要突破</a></li>
-
-</ul>
-</details>
-
-**标签**: `#nuclear fusion`, `#superconducting magnet`, `#energy technology`, `#engineering breakthrough`
-
----
-
-<a id="item-7"></a>
-## [中国电信完成 6G 高/中轨卫星与地面协同组网试验](https://www.ithome.com/0/969/317.htm) ⭐️ 8.0/10
-
-中国电信与清华大学等单位合作，成功进行了面向 6G 的高轨与中轨卫星协同组网试验，实现了跨轨无缝切换，时延降低至 26 毫秒。 这一里程碑展示了实现 6G 泛在连接愿景的可行路径，通过卫星与地面网络融合，有望为未来移动通信提供低延迟的全球覆盖。 试验使用了 3.6 万公里高轨“亚洲 9 号”卫星和 2 万公里中轨“智慧天网 01 星”，高轨传输速率 7Mbps，中轨 140+Mbps。切换时延从 363 毫秒降至 26 毫秒，采用了基于时间的切换方案。
-
-rss · IT之家 · 6月27日 02:01
-
-**背景**: 6G 旨在融合地面与非地面网络（卫星）以实现无缝全球覆盖。高轨（GEO）卫星覆盖广但时延高，中轨（MEO）卫星时延更低、带宽更大。传统切换依赖信号强度测量，在卫星场景下因信号变化微弱而易出错。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ithome.com/0/969/317.htm">中国电信完成 6G 高 / 中轨卫星与地面协同组网试验，实现跨轨无缝切换...</a></li>
-<li><a href="https://www.sohu.com/a/954158692_482239">中国电信完成在轨卫星重要技术验证 6G天地一体组网抢占先机</a></li>
-<li><a href="https://baike.baidu.com/item/6G空天地海一体化网络/67440961">6G空天地海一体化网络 - 百度百科</a></li>
-
-</ul>
-</details>
-
-**标签**: `#6G`, `#satellite communication`, `#network integration`, `#telecommunications`, `#research`
-
----
-
-<a id="item-8"></a>
-## [苹果与塔塔调查供应链 630GB 数据泄露](https://www.ithome.com/0/969/286.htm) ⭐️ 8.0/10
-
-苹果公司与塔塔电子正在调查一起大规模数据泄露事件，涉及超过 20 万个文件，总计 630.4GB，据称由勒索软件组织 World Leaks 泄露。泄露数据据称包含苹果、特斯拉、台积电和高通的设计文件，但真实性尚未得到独立核实。 此次泄露凸显了大型科技公司面临的重大供应链安全风险，泄露数据可能暴露苹果、特斯拉、台积电和高通的敏感设计。苹果的积极参与和聘请取证审计师表明事件的严重性，可能导致整个电子制造供应链加强安全措施。 World Leaks 勒索软件组织于 2025 年 1 月作为 Hunters International 的 rebrand 出现，在暗网上发布了超过 204,341 个文件。塔塔电子已限制对敏感内部工具的远程访问，并聘请了一家全球顾问机构进行取证审计，苹果安全团队正在合作制定短期和长期应对措施。
-
-rss · IT之家 · 6月27日 00:15
-
-**背景**: 塔塔电子是苹果的关键供应商，生产精密电子元件，是苹果将供应链从中国分散化努力的一部分。World Leaks 组织专门从事数据盗窃和勒索而不加密，并与其他勒索软件运营合作共享泄露基础设施。供应链数据泄露可能暴露知识产权和商业机密，影响多个下游客户。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ransomware.live/group/worldleaks">Group: worldleaks - ransomware.live</a></li>
-<li><a href="https://www.tataelectronics.com/">Tata Electronics | Semiconductor Design, EMS, Fabrication, Assembly...</a></li>
-<li><a href="https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business">Data Breach Response: A Guide for Business | Federal Trade ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cybersecurity`, `#data breach`, `#supply chain`, `#Apple`, `#ransomware`
-
----
-
-<a id="item-9"></a>
-## [苹果寻求特朗普政府批准购买中国内存芯片](https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/) ⭐️ 7.0/10
-
-苹果正在游说特朗普政府，寻求获准从被五角大楼列入黑名单的中国公司长鑫存储技术（CXMT）购买内存芯片，以应对全球内存短缺和产品价格上涨。 此举凸显了苹果供应链需求与美中科技限制之间的紧张关系，可能为其他寻求黑名单豁免的公司开创先例。同时，它也凸显了影响消费电子产品价格的全球内存短缺的严重性。 CXMT 是一家中国 DRAM 制造商，因被指控与中国人民解放军有关联而被五角大楼列入黑名单。苹果正在寻求保证，以便能够从 CXMT 采购内存芯片而不会面临未来的限制，因为全球内存价格已大幅上涨。
+苹果正在游说特朗普政府，希望获得批准从被五角大楼列入黑名单的中国公司长鑫存储（CXMT）采购 DRAM 内存芯片，以应对全球内存供应短缺。 此举凸显了苹果供应链需求与美国地缘政治限制之间的紧张关系，可能为其他寻求从被制裁中国供应商处获得豁免的科技公司开创先例。 长鑫存储是中国主要的 DRAM 制造商，截至 2020 年采用 19 纳米工艺生产 LPDDR4 和 DDR4 内存，月产能 4 万片晶圆，到 2025 年底每季度产能达到 72 万片晶圆。
 
 rss · 9to5Mac · 6月27日 03:04
 
-**背景**: 全球内存供应短缺始于 2024 年，因人工智能对 DRAM 和 NAND 闪存的激增需求而加剧。这种短缺导致智能手机和服务器等产品价格上涨。作为内存芯片的主要消费者，苹果面临成本压力，正在探索替代供应商以减轻影响。
+**背景**: 五角大楼维持一份被视为国家安全威胁的中国公司黑名单，包括长鑫存储、中芯国际和长江存储。苹果产品严重依赖 DRAM，全球短缺导致价格上涨，促使该公司不顾地缘政治风险寻求替代来源。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.reuters.com/world/asia-pacific/apple-seeks-approval-buy-chips-blacklisted-chinese-company-ft-reports-2026-06-27/">Apple seeks approval to buy chips from blacklisted Chinese ...</a></li>
-<li><a href="https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/">Apple asks Trump admin to approve Chinese RAM after product ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CXMT">CXMT</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#supply chain`, `#US-China trade`, `#memory chips`, `#manufacturing`
+**标签**: `#Apple`, `#supply chain`, `#geopolitics`, `#memory chips`, `#Trump administration`
+
+---
+
+<a id="item-5"></a>
+## [UC 伯克利破译斑胸草雀 11 种核心叫声](https://www.ithome.com/0/969/452.htm) ⭐️ 7.0/10
+
+加州大学伯克利分校科学家朱莉·埃利博士利用机器学习破译了斑胸草雀的 11 种核心叫声及其含义，并因此获得 2026 年科勒-杜利特尔跨物种双向交流奖的 10 万美元奖金。 这一突破使人类更接近真正的跨物种交流，可能对生物声学、人工智能以及我们对动物认知的理解产生影响。 研究发现，斑胸草雀通过叫声介绍自己并传达正在做什么，每只鸟都有独特的声音特征。这些鸟有时会混淆含义相近的叫声而非声音相似的叫声，表明它们对叫声含义形成了心理表征。
+
+rss · IT之家 · 6月27日 09:54
+
+**背景**: 斑胸草雀是非常活跃的鸣禽，能产生大量声音数据，是研究动物交流的理想对象。科勒-杜利特尔挑战赛每年提供 10 万美元奖金，并为破解跨物种交流提供 1000 万美元大奖。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.berkeley.edu/2025/11/04/finch-chirps-are-more-than-mindless-chatter-they-actually-convey-meaning/">Finch chirps are more than mindless chatter. They actually ...</a></li>
+<li><a href="https://www.jeremycollerfoundation.org/news-and-insights/press-releases/10-million-prize-for-interspecies-two-way-communication-using-generative-ai-models-announced">$10 million prize for Interspecies Two-Way Communication ...</a></li>
+<li><a href="https://a-z-animals.com/articles/zebra-finch-calls-have-meaning-study-reveals/">Zebra Finch Calls Have Meaning, Study Reveals - A-Z Animals</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#bioacoustics`, `#animal communication`, `#research`
+
+---
+
+<a id="item-6"></a>
+## [本田 CEO 为近 70 年首亏道歉，获股东支持连任](https://www.ithome.com/0/969/409.htm) ⭐️ 7.0/10
+
+2026 年 6 月 27 日，本田 CEO 三部敏宏在年度股东大会上为公司近 70 年来首次年度净亏损道歉，亏损主因是超过 90 亿美元的纯电业务重组成本和战略失误。尽管遭到前高管批评，股东仍投票支持三部敏宏及其他所有董事候选人连任。 这标志着本田的历史性转折，凸显了电动化转型带来的严重财务压力以及中国车企日益激烈的竞争。CEO 得以留任表明股东仍有耐心，但公司面临紧迫压力，需修正纯电战略并减少对摩托车利润的依赖。 本田在截至 2026 年 3 月的财年录得 4143 亿日元（约 26.3 亿美元）营业亏损，为 1957 年上市以来首次年度亏损。纯电业务重组成本超过 90 亿美元，三部敏宏警告称，若继续原定纯电车型计划，汽车业务可能连续 5 至 7 年亏损。
+
+rss · IT之家 · 6月27日 08:32
+
+**背景**: 本田作为日本最大汽车制造商之一，长期凭借强大的摩托车业务和燃油经济性车型保持盈利。然而，其电动化转型起步晚且代价高昂，加上比亚迪等中国电动车企的激烈竞争，侵蚀了其市场份额和盈利能力。公司的纯电重组包括资产减记和取消原定北美车型计划。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/0/969/409.htm">本田 CEO 三部敏宏为公司近 70 年首亏道歉，赢得投资者支持 - IT之家</a></li>
+<li><a href="https://auto.gasgoo.com/news/202606/27I70463457C109.shtml">本 田 CEO 就公司年度亏损致歉 获股东支持连任董事-盖世汽车资讯</a></li>
+<li><a href="https://m.guancha.cn/qiche/2026_05_15_817159.shtml">上市 近 70 年 来 首 度 亏 损 ， 本 田 ：短期内完全淘汰燃油车不现实-观察者网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Honda`, `#automotive`, `#EV`, `#business strategy`, `#loss`
+
+---
+
+<a id="item-7"></a>
+## [AI 成本飙升，美国企业转向 DeepSeek](https://www.ithome.com/0/969/400.htm) ⭐️ 7.0/10
+
+美国企业越来越多地转向 DeepSeek 以控制飙升的 AI 成本，初创公司 Lindy 将其 100%的流量从 Anthropic 的 Claude 切换到 DeepSeek，预计将节省数百万美元。 这一转变凸显了从'tokenmaxxing'到'tokenminimizing'的更广泛行业趋势，企业优先考虑成本效率而非原始使用量，可能重塑 AI 模型市场。 Lindy 的 CEO Flo Crivello 表示，AI 账单已超过所有员工工资，切换到 DeepSeek 后成本出现'断崖式下跌'。其他公司如 Uber 将 AI 支出上限设为每月 1500 美元。
+
+rss · IT之家 · 6月27日 08:16
+
+**背景**: DeepSeek-V3 是一个 671B 参数的混合专家模型，每个 token 激活 37B 参数，以成本高效的训练和推理著称。'Tokenminimizing'指减少 token 使用以控制 AI 成本的做法，与早期的'tokenmaxxing'趋势形成对比。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3">deepseek-ai/DeepSeek-V3 · Hugging Face</a></li>
+<li><a href="https://www.thestateofai.com/news/meta-caps-employee-ai-usage">From Tokenmaxxing to Tokenminimizing: Meta Moves to Cap ...</a></li>
+<li><a href="https://thenextweb.com/news/tokenminimizing-companies-cap-employee-ai-spending">Tokenminimizing: firms cap staff AI use as bills bite - TNW</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#cost optimization`, `#DeepSeek`, `#enterprise AI`
+
+---
+
+<a id="item-8"></a>
+## [高通拟将数据中心芯片堆叠技术引入手机 SoC](https://www.ithome.com/0/969/371.htm) ⭐️ 7.0/10
+
+高通计划将其为数据中心设计的高带宽计算（HBC）架构适配到手机 SoC 中，以提升端侧 AI 性能。HBC 第一代产品预计明年在数据中心推出，2028 年实现商用。 将芯片堆叠技术引入智能手机可大幅提升 AI 处理效率，并支持全天候 AI 智能体运行而不会显著增加耗电。这标志着移动 AI 能力的潜在范式转变，缩小云端与端侧 AI 的差距。 HBC 架构将内存垂直堆叠在计算芯片之上，缩短数据传输距离并提升带宽。高通已与智能手机、PC 及汽车制造商就采用该技术展开洽谈。
+
+rss · IT之家 · 6月27日 07:27
+
+**背景**: 芯片堆叠（3D 集成）并非新概念，但此前主要用于数据中心和高性能计算领域。传统手机 SoC 采用平面设计以保持厚度。高通的此举旨在通过将内存靠近计算单元来突破限制 AI 性能的“内存墙”。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.semafor.com/article/06/26/2026/qualcomm-plans-new-chip-architecture-for-phones">Qualcomm plans new chip architecture for phones | Semafor</a></li>
+<li><a href="https://wccftech.com/qualcomm-hbc-stacks-compute-beneath-dram-to-smash-the-ai-memory-wall/">Qualcomm 's HBC Stacks Compute Beneath DRAM To Smash The AI...</a></li>
+<li><a href="https://www.partgenie.ai/insights/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more-9">Qualcomm Unveils Dragonfly C1000 CPU, AI Accelerators, and HBC...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Qualcomm`, `#chip stacking`, `#mobile AI`, `#SoC`, `#hardware`
+
+---
+
+<a id="item-9"></a>
+## [AI 需求推动功率半导体涨价](https://36kr.com/newsflashes/3871215128237313?f=rss) ⭐️ 7.0/10
+
+功率半导体厂商因 AI 相关电源订单激增而提价，部分供应商表示订单已超出产能。 此次涨价表明功率半导体正成为 AI 基础设施供应链的关键增长引擎，可能加速行业向领先 IDM 厂商集中。 需求来自 AI 算力集群对数据中心 800V HVDC 等高功率架构的需求，具备量产能力的厂商已获得多家头部客户订单。
+
+rss · 36氪 · 6月27日 09:23
+
+**背景**: 功率半导体用于管理和转换电子设备中的电能。IDM（集成器件制造）模式指公司同时负责设计和制造，对高质量功率芯片有利。数据中心向 800V HVDC 架构转变可提升效率，但需要先进的功率半导体。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://eu.36kr.com/en/p/3412636905540993">Next Stop for Data Centers: 800 V Power Supply !</a></li>
+<li><a href="https://www.digitimes.com/news/a20260126PD236/power-supply-efficiency-cloud-ai-technology.html">HVDC 800 V supply chain gains attention as cloud AI seeks better...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#power semiconductors`, `#AI infrastructure`, `#hardware`, `#supply chain`, `#data centers`
 
 ---
 
 <a id="item-10"></a>
-## [AI 前沿模型发布的经济压力](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) ⭐️ 7.0/10
+## [FTC 批准马斯克收购光模块初创公司 Mesh](https://36kr.com/newsflashes/3871125571802116?f=rss) ⭐️ 7.0/10
 
-Dean W. Ball 指出，前沿 AI 实验室面临巨大的经济压力，必须快速发布模型，因为大部分成本在发布后的几个月内收回；此外，大规模基础设施建设假设美国 AI 服务拥有全球市场。 这一分析凸显了 AI 开发中安全关切与经济现实之间的关键矛盾，并表明对 AI 模型的出口管制可能削弱被视为对美国经济至关重要的大规模基础设施投资的商业合理性。 Ball 指出，几个月后前沿模型会变成次前沿，竞争出现，利润空间压缩。他还引用前美国 AI 事务官 David Sacks 的话，称 AI 基础设施建设对美国经济至关重要，并认为没有人会建造价值 1000 亿美元的数据中心只为 100 家公司服务。
+美国联邦贸易委员会（FTC）于 2024 年 6 月 25 日批准了埃隆·马斯克对 Mesh Optical Technologies 的收购。Mesh 由前 SpaceX 工程师创立，生产用于服务器到 GPU 数据传输的 1.6Tbps 光收发器。 此次收购可能加速数据中心光互连的采用，降低 AI/ML 工作负载的延迟和能耗。同时，它增强了马斯克在高性能计算和网络基础设施领域的影响力。 Mesh 的核心产品 Alpha C1 光收发器采用倒装芯片键合工艺，数据传输速率达 1.6Tbps。该初创公司于 2024 年 2 月从隐身模式浮出水面，完成了由 Thrive Capital 领投的 5000 万美元 A 轮融资。
 
-rss · Simon Willison · 6月26日 22:25
+rss · 36氪 · 6月27日 07:52
 
-**背景**: 前沿模型是任何特定时间最先进的 AI 模型，在庞大数据集上训练，训练成本高达数亿美元。AI 基础设施建设指的是对数据中心和计算能力的大规模投资，有人将其比作历史上最大的基础设施建设。总可寻址市场（TAM）是指产品或服务可获得的全部收入机会。
+**背景**: 光收发器利用光信号而非铜缆传输数据，具有更高带宽和更低功耗。倒装芯片键合是一种半导体封装技术，将 IC 芯片直接键合到基板上，提升电气性能。三位创始人此前在 SpaceX 参与设计了星链卫星激光星间链路系统，该系统利用激光在卫星间通信。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aiwiki.ai/wiki/frontier_models">Frontier models - AI Wiki</a></li>
-<li><a href="https://www.nvidia.com/en-us/glossary/frontier-models/">What Are Frontier AI Models and How They Work - NVIDIA</a></li>
-<li><a href="https://www.vaneck.com/offshore/en/news-and-insights/blogs/thematic-investing/ai-infrastructure-why-buildout-matters-more-than-apps/">AI Infrastructure: Why Buildout Matters More Than Apps | VanEck Americas Offshore</a></li>
+<li><a href="https://www.tradingview.com/news/reuters.com,2024-11-19:newsml_GNXc9DFjr:0-tower-semiconductor-begins-production-of-1-6tbps-optical-transceivers-on-its-latest-silicon-photonics-platform/">Tower Semiconductor Begins Production of 1 . 6 Tbps Optical ...</a></li>
+<li><a href="https://www.pcbaaa.com/flip-chip-bonding/">Flip chip bonding - a complete guide - IBE Electronics</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Laser_communication_in_space">Laser communication in space - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI economics`, `#frontier models`, `#AI infrastructure`, `#industry dynamics`
+**标签**: `#acquisition`, `#optical interconnects`, `#data center`, `#AI hardware`, `#networking`
 
 ---
 
 <a id="item-11"></a>
-## [理想追赶特斯拉 FSD V14 之路](https://36kr.com/p/3870292939658242?f=rss) ⭐️ 7.0/10
+## [中国 AI 硬件出口激增：800G 以上光模块增长 100 倍](https://36kr.com/newsflashes/3871102147908867?f=rss) ⭐️ 7.0/10
 
-理想汽车的自动驾驶和芯片负责人详细阐述了在 2026 年第四季度前追赶特斯拉 FSD V14 所需弥补的技术差距，重点涉及模型架构、数据质量、计算基础设施以及自研马赫 M100 芯片的集成。 这揭示了一家中国主要电动汽车制造商如何计划缩小与特斯拉行业领先的全自动驾驶系统的差距，突显了从硬件竞争向模型、数据、计算和芯片闭环系统的战略转变。 理想的马赫 VLA 模型集成了视觉、语言和动作，马赫 M100 芯片采用数据流架构以降低带宽需求。该公司目标是打造一个车内 AI 计算中心，所有 AI 任务共享统一的 token 服务器。
+2025 年前五个月，中国机电产品出口额达 7.58 万亿元，占出口总值的 63.6%。一家武汉企业 800G 及以上光模块出口同比增长超过 100 倍。 这一爆发式增长凸显了全球对 AI 基础设施的旺盛需求，AI 相关硬件目前贡献了中国机电产品出口增量的 50%以上，标志着中国在全球 AI 供应链中的地位日益增强。 800G 光模块是 AI 数据中心高速数据传输的关键，每个模块支持高达 800 Gbps 的速率。该企业生产线 24 小时不间断运行以满足需求，反映了全球算力基础设施的快速扩张。
 
-rss · 36氪 · 6月26日 23:30
+rss · 36氪 · 6月27日 07:28
 
-**背景**: 特斯拉 FSD V14 是自动驾驶的标杆，利用端到端神经网络、大规模数据和定制 Dojo 超级计算机。理想的马赫 M100 是一款 5nm 数据流 AI 芯片，提供 1280 TOPS 算力，专为高效推理设计。VLA（视觉-语言-行为）模型结合了视觉感知、语言推理和行为控制，而世界模型则模拟驾驶环境用于规划。
+**背景**: 光模块将电信号转换为光信号用于光纤通信，是高带宽数据中心的关键组件。800G 模块代表最新一代，容量是 400G 模块的两倍。AI 模型训练和推理的激增推动了对这种高速互连的庞大需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://autotech.news/li-auto-claims-worlds-first-dataflow-ai-chip/">Livis Day: Li Auto Claims World’s First Dataflow AI Chip ...</a></li>
-<li><a href="https://arxiv.org/abs/2604.17862">[2604.17862] M100: An Orchestrated Dataflow Architecture ... M100: An Orchestrated Dataflow Architecture Powering General ... Images Li Auto's Livis Day: Mach M100 Chip, Mind-4 Models, and the ... Li Auto’s M100 Chip Signals China EV AI Leap Li Auto’s Mach M100 Dataflow Chip Hits 1280 TOPS, Outperforms ... Li Auto Unveils World’s First Dynamic Dataflow AI Chip, Mach M100</a></li>
-<li><a href="https://arxiv.org/abs/2512.16760">[2512.16760] Vision-Language-Action Models for Autonomous ...</a></li>
+<li><a href="https://cloudswit.ch/blogs/800g-optical-modules-everything-need-to-know/">800G Optical Modules Explained: Standards, Types & Use Cases</a></li>
+<li><a href="https://www.cisco.com/c/dam/en/us/products/interfaces-modules/transceiver-modules/white-paper-sp-800g-client-optics-data-center.pdf">800G Client Optics in the Data Center - Cisco</a></li>
 
 </ul>
 </details>
 
-**标签**: `#autonomous driving`, `#Tesla FSD`, `#Li Auto`, `#self-driving chips`, `#AI infrastructure`
+**标签**: `#AI infrastructure`, `#optical modules`, `#export growth`, `#hardware`, `#China`
 
 ---
 
 <a id="item-12"></a>
-## [乔安娜·斯特恩的书籍在 Apple Books 上遭遇 AI 仿冒品](https://9to5mac.com/2026/06/26/ai-generated-knockoffs-of-joanna-sterns-book-keep-appearing-on-apple-books/) ⭐️ 6.0/10
+## [新 GPU 基础设施系列启动](https://www.reddit.com/r/MachineLearning/comments/1ugvyz1/kicking_off_gpu_mode_d/) ⭐️ 7.0/10
 
-《我不是机器人》的作者乔安娜·斯特恩在 YouTube Shorts 视频中公开指责苹果公司，未能持续移除 Apple Books 上其书籍的 AI 生成仿冒品。 这一事件凸显了平台在 AI 生成内容审核方面的持续弱点，影响了作者的生计和数字市场的信任。 尽管斯特恩要求删除，仿冒品仍反复出现，表明苹果的检测和移除流程不足以应对 AI 生成的假冒内容。
+一位 Reddit 用户宣布启动一个新系列，记录其在 GPU 基础设施、大语言模型和计算机视觉方面的工作，首篇帖子讨论了 GPU 的核心地位及 CPU/GPU 的划分，并承诺未来将深入探讨架构差异（Ampere vs. Hopper vs. Blackwell）、寄存器压力以及 TMA 和 wgmma 等异步内存范式。 该系列涉及对高性能机器学习工作负载至关重要的高级 GPU 优化主题，其社区驱动的形式有助于从业者跟上不断发展的硬件和软件技术。 该系列将涵盖 NVIDIA Ampere、Hopper 和 Blackwell 之间的经验性架构差异，处理自定义 CUDA 内核中寄存器压力的技术，以及包括张量内存加速器（TMA）和线程束组矩阵乘累加（wgmma）在内的异步内存范式。
 
-rss · 9to5Mac · 6月26日 22:36
+reddit · r/MachineLearning · /u/Positive_Canary1723 · 6月27日 07:15
 
-**背景**: Apple Books 允许作者直接自助出版，但平台依赖自动和人工审核来防止版权侵权。AI 生成的文本可以高度模仿原作，使检测变得困难。乔安娜·斯特恩的《我不是机器人》记录了她一年内在日常生活中使用 AI 的实验，因此 AI 生成的仿冒品显得尤为讽刺。
+**背景**: GPU 编程已成为深度学习的关键，NVIDIA 的 CUDA 平台是主导框架。现代 GPU 架构如 Ampere、Hopper 和 Blackwell 引入了张量核心和异步内存操作等新特性，需要仔细优化。当内核使用的寄存器超过可用数量时，会发生寄存器压力，导致数据溢出到较慢的内存。TMA 和 wgmma 是 Hopper 及后续架构中的高级特性，可实现高效的数据移动和矩阵乘法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://9to5mac.com/2026/06/26/ai-generated-knockoffs-of-joanna-sterns-book-keep-appearing-on-apple-books/">AI -generated knockoffs of Joanna Stern ’s book keep... - 9to5Mac</a></li>
+<li><a href="https://intuitionlabs.ai/articles/blackwell-vs-hopper-gpu-architecture-comparison">Blackwell vs Hopper : A Deep Dive GPU Architecture ... | IntuitionLabs</a></li>
+<li><a href="https://blog.paperspace.com/a100-v-h100/">Exploring the Evolution of GPUs: NVIDIA Hopper vs . Ampere ...</a></li>
+<li><a href="https://medium.com/the-synaptic-stack/tma-how-tensor-memory-accelerator-is-supercharging-ai-kernels-2ffbc3fb5e63">TMA : How Tensor Memory Accelerator is Supercharging AI... | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI-generated content`, `#Apple Books`, `#copyright`, `#platform moderation`
+**标签**: `#GPU`, `#CUDA`, `#Kernel Optimization`, `#Systems Programming`, `#Machine Learning`
 
 ---
 
 <a id="item-13"></a>
-## [G7 易流发布货运行业首款穿戴式 AI 硬件“拍拍豆”](https://36kr.com/p/3869740772316162?f=rss) ⭐️ 6.0/10
+## [Pybench：面向机器学习训练的统计回归测试工具](https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/) ⭐️ 7.0/10
 
-2026 年 6 月 25 日，G7 易流发布了货运行业首款穿戴式 AI 硬件“拍拍豆”，该设备仅重 30 克，采用磁吸设计，可自动录制货物交接过程。 该产品填补了物流交付“最后两米”的数字化空白，将 AI 应用从车上延伸到车下，有助于减少纠纷并实现交付质量的实时管控。 设备取下底座即自动开始录制，放回后自动上传云端，并支持通过“卸货”“签收”等语音指令进行 AI 标签分类。此外，它还开放 API 和 Skill 能力，可集成到企业自有系统。
+一款名为 pybench 的新开源工具发布，它像 pytest 一样工作，但用于机器学习训练指标的统计回归测试，自动管理随机种子和基线。 这解决了机器学习可复现性中的一个常见痛点，通过提供简单的命令行界面来检测训练指标中的静默回归，帮助从业者及早发现非预期的变化。 Pybench 使用 benchmarks/ 目录，在固定随机种子上运行，统计比较结果，并支持如 'pybench update' 等命令以在有意更改后重新建立基线。
 
-rss · 36氪 · 6月27日 01:40
+reddit · r/MachineLearning · /u/SpecificPark2594 · 6月27日 06:33
 
-**背景**: G7 易流是中国领先的货运物联网平台，此前已推出用于车内监控的 AI 主机“紫宝盒”。传统物流数字化主要关注驾驶行为和货物状态，但车下交接环节仍是非结构化的，难以追溯。
+**背景**: 在机器学习中，训练过程涉及来自随机种子和超参数的随机性，使得难以检测代码更改是否静默地降低了性能。统计回归测试通过比较多次运行的指标来标记显著偏差，类似于 pytest 捕获功能错误的方式。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://36kr.com/p/3869740772316162">G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后...</a></li>
-<li><a href="https://news.qq.com/rain/a/20260626A0771L00">G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”，从车上到车下重构品质...</a></li>
-<li><a href="https://eu.36kr.com/zh/p/3869740772316162">G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”，填平物流交付“最后两米...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI hardware`, `#logistics`, `#wearable technology`, `#supply chain`
+**标签**: `#machine learning`, `#testing`, `#reproducibility`, `#open source`, `#python`
 
 ---
 
 <a id="item-14"></a>
-## [美联储卡什卡里警告通胀广泛，或需加息](https://36kr.com/newsflashes/3870761159152903?f=rss) ⭐️ 6.0/10
+## [传闻：触屏 MacBook Pro 将搭载 M5 芯片，跳过 M6 Pro/Max](https://36kr.com/newsflashes/3871135669048322?f=rss) ⭐️ 6.0/10
 
-明尼阿波利斯联储行长尼尔·卡什卡里 6 月 27 日表示，出现广泛通胀迹象，促使他在美联储最新经济预测中预计今年将加息一次。 这表明部分美联储官员认为通胀更加持久和广泛，可能导致进一步收紧政策，从而影响借贷成本和经济增长。 卡什卡里在阿斯彭思想节上发言，指出通胀在年初出现降温迹象后，过去三个月大幅上升。美联储点阵图显示，19 名官员中有 9 人预计今年至少加息一次。
+据科技记者马克·古尔曼报道，苹果传闻中的触屏 MacBook Pro 将在今年晚些时候或 2027 年初发布，搭载 M5 Pro 和 M5 Max 芯片，并完全跳过 M6 Pro 和 M6 Max 两代芯片。 这一传闻表明苹果因内存成本压力正在调整其芯片路线图，可能加速面向 AI 的 M7 芯片的推出，同时推迟触屏 MacBook Pro 的上市时间。 据称苹果将完全跳过 M6 Pro 和 M6 Max 芯片，高端型号直接从 M5 过渡到 M7，这一决定与内存短缺和成本上升有关，苹果已因此上调了 Mac 和 iPad 产品的售价。
 
-rss · 36氪 · 6月27日 01:41
+rss · 36氪 · 6月27日 08:02
 
-**背景**: 美联储使用联邦基金利率来影响通胀和就业。点阵图是 FOMC 成员个人利率预测的图表，每季度发布一次。阿斯彭思想节是一个年度会议，领导者在此讨论全球问题。
+**背景**: 苹果 M 系列芯片是基于 ARM 架构的系统级芯片，集成了 CPU、GPU 和统一内存。M5 Pro 和 M5 Max 拥有最多 18 核 CPU 和 20 核 GPU，支持硬件加速光线追踪。据报道，苹果多年来一直在开发触屏 MacBook Pro，但尚未确认其发布。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Aspen_Ideas_Festival">Aspen Ideas Festival</a></li>
-<li><a href="https://www.tradingkey.com/zh-hans/analysis/economic/central-banks/261973911-fed-federal-fomc-2-economic-projections-decision-rates-tradingkey">6月美联储决议落地：维持利率不变但点阵图大幅上调，9人赞成2026年继...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apple_M5">Apple M5 - Wikipedia</a></li>
+<li><a href="https://www.macworld.com/article/3177046/report-apple-to-skip-m6-pro-max-chips-fast-track-m7-for-local-ai.html">Report: Apple to skip M 6 Pro / Max chips , fast-track M7 for... | Macworld</a></li>
+<li><a href="https://www.cultofmac.com/news/apple-plans-to-skip-m6-pro-and-max-chips-fast-track-ai-focused-m7-line">Apple will skip M 6 Pro and Max chips | Cult of Mac</a></li>
 
 </ul>
 </details>
 
-**标签**: `#economics`, `#inflation`, `#federal-reserve`, `#monetary-policy`
+**标签**: `#Apple`, `#MacBook`, `#M5 chip`, `#rumor`, `#hardware`
 
 ---
 
 <a id="item-15"></a>
-## [ASIC 与 GPU：AI 硬件对决](https://seekingalpha.com/article/4918212-asic-gpu-standoff?source=feed_all_articles) ⭐️ 6.0/10
+## [美国监管机构因 OTA 修复关闭特斯拉转向失效调查](https://36kr.com/newsflashes/3871127099315202?f=rss) ⭐️ 6.0/10
 
-Seeking Alpha 上的一篇分析文章探讨了 ASIC 与 GPU 在 AI 硬件市场的竞争态势，指出专用芯片正日益挑战英伟达 GPU 的主导地位。 这很重要，因为 ASIC 与 GPU 的对峙结果将影响 AI 基础设施的成本、性能，以及英伟达、博通和超大规模云厂商等芯片制造商之间的权力平衡。 文章将 AI 硬件发展类比于比特币挖矿的 ASIC 化，指出随着 AI 工作负载标准化为矩阵乘法等运算，GPU 的灵活性反而成为昂贵的负担。预计 2026 年定制 ASIC 出货量将同比增长 44.6%，占 AI 服务器出货量的 27.8%。
+美国国家公路交通安全管理局（NHTSA）关闭了对 2023 款特斯拉 Model 3 和 Model Y 电子助力转向失效问题的工程分析调查，此前特斯拉已发起召回并通过 OTA 空中升级推送了软件版本 2023.38.4 修复了该问题。 此次调查关闭证明了 OTA 更新在解决车辆安全缺陷方面的有效性，无需物理维修，为监管机构未来处理类似基于软件的修复树立了先例。 转向 ECU 的电机驱动组件存在过压击穿风险，可能导致电子助力转向失效。特斯拉自 2023 年 10 月起开始推送修复，NHTSA 指出更新后相关投诉数量明显下降。
 
-rss · Seeking Alpha · 6月27日 05:15
+rss · 36氪 · 6月27日 07:54
 
-**背景**: GPU 最初为图形渲染设计，因其并行处理能力而被用于 AI。ASIC 是为特定任务优化的定制芯片，效率更高但灵活性较低。AI 行业正经历类似比特币挖矿的演变，推理工作负载逐渐转向 ASIC。
+**背景**: OTA（空中升级）允许汽车制造商远程更新车辆软件，类似于智能手机更新。NHTSA 调查安全缺陷并可强制召回；此案例展示了 OTA 如何高效修复问题，无需车主前往经销商。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ainewshub.org/post/ai-inference-costs-tpu-vs-gpu-2025">AI Inference Costs 2025: Why Google TPUs Beat Nvidia GPUs by 4x</a></li>
-<li><a href="https://www.linkedin.com/pulse/asic-fication-ai-history-repeat-bitcoin-mining-ashutosh-jain-z4bpc">ASIC -fication of # AI is history repeat of #bitcoin mining</a></li>
-<li><a href="https://anysilicon.com/artificial-intelligence-ai-in-asic-soc-design-today-and-future/">Artificial Intelligence (AI) in ASIC/SoC Design Today and ... AiEDA: Agentic AI Design Framework for Digital ASIC System Design Images Top Stories The custom AI ASIC state of play (May 2026) — Broadcom deals ... Broadcom & Marvell: AI ASIC Design Partners - hashrateindex.com [2412.09745] AiEDA: Agentic AI Design Framework for Digital ... ChipAgents: The Agentic AI Chip Design Environment</a></li>
+<li><a href="https://theevreport.com/nhtsa-closes-tesla-power-steering-investigation">NHTSA Closes Tesla Power - Steering Loss... - The EV Report</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Over-the-air_update">Over -the- air update - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ASIC`, `#GPU`, `#AI hardware`, `#semiconductors`
+**标签**: `#Tesla`, `#NHTSA`, `#automotive safety`, `#OTA update`, `#recall`
 
 ---
