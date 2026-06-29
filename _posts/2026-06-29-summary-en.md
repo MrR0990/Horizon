@@ -5,7 +5,7 @@ date: 2026-06-29
 lang: en
 ---
 
-> From 205 items, 34 important content pieces were selected
+> From 262 items, 33 important content pieces were selected
 
 ---
 
@@ -13,33 +13,33 @@ lang: en
 
 ## 🔭 Unknown Unknowns
 
-- [Anthropocene rocks blur natural-artificial boundary](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [Organized Violence as a Trade](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 9.0/10
 
-  > John MacDonald's essay on Aeon explores how human-made materials are creating new types of rocks that challenge traditional geological categories, introducing the concept of 'technofossils' and the Anthropocene. This perspective opens a genuinely new field—anthropogenic geology—that redefines what counts as a rock and forces geologists to consider human activity as a geological force, with implications for how we understand Earth's future strata. The essay highlights that these strange new rocks are neither fully natural nor artificial, stretching the boundaries of geology. Examples include plastics, concrete, and other technofossils that will persist in the geological record for millions of years.
+  > Raúl Zepeda Gil's essay reframes organized violence as a trade, arguing that societies depend on 'violence specialists' in both legal and illegal contexts. This perspective challenges common assumptions about violence workers, offering a sociological lens that can inform policy and public understanding of organized crime and state violence. The essay draws on sociology and criminology to explore why individuals choose careers in organized violence, treating legal and illegal violence as part of a continuum.
 
-- [The No-Human Future: Nick Land's Accelerationism](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Human-Made Rocks Redefine Geology](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > An Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which envisions a future where technology and capitalism drive humanity toward obsolescence. This essay introduces accelerationism, a radical philosophical movement that challenges assumptions about technology, capitalism, and human agency, opening new intellectual territory for tech professionals unfamiliar with continental philosophy. The essay examines Land's dark vision of a post-human future, where the 'technocapital singularity' renders humanity obsolete. Land's work also contributes to the Dark Enlightenment, viewing democratic policies as merely delaying acceleration.
+  > The essay explores the emergence of strange new rocks like plastiglomerates and technofossils, which are formed by human activity and blur the line between natural and artificial, defining a new geological epoch called the Anthropocene. This challenges traditional boundaries of geology and forces us to reconsider what is natural, highlighting humanity's permanent impact on Earth's geological record. Plastiglomerates form when plastic debris melts and fuses with natural materials like sand and rock, potentially surviving as future fossils. Technofossils include mineralized traces of human technologies, from ancient tools to modern infrastructure.
 
-- [Polyvagal Theory: The Neurobiology of Connection and Repair](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [Nick Land's Accelerationism: The No-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > A new essay explores how polyvagal theory explains the autonomic nervous system's role in shaping social connection, rupture, and repair, emphasizing that 'story follows state.' This framework bridges neuroscience, psychology, and interpersonal dynamics, offering a paradigm-shifting lens for understanding human behavior that most tech professionals have never encountered. Polyvagal theory, introduced by Stephen Porges in 1994, proposes that the vagus nerve has two distinct branches—ventral vagal (social engagement) and dorsal vagal (immobilization)—beyond the traditional sympathetic/parasympathetic split.
+  > An Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which argues that technological and capitalist acceleration will inevitably lead to a post-human future, and examines its influence on both terrorists and tech elites. This essay introduces a radical critique of technology and capitalism that challenges assumptions about human agency, offering tech professionals a new lens to understand the ideological undercurrents shaping Silicon Valley and extremist movements. Nick Land, an English philosopher, popularized accelerationism, which calls for accelerating capitalist processes to bring about radical social transformation. The essay highlights how Land's ideas have been adopted by both far-right terrorists and Silicon Valley transhumanists.
 
-- [Organized Violence as a Trade](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 8.0/10
+- [Polyvagal Theory: The Biology of Social Bonds](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > Raúl Zepeda Gil's essay on Aeon examines organized violence as a legitimate trade, analyzing the economic and social incentives that lead individuals to become violence workers. This perspective challenges conventional moral frameworks and offers a fresh sociological lens for understanding why people choose careers in organized violence, with implications for criminology and policy. The essay draws on sociology and criminology to explore the labor market for violence, arguing that violence workers are rational actors responding to structural conditions.
+  > A new essay on The Marginalian explores polyvagal theory, revealing how the nervous system governs social connection, rupture, and repair through the vagus nerve's dual branches. This framework shifts the understanding of human interaction from cognitive to embodied, offering insights for trauma therapy, relationship repair, and mental health. Polyvagal theory, introduced by Stephen Porges in 1994, proposes a ventral vagal system for social engagement and a dorsal vagal system for immobilization, but it faces criticism from neuroanatomists and evolutionary biologists.
 
 ---
 
 ## 🧬 Human Nature & Behavior
 
-- [Care Externalities: Emotional Investment as a Hidden Cost](https://www.lesswrong.com/posts/vbduAfarootZidZe7/care-externalities) ⭐️ 9.0/10
+- [Care Externalities: A Hidden Cost of Caring](https://www.lesswrong.com/posts/vbduAfarootZidZe7/care-externalities) ⭐️ 9.0/10
 
-  > A LessWrong post identifies that personal decisions create significant externalities through the emotional investment of family and friends, comparable to environmental externalities like air pollution. This insight extends economic externality theory to social relationships, highlighting that personal life choices have broad, unaccounted emotional impacts on others, which could influence policy and personal decision-making. The author estimates that the unaccounted emotional effects from a person's private decisions, given the care of numerous family and friends, may be at least comparable to marginal contributions to air pollution, city density, or traffic congestion.
+  > The article introduces the concept of 'care externalities'—the unaccounted-for effects that an individual's personal decisions have on others who care about them, arguing these may be as significant as environmental externalities like pollution. This idea challenges conventional economic and behavioral models by highlighting a pervasive yet overlooked source of externalities, potentially reshaping how we understand decision-making, social welfare, and policy design. The author suggests that for an average person, the unaccounted effects on family and friends from private life choices might be comparable to those from contributing to air pollution or traffic congestion.
 
-- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [RL on Forecasting Could Create Superhuman Forecasters](https://www.lesswrong.com/posts/pQLQ5GMjQP7qKb7HS/reinforcement-learning-on-forecasting-can-give-us-a) ⭐️ 8.0/10
 
-  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling loved requires being known by another person, based on decades of relationship science. They identify five common misconceptions about love that prevent people from feeling loved. This insight bridges happiness research and relationship science, offering a evidence-based answer to what makes people happy. It challenges pop psychology clichés and provides practical guidance for improving emotional intimacy. The article is adapted from their upcoming book 'How to Feel Loved' and draws on a survey of nearly 2,000 American adults. Many respondents struggled to identify actions that make them feel loved, suggesting a gap between desire and know-how.
+  > A LessWrong post proposes applying reinforcement learning (RL) to forecasting, similar to how DeepSeek R1 improved LLMs on coding and math, to achieve superhuman forecasting performance. The author outlines a scalable method where the model performs tool calls to gather live internet information within the RL environment. A superhuman forecaster would enable individuals and organizations to make superior decisions by predicting outcomes, potentially boosting civilization's overall competence. This approach extends RL beyond deterministic domains like math to probabilistic real-world forecasting, which has broad practical implications. The author notes that a simpler approach—separating context gathering from forecasting—hits a performance plateau bottlenecked by the pregenerated context summary. To overcome this, the proposed method allows the model to perform tool calls to access live internet data within the RL environment, even though questions have already resolved.
 
 ---
 
@@ -47,383 +47,372 @@ lang: en
 
 - [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets and $75k annual royalty income, only to be called a 'loser' by his wife for spending his days playing video games while high on edibles, has sparked a discussion on the emptiness of financial independence without purpose. This story challenges the FIRE movement's assumption that financial independence alone leads to fulfillment, highlighting that purpose and contribution to others are crucial for long-term happiness and relationship satisfaction. The man has $2 million liquid, $650k in retirement, and $75k annual royalty income, earning $125k/year from assets, while his wife works as a school teacher providing healthcare. He spends his days playing GTA on THC edibles, which his wife finds unattractive despite his financial contributions.
+  > A viral Reddit post about a 41-year-old man who retired early with $2M in liquid assets but spends his days playing video games while high on THC edibles has sparked a discussion on the emptiness of financial independence without purpose. The article argues that being useful and engaged is more attractive than mere wealth. This challenges the common assumption that wealth alone is attractive, highlighting the importance of purpose and ambition in relationships and life satisfaction. It underscores a timeless insight about compounding life capital beyond money. The man has $2M liquid, $650k in retirement, and $75k/year royalty income, making $125k/year from assets. His wife called him a 'loser' for being stoned and playing GTA daily, despite his financial contributions.
 
-- [Poorer Students Earn 7% Less Despite Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [Poorer Students Earn 7% Less Even with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than wealthier peers a decade after graduation, even when they earned the same degree from the same university with the same grades. This reveals that socioeconomic background continues to affect earnings beyond education, highlighting the role of social capital and networks in perpetuating inequality. The earnings gap persists even after controlling for university type, degree, and grades, and is attributed to differences in social capital and professional networks rather than academic ability.
+  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than their wealthier peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This finding challenges the assumption that higher education equalizes opportunities, revealing that socioeconomic background creates persistent earnings gaps that compound over time, affecting meritocracy and social mobility. The earnings gap persists even after controlling for university selectivity, degree subject, and grades. The slope of parental income versus child income is 0.095 for non-elite four-year colleges, compared to 0.288 nationally, indicating that while college attendance reduces inequality, it does not eliminate it.
 
 ---
 
 ## 🧠 AI Learning
 
-- [Context Windows ≠ Memory: Key Insight for AI Agents](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [Context Windows Are Not Memory: AI Agent Developers Need to Know](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > A new article from MachineLearningMastery.com clarifies that large context windows in LLMs are not equivalent to agent memory, and introduces techniques like retrieval and compression for effective memory management. This distinction is crucial for AI agent developers because relying solely on context windows leads to poor long-term performance and high costs. Proper memory architectures, such as RAG, enable agents to maintain coherent, scalable interactions over time. The article highlights that context windows are limited in size and do not persist across sessions, whereas agent memory requires external storage and retrieval mechanisms. Techniques like retrieval augmented generation (RAG) and memory compression are recommended for building robust agent memory.
+  > An article explains that large context windows in LLMs are not equivalent to agent memory, and introduces techniques like retrieval-augmented generation (RAG) and context compression for effective memory management. This distinction is critical for AI agent developers because conflating context windows with memory leads to agent failures in long-running tasks. Proper memory management improves reliability and scalability of AI agents. The article highlights that context windows handle in-call reasoning like RAM, while memory layers handle session continuity like a hard drive. Techniques such as RAG and compression are presented as solutions for persistent memory.
 
-- [Clustering Unstructured Text with LLM Embeddings and HDBSCAN](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [Building Robust Leverage Function for SLV Models](https://pub.towardsai.net/how-to-build-a-robust-leverage-function-for-stochastic-local-volatility-models-192d59934248?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > A tutorial demonstrates how to cluster unstructured text by combining LLM embeddings with the HDBSCAN algorithm, providing step-by-step implementation and code examples. This approach enables effective text clustering without requiring labeled data, making it valuable for tasks like topic discovery and document organization in the era of generative AI. The tutorial uses LLM embeddings to convert text into dense vectors, then applies HDBSCAN, which can handle clusters of varying densities and does not require specifying the number of clusters in advance.
+  > The article presents a practical numerical implementation of a robust leverage function for stochastic local volatility (SLV) models using Monte Carlo simulation. This work provides quantitative finance practitioners with a reliable method to calibrate SLV models, which are widely used for pricing exotic options and managing volatility risk. The leverage function is derived from the ratio of local volatility to stochastic volatility, and the Monte Carlo approach ensures numerical stability and accuracy even in challenging market conditions.
 
-- [AI Agents Need a Control Plane for Execution Safety](https://pub.towardsai.net/ai-agents-need-a-control-plane-before-they-touch-critical-systems-48397e1d254d?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [SkillOpt: Self-Evolving Agent Skills via Iterative Edits](https://pub.towardsai.net/skillopt-executive-strategy-for-self-evolving-agent-skills-9e867c92702c?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > A new article argues that AI agents require a control plane between reasoning and execution to prevent manipulation via user instructions, untrusted context, or tool outputs. The concept of an agent control plane is gaining traction, with open-source solutions like Galileo's Agent Control released on March 11, 2026. As AI agents move from giving advice to taking actions on critical systems, execution safety becomes paramount. Without a control plane, agents can be tricked into executing harmful commands, leading to data loss, security breaches, or system damage. The article highlights that human approval alone is insufficient due to time pressure and reliance on summaries. A better model involves classifying, constraining, explaining, approving, executing, and auditing actions. The control plane should inspect proposed actions before execution.
+  > Microsoft open-sourced SkillOpt, a framework that optimizes an AI agent's natural-language skill policy through iterative edits, treating the skill document as a trainable parameter. It uses a frozen target model for task execution and a separate optimizer model to propose bounded edits, achieving accuracy gains of 20–40 points across multiple benchmarks. SkillOpt enables frozen or closed-source LLM agents to adapt to new domains without weight updates, reducing cost and complexity. Its zero inference cost and auditable skill files make it practical for production deployment, potentially accelerating the adoption of self-improving AI agents. The framework includes validation gating, learning-rate budgeting (edit budget), rejected-edit memory, and epoch-wise slow updates to ensure stable monotonic improvement. The final artifact is a small best_skill.md file (typically a few hundred tokens) that can be inspected, audited, and reused across models or environments.
 
-- [Building Sentiment Analysis Pipeline with Scikit-LLM](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
+- [Using Local Coding Agents with Open-Weight Models](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 7.0/10
 
-  > A tutorial demonstrates how to build an end-to-end sentiment analysis pipeline using Scikit-LLM, which integrates large language models (LLMs) into the scikit-learn workflow. This approach bridges the gap between traditional machine learning pipelines and modern LLMs, enabling developers to leverage powerful language models without abandoning familiar scikit-learn interfaces. Scikit-LLM allows users to replace feature extraction steps like TF-IDF with LLM-based text analysis, while still using scikit-learn estimators for classification. The tutorial covers the entire pipeline from data preprocessing to model evaluation.
+  > Sebastian Raschka's article explores how to use open-weight models locally as a cost-effective alternative to subscription-based coding agents like Claude Code and Codex. This matters because it enables developers to run powerful coding agents without recurring subscription fees, potentially reducing costs and increasing privacy and control over AI tools. The article provides a practical tutorial on setting up local coding agents, including technical details on model selection, hardware requirements, and trade-offs between performance and cost.
 
-- [AI Agent Tool Design: Practical Guide and Pitfalls](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) ⭐️ 6.0/10
+- [LLM Embeddings + HDBSCAN for Text Clustering](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > A new article on Machine Learning Mastery provides a practical guide for designing tools used by AI agents, discussing effective patterns and common mistakes. As AI agents become more prevalent, well-designed tools are crucial for their performance and reliability; this guide helps practitioners avoid common pitfalls. The article covers topics such as tool interface design, error handling, and context management, but lacks deep technical depth or mathematical rigor.
+  > A tutorial demonstrates how to cluster unstructured text by combining LLM embeddings with the HDBSCAN clustering algorithm, moving beyond typical chat-based LLM applications. This approach enables practical text mining and organization without manual labeling, expanding LLM utility to data analysis and knowledge management tasks. The tutorial likely covers generating embeddings via an LLM, then applying HDBSCAN to discover clusters of similar texts, with implementation details in Python.
 
 ---
 
 ## ✍️ Language & Expression
 
-- [Bill Gurley on Mental Models for Better Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
 
-  > Bill Gurley, a renowned venture capitalist and board member of the Santa Fe Institute, shares mental models from his experience in venture capital and complexity science on the Farnam Street podcast. These mental models help individuals improve decision-making and understand complex systems, which is valuable for professionals in business, technology, and science. Gurley emphasizes the importance of knowing both the historical foundation (bedrock) and the current frontier (bleeding edge) of a field, using examples like Pixar's John Lasseter.
+  > Bill Gurley, a renowned venture capitalist and board member of the Santa Fe Institute, discusses mental models and systems thinking in a new episode of The Knowledge Project podcast. This episode offers valuable insights for improving reasoning and decision-making by applying mental models and complexity science, which are crucial for navigating uncertain environments. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a transcript. Gurley draws on his experience at Benchmark and his work at the Santa Fe Institute.
 
-- [How to Repair and Nourish Your Gut](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 5.0/10
+- [The Cost of 'Better' Sound: Visualizing Frequency Response, Dynamics, and Irreversible Loss](https://sspai.com/post/111462) ⭐️ 7.0/10
 
-  > Dr. Giulia Enders, a physician and microbiome researcher, discusses how the gut influences digestion, immunity, mood, and overall health in a podcast episode on Farnam Street. This conversation highlights the growing recognition of the gut-brain axis, which connects gut health to mental well-being and cognitive function, offering insights that could improve both physical and mental health. The podcast covers practical advice on repairing and nourishing the gut, including diet and lifestyle changes, based on Dr. Enders' research and bestselling book.
+  > This article explains how optimizing sound systems for better frequency response and loudness can introduce listener fatigue and reveal flaws after loudness normalization. It provides a counterintuitive insight that challenges common assumptions in audio engineering, helping listeners and engineers understand the trade-offs between perceived quality and long-term listening comfort. The article uses visualizations to illustrate how aggressive optimization can cause irreversible loss in dynamic range and introduce distortion that becomes apparent after normalization.
 
-- [A Journey Through Four Note-Taking Apps](https://sspai.com/post/110935) ⭐️ 4.0/10
+- [How to Repair and Nourish Your Gut](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
 
-  > The author shares a personal narrative of switching between four note-taking apps—Notion, Obsidian, Logseq, and Roam Research—in search of a better thinking environment. This article reflects a common struggle among knowledge workers to find a note-taking system that truly supports deep thinking, highlighting the trade-offs between simplicity, flexibility, and structure. The author evaluates each app based on its ability to facilitate thinking, not just note storage, and concludes that no single tool is perfect; the best choice depends on personal workflow.
+  > Dr. Giulia Enders, a physician and microbiome researcher, discusses how the gut influences digestion, immunity, mood, and overall health in a podcast episode. This content matters because it provides accessible, science-based insights into the gut's role in overall health, helping people make informed lifestyle choices. The podcast is hosted by Farnam Street and covers topics like the gut-brain axis, microbiome diversity, and practical tips for gut repair.
 
-- [Finding a Place for Memories: Why I Started Using Apple Journal](https://sspai.com/post/111421) ⭐️ 4.0/10
+- [A Journey Through Four Note-Taking Apps for Better Thinking](https://sspai.com/post/110935) ⭐️ 4.0/10
 
-  > The author shares a personal narrative about adopting Apple's Journal app, which was introduced in iOS 17.2, to record daily life and cultivate gratitude. This article highlights how a built-in journaling app can encourage reflective habits and emotional well-being, potentially influencing how users integrate note-taking into their daily routines. The Journal app leverages on-device machine learning to suggest moments for recording, and the author emphasizes its simplicity and privacy features as key motivators.
+  > The author shares a personal narrative of switching between four note-taking apps—Notion, Obsidian, Logseq, and Craft—to find an environment that better supports deep thinking and knowledge management. This article reflects a common struggle among knowledge workers to optimize their digital note-taking workflow, highlighting the trade-offs between simplicity, flexibility, and structure in productivity tools. The author evaluates each app based on criteria like ease of use, linking capabilities, and support for long-form writing, ultimately choosing a combination of tools rather than a single solution.
 
 ---
 
 ## 📜 History & Patterns
 
-- [Georgian Queer Men Used Adult Adoption as Marriage Substitute](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+- [Georgian Queer Men Used Adult Adoption as Marriage Loophole](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
 
-  > In Georgian England, queer men legally adopted their adult partners to create binding ties and secure inheritance, a practice that served as a workaround for the inability to marry. This historical practice reveals how marginalized groups have long adapted legal tools to secure rights, offering a powerful parallel to modern same-sex marriage and civil union debates. Adult adoption in Georgia (the U.S. state) requires a minimum 10-year age difference and court demonstration of mutual benefit, but the historical Georgian England practice had no such formal requirements.
+  > In Georgian England, queer men legally adopted their adult lovers to create binding ties and secure inheritance rights, as same-sex marriage was illegal. This historical practice reveals a pattern of LGBTQ+ individuals using legal loopholes to protect relationships, paralleling modern struggles for marriage equality and legal recognition. Adult adoption in Georgian England allowed the adopter to inherit from the adoptee and vice versa, creating a legal bond similar to marriage. The practice was not explicitly for same-sex couples but was exploited by queer men.
 
-- [1976 UK Heatwave: Riots, Kippers, and Lessons](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
+- [1976 UK Heatwave: Riots, Water Shortages, Ladybird Plague](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
 
-  > A historical article revisits the 1976 UK heatwave, detailing water shortages, social unrest, and billions of ladybirds swarming, drawing parallels to modern climate crises. This narrative offers timeless insights into societal resilience and adaptation during extreme weather, relevant as heatwaves become more frequent due to climate change. The heatwave caused water rationing, shared baths, and bizarre events like ladybird plagues and kipper odors, highlighting how infrastructure and social norms were tested.
+  > A historical article revisits the 1976 UK heatwave, detailing water shortages, social unrest, and a massive ladybird invasion, drawing parallels to modern climate crises. This retrospective offers lessons on societal response to extreme weather, highlighting patterns of crisis behavior that remain relevant as heatwaves become more frequent due to climate change. The heatwave led to shared baths, frayed tempers, and billions of ladybirds swarming the skies, illustrating how infrastructure and social norms were strained.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [Brown Professor Exposes Mass AI Cheating Scandal](#item-1) ⭐️ 8.0/10
-2. [Developer Uses Claude Code to Analyze His Own MRI](#item-2) ⭐️ 8.0/10
-3. [YAGNI's Cost Is About Option Value, Not Code Avoidance](#item-3) ⭐️ 8.0/10
-4. [Reframing 'Human in the Loop' as 'Agent in the Loop'](#item-4) ⭐️ 8.0/10
-5. [China's LineShine tops supercomputer list despite US curbs](#item-5) ⭐️ 8.0/10
-6. [Musk Announces Grok 4.5 Internal Testing at SpaceX and Tesla](#item-6) ⭐️ 8.0/10
-7. [Ford rehires experienced engineers after AI falls short](#item-7) ⭐️ 8.0/10
-8. [HP Partners with OpenAI to Deploy Frontier AI Agent Platform](#item-8) ⭐️ 7.0/10
-9. [Apple reportedly skips 2nm, targets 1.4nm for A22 Pro in 2028](#item-9) ⭐️ 7.0/10
-10. [AI Short Dramas Dominate China Market, Costs Surge](#item-10) ⭐️ 7.0/10
-11. [Hack Your Summer: Free Sprint for Students](#item-11) ⭐️ 6.0/10
-12. [China's Open-Source Ecosystem Expands with 7 New Projects](#item-12) ⭐️ 6.0/10
-13. [Baidu's Kunlunxin Targets $50B Valuation in Hong Kong IPO](#item-13) ⭐️ 6.0/10
-14. [First Commercial Real Estate REITs Listed, Bank Wealth Management Funds Key Buyers](#item-14) ⭐️ 6.0/10
-15. [Chinese Banks Shut Down Standalone Credit Card Apps](#item-15) ⭐️ 6.0/10
+1. [Age Verification as Precursor to Speech Attribution](#item-1) ⭐️ 8.0/10
+2. [Central bankers warn AI boom risks global financial crash](#item-2) ⭐️ 8.0/10
+3. [Jon Udell: Reframe 'Human in the Loop' as 'Agents in Our Loop'](#item-3) ⭐️ 8.0/10
+4. [China's 'Yisuan Ark' Platform Eases Code Migration for Domestic Chips](#item-4) ⭐️ 8.0/10
+5. [AR Game Data Used for Military AI Training Raises Alarm](#item-5) ⭐️ 8.0/10
+6. [HKU Professor Founds Whole-Body Embodied AI Startup with $100M+ Seed Round](#item-6) ⭐️ 8.0/10
+7. [China's Z.ai claims GLM-5.2 matches Mythos in cybersecurity](#item-7) ⭐️ 7.0/10
+8. [Linux 7.2-rc1 Kernel Released with 43M+ Lines of Code](#item-8) ⭐️ 7.0/10
+9. [China's Qingzhou Spacecraft Releases Second Batch of In-Orbit Test Results](#item-9) ⭐️ 7.0/10
+10. [Chinese Startup Chensi Tech Mass Produces DBF Chip with 90% Power Reduction](#item-10) ⭐️ 7.0/10
+11. [Haiguang Xinzheng IPO: Low Margins and Cash Burn in AI Infrastructure](#item-11) ⭐️ 7.0/10
+12. [South Korea Announces Major Projects in Chips, Physical AI, and AI Data Centers](#item-12) ⭐️ 7.0/10
+13. [Apple Mac and iPad Prices Rise Due to AI Memory Demand](#item-13) ⭐️ 6.0/10
+14. [URTOPIA raises $28M to expand from Ebikes to exoskeletons](#item-14) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Brown Professor Exposes Mass AI Cheating Scandal](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html) ⭐️ 8.0/10
+## [Age Verification as Precursor to Speech Attribution](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) ⭐️ 8.0/10
 
-A professor at Brown University publicly denounced widespread AI-assisted cheating on an exam, sparking a debate on academic integrity in the age of AI. This incident highlights the urgent need to redesign assessments to maintain academic integrity as AI tools become more accessible, affecting universities worldwide. The professor's denouncement comes amid growing concerns that AI-generated answers are undermining traditional take-home exams, with many educators calling for in-person, handwritten tests.
+An analysis argues that age verification mandates are a stepping stone to automated attribution of speech and broader internet control, warning of second-order effects such as device attestation and identity-linked monitoring. This matters because it highlights how well-intentioned age verification laws can lead to systemic surveillance and censorship, affecting free speech and privacy for all internet users. The article specifically mentions device attestation—ensuring users run unmodified, government-approved operating systems—as a complementary control. It also notes that US customs already reviews social media accounts for compliance.
 
-hackernews · geox · Jun 28, 16:41 · [Discussion](https://news.ycombinator.com/item?id=48708991)
+hackernews · arkhiver · Jun 29, 03:42 · [Discussion](https://news.ycombinator.com/item?id=48714529)
 
-**Background**: AI language models like GPT-4 can generate human-like text, making it difficult to detect cheating in take-home assignments. Universities are grappling with how to adapt assessment methods to preserve learning outcomes.
+**Background**: Age verification laws require platforms to verify users' ages before granting access, often justified as child protection. Critics argue such mechanisms create infrastructure for identity-linked tracking and speech attribution, enabling broader censorship and surveillance.
 
-**Discussion**: Commenters largely agree that in-person, handwritten exams and oral interviews are necessary, with some noting that AI may actually strengthen the signaling value of degrees. Others question the purpose of grading itself.
+**Discussion**: Commenters emphasize systems thinking failures, noting that people struggle to foresee second- and third-order effects of such laws. One commenter references Cory Doctorow's decade-old talk predicting government control of the internet, and another points to device attestation as a parallel trend.
 
-**Tags**: `#AI`, `#education`, `#academic integrity`, `#assessment`
+**Tags**: `#age verification`, `#internet censorship`, `#systems thinking`, `#privacy`, `#surveillance`
 
 ---
 
 <a id="item-2"></a>
-## [Developer Uses Claude Code to Analyze His Own MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) ⭐️ 8.0/10
+## [Central bankers warn AI boom risks global financial crash](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) ⭐️ 8.0/10
 
-A developer used Anthropic's Claude Code, an AI coding agent, to analyze his own shoulder MRI images and discovered potential inconsistencies with his prescribed shockwave therapy, which contradicted clinical guidelines. This demonstrates a novel, practical application of large language models for personal medical analysis, empowering patients to question treatments and sparking debate on AI's role in healthcare trust and decision-making. The analysis used Claude Code (likely the Opus model) to interpret MRI findings, and the developer noted that shockwave therapy was performed despite a guideline recommending against it for non-calcific rotator cuff tendinopathy. The community discussion includes a radiologist's caution that ultrasound is poor at detecting calcification.
+Central bankers have issued a warning that the massive investment boom in artificial intelligence could lead to a global financial crash due to speculative bubbles and misallocation of capital. This warning highlights systemic risks from AI investment that could affect global financial stability, echoing historical patterns of boom-and-bust cycles in technology sectors. The warning comes amid over $2 trillion invested in AI companies, with concerns that capital is being misallocated into speculative ventures rather than productive infrastructure.
 
-hackernews · engmarketer · Jun 28, 16:35 · [Discussion](https://news.ycombinator.com/item?id=48708941)
+hackernews · b-man · Jun 29, 01:25 · [Discussion](https://news.ycombinator.com/item?id=48713697)
 
-**Background**: Claude Code is an AI coding agent by Anthropic that can read codebases, edit files, and run commands via natural language. While primarily designed for software development, this case shows its use in analyzing medical images. AI in medical imaging is a growing field, but clinical adoption requires rigorous validation and trust.
+**Background**: Central bankers often monitor asset bubbles and systemic risks. The AI boom has seen massive capital inflows into a few companies, raising fears of overvaluation and eventual collapse, similar to the dot-com bubble.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10740686/">How Artificial Intelligence Is Shaping Medical Imaging ...</a></li>
+**Discussion**: Commenters debate whether AI investment could have been better spent on infrastructure and education, with some expressing skepticism that lessons from past bubbles will be learned. Others question the win scenario if AI stalls or succeeds.
 
-</ul>
-</details>
-
-**Discussion**: Community comments highlight mixed feelings: some users appreciate AI's ability to provide a second opinion without time pressure, while experts like a radiologist caution that full 3D datasets are needed for proper evaluation. Others share personal stories of misdiagnosis, emphasizing both the potential and risks of AI in healthcare.
-
-**Tags**: `#AI in Healthcare`, `#LLM Applications`, `#Medical Imaging`, `#Patient Empowerment`, `#AI Trust`
+**Tags**: `#AI`, `#finance`, `#economics`, `#risk`, `#regulation`
 
 ---
 
 <a id="item-3"></a>
-## [YAGNI's Cost Is About Option Value, Not Code Avoidance](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) ⭐️ 8.0/10
+## [Jon Udell: Reframe 'Human in the Loop' as 'Agents in Our Loop'](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) ⭐️ 8.0/10
 
-Kent Beck argues that the true cost of YAGNI (You Aren't Gonna Need It) is not about avoiding writing code, but about the option value of not writing it—keeping future possibilities open. He reframes YAGNI as a financial option analogy, where deferring implementation preserves flexibility. This reframing shifts the YAGNI debate from a simplistic 'don't over-engineer' mantra to a nuanced economic trade-off, affecting how developers and teams prioritize features. It also opens the door to modern implications, such as AI reducing restructuring costs, which could change the calculus of when to apply YAGNI. Beck's option value perspective treats unwritten code as a call option: you have the right, but not the obligation, to implement later. The cost of YAGNI is the premium paid for that option, not the code itself. Community comments highlight that AI tools have lowered restructuring costs, making it cheaper to defer decisions.
+Jon Udell argues that the phrase 'human in the loop' cedes authority to machines, and proposes reframing it as 'agents in our loop' to maintain human authority and reviewability in agentic software development. This perspective challenges the dominant narrative around AI agents, emphasizing that humans should remain in control and that agent-assisted workflows must be transparent and reviewable, which is crucial for code quality and trust in AI-generated code. Udell specifically warns against agents creating 'unreviewable PRs'—pull requests that are too large or opaque to be properly reviewed. He advocates for agent-assisted processes that are not black boxes but transparent and integrated into existing human workflows.
 
-hackernews · kiyanwang · Jun 28, 18:31 · [Discussion](https://news.ycombinator.com/item?id=48710082)
+rss · Simon Willison · Jun 28, 21:57
 
-**Background**: YAGNI is a principle from Extreme Programming (XP) that advises developers to only implement features when they are actually needed, not when they are anticipated. It aims to reduce complexity, save time, and avoid waste. The option value concept, borrowed from finance, values the flexibility to make future decisions without committing resources today.
+**Background**: In software development, 'human in the loop' typically means a human reviews or approves AI-generated outputs. However, as AI agents become more capable, there is a risk that humans become passive approvers of opaque, large-scale changes. Udell's reframing reasserts human agency by positioning agents as assistants within the developer's existing workflow, not as autonomous actors that replace human judgment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/You_aren't_gonna_need_it">You aren't gonna need it - Wikipedia</a></li>
-<li><a href="https://www.geeksforgeeks.org/software-engineering/what-is-yagni-principle-you-arent-gonna-need-it/">YAGNI Principle in Software Development - GeeksforGeeks</a></li>
-<li><a href="https://itrevolution.com/articles/option-value-in-development-manufacturing-dora-metrics/">Option Value In Development, Manufacturing: DORA Metrics ...</a></li>
+<li><a href="https://benjamincongdon.me/blog/2025/12/10/What-I-Look-For-in-AI-Assisted-PRs/">What I Look For in AI-Assisted PRs - Ben Congdon</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally agree with Beck's option value framing, with phamilton noting that AI has reduced restructuring costs, making YAGNI more attractive. Skybrian cautions that the analogy can be overextended, potentially justifying indefinite planning. Mrkeen shares a personal shift toward writing abstract generics to maximize flexibility, while marifjeren argues that the YAGNI argument fundamentally relies on the difficulty of prediction.
-
-**Tags**: `#software engineering`, `#YAGNI`, `#software design`, `#technical debt`, `#AI-assisted development`
+**Tags**: `#AI agents`, `#software development`, `#human-in-the-loop`, `#code review`
 
 ---
 
 <a id="item-4"></a>
-## [Reframing 'Human in the Loop' as 'Agent in the Loop'](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) ⭐️ 8.0/10
+## [China's 'Yisuan Ark' Platform Eases Code Migration for Domestic Chips](https://www.ithome.com/0/969/812.htm) ⭐️ 8.0/10
 
-Jon Udell proposes reframing 'human in the loop' as 'agent in the loop' to emphasize that humans remain in control, inviting AI agents as collaborators rather than ceding authority to machines. This reframing shifts the narrative from human oversight of AI to human-led collaboration with AI agents, which could influence how teams integrate AI into software development and maintain human agency. Udell argues that agent-assisted processes should not be black boxes; instead, agents should produce reviewable work that fits into existing human workflows, such as small, reviewable pull requests.
+On June 29, 2026, the 'Yisuan Ark' full-stack computing platform was officially launched by the Computer Network Information Center of the Chinese Academy of Sciences and other units. It integrates a code conversion LLM called BoundX and a high-performance algorithm library named 'Jiuyanshu' to automate software adaptation for domestic hardware. This platform addresses a critical bottleneck in China's domestic computing ecosystem: the difficulty of migrating existing software and code to domestic chips. By lowering the migration barrier, it can accelerate the adoption of domestic hardware and strengthen China's self-reliant computing infrastructure. The platform's bottom layer, the 'Jiuyanshu' algorithm library, includes 16 high-performance computing tools fully adapted to domestic architectures, achieving over 10x speedup in core operations. The middle layer features BoundX, a code conversion LLM that automates adaptation to various domestic computing environments, replacing manual rewriting.
 
-rss · Simon Willison · Jun 28, 21:57
+rss · IT之家 · Jun 29, 02:56
 
-**Background**: Agentic software development is an approach where AI agents actively participate in planning, writing, testing, and modifying code. The term 'agentic engineering' was coined by Andrej Karpathy to emphasize using AI as a tool rather than building entire codebases autonomously. Concerns about unreviewable AI-generated pull requests have grown as AI agents produce large, opaque code changes.
+**Background**: China's domestic computing hardware has advanced rapidly, but the software ecosystem lags behind, with issues such as poor code compatibility, low algorithm efficiency, and complex engineering simulations. This gap prevents many research achievements from running on domestic hardware, hindering scientific and engineering productivity. The Yisuan Ark platform aims to close this gap by providing a full-stack solution from algorithms to applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.agentic-dev.org/en/handbook/introduction/what-is-agentic-development">What is Agentic Development? — Handbook</a></li>
-<li><a href="https://www.ibm.com/think/topics/agentic-engineering">What is agentic engineering? - IBM</a></li>
-<li><a href="https://medium.com/@codeandbird/stop-code-review-slop-how-to-review-prs-in-ai-era-9820556b4651">Stop Code Review Slop — How to review PRs in AI era | by Code and Bird | Medium</a></li>
+<li><a href="https://www.ithome.com/0/969/812.htm">破解代码迁移难题，国产“异 算 方舟”全栈计 算 平台发布 - IT之家</a></li>
+<li><a href="https://news.china.com/domestic/945/20260629/49576366.html">国产“异算方舟”全栈计算平台正式发布_新闻频道_中华网</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-06-29/doc-iniezsuy5559398.shtml">破解代码迁移难题 国产“异算方舟”全栈计算平台正式发布_新浪财经_新浪网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#software development`, `#human-AI collaboration`, `#agentic development`
+**Tags**: `#domestic computing`, `#code migration`, `#AI infrastructure`, `#high-performance computing`, `#software ecosystem`
 
 ---
 
 <a id="item-5"></a>
-## [China's LineShine tops supercomputer list despite US curbs](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer) ⭐️ 8.0/10
+## [AR Game Data Used for Military AI Training Raises Alarm](https://www.ithome.com/0/969/750.htm) ⭐️ 8.0/10
 
-China's LineShine supercomputer has claimed the top spot on the TOP500 list, surpassing the US El Capitan system with a performance of 2,198 petaflops. This marks the first time China has held the number one position since 2018. This achievement signals China's continued advancement in high-performance computing despite US trade restrictions on advanced chips. It intensifies the global supercomputing race and has significant geopolitical implications for technology leadership. LineShine achieved 2,198 petaflops on the LINPACK benchmark, outperforming El Capitan which held the top spot from November 2024 to June 2026. The TOP500 list is updated twice a year, with the latest edition published in June 2026.
+China's Ministry of State Security warned that a popular AR game's AI company collected nearly 30 billion environmental scans from users, potentially using them to train AI models for military purposes due to ties with a foreign defense contractor. This revelation highlights the risk of civilian data being militarized, threatening national security and eroding public trust in AR and location-based services. It underscores the urgent need for stronger data governance and user awareness. The AR game's data collection goes beyond ordinary photos, capturing 3D point clouds, precise GPS coordinates, altitude, device orientation, and timestamps, enabling high-fidelity spatial reconstruction. The data was collected covertly through app permissions that users often grant without scrutiny.
 
-rss · The Verge · Jun 28, 17:20
+rss · IT之家 · Jun 29, 00:51
 
-**Background**: The TOP500 list ranks the world's most powerful supercomputers based on the LINPACK benchmark. Supercomputers are critical for scientific research, national security, and industrial simulations. The US has imposed restrictions on exporting high-performance computing components to China, aiming to slow its technological progress.
+**Background**: AR (Augmented Reality) overlays virtual information onto the real world, often requiring detailed environmental scans. Geospatial data is critical for national infrastructure and defense. Previous cases have shown that seemingly innocuous game data can be repurposed for intelligence gathering.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/TOP500_Supercomputer_Sites">TOP500 Supercomputer Sites</a></li>
-<li><a href="https://en.wikipedia.org/wiki/El_Capitan_(supercomputer)">El Capitan (supercomputer)</a></li>
+<li><a href="https://www.news.cn/legal/20260629/f6b3b519de604000a505525297e4a1fd/c.html">游 戏 数 据 竟被 用 于 军 事 目的？！ -新华网</a></li>
+<li><a href="https://finance.eastmoney.com/a/202606293785668676.html">游 戏 数 据 竟被 用 于 军 事 目的 国安部门重点提示三种风险 _ 东方财富网</a></li>
+<li><a href="https://www.thecover.cn/news/1kBC/gsLwO6H90qSdq8Jkw==">游 戏 数 据 竟被 用 于 军 事 目的？ 国家安全部提醒 - 封面新闻</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#supercomputing`, `#TOP500`, `#China`, `#technology race`, `#HPC`
+**Tags**: `#AR`, `#data privacy`, `#national security`, `#AI`, `#military`
 
 ---
 
 <a id="item-6"></a>
-## [Musk Announces Grok 4.5 Internal Testing at SpaceX and Tesla](https://36kr.com/newsflashes/3873481579746561?f=rss) ⭐️ 8.0/10
+## [HKU Professor Founds Whole-Body Embodied AI Startup with $100M+ Seed Round](https://36kr.com/p/3868055841641476?f=rss) ⭐️ 8.0/10
 
-Elon Musk announced on June 28, 2026, that xAI's latest large language model, Grok 4.5, has entered private beta testing at SpaceX and Tesla, built on a 1.5 trillion parameter V9 foundation model with supplemental training on Cursor IDE coding data. If Grok 4.5's performance indeed approaches or surpasses Anthropic's Claude Opus, it would mark a significant leap in the AI model landscape, intensifying competition among leading AI labs and potentially accelerating the integration of advanced AI into SpaceX and Tesla's operations. Early evaluations suggest Grok 4.5's performance is near or possibly exceeding Claude Opus, and reinforcement learning is still actively improving the model. Musk also stated that SpaceX will release a completely new model trained from scratch every month for the remainder of the year.
+Hong Kong University professor Li Hongyang founded Archon Robotics (Yuan Ce Wei Lai) in April 2026, raising hundreds of millions of RMB in seed funding from top VCs including ZhenFund, Gaorong Capital, IDG Capital, and 5Y Capital. The company aims to develop a general-purpose whole-body humanoid foundation model for embodied intelligence. This startup addresses a critical gap in embodied AI: most training data lacks whole-body coordination, limiting robots to simple tabletop tasks. Archon's focus on whole-body intelligence could enable humanoid robots to perform complex real-world tasks like opening doors or making beds, accelerating the path to household robots. The company plans to release its first humanoid native foundation model in late 2026. The team includes co-founders with backgrounds from UniAD (CVPR 2023 Best Paper) and Huawei's autonomous driving ADS 4.0, and the founder Li Hongyang won the RSS Early Career Award in 2026, the first Chinese scholar to do so.
 
-rss · 36氪 · Jun 28, 23:49
+rss · 36氪 · Jun 29, 01:27
 
-**Background**: Grok is a series of large language models developed by xAI, Elon Musk's AI company. The V9 foundation model with 1.5 trillion parameters represents a significant scale increase. Cursor is a popular AI-powered coding tool that provides an agent-based development environment. Claude Opus is Anthropic's flagship model known for advanced reasoning and coding capabilities.
+**Background**: Embodied intelligence refers to AI systems that have a physical body to perceive and interact with the environment. Current humanoid robots often rely on limited data (e.g., first-person video or arm-only trajectories) that miss whole-body movements like shifting weight or coordinating limbs, which are essential for tasks requiring full-body interaction. Archon's approach, called Human Body Learning, aims to capture and learn from whole-body human motion data to build a more capable robot brain.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/">xAI unveils Grok 4.5, a significant upgrade powered by 1.5 ...</a></li>
-<li><a href="https://www.explainx.ai/blog/grok-4-5-private-beta-spacex-tesla-cursor-v9-2026">Grok 4.5 Enters Private Beta at SpaceX and Tesla — Built ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cursor_(company)">Cursor (company) - Wikipedia</a></li>
+<li><a href="https://www.archon.tech/">Archon Robotics</a></li>
+<li><a href="https://github.com/OpenDriveLab/UniAD">GitHub - OpenDriveLab/ UniAD : [ CVPR 2023 Best Paper Award]...</a></li>
+<li><a href="https://www.hkpc.org/en/our-services/smart-manufacturing/a-i-robotics/embodied-intelligence">Applying Embodied Intelligence to Industrial Operations | HKPC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#LLM`, `#Grok`, `#Elon Musk`, `#SpaceX`
+**Tags**: `#robotics`, `#embodied intelligence`, `#startup`, `#AI`, `#funding`
 
 ---
 
 <a id="item-7"></a>
-## [Ford rehires experienced engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) ⭐️ 8.0/10
+## [China's Z.ai claims GLM-5.2 matches Mythos in cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) ⭐️ 7.0/10
 
-Ford Motor Company has rehired veteran engineers, often called 'gray beards,' after discovering that relying solely on AI did not ensure high-quality product development. This move highlights the limitations of AI in complex engineering tasks and serves as a cautionary tale for industries over-relying on AI without human expertise. Ford's realization came from the mistaken belief that introducing AI alone would produce high-quality products, leading to the rehiring of experienced engineers to complement AI systems.
+China's Zhipu AI released its open-weight GLM-5.2 model, and researchers claim it matches Anthropic's Mythos in cybersecurity bug-finding tasks, narrowing the gap with top Western models. This claim is significant because Mythos is considered far ahead of other AI models in cyber capabilities, and if GLM-5.2 truly matches it, it demonstrates rapid progress in Chinese AI and could shift the balance in AI-driven cybersecurity. GLM-5.2 is an open-weight model with a 1-million-token context window, released under an MIT license, and designed for coding, reasoning, and agentic workloads. However, no official benchmarks have been published yet to substantiate the cybersecurity claims.
 
-rss · TechCrunch · Jun 28, 19:05
+rss · The Verge · Jun 28, 21:42
 
-**Background**: The term 'gray beards' refers to senior engineers with decades of experience who possess deep domain knowledge. Ford's decision reflects a broader industry debate about the role of AI versus human expertise in engineering.
+**Background**: Mythos is a large language model developed by Anthropic specifically for finding software vulnerabilities. Anthropic has not officially released Mythos to the public due to safety concerns. Open-weight models like GLM-5.2 allow developers to inspect and modify the model weights, promoting transparency and customization.
 
-**Tags**: `#AI`, `#engineering`, `#automotive`, `#AI limitations`, `#software engineering`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mythos_(model)">Mythos (model)</a></li>
+<li><a href="https://www.eigent.ai/blog/glm-5-2">GLM - 5 . 2 : Zhipu AI 's 1M-Token Open-Weight Coding Model</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#cybersecurity`, `#China`, `#open-weight models`, `#GLM`
 
 ---
 
 <a id="item-8"></a>
-## [HP Partners with OpenAI to Deploy Frontier AI Agent Platform](https://www.ithome.com/0/969/743.htm) ⭐️ 7.0/10
+## [Linux 7.2-rc1 Kernel Released with 43M+ Lines of Code](https://www.ithome.com/0/969/896.htm) ⭐️ 7.0/10
 
-HP announced a strategic partnership with OpenAI to deploy the Frontier AI agent platform across its global operations, aiming to enhance customer experience and optimize internal processes. This marks one of the largest enterprise deployments of OpenAI's Frontier platform, signaling a major shift toward AI agent integration in large corporations and potentially accelerating enterprise AI adoption. Frontier provides AI agents with shared context, onboarding, feedback-driven learning, and clear permissions, allowing them to work across different applications without being tied to a single UI.
+Linux 7.2-rc1 kernel has been released, featuring cache-aware scheduling, performance optimizations, NTFS driver fixes, Intel USB4 STREAM support, and initial AMDGPU HDMI 2.1 FRL support. The kernel codebase has surpassed 43 million lines. This release candidate introduces significant improvements for modern hardware, especially cache-aware scheduling which can boost performance on multi-chiplet CPUs like AMD EPYC and Hygon. The AMDGPU HDMI 2.1 FRL support is a major step for Linux gaming and high-resolution displays. Cache-aware scheduling optimizes task placement based on cache topology, potentially improving performance for workloads like MySQL. The AMDGPU HDMI 2.1 FRL support is initially disabled by default due to missing VRR support, requiring a kernel parameter to enable.
 
-rss · IT之家 · Jun 29, 00:16
+rss · IT之家 · Jun 29, 05:37
 
-**Background**: OpenAI launched Frontier in February 2026 as an enterprise platform for building, deploying, and managing AI agents at scale. Unlike standalone AI tools, Frontier enables agents to collaborate across business functions, integrating with existing data and applications without requiring re-deployment.
+**Background**: Cache-aware scheduling is a Linux kernel feature that schedules tasks on CPU cores that share a common cache, reducing cache misses and improving performance. HDMI 2.1 FRL (Fixed Rate Link) enables higher bandwidth for 4K/8K displays at high refresh rates. The NTFS driver in Linux provides read/write support for Windows NTFS filesystems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/thedailytechfeed_openai-launches-frontier-to-integrate-ai-activity-7425935126083215360-1-Xo">OpenAI 's Frontier Revolutionizes Workplace Collaboration... | LinkedIn</a></li>
-<li><a href="https://medium.com/agentic-builders/openai-frontier-the-dawn-of-the-ai-coworker-d7148f888297">OpenAI Frontier : The Dawn of the AI Coworker | by Ana... | Medium</a></li>
-<li><a href="https://agentcrunch.ai/article/openai-frontier-ai-agents-2026">Inside OpenAI 's Frontier Platform — and Why Every... — AgentCrunch</a></li>
+<li><a href="https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default">AMDGPU HDMI 2 . 1 FRL To Be Initially Disabled-By-Default - Phoronix</a></li>
+<li><a href="https://korben.info/en/cache-aware-scheduling-linux-patch-mysql-performance.html">Cache - aware scheduling - The Linux patch aiming for +360... - Korben</a></li>
+<li><a href="https://docs.kernel.org/next/filesystems/ntfs.html">The Linux NTFS filesystem driver — The Linux Kernel documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#enterprise`, `#OpenAI`, `#HP`, `#AI agents`
+**Tags**: `#Linux`, `#kernel`, `#operating system`, `#release`
 
 ---
 
 <a id="item-9"></a>
-## [Apple reportedly skips 2nm, targets 1.4nm for A22 Pro in 2028](https://www.ithome.com/0/969/733.htm) ⭐️ 7.0/10
+## [China's Qingzhou Spacecraft Releases Second Batch of In-Orbit Test Results](https://www.ithome.com/0/969/891.htm) ⭐️ 7.0/10
 
-Apple is reportedly accelerating its transition to 1.4nm process technology, planning to use TSMC's 1.4nm node for the A22 Pro chip in 2028, skipping the 2nm node earlier than expected due to AI-driven capacity constraints. This shift highlights how AI demand is reshaping semiconductor roadmaps, forcing even Apple to adapt its strategy. If Apple secures early 1.4nm capacity, it could maintain its chip performance lead over competitors like Qualcomm and MediaTek. Apple is expected to use TSMC's N2 (2nm) in 2025, N2P in 2027, and then jump to 1.4nm (A14) for the A22 Pro in 2028. TSMC's 2nm wafers are priced around $45,000 each, making the early move to 1.4nm extremely costly.
+China's Qingzhou experimental spacecraft released its second batch of in-orbit test results on June 29, 2026, featuring a compressor refrigerator for space, medical devices for future space hospitals, and biological experiments. These advancements are critical for long-duration space missions, enabling cost-effective cold chain storage, autonomous medical monitoring, and low-cost biological experiments, which support China's space station operations and future deep-space exploration. The space refrigerator uses vapor-compression technology and overcame microgravity gas-liquid separation challenges. Other payloads include a myoelectric detector with a neural chip for continuous muscle signal monitoring, a handheld blood cell analyzer, and a low-cost biological support module.
 
-rss · IT之家 · Jun 28, 23:06
+rss · IT之家 · Jun 29, 05:07
 
-**Background**: In semiconductor manufacturing, process nodes like 2nm and 1.4nm refer to the transistor size, with smaller nodes generally offering better performance and power efficiency. TSMC's 2nm (N2) technology uses nanosheet transistors and started volume production in late 2025. The 1.4nm node (A14) is TSMC's next full-node advancement after N2, promising further improvements. AI companies' massive demand for chips is straining capacity at advanced nodes, prompting Apple to seek earlier access to newer nodes to avoid supply constraints.
+**Background**: The Qingzhou experimental spacecraft, launched on March 30, 2026, is a 4.2-ton single-module cargo vehicle with 40 cargo compartments and a 27 m³ volume. It is designed to test technologies for China's space station cargo transport, with a planned operational version in 2027.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14">A14 Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
+<li><a href="https://news.sciencenet.cn/sbhtmlnews/2026/4/389372.shtm?id=389372">科学网—它不只送货，还能做太空实 验</a></li>
+<li><a href="https://finance.sina.cn/tech/2026-04-22/detail-inhvhvws5992887.d.html?fromtech=1&vt=4">它不只送货，还能做太空实 验 _手机新浪网</a></li>
+<li><a href="https://m.gmw.cn/2026-04/15/content_1304419515.htm?source=msn">轻 舟 试 验 飞 船 首批科学成果发布</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#semiconductor`, `#chip manufacturing`, `#AI`, `#TSMC`
+**Tags**: `#space technology`, `#China space program`, `#in-orbit experiments`, `#spacecraft`, `#biomedical`
 
 ---
 
 <a id="item-10"></a>
-## [AI Short Dramas Dominate China Market, Costs Surge](https://36kr.com/newsflashes/3873468605764873?f=rss) ⭐️ 7.0/10
+## [Chinese Startup Chensi Tech Mass Produces DBF Chip with 90% Power Reduction](https://36kr.com/p/3873806295274756?f=rss) ⭐️ 7.0/10
 
-According to DataEye, AI-generated short dramas accounted for over 95% of the approximately 128,000 new short drama releases in China's first quarter of 2025. DataEye Vice President Lin Qiwen reported that while AI reduces production costs by 90%, traffic costs have more than doubled year-over-year and revenue has dropped by over 50%. This data signals that AI has become the dominant force in China's short drama industry, but the unsustainable cost-revenue imbalance threatens the long-term viability of the sector. The findings highlight a critical challenge for content creators and platforms as they navigate AI-driven production and escalating user acquisition costs. The data comes from DataEye's Juchacha platform, which tracks over 250,000 short dramas and 20,000 companies in the industry. The 90% production cost reduction is attributed to advanced video generation models and intelligent production tools, while traffic costs have surged due to intensified competition.
+Chensi Technology has completed a new funding round led by Xiamen Hi-Tech Investment and achieved mass production of its digital beamforming (DBF) chip in 2025. The chip reduces system power consumption from about 200W to 20W, just one-tenth that of traditional FPGA-based solutions. This breakthrough lowers the cost and power barriers for digital phased-array systems, accelerating adoption in satellite internet, low-altitude economy, and radar markets. It also demonstrates China's growing capability in high-end communications chip design, with a team from Hisilicon and ZTE. The DBF chip replaces multiple FPGAs with a single ASIC, reducing hardware cost and board area while maintaining performance. Chensi focuses on low-altitude economy as its first market, with plans to expand into satellite internet and radar data links.
 
-rss · 36氪 · Jun 28, 23:36
+rss · 36氪 · Jun 29, 05:20
 
-**Background**: Short dramas are a popular form of mobile-first video content in China, typically lasting 1-5 minutes per episode with fast-paced storytelling. AI technologies, including text-to-video and automated editing, have dramatically lowered the barrier to entry, enabling mass production. However, the industry relies heavily on paid traffic from platforms like Douyin and Kuaishou to reach audiences, making user acquisition a major expense.
+**Background**: Digital phased-array technology uses digital beamforming (DBF) chips to control antenna beams electronically, offering more flexibility and higher performance than traditional analog phased arrays. DBF chips are the core processing unit in such systems, handling beamforming and control tasks. Traditional implementations rely on multiple FPGAs, which are power-hungry and costly. Chensi's ASIC approach achieves significant improvements in power efficiency and integration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.dataeye.com/app.html">国内短剧、小说等全行业数据 - DataEye</a></li>
-<li><a href="https://www.techmami.com/detail/61ff9a10af114ac6989f42f7f0a2dba9Z5IkVyGl89">AI 短 剧 爆火背后： 成 本 降 90 ...</a></li>
+<li><a href="https://www.ebaina.com/articles/140000004884">首款 数 字 单 芯 片 毫米 波 波 束 形 成 器将利用5G功能_专栏_易百纳技术社区</a></li>
+<li><a href="https://m.elecfans.com/article/2271355.html">全数字波束形成 芯 片 的特性和应用场景-电子发烧友网</a></li>
+<li><a href="https://m.elecfans.com/article/2163995.html">浅谈 数 字 相 控 阵 雷达对无人机领域的应用-电子发烧友网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#short drama`, `#industry trends`, `#cost analysis`
+**Tags**: `#digital beamforming`, `#phased array`, `#chip`, `#satellite internet`, `#low-altitude economy`
 
 ---
 
 <a id="item-11"></a>
-## [Hack Your Summer: Free Sprint for Students](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) ⭐️ 6.0/10
+## [Haiguang Xinzheng IPO: Low Margins and Cash Burn in AI Infrastructure](https://36kr.com/p/3873681978840071?f=rss) ⭐️ 7.0/10
 
-Hack Your Summer is a free 4-week production sprint for undergraduate and graduate students to build real projects, launched in response to the US internship shortage. A second cohort starts July 13, with applications due by July 8. This initiative provides an alternative path for students who cannot secure traditional internships due to reduced hiring, helping them gain practical experience and build portfolio projects. It addresses a timely crisis in the US education-to-career pipeline. The program is free and open to undergraduate students, graduate students, and recent graduates. It includes mentorship from volunteers and focuses on creating public-facing work that can be shown to future employers.
+Haiguang Xinzheng, a silicon photonics optical interconnect provider, went public on the Hong Kong Stock Exchange on June 29, 2026, with an IPO price of HK$114 per share and a market cap of approximately HK$10.2 billion. Despite rapid revenue growth from 1.75 billion yuan in 2023 to 12.21 billion yuan in 2025, the company reported a gross margin of only 9% and negative operating cash flow of 3.59 billion yuan in 2025, revealing profitability challenges. This analysis challenges the narrative that AI infrastructure 'picks and shovels' businesses are uniformly profitable, showing that even high-growth companies like Haiguang Xinzheng can suffer from thin margins and cash burn. It highlights the risks for investors in the AI data center supply chain, especially in the competitive optical interconnect market. Haiguang Xinzheng's gross margin fell from 11.8% in 2024 to 9% in 2025, with its largest revenue segment (JDM) having only a 3.1% margin. The company's operating cash flow has been negative for three consecutive years, totaling a net outflow of 7.05 billion yuan, while its cash conversion cycle approached half a year in 2025.
 
-rss · Simon Willison · Jun 28, 19:26
+rss · 36氪 · Jun 29, 03:13
 
-**Background**: In 2025, US companies significantly reduced internship hiring, leaving many students without summer opportunities. Hack Your Summer fills this gap by offering a structured, mentor-supported sprint to build tangible projects, similar to a hackathon but extended over four weeks.
+**Background**: Optical interconnects, including optical modules, AOC, and AEC, are critical for high-speed data transmission in AI data centers. Silicon photonics technology integrates optical components onto a silicon chip, promising lower cost and higher integration. Haiguang Xinzheng positions itself as a 'silicon photonics first stock' with end-to-end capabilities from chip design to module manufacturing.
 
-**Tags**: `#education`, `#internships`, `#student-projects`, `#career-development`
+<details><summary>References</summary>
+<ul>
+<li><a href="http://www.iccsz.com/4g/news.Asp?ID=b704299a005c49098b858dd8b5e8c800">光 通信领域的 硅 光 技 术 -讯石 光 通讯网</a></li>
+<li><a href="https://www.eefocus.com/article/527860.html">光 和电的碰撞， 硅 光 子 技 术 如何引领创新？ - 与非网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI infrastructure`, `#IPO analysis`, `#optical interconnect`, `#financial analysis`, `#Chinese tech`
 
 ---
 
 <a id="item-12"></a>
-## [China's Open-Source Ecosystem Expands with 7 New Projects](https://www.ithome.com/0/969/742.htm) ⭐️ 6.0/10
+## [South Korea Announces Major Projects in Chips, Physical AI, and AI Data Centers](https://36kr.com/newsflashes/3873799609570564?f=rss) ⭐️ 7.0/10
 
-China's open-source ecosystem has added 7 new projects covering AI, embodied intelligence, and instruction sets, as announced by the OpenAtom Foundation on June 26, 2026. The move aims to seize opportunities in large models and RISC-V architectures to break technology monopolies. This expansion signals China's strategic push to lead in emerging technologies like embodied intelligence and RISC-V, potentially reshaping global open-source dynamics. With China's active open-source projects exceeding 4.25 million and developers reaching 2.63 million, the country is poised to challenge US dominance in open-source contributions within 7 years. The 7 projects include AI and embodied intelligence initiatives, with the OpenAtom Foundation emphasizing the importance of open-source foundations for large models and RISC-V. As of 2025, China had 2.1 million active developers on GitHub (third globally) and over 3.5 million including domestic platforms, with an OpenRank contribution score second only to the US.
+On June 29, South Korean President Lee Jae-myung announced that the government will accelerate investments in chips, AI data centers, and Physical AI to secure a competitive edge, coordinating public and private resources to build a complete AI ecosystem. This national-level strategic investment signals South Korea's commitment to leading in key tech sectors, potentially reshaping the global AI and semiconductor landscape and influencing regional tech competition. Lee noted that existing semiconductor clusters in Yongin and Pyeongtaek are nearing power and water supply limits, necessitating new investment sites and nationwide expansion of AI data centers, along with improved industrial data collection and utilization for Physical AI.
 
-rss · IT之家 · Jun 29, 00:02
+rss · 36氪 · Jun 29, 05:12
 
-**Background**: Open source refers to making source code publicly available for free use, modification, and distribution, fostering collaborative innovation. The OpenAtom Foundation, established in 2020 with support from the Chinese government and tech giants like Alibaba and Huawei, is China's first open-source foundation. Embodied intelligence involves AI systems that perceive and act through physical bodies, while RISC-V is a free and open instruction set architecture challenging proprietary x86 and ARM.
+**Background**: Physical AI refers to AI systems that interact with the physical world, such as robots and autonomous vehicles, combining AI software, sensors, and actuation. South Korea has a strong manufacturing base that can serve as a testbed for Physical AI development. The announcement comes amid global competition in AI and semiconductors, with countries like the US and China investing heavily.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/tianxingchen/Embodied-AI-Guide">GitHub - TianxingChen/Embodied-AI-Guide: [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide · GitHub</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RISC-V">RISC-V - Wikipedia</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/开放原子开源基金会">开放原子开源基金会 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://grokipedia.com/page/Physical_AI">Physical AI</a></li>
+<li><a href="https://irisdynamics.com/articles/physical-ai-smart-linear-motors">What is Physical AI ? The Role of Smart Linear Motors in Intelligent...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open source`, `#China`, `#AI`, `#embodied intelligence`
+**Tags**: `#AI`, `#semiconductors`, `#data centers`, `#policy`
 
 ---
 
 <a id="item-13"></a>
-## [Baidu's Kunlunxin Targets $50B Valuation in Hong Kong IPO](https://www.ithome.com/0/969/732.htm) ⭐️ 6.0/10
+## [Apple Mac and iPad Prices Rise Due to AI Memory Demand](https://9to5mac.com/2026/06/28/heres-why-your-ipad-and-mac-just-got-much-more-expensive/) ⭐️ 6.0/10
 
-Baidu's AI chip subsidiary Kunlunxin is reportedly planning a Hong Kong IPO with a target valuation of $50 billion, and some investors are required to purchase chips worth 3-7 times their subscription amount. If successful, this would be one of the largest IPOs in the AI chip sector, highlighting the growing importance of domestic AI chips in China amid US export restrictions. Kunlunxin originally started as Baidu's internal AI chip unit in 2012 and became independent in 2021; it has already submitted a listing application to the Hong Kong Stock Exchange in January 2026.
+Apple has announced unprecedented price increases for most Mac and iPad models, attributing the hikes to memory supply pressure driven by AI data centers. This marks the first time AI infrastructure demand has directly impacted consumer hardware pricing at scale, signaling a broader trend where AI's resource hunger affects everyday electronics. The price increases are steep, with the Mac Studio M4 Max model rising by $500 and the M3 Ultra model by $1,300. Only iPhone and Apple Watch have not yet seen price hikes.
 
-rss · IT之家 · Jun 28, 22:47
+rss · 9to5Mac · Jun 29, 02:33
 
-**Background**: Kunlunxin develops AI chips for cloud and edge computing, with its Kunlun II chip claimed to be comparable to Nvidia's A100. The company is a key player in China's push for semiconductor self-sufficiency, especially after US sanctions on advanced chip exports.
+**Background**: AI data centers require massive amounts of high-bandwidth memory (HBM) and DRAM for training and inference. This demand has diverted memory chip production away from consumer electronics, tightening supply and raising prices. Apple, which relies on DRAM for its Macs and iPads, has been absorbing costs but can no longer sustain them.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Kunlunxin">Kunlunxin - Wikipedia</a></li>
-<li><a href="https://www.straitstimes.com/business/baidus-ai-chip-unit-kunlunxin-targets-64-6-billion-hong-kong-ipo-report-says">Baidu’s AI chip unit Kunlunxin targets $64.6 billion Hong ...</a></li>
+<li><a href="https://www.eweek.com/news/apple-price-hikes-ai-memory-shortage/">Apple Raises Prices on Macs, iPads, and More as AI Drives Memory ...</a></li>
+<li><a href="https://stuff.co.za/2026/05/04/ai-data-centre-boom-leaving-short-chips/">AI data centre boom is leaving consumer electronics short of chips...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Baidu`, `#AI chips`, `#IPO`, `#Kunlunxin`, `#semiconductors`
+**Tags**: `#Apple`, `#AI data centers`, `#memory pricing`, `#hardware`
 
 ---
 
 <a id="item-14"></a>
-## [First Commercial Real Estate REITs Listed, Bank Wealth Management Funds Key Buyers](https://36kr.com/newsflashes/3873488170406915?f=rss) ⭐️ 6.0/10
+## [URTOPIA raises $28M to expand from Ebikes to exoskeletons](https://36kr.com/p/3873706225751296?f=rss) ⭐️ 6.0/10
 
-The first batch of commercial real estate REITs was listed on the Shanghai Stock Exchange, marking the expansion of China's public REITs market from infrastructure to commercial properties. Shortly after, regulators approved a second batch of six closed-end commercial real estate REITs covering business districts in Beijing, Shanghai, Shenzhen, and the Greater Bay Area. This development broadens the asset base of China's REITs market, providing new investment opportunities for institutional investors like bank wealth management funds. It also signals a shift toward normalized supply of commercial real estate REITs, which could enhance market liquidity and diversification. Bank wealth management subsidiaries such as ICBC Wealth Management and China Post Wealth Management have announced participation in the first batch of commercial real estate REITs. The second batch includes participants from state-owned enterprises, central enterprises, and foreign investors, reflecting a diverse ownership structure.
+URTOPIA, a global smart Ebike brand, has completed a Series B funding round of over 200 million RMB (about $28 million) led by Brizan Ventures and the Tongxiang City Government Industry Fund, with participation from K.B. Goh and others. The company plans to use the funds to expand into exoskeletons and outdoor embodied AI technology. This funding signals a strategic pivot from a single hardware product to a broader 'outdoor embodied AI' platform, potentially disrupting both the Ebike and exoskeleton markets. The move highlights the growing convergence of robotics, AI, and human-machine coupling in consumer applications. URTOPIA's core technology is a human-machine coupling system that integrates motors, sensors, and control units, which it plans to reuse across Ebikes and exoskeletons. The company also acquired the assets of Pedego, a North American Ebike retail chain, to strengthen its offline presence.
 
-rss · 36氪 · Jun 28, 23:55
+rss · 36氪 · Jun 29, 03:38
 
-**Background**: REITs (Real Estate Investment Trusts) are investment vehicles that own income-producing real estate and distribute most of their taxable income to investors as dividends. China's public REITs market initially focused on infrastructure assets like toll roads and utilities; the inclusion of commercial real estate represents a significant expansion. Bank wealth management funds are increasingly seeking alternative assets amid low interest rates and an 'asset shortage' environment.
+**Background**: Embodied AI refers to AI systems that have a physical body and can perceive and act in the real world. Human-machine coupling involves real-time interaction between a human and a machine, such as an Ebike adjusting power assistance based on the rider's pedaling force and heart rate. Exoskeletons are wearable devices that augment human strength and endurance, sharing similar motor and control technologies with Ebikes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/不動產投資信託">不 动 产 投资信托 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://wallstreetcn.com/articles/3630560">首批公募 Reits 获批！ 一文搞懂 Reits 是 什 么</a></li>
-<li><a href="https://www.sse.com.cn/lawandrules/guide/reits/">公 募 REITs 业 务指南与流程 | 上海证券交易所</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/embodied-ai/">Embodied AI: What Is It and How to Build It?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Exoskeleton">Exoskeleton</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#REITs`, `#金融`, `#投资`, `#银行理财`, `#资本市场`
-
----
-
-<a id="item-15"></a>
-## [Chinese Banks Shut Down Standalone Credit Card Apps](https://36kr.com/newsflashes/3873467931988993?f=rss) ⭐️ 6.0/10
-
-Bank of China will fully shut down its standalone credit card app 'Binfen Shenghuo' on June 30, migrating its functions to the main banking app. Over the past few years, small and medium banks have abandoned developing independent credit card apps, merging them into mobile banking apps, while large state-owned banks and joint-stock banks have also closed offline regional centers. This consolidation signals a shift in China's credit card industry from expansion to cost optimization, reflecting a broader trend of digital transformation and operational efficiency in banking. It may reduce customer choice but streamline services and lower costs for banks. The move affects both online and offline operations: credit card functions are being integrated into main banking apps, and physical regional centers are being closed. This restructuring is driven by the need to optimize costs after years of rapid expansion.
-
-rss · 36氪 · Jun 28, 23:35
-
-**Background**: Chinese banks previously launched standalone credit card apps to capture market share during a period of rapid credit card issuance. However, as the market matures and customer acquisition costs rise, maintaining separate apps has become less economical. Consolidating into a single banking app reduces development and maintenance costs while improving user engagement.
-
-**Tags**: `#fintech`, `#banking`, `#app consolidation`, `#China`
+**Tags**: `#funding`, `#ebike`, `#exoskeleton`, `#embodied AI`, `#startup`
 
 ---

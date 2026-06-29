@@ -5,7 +5,7 @@ date: 2026-06-29
 lang: zh
 ---
 
-> 从 205 条内容中筛选出 34 条重要资讯。
+> 从 262 条内容中筛选出 33 条重要资讯。
 
 ---
 
@@ -13,417 +13,406 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [人类世岩石模糊自然与人工界限](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [有组织暴力作为一种职业](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上的文章探讨了人造材料如何创造新型岩石，挑战传统地质学分类，并引入了“技术化石”和人类世的概念。 这一视角开辟了一个全新的领域——人类地质学，重新定义了岩石的范畴，迫使地质学家将人类活动视为一种地质力量，对理解地球未来的地层具有重要意义。 文章强调这些奇怪的新岩石既不完全自然也不完全人工，扩展了地质学的边界。例子包括塑料、混凝土和其他技术化石，它们将在数百万年的地质记录中持续存在。
+  > Raúl Zepeda Gil 的文章将有组织暴力重新定义为一种职业，认为社会在合法和非法领域都依赖“暴力专家”。 这一视角挑战了关于暴力工作者的常见假设，提供了社会学视角，有助于政策制定和公众对有组织犯罪及国家暴力的理解。 文章借鉴社会学和犯罪学，探讨个人为何选择有组织暴力职业，并将合法与非法暴力视为一个连续体。
 
-- [无人类未来：尼克·兰德的加速主义](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [人造岩石重新定义地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个技术和资本主义推动人类走向过时的未来。 这篇文章介绍了加速主义，一种挑战关于技术、资本主义和人类能动性假设的激进哲学运动，为不熟悉大陆哲学的技术专业人士开辟了新的思想领域。 文章审视了兰德关于后人类未来的黑暗愿景，其中“技术资本奇点”使人类变得过时。兰德的工作也促成了“黑暗启蒙”，认为民主政策只是延缓了加速。
+  > 这篇文章探讨了如塑质砾岩和技术化石等奇特新岩石的出现，它们由人类活动形成，模糊了自然与人造的界限，定义了一个名为“人类世”的新地质时代。 这挑战了传统地质学的边界，迫使我们重新思考什么是自然的，凸显了人类对地球地质记录的永久影响。 塑质砾岩由塑料碎片熔化并与沙子和岩石等天然材料融合形成，可能作为未来化石留存。技术化石包括人类技术的矿化痕迹，从古代工具到现代基础设施。
 
-- [多迷走神经理论：连接与修复的神经生物学](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
+- [尼克·兰德加速主义：无人的未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > 一篇新文章探讨了多迷走神经理论如何解释自主神经系统在塑造社会连接、破裂与修复中的作用，强调“故事跟随状态”。 该框架连接了神经科学、心理学和人际动力学，为理解人类行为提供了一个范式转换的视角，这是大多数技术专业人士从未接触过的。 多迷走神经理论由 Stephen Porges 于 1994 年提出，认为迷走神经有两个不同的分支——腹侧迷走神经（社会参与）和背侧迷走神经（静止不动）——超越了传统的交感/副交感二分法。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学认为技术和资本主义的加速将不可避免地导致后人类未来，并审视了它对恐怖分子和科技精英的影响。 这篇文章引入了一种对技术和资本主义的激进批判，挑战了关于人类能动性的假设，为科技专业人士提供了理解塑造硅谷和极端主义运动的意识形态暗流的新视角。 英国哲学家尼克·兰德普及了加速主义，该主义主张加速资本主义进程以实现激进的社会变革。文章强调兰德的理念如何被极右翼恐怖分子和硅谷超人类主义者所采纳。
 
-- [有组织暴力作为一种职业](https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal) ⭐️ 8.0/10
+- [多迷走神经理论：社会连接的生物学基础](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > Raúl Zepeda Gil 在 Aeon 上的文章将有组织暴力视为一种正当职业，分析了促使个人成为暴力工作者的经济和社会诱因。 这一视角挑战了传统的道德框架，为理解人们为何选择有组织暴力职业提供了新的社会学视角，对犯罪学和政策制定具有启示意义。 文章借鉴社会学和犯罪学，探讨暴力的劳动力市场，认为暴力工作者是响应结构性条件的理性行动者。
+  > The Marginalian 上的一篇新文章探讨了多迷走神经理论，揭示了神经系统如何通过迷走神经的双重分支来调控社会连接、断裂与修复。 这一框架将人类互动的理解从认知转向具身化，为创伤治疗、关系修复和心理健康提供了新视角。 多迷走神经理论由 Stephen Porges 于 1994 年提出，提出了用于社会参与的腹侧迷走系统和用于静止的背侧迷走系统，但受到神经解剖学家和进化生物学家的批评。
 
 ---
 
 ## 🧬 人性与行为
 
-- [关怀外部性：情感投入作为隐性成本](https://www.lesswrong.com/posts/vbduAfarootZidZe7/care-externalities) ⭐️ 9.0/10
+- [关怀外部性：被忽视的关爱成本](https://www.lesswrong.com/posts/vbduAfarootZidZe7/care-externalities) ⭐️ 9.0/10
 
-  > 一篇 LessWrong 文章指出，个人决策通过家人和朋友的情感投入产生显著的外部性，其影响可与空气污染等环境外部性相提并论。 这一见解将经济外部性理论扩展到社会关系，强调个人生活选择对他人产生广泛且未被计入的情感影响，可能影响政策和个人决策。 作者估计，考虑到众多家人和朋友的情感投入，个人私人决策中未被计入的情感影响至少与对空气污染、城市密度或交通拥堵的边际贡献相当。
+  > 文章提出了“关怀外部性”这一概念，即个人决策对关心他们的人产生的未被计入的影响，并认为其重要性可能不亚于污染等环境外部性。 这一观点挑战了传统经济学和行为模型，揭示了一种普遍存在但被忽视的外部性来源，可能重塑我们对决策、社会福利和政策设计的理解。 作者认为，对于普通人而言，个人生活选择对亲友产生的未计入影响可能与造成空气污染或交通拥堵的影响相当。
 
-- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+- [强化学习应用于预测可创造超人类预测者](https://www.lesswrong.com/posts/pQLQ5GMjQP7qKb7HS/reinforcement-learning-on-forecasting-can-give-us-a) ⭐️ 8.0/10
 
-  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于数十年的关系科学研究提出，感受到爱需要被另一个人了解。他们指出了五种常见的关于爱的误解，这些误解阻碍了人们感受到爱。 这一见解连接了幸福研究和关系科学，为人们幸福的原因提供了基于证据的答案。它挑战了流行心理学的陈词滥调，并为改善情感亲密关系提供了实用指导。 本文改编自他们即将出版的新书《如何感受到爱》，并基于对近 2000 名美国成年人的调查。许多受访者难以确定让自己感受到爱的行为，这表明渴望与行动之间存在差距。
+  > 一篇 LessWrong 文章提出将强化学习应用于预测，类似于 DeepSeek R1 在编程和数学上改进 LLM 的方式，以实现超人类预测性能。作者概述了一种可扩展的方法，让模型在 RL 环境中进行工具调用以获取实时互联网信息。 超人类预测者将使个人和组织能够通过预测结果做出更优决策，可能提升文明的总体能力。这种方法将 RL 从数学等确定性领域扩展到概率性的现实世界预测，具有广泛的实际意义。 作者指出，一种更简单的方法——将上下文收集与预测分离——会遇到性能瓶颈，受限于预生成的上下文摘要。为克服这一点，所提出的方法允许模型在 RL 环境中进行工具调用以访问实时互联网数据，即使问题已经解决。
 
 ---
 
 ## 💰 财富与复利
 
-- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产和每年 7.5 万美元版税收入的 Reddit 帖子走红，他因每天吸食大麻并玩电子游戏而被妻子称为“失败者”，这引发了关于没有目标的财务独立会导致空虚的讨论。 这个故事挑战了 FIRE 运动认为仅靠财务独立就能带来满足感的假设，强调了目标和对他人的贡献对于长期幸福和关系满意度至关重要。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元版税收入，资产年收入 12.5 万美元，而他的妻子是一名学校教师，提供医疗保险。他每天吸食大麻并玩 GTA，尽管有经济贡献，但妻子认为这种行为缺乏吸引力。
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产却每天吸食 THC 电子烟玩电子游戏的 Reddit 帖子引发了热议。文章认为，有用和投入比单纯的财富更具吸引力。 这挑战了财富本身具有吸引力的普遍假设，强调了目标和雄心在人际关系和生活满意度中的重要性。它揭示了一个关于超越金钱的复合人生资本的永恒洞见。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收益 12.5 万美元。他的妻子称他为“失败者”，因为他每天吸食大麻玩 GTA，尽管他有经济贡献。
 
-- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [贫困学生即使获得相同学位，收入仍低 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后比富裕同龄人少赚 7%，即使他们从同一所大学获得相同学位且成绩相同。 这表明社会经济背景在受教育程度之外仍影响收入，凸显了社会资本和人脉在加剧不平等中的作用。 即使控制了大学类型、学位和成绩，收入差距仍然存在，这归因于社会资本和职业网络的差异，而非学术能力。
+  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后，即使就读同一所大学、获得相同学位和成绩，收入仍比富裕同学低 7%。 这一发现挑战了高等教育能均等机会的假设，表明社会经济背景会造成持续的收入差距，并随时间累积，影响精英统治和社会流动性。 即使在控制了大学选择性、专业和成绩后，收入差距仍然存在。对于非精英四年制大学，父母收入与子女收入的斜率为 0.095，而全国范围内为 0.288，表明上大学虽能减少不平等，但无法消除它。
 
 ---
 
 ## 🧠 AI 学习
 
-- [上下文窗口≠记忆：AI 智能体开发的关键洞察](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [上下文窗口不等于记忆：AI 代理开发者须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > MachineLearningMastery.com 的一篇新文章指出，LLM 中的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩等有效记忆管理技术。 这一区别对 AI 智能体开发者至关重要，因为仅依赖上下文窗口会导致长期性能不佳和高昂成本。适当的记忆架构（如 RAG）能使智能体随时间保持连贯、可扩展的交互。 文章强调，上下文窗口大小有限且无法跨会话持久化，而智能体记忆需要外部存储和检索机制。推荐使用检索增强生成（RAG）和记忆压缩等技术来构建稳健的智能体记忆。
+  > 一篇文章解释了 LLM 中的大上下文窗口并不等同于代理记忆，并介绍了检索增强生成（RAG）和上下文压缩等有效记忆管理技术。 这一区别对 AI 代理开发者至关重要，因为混淆上下文窗口与记忆会导致代理在长时间运行的任务中失败。正确的记忆管理能提高 AI 代理的可靠性和可扩展性。 文章强调上下文窗口处理调用内推理（如 RAM），而记忆层处理会话连续性（如硬盘）。RAG 和压缩等技术被提出作为持久记忆的解决方案。
 
-- [使用 LLM 嵌入和 HDBSCAN 对非结构化文本进行聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [为随机局部波动率模型构建稳健杠杆函数](https://pub.towardsai.net/how-to-build-a-robust-leverage-function-for-stochastic-local-volatility-models-192d59934248?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 一篇教程展示了如何通过结合 LLM 嵌入与 HDBSCAN 算法对非结构化文本进行聚类，并提供了逐步实现和代码示例。 这种方法无需标注数据即可实现有效的文本聚类，对于生成式 AI 时代中的主题发现和文档组织等任务具有重要价值。 该教程使用 LLM 嵌入将文本转换为稠密向量，然后应用 HDBSCAN，该算法能处理密度不均的聚类，且无需预先指定聚类数量。
+  > 本文介绍了使用蒙特卡洛模拟为随机局部波动率（SLV）模型实现稳健杠杆函数的实用数值方法。 这项工作为量化金融从业者提供了一种可靠的方法来校准 SLV 模型，该模型广泛用于奇异期权定价和波动率风险管理。 杠杆函数由局部波动率与随机波动率的比率推导得出，蒙特卡洛方法即使在具有挑战性的市场条件下也能确保数值稳定性和准确性。
 
-- [AI 代理需要控制平面来确保执行安全](https://pub.towardsai.net/ai-agents-need-a-control-plane-before-they-touch-critical-systems-48397e1d254d?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [SkillOpt：通过迭代编辑实现智能体技能自我进化](https://pub.towardsai.net/skillopt-executive-strategy-for-self-evolving-agent-skills-9e867c92702c?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 一篇新文章指出，AI 代理需要在推理与执行之间设置控制平面，以防止通过用户指令、不可信上下文或工具输出进行操纵。代理控制平面的概念正在兴起，例如 Galileo 于 2026 年 3 月 11 日发布了开源解决方案 Agent Control。 随着 AI 代理从提供建议转向对关键系统采取行动，执行安全变得至关重要。没有控制平面，代理可能被诱骗执行有害命令，导致数据丢失、安全漏洞或系统损坏。 文章指出，仅靠人工审批是不够的，因为存在时间压力和依赖摘要的问题。更好的模型包括分类、约束、解释、审批、执行和审计操作。控制平面应在执行前检查提议的操作。
+  > 微软开源了 SkillOpt 框架，该框架通过迭代编辑优化 AI 智能体的自然语言技能策略，将技能文档视为可训练参数。它使用冻结的目标模型执行任务，并由独立的优化器模型提出有界编辑，在多个基准测试中实现了 20–40 个百分点的准确率提升。 SkillOpt 使冻结或闭源的 LLM 智能体无需更新权重即可适应新领域，降低了成本和复杂性。其零推理成本和可审计的技能文件使其适用于生产部署，可能加速自我改进型 AI 智能体的应用。 该框架包含验证门控、学习率预算（编辑预算）、拒绝编辑记忆和逐周期慢更新，以确保稳定的单调改进。最终产物是一个小的 best_skill.md 文件（通常几百个 token），可以检查、审计并在不同模型或环境中复用。
 
-- [用 Scikit-LLM 构建情感分析流水线](https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/) ⭐️ 6.0/10
+- [使用本地编码代理与开源权重模型](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 7.0/10
 
-  > 一篇教程展示了如何使用 Scikit-LLM 构建端到端的情感分析流水线，该工具将大语言模型（LLM）集成到 scikit-learn 工作流中。 这种方法弥合了传统机器学习流水线与现代 LLM 之间的差距，使开发者能够在不放弃熟悉的 scikit-learn 接口的情况下利用强大的语言模型。 Scikit-LLM 允许用户用基于 LLM 的文本分析替换 TF-IDD 等特征提取步骤，同时仍使用 scikit-learn 的估计器进行分类。教程涵盖了从数据预处理到模型评估的整个流水线。
+  > 这很重要，因为它使开发者无需支付订阅费即可运行强大的编码代理，可能降低成本，并增强对 AI 工具的隐私和控制。 文章提供了设置本地编码代理的实用教程，包括模型选择、硬件要求以及性能与成本之间权衡的技术细节。
 
-- [AI 代理工具设计：实用指南与常见陷阱](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) ⭐️ 6.0/10
+- [LLM 嵌入与 HDBSCAN 文本聚类教程](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > Machine Learning Mastery 上的一篇新文章为 AI 代理使用的工具设计提供了实用指南，讨论了有效模式和常见错误。 随着 AI 代理越来越普及，精心设计的工具对其性能和可靠性至关重要；本指南帮助从业者避免常见陷阱。 文章涵盖了工具接口设计、错误处理和上下文管理等主题，但缺乏深入的技术细节或数学严谨性。
+  > 一篇教程展示了如何通过结合 LLM 嵌入与 HDBSCAN 聚类算法对非结构化文本进行聚类，超越了典型的基于聊天的 LLM 应用。 这种方法无需手动标注即可实现实用的文本挖掘和组织，将 LLM 的用途扩展到数据分析和知识管理任务。 该教程可能涵盖通过 LLM 生成嵌入，然后应用 HDBSCAN 发现相似文本的聚类，并包含 Python 实现细节。
 
 ---
 
 ## ✍️ 表达提升
 
-- [比尔·格利谈改善思维的思维模型](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 7.0/10
 
-  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 播客中分享了他从风险投资和复杂性科学中总结的思维模型。 这些思维模型有助于提升决策能力并理解复杂系统，对商业、技术和科学领域的专业人士极具价值。 格利强调了解一个领域的历史基础（基石）和当前前沿（尖端）的重要性，并以皮克斯的约翰·拉塞特为例说明。
+  > 著名风险投资家、圣塔菲研究所董事会成员比尔·格利在《知识项目》播客新一期节目中探讨了心智模型与系统思维。 这期节目通过应用心智模型和复杂性科学，为提升推理和决策能力提供了宝贵见解，这对于应对不确定环境至关重要。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并附有文字稿。格利借鉴了他在 Benchmark 的经历以及在圣塔菲研究所的工作。
 
-- [如何修复和滋养你的肠道](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 5.0/10
+- [让音乐“更好听”的代价：频响、动态与不可逆损失的可视化](https://sspai.com/post/111462) ⭐️ 7.0/10
 
-  > 医生兼微生物组研究员 Giulia Enders 在 Farnam Street 的播客节目中讨论了肠道如何影响消化、免疫、情绪和整体健康。 这次对话凸显了人们对肠脑轴日益增长的认识，该轴将肠道健康与心理健康和认知功能联系起来，为改善身心健康提供了见解。 该播客基于 Enders 博士的研究和畅销书，涵盖了修复和滋养肠道的实用建议，包括饮食和生活方式的改变。
+  > 这篇文章解释了如何优化音响系统以获得更好的频响和响度，反而可能导致听感疲劳，并在响度归一化后暴露缺陷。 它提供了一个反直觉的见解，挑战了音频工程中的常见假设，帮助听众和工程师理解感知质量与长期听感舒适度之间的权衡。 文章通过可视化展示了激进的优化如何导致动态范围的不可逆损失，并引入失真，这些失真在归一化后变得明显。
 
-- [四款笔记软件的个人探索之旅](https://sspai.com/post/110935) ⭐️ 4.0/10
+- [如何修复和滋养你的肠道](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
 
-  > 作者分享了自己在 Notion、Obsidian、Logseq 和 Roam Research 四款笔记软件之间切换的个人经历，旨在寻找更好的思考环境。 这篇文章反映了知识工作者在寻找真正支持深度思考的笔记系统时的常见挣扎，突出了简单性、灵活性和结构性之间的权衡。 作者根据每款应用促进思考（而非仅仅存储笔记）的能力进行评估，并得出结论：没有完美的工具，最佳选择取决于个人工作流程。
+  > 医生兼微生物组研究员 Giulia Enders 博士在一期播客中讨论了肠道如何影响消化、免疫、情绪和整体健康。 该内容之所以重要，是因为它提供了关于肠道在整体健康中作用的易于理解的科学见解，帮助人们做出明智的生活方式选择。 该播客由 Farnam Street 主持，涵盖肠脑轴、微生物组多样性以及肠道修复的实用技巧等主题。
 
-- [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421) ⭐️ 4.0/10
+- [四款笔记软件的使用之旅，为思考找到安身之所](https://sspai.com/post/110935) ⭐️ 4.0/10
 
-  > 作者分享了自己开始使用 Apple 在 iOS 17.2 中推出的手记应用来记录日常生活和培养感恩习惯的个人经历。 这篇文章展示了内置日记应用如何促进反思习惯和情感健康，可能影响用户将笔记融入日常生活的方式。 手记应用利用设备端机器学习来建议记录时刻，作者强调其简洁性和隐私功能是主要动力。
+  > 作者分享了自己在 Notion、Obsidian、Logseq 和 Craft 四款笔记软件之间切换的个人经历，旨在找到一个更能支持深度思考和知识管理的环境。 这篇文章反映了知识工作者在优化数字笔记工作流时常见的挣扎，突出了生产力工具在简洁性、灵活性和结构性之间的权衡。 作者根据易用性、链接能力和对长文写作的支持等标准评估了每款应用，最终选择了一个工具组合而非单一解决方案。
 
 ---
 
 ## 📜 历史的节律
 
-- [乔治亚时代同性恋男性用成人收养替代婚姻](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+- [乔治亚时代同性恋者用成人收养作为婚姻漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
 
-  > 在乔治亚时代的英格兰，同性恋男性通过合法收养成年伴侣来建立法律纽带并确保继承权，这种做法成为无法结婚的变通方案。 这一历史实践揭示了边缘群体如何长期利用法律工具来保障权利，为现代同性婚姻和民事结合辩论提供了有力的类比。 美国佐治亚州的成人收养要求至少 10 岁的年龄差，并需向法庭证明双方互利，但历史上的乔治亚英格兰做法并无此类正式要求。
+  > 在乔治亚时代的英格兰，同性恋男性通过合法收养成年恋人，建立法律约束并保障继承权，因为同性婚姻是非法的。 这一历史做法揭示了 LGBTQ+群体利用法律漏洞保护关系的模式，与现代争取婚姻平等和法律认可的斗争相呼应。 乔治亚时代的成人收养允许收养人和被收养人相互继承，形成类似婚姻的法律纽带。该做法并非专门针对同性伴侣，但被同性恋男性利用。
 
-- [1976 年英国热浪：骚乱、臭鲱鱼与教训](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
+- [1976 年英国热浪：骚乱、缺水与瓢虫瘟疫](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
 
-  > 一篇历史文章回顾了 1976 年英国热浪，详细描述了水资源短缺、社会动荡以及数十亿瓢虫聚集的现象，并与现代气候危机进行了类比。 这一叙述提供了极端天气下社会韧性与适应的永恒见解，在气候变化导致热浪愈发频繁的当下具有现实意义。 热浪导致限水、共用浴缸以及瓢虫泛滥、鲱鱼异味等怪事，凸显了基础设施和社会规范所受的考验。
+  > 一篇历史文章回顾了 1976 年英国热浪，详细描述了缺水、社会动荡以及大规模的瓢虫入侵，并与现代气候危机进行了类比。 这篇回顾文章提供了关于社会应对极端天气的教训，突显了危机行为模式，随着气候变化导致热浪更加频繁，这些模式仍然具有现实意义。 热浪导致人们共用洗澡水、情绪暴躁，以及数十亿只瓢虫漫天飞舞，展示了基础设施和社会规范所承受的压力。
 
 ---
 
 ## 📰 技术资讯
 
-1. [布朗大学教授揭露大规模 AI 作弊丑闻](#item-1) ⭐️ 8.0/10
-2. [开发者用 Claude Code 分析自己的 MRI](#item-2) ⭐️ 8.0/10
-3. [YAGNI 的成本在于期权价值，而非避免编码](#item-3) ⭐️ 8.0/10
-4. [将“人在回路中”重新定义为“智能体在回路中”](#item-4) ⭐️ 8.0/10
-5. [中国 LineShine 超算登顶 TOP500，无视美国限制](#item-5) ⭐️ 8.0/10
-6. [马斯克宣布 Grok 4.5 在 SpaceX 和特斯拉内部私测](#item-6) ⭐️ 8.0/10
-7. [福特在 AI 表现不佳后重新聘用资深工程师](#item-7) ⭐️ 8.0/10
-8. [惠普与 OpenAI 合作部署 Frontier AI 智能体平台](#item-8) ⭐️ 7.0/10
-9. [消息称苹果跳过 2nm，2028 年 A22 Pro 直奔 1.4nm](#item-9) ⭐️ 7.0/10
-10. [AI 短剧主导中国市场，流量成本飙升](#item-10) ⭐️ 7.0/10
-11. [Hack Your Summer：学生免费暑期冲刺项目](#item-11) ⭐️ 6.0/10
-12. [我国开源生态版图扩容，新增 7 个项目](#item-12) ⭐️ 6.0/10
-13. [百度昆仑芯拟赴港上市，目标估值 500 亿美元](#item-13) ⭐️ 6.0/10
-14. [首批商业不动产 REITs 上市，银行理财资金成重要买方](#item-14) ⭐️ 6.0/10
-15. [中国银行关停独立信用卡 App](#item-15) ⭐️ 6.0/10
+1. [年龄验证是言论归因的前奏](#item-1) ⭐️ 8.0/10
+2. [央行行长警告 AI 热潮可能引发全球金融危机](#item-2) ⭐️ 8.0/10
+3. [Jon Udell：将“人在回路中”重构为“代理在我们的回路中”](#item-3) ⭐️ 8.0/10
+4. [国产“异算方舟”平台破解代码迁移难题](#item-4) ⭐️ 8.0/10
+5. [AR 游戏数据被用于军事 AI 训练引发警报](#item-5) ⭐️ 8.0/10
+6. [港大教授创立全身具身智能公司，获数亿元种子轮融资](#item-6) ⭐️ 8.0/10
+7. [中国智谱 AI 声称 GLM-5.2 在网络安全领域媲美 Mythos](#item-7) ⭐️ 7.0/10
+8. [Linux 7.2-rc1 内核发布，代码超 4300 万行](#item-8) ⭐️ 7.0/10
+9. [我国轻舟试验飞船发布第二批在轨试验成果](#item-9) ⭐️ 7.0/10
+10. [宸思科技数字波束形成芯片量产，功耗降低 90%](#item-10) ⭐️ 7.0/10
+11. [海光芯正 IPO：AI 基础设施的低毛利与现金消耗](#item-11) ⭐️ 7.0/10
+12. [韩国宣布芯片、物理 AI 和 AI 数据中心重大项目计划](#item-12) ⭐️ 7.0/10
+13. [苹果 Mac 和 iPad 因 AI 内存需求涨价](#item-13) ⭐️ 6.0/10
+14. [URTOPIA 融资超 2 亿元，从电助力自行车拓展至外骨骼](#item-14) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [布朗大学教授揭露大规模 AI 作弊丑闻](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html) ⭐️ 8.0/10
+## [年龄验证是言论归因的前奏](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) ⭐️ 8.0/10
 
-布朗大学一位教授公开谴责考试中大规模使用 AI 作弊的现象，引发了关于 AI 时代学术诚信的讨论。 这一事件凸显了随着 AI 工具日益普及，重新设计评估方式以维护学术诚信的紧迫性，将影响全球高校。 教授的谴责正值人们对 AI 生成的答案破坏传统开卷考试的担忧日益加剧之际，许多教育工作者呼吁进行现场手写考试。
+一篇分析文章指出，年龄验证强制要求是迈向自动言论归因和更广泛互联网控制的垫脚石，并警告其可能引发设备认证和身份关联监控等二阶效应。 这很重要，因为它揭示了出于善意的年龄验证法律如何可能导致系统性监控和审查，影响所有互联网用户的言论自由和隐私。 文章特别提到设备认证（确保用户运行未经修改的、政府批准的操作系统）是一种补充控制手段。它还指出美国海关已在审查社交媒体账户以确保合规。
 
-hackernews · geox · 6月28日 16:41 · [社区讨论](https://news.ycombinator.com/item?id=48708991)
+hackernews · arkhiver · 6月29日 03:42 · [社区讨论](https://news.ycombinator.com/item?id=48714529)
 
-**背景**: 像 GPT-4 这样的 AI 语言模型可以生成类似人类的文本，使得在开卷作业中检测作弊变得困难。大学正在努力调整评估方法以保持学习效果。
+**背景**: 年龄验证法律要求平台在授予访问权限前验证用户年龄，通常以保护儿童为理由。批评者认为，这类机制会创建身份关联追踪和言论归因的基础设施，从而促成更广泛的审查和监控。
 
-**社区讨论**: 评论者普遍认为现场手写考试和口试是必要的，有人指出 AI 实际上可能增强学位的信号价值。其他人则质疑评分本身的目的。
+**社区讨论**: 评论者强调系统思维缺失，指出人们难以预见此类法律的二阶和三阶效应。一位评论者引用 Cory Doctorow 十年前的演讲，预测政府将控制互联网；另一位指出设备认证是并行趋势。
 
-**标签**: `#AI`, `#education`, `#academic integrity`, `#assessment`
+**标签**: `#age verification`, `#internet censorship`, `#systems thinking`, `#privacy`, `#surveillance`
 
 ---
 
 <a id="item-2"></a>
-## [开发者用 Claude Code 分析自己的 MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) ⭐️ 8.0/10
+## [央行行长警告 AI 热潮可能引发全球金融危机](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) ⭐️ 8.0/10
 
-一位开发者使用 Anthropic 的 AI 编程代理 Claude Code 分析自己的肩部 MRI 图像，发现其接受的冲击波治疗与临床指南存在潜在矛盾。 这展示了大型语言模型在个人医疗分析中的新颖实用应用，赋予患者质疑治疗的能力，并引发了关于 AI 在医疗信任和决策中角色的辩论。 该分析使用了 Claude Code（可能是 Opus 模型）解读 MRI 结果，开发者指出其接受了冲击波治疗，而指南建议对无钙化的肩袖肌腱病不使用该疗法。社区讨论中一位放射科医生提醒，超声检测钙化效果不佳。
+央行行长发出警告，称人工智能领域的巨额投资热潮可能因投机泡沫和资本错配而导致全球金融危机。 这一警告凸显了 AI 投资可能影响全球金融稳定的系统性风险，与科技行业历史上繁荣-萧条周期的模式相似。 该警告发布之际，已有超过 2 万亿美元投资于 AI 公司，人们担心资本被错误地配置到投机性项目中，而非生产性基础设施。
 
-hackernews · engmarketer · 6月28日 16:35 · [社区讨论](https://news.ycombinator.com/item?id=48708941)
+hackernews · b-man · 6月29日 01:25 · [社区讨论](https://news.ycombinator.com/item?id=48713697)
 
-**背景**: Claude Code 是 Anthropic 开发的 AI 编程代理，可通过自然语言读取代码库、编辑文件和运行命令。虽然主要用于软件开发，但此案例展示了其在医学图像分析中的应用。AI 在医学影像领域正在发展，但临床采用需要严格的验证和信任。
+**背景**: 央行行长通常监控资产泡沫和系统性风险。AI 热潮导致大量资本涌入少数公司，引发估值过高和最终崩盘的担忧，类似于互联网泡沫。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10740686/">How Artificial Intelligence Is Shaping Medical Imaging ...</a></li>
+**社区讨论**: 评论者争论 AI 投资是否本可以更好地用于基础设施和教育，一些人表示怀疑过去泡沫的教训能否被吸取。其他人则质疑如果 AI 停滞或成功，赢家场景是什么。
 
-</ul>
-</details>
-
-**社区讨论**: 社区评论反映了复杂情绪：一些用户欣赏 AI 能在无时间压力下提供第二意见，而放射科医生等专家则警告需要完整的 3D 数据集才能正确评估。其他人分享了误诊的个人经历，强调了 AI 在医疗中的潜力和风险。
-
-**标签**: `#AI in Healthcare`, `#LLM Applications`, `#Medical Imaging`, `#Patient Empowerment`, `#AI Trust`
+**标签**: `#AI`, `#finance`, `#economics`, `#risk`, `#regulation`
 
 ---
 
 <a id="item-3"></a>
-## [YAGNI 的成本在于期权价值，而非避免编码](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) ⭐️ 8.0/10
+## [Jon Udell：将“人在回路中”重构为“代理在我们的回路中”](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) ⭐️ 8.0/10
 
-Kent Beck 认为 YAGNI（You Aren't Gonna Need It）的真正成本不在于避免编写代码，而在于不编写代码的期权价值——保持未来可能性开放。他将 YAGNI 重新定义为金融期权类比，即推迟实现可以保留灵活性。 这种重新定义将 YAGNI 的讨论从简单的“不要过度设计”口号转变为微妙的经济权衡，影响开发者和团队如何对功能进行优先级排序。它还引入了现代影响，例如 AI 降低了重构成本，这可能改变何时应用 YAGNI 的计算方式。 Beck 的期权价值视角将未编写的代码视为看涨期权：你有权但无义务稍后实现。YAGNI 的成本是为该期权支付的溢价，而非代码本身。社区评论指出，AI 工具降低了重构成本，使得推迟决策更加便宜。
+Jon Udell 认为“人在回路中”这一说法将权威让给了机器，并提议将其重构为“代理在我们的回路中”，以在代理驱动的软件开发中保持人类权威和可审查性。 这一观点挑战了关于 AI 代理的主流叙事，强调人类应保持控制权，且代理辅助的工作流必须透明且可审查，这对于代码质量和 AI 生成代码的信任至关重要。 Udell 特别警告代理不要创建“不可审查的 PR”——即过大或不透明而无法进行适当审查的拉取请求。他主张代理辅助流程不应是黑箱，而应是透明的并融入现有的人类工作流。
 
-hackernews · kiyanwang · 6月28日 18:31 · [社区讨论](https://news.ycombinator.com/item?id=48710082)
+rss · Simon Willison · 6月28日 21:57
 
-**背景**: YAGNI 是极限编程（XP）中的一个原则，建议开发者仅在真正需要时实现功能，而非预判需要时。它旨在降低复杂性、节省时间并避免浪费。期权价值概念借用于金融领域，评估的是在不投入当前资源的情况下做出未来决策的灵活性。
+**背景**: 在软件开发中，“人在回路中”通常意味着人类审查或批准 AI 生成的输出。然而，随着 AI 代理能力增强，存在人类成为不透明大规模变更的被动批准者的风险。Udell 的重构通过将代理定位为开发者现有工作流中的助手，而非取代人类判断的自主行动者，重新确立了人类的主导地位。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/You_aren't_gonna_need_it">You aren't gonna need it - Wikipedia</a></li>
-<li><a href="https://www.geeksforgeeks.org/software-engineering/what-is-yagni-principle-you-arent-gonna-need-it/">YAGNI Principle in Software Development - GeeksforGeeks</a></li>
-<li><a href="https://itrevolution.com/articles/option-value-in-development-manufacturing-dora-metrics/">Option Value In Development, Manufacturing: DORA Metrics ...</a></li>
+<li><a href="https://benjamincongdon.me/blog/2025/12/10/What-I-Look-For-in-AI-Assisted-PRs/">What I Look For in AI-Assisted PRs - Ben Congdon</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍同意 Beck 的期权价值框架，phamilton 指出 AI 降低了重构成本，使 YAGNI 更具吸引力。Skybrian 警告说，这个类比可能被过度延伸，从而为无限期规划辩护。Mrkeen 分享了他个人转向编写抽象泛型以最大化灵活性的做法，而 marifjeren 则认为 YAGNI 的论点根本上依赖于预测的难度。
-
-**标签**: `#software engineering`, `#YAGNI`, `#software design`, `#technical debt`, `#AI-assisted development`
+**标签**: `#AI agents`, `#software development`, `#human-in-the-loop`, `#code review`
 
 ---
 
 <a id="item-4"></a>
-## [将“人在回路中”重新定义为“智能体在回路中”](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) ⭐️ 8.0/10
+## [国产“异算方舟”平台破解代码迁移难题](https://www.ithome.com/0/969/812.htm) ⭐️ 8.0/10
 
-Jon Udell 提出将“人在回路中”重新定义为“智能体在回路中”，强调人类仍保持控制权，邀请 AI 智能体作为协作者，而非将权力让渡给机器。 这种重新定义将叙事从人类监督 AI 转向人类主导与 AI 智能体的协作，可能影响团队如何将 AI 集成到软件开发中并保持人类主导权。 Udell 认为，智能体辅助的过程不应是黑箱；相反，智能体应生成可审查的工作，融入现有的人类工作流程，例如小型的、可审查的拉取请求。
+2026 年 6 月 29 日，由中国科学院计算机网络信息中心等单位联合研发的“异算方舟”全栈计算平台正式上线。该平台集成了代码转换大模型 BoundX 和高性能算法库“九衍枢”，可自动适配国产硬件，解决软件迁移难题。 该平台解决了国产计算生态中的关键瓶颈：将现有软件和代码迁移到国产芯片的困难。通过降低迁移门槛，它可以加速国产硬件的采用，并增强中国自主可控的计算基础设施。 平台底层“九衍枢算法库”汇集 16 款高性能计算工具，全面适配国产算力架构，核心运算性能可实现十倍以上提速。中间层部署代码转换大模型 BoundX，可自动适配多种国产算力环境，替代人工改写。
 
-rss · Simon Willison · 6月28日 21:57
+rss · IT之家 · 6月29日 02:56
 
-**背景**: 智能体软件开发是一种 AI 智能体积极参与规划、编写、测试和修改代码的方法。术语“智能体工程”由 Andrej Karpathy 提出，强调将 AI 作为工具使用，而非自主构建整个代码库。随着 AI 智能体生成大量不透明的代码变更，对不可审查的 AI 生成拉取请求的担忧日益增加。
+**背景**: 中国国产算力硬件已实现快速突破，但软件生态仍存在短板，如代码适配困难、算法效率低、工程仿真复杂等问题。这导致大量科研成果无法在国产设备上运行，制约了科研与工程效率。“异算方舟”平台旨在通过提供从算法到应用的全栈解决方案来弥合这一差距。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.agentic-dev.org/en/handbook/introduction/what-is-agentic-development">What is Agentic Development? — Handbook</a></li>
-<li><a href="https://www.ibm.com/think/topics/agentic-engineering">What is agentic engineering? - IBM</a></li>
-<li><a href="https://medium.com/@codeandbird/stop-code-review-slop-how-to-review-prs-in-ai-era-9820556b4651">Stop Code Review Slop — How to review PRs in AI era | by Code and Bird | Medium</a></li>
+<li><a href="https://www.ithome.com/0/969/812.htm">破解代码迁移难题，国产“异 算 方舟”全栈计 算 平台发布 - IT之家</a></li>
+<li><a href="https://news.china.com/domestic/945/20260629/49576366.html">国产“异算方舟”全栈计算平台正式发布_新闻频道_中华网</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-06-29/doc-iniezsuy5559398.shtml">破解代码迁移难题 国产“异算方舟”全栈计算平台正式发布_新浪财经_新浪网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#software development`, `#human-AI collaboration`, `#agentic development`
+**标签**: `#domestic computing`, `#code migration`, `#AI infrastructure`, `#high-performance computing`, `#software ecosystem`
 
 ---
 
 <a id="item-5"></a>
-## [中国 LineShine 超算登顶 TOP500，无视美国限制](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer) ⭐️ 8.0/10
+## [AR 游戏数据被用于军事 AI 训练引发警报](https://www.ithome.com/0/969/750.htm) ⭐️ 8.0/10
 
-中国的 LineShine 超级计算机以 2,198 petaflops 的性能超越美国 El Capitan 系统，登顶 TOP500 榜单。这是自 2018 年以来中国首次占据榜首位置。 这一成就表明，尽管美国对先进芯片实施贸易限制，中国在高性能计算领域仍在持续进步。它加剧了全球超级计算机竞赛，并对技术领导地位产生重大地缘政治影响。 LineShine 在 LINPACK 基准测试中达到 2,198 petaflops，超过了自 2024 年 11 月至 2026 年 6 月占据榜首的 El Capitan。TOP500 榜单每年更新两次，最新一期于 2026 年 6 月发布。
+中国国家安全部警告称，某知名 AR 游戏旗下人工智能公司收集了用户近 300 亿份环境扫描数据，并可能因与某国军工企业的合作关系，将这些数据用于训练军事用途的 AI 模型。 这一披露凸显了民用数据军事化应用的风险，威胁国家安全并侵蚀公众对 AR 及定位服务的信任。它强调了加强数据治理和用户意识的紧迫性。 该 AR 游戏的数据采集远超普通照片，捕捉三维点云、精确 GPS 坐标、海拔高度、设备朝向和时间戳，可实现高保真空间重建。数据通过用户常不加审视授予的应用权限秘密收集。
 
-rss · The Verge · 6月28日 17:20
+rss · IT之家 · 6月29日 00:51
 
-**背景**: TOP500 榜单根据 LINPACK 基准测试对全球最强大的超级计算机进行排名。超级计算机对科学研究、国家安全和工业模拟至关重要。美国对向中国出口高性能计算组件实施限制，旨在减缓其技术进步。
+**背景**: AR（增强现实）将虚拟信息叠加到现实世界，通常需要详细的环境扫描。地理空间数据对国家和国防基础设施至关重要。此前案例表明，看似无害的游戏数据可能被重新用于情报收集。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/TOP500_Supercomputer_Sites">TOP500 Supercomputer Sites</a></li>
-<li><a href="https://en.wikipedia.org/wiki/El_Capitan_(supercomputer)">El Capitan (supercomputer)</a></li>
+<li><a href="https://www.news.cn/legal/20260629/f6b3b519de604000a505525297e4a1fd/c.html">游 戏 数 据 竟被 用 于 军 事 目的？！ -新华网</a></li>
+<li><a href="https://finance.eastmoney.com/a/202606293785668676.html">游 戏 数 据 竟被 用 于 军 事 目的 国安部门重点提示三种风险 _ 东方财富网</a></li>
+<li><a href="https://www.thecover.cn/news/1kBC/gsLwO6H90qSdq8Jkw==">游 戏 数 据 竟被 用 于 军 事 目的？ 国家安全部提醒 - 封面新闻</a></li>
 
 </ul>
 </details>
 
-**标签**: `#supercomputing`, `#TOP500`, `#China`, `#technology race`, `#HPC`
+**标签**: `#AR`, `#data privacy`, `#national security`, `#AI`, `#military`
 
 ---
 
 <a id="item-6"></a>
-## [马斯克宣布 Grok 4.5 在 SpaceX 和特斯拉内部私测](https://36kr.com/newsflashes/3873481579746561?f=rss) ⭐️ 8.0/10
+## [港大教授创立全身具身智能公司，获数亿元种子轮融资](https://36kr.com/p/3868055841641476?f=rss) ⭐️ 8.0/10
 
-马斯克于 2026 年 6 月 28 日宣布，xAI 最新的大语言模型 Grok 4.5 已在 SpaceX 和特斯拉内部开启私测，该模型基于 1.5 万亿参数的 V9 基础模型，并在补充训练中加入了 Cursor IDE 编程数据。 如果 Grok 4.5 的性能确实接近或超越 Anthropic 的 Claude Opus，这将标志着 AI 模型领域的重大飞跃，加剧领先 AI 实验室之间的竞争，并可能加速先进 AI 在 SpaceX 和特斯拉运营中的整合。 早期评估显示 Grok 4.5 的性能接近甚至可能超越 Claude Opus，强化学习仍在持续优化该模型。马斯克还表示，SpaceX 在今年剩余时间里每月都将发布完全从头开始训练的新模型。
+香港大学教授李弘扬于 2026 年 4 月创立源策未来（Archon Robotics），从真格基金、高榕创投、IDG 资本、五源资本等顶级风投机构获得数亿元人民币种子轮融资。公司旨在开发通用全身人形基座模型，用于具身智能。 这家初创公司解决了具身智能的一个关键缺口：大多数训练数据缺乏全身协调信息，将机器人限制在简单的桌面任务上。源策未来专注于全身智能，可能使人形机器人能够执行开门、整理床铺等复杂现实任务，加速家用机器人的实现。 公司计划于 2026 年下半年发布其首个人形原生基座模型。团队联合创始人背景包括 UniAD（CVPR 2023 最佳论文）和华为自动驾驶 ADS 4.0 世界引擎，创始人李弘扬于 2026 年获得 RSS Early Career Award，是该奖项设立 20 年来首位华人学者。
 
-rss · 36氪 · 6月28日 23:49
+rss · 36氪 · 6月29日 01:27
 
-**背景**: Grok 是埃隆·马斯克的 AI 公司 xAI 开发的一系列大语言模型。拥有 1.5 万亿参数的 V9 基础模型代表了显著的规模提升。Cursor 是一款流行的 AI 编程工具，提供基于代理的开发环境。Claude Opus 是 Anthropic 的旗舰模型，以高级推理和编程能力著称。
+**背景**: 具身智能是指拥有物理身体以感知和与环境交互的 AI 系统。当前人形机器人通常依赖有限的数据（如第一人称视频或仅手臂轨迹），这些数据缺少全身运动信息，如重心转移或肢体协调，而这些对于需要全身交互的任务至关重要。源策未来的方法称为 Human Body Learning，旨在从人类全身运动数据中捕获和学习，以构建更强大的机器人大脑。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/">xAI unveils Grok 4.5, a significant upgrade powered by 1.5 ...</a></li>
-<li><a href="https://www.explainx.ai/blog/grok-4-5-private-beta-spacex-tesla-cursor-v9-2026">Grok 4.5 Enters Private Beta at SpaceX and Tesla — Built ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cursor_(company)">Cursor (company) - Wikipedia</a></li>
+<li><a href="https://www.archon.tech/">Archon Robotics</a></li>
+<li><a href="https://github.com/OpenDriveLab/UniAD">GitHub - OpenDriveLab/ UniAD : [ CVPR 2023 Best Paper Award]...</a></li>
+<li><a href="https://www.hkpc.org/en/our-services/smart-manufacturing/a-i-robotics/embodied-intelligence">Applying Embodied Intelligence to Industrial Operations | HKPC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#LLM`, `#Grok`, `#Elon Musk`, `#SpaceX`
+**标签**: `#robotics`, `#embodied intelligence`, `#startup`, `#AI`, `#funding`
 
 ---
 
 <a id="item-7"></a>
-## [福特在 AI 表现不佳后重新聘用资深工程师](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) ⭐️ 8.0/10
+## [中国智谱 AI 声称 GLM-5.2 在网络安全领域媲美 Mythos](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) ⭐️ 7.0/10
 
-福特汽车公司在发现仅依赖人工智能无法确保高质量产品开发后，重新聘用了被称为“灰胡子”的资深工程师。 此举凸显了人工智能在复杂工程任务中的局限性，并为那些过度依赖 AI 而忽视人类专业知识的行业敲响了警钟。 福特意识到，仅引入人工智能就能生产高质量产品的想法是错误的，因此重新聘用经验丰富的工程师来补充 AI 系统。
+中国智谱 AI 发布了开源权重的 GLM-5.2 模型，研究人员声称其在网络安全漏洞发现任务上与 Anthropic 的 Mythos 模型相当，缩小了与西方顶尖模型的差距。 这一说法意义重大，因为 Mythos 被认为在网络能力上远超其他 AI 模型；如果 GLM-5.2 确实能与之匹敌，则表明中国 AI 取得了快速进展，并可能改变 AI 驱动网络安全的格局。 GLM-5.2 是一个开源权重模型，拥有 100 万 token 的上下文窗口，采用 MIT 许可证发布，专为编码、推理和智能体工作负载设计。但目前尚未发布官方基准测试来证实其在网络安全方面的声明。
 
-rss · TechCrunch · 6月28日 19:05
+rss · The Verge · 6月28日 21:42
 
-**背景**: “灰胡子”一词指代拥有数十年经验、具备深厚领域知识的资深工程师。福特的决定反映了行业内关于 AI 与人类专业知识在工程中作用的广泛讨论。
+**背景**: Mythos 是 Anthropic 专门为发现软件漏洞而开发的大型语言模型。出于安全考虑，Anthropic 尚未公开发布 Mythos。像 GLM-5.2 这样的开源权重模型允许开发者检查和修改模型权重，促进了透明度和定制化。
 
-**标签**: `#AI`, `#engineering`, `#automotive`, `#AI limitations`, `#software engineering`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mythos_(model)">Mythos (model)</a></li>
+<li><a href="https://www.eigent.ai/blog/glm-5-2">GLM - 5 . 2 : Zhipu AI 's 1M-Token Open-Weight Coding Model</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#cybersecurity`, `#China`, `#open-weight models`, `#GLM`
 
 ---
 
 <a id="item-8"></a>
-## [惠普与 OpenAI 合作部署 Frontier AI 智能体平台](https://www.ithome.com/0/969/743.htm) ⭐️ 7.0/10
+## [Linux 7.2-rc1 内核发布，代码超 4300 万行](https://www.ithome.com/0/969/896.htm) ⭐️ 7.0/10
 
-惠普宣布与 OpenAI 达成战略合作，将在其全球业务中全面部署 Frontier AI 智能体平台，旨在提升客户体验并优化内部运营流程。 这标志着 OpenAI Frontier 平台在企业中最大规模的部署之一，预示着大型企业向 AI 智能体集成迈出重要一步，可能加速企业级 AI 的普及。 Frontier 为 AI 智能体提供共享上下文、入职培训、反馈式动手学习以及明确的权限和边界，使其能够跨不同应用程序工作，而不受单一 UI 的限制。
+Linux 7.2-rc1 内核已发布，新增缓存感知调度、性能优化、NTFS 驱动修复、英特尔 USB4 STREAM 功能，以及初步的 AMDGPU HDMI 2.1 FRL 支持。内核代码已突破 4300 万行。 此候选版本为现代硬件带来了重要改进，尤其是缓存感知调度可提升多芯片 CPU（如 AMD EPYC 和 Hygon）的性能。AMDGPU HDMI 2.1 FRL 支持是 Linux 游戏和高分辨率显示的一大进步。 缓存感知调度根据缓存拓扑优化任务放置，可能提升 MySQL 等工作负载的性能。AMDGPU HDMI 2.1 FRL 支持因缺少 VRR 支持而默认禁用，需通过内核参数启用。
 
-rss · IT之家 · 6月29日 00:16
+rss · IT之家 · 6月29日 05:37
 
-**背景**: OpenAI 于 2026 年 2 月推出了 Frontier，这是一个帮助企业大规模构建、部署和管理 AI 智能体的平台。与独立的 AI 工具不同，Frontier 使智能体能够跨业务部门协作，与现有数据和应用程序集成，无需重新部署。
+**背景**: 缓存感知调度是 Linux 内核的一项功能，它将任务调度到共享缓存的 CPU 核心上，减少缓存未命中并提升性能。HDMI 2.1 FRL（固定速率链路）可实现高刷新率下 4K/8K 显示的更高带宽。Linux 中的 NTFS 驱动提供对 Windows NTFS 文件系统的读写支持。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/thedailytechfeed_openai-launches-frontier-to-integrate-ai-activity-7425935126083215360-1-Xo">OpenAI 's Frontier Revolutionizes Workplace Collaboration... | LinkedIn</a></li>
-<li><a href="https://medium.com/agentic-builders/openai-frontier-the-dawn-of-the-ai-coworker-d7148f888297">OpenAI Frontier : The Dawn of the AI Coworker | by Ana... | Medium</a></li>
-<li><a href="https://agentcrunch.ai/article/openai-frontier-ai-agents-2026">Inside OpenAI 's Frontier Platform — and Why Every... — AgentCrunch</a></li>
+<li><a href="https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default">AMDGPU HDMI 2 . 1 FRL To Be Initially Disabled-By-Default - Phoronix</a></li>
+<li><a href="https://korben.info/en/cache-aware-scheduling-linux-patch-mysql-performance.html">Cache - aware scheduling - The Linux patch aiming for +360... - Korben</a></li>
+<li><a href="https://docs.kernel.org/next/filesystems/ntfs.html">The Linux NTFS filesystem driver — The Linux Kernel documentation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#enterprise`, `#OpenAI`, `#HP`, `#AI agents`
+**标签**: `#Linux`, `#kernel`, `#operating system`, `#release`
 
 ---
 
 <a id="item-9"></a>
-## [消息称苹果跳过 2nm，2028 年 A22 Pro 直奔 1.4nm](https://www.ithome.com/0/969/733.htm) ⭐️ 7.0/10
+## [我国轻舟试验飞船发布第二批在轨试验成果](https://www.ithome.com/0/969/891.htm) ⭐️ 7.0/10
 
-据报道，苹果正加速转向 1.4nm 制程技术，计划在 2028 年的 A22 Pro 芯片上采用台积电 1.4nm 节点，比预期更早跳过 2nm 节点，原因是 AI 需求导致的产能紧张。 这一转变凸显了 AI 需求如何重塑半导体路线图，迫使即使是苹果也不得不调整策略。如果苹果率先获得 1.4nm 初期产能，它可能在与高通、联发科等竞争对手的芯片性能竞赛中保持领先。 苹果预计将在 2025 年采用台积电 N2（2nm），2027 年采用 N2P，随后在 2028 年的 A22 Pro 上跳至 1.4nm（A14）。台积电 2nm 晶圆价格约为每片 4.5 万美元，因此提前转向 1.4nm 成本极其高昂。
+2026 年 6 月 29 日，我国轻舟试验飞船发布了第二批在轨试验成果，包括太空压缩机冰箱、未来太空医院所需的医疗设备以及生物实验等。 这些进展对长期太空任务至关重要，可实现高性价比的冷链存储、自主医疗监测和低成本生物实验，为中国空间站运行和未来深空探测提供支撑。 太空冰箱采用蒸汽压缩技术，突破了微重力下气液分离难题。其他载荷包括搭载神经芯片的肌电检测仪用于连续肌肉信号监测、手持式血液细胞分析仪，以及低成本生物保障舱。
 
-rss · IT之家 · 6月28日 23:06
+rss · IT之家 · 6月29日 05:07
 
-**背景**: 在半导体制造中，2nm 和 1.4nm 等制程节点指晶体管尺寸，更小的节点通常带来更好的性能和能效。台积电的 2nm（N2）技术采用纳米片晶体管，已于 2025 年底开始量产。1.4nm 节点（A14）是台积电继 N2 之后的下一个全节点进步，承诺进一步改进。AI 公司对芯片的巨大需求正在挤压先进节点的产能，促使苹果寻求更早获得新节点以避免供应限制。
+**背景**: 轻舟试验飞船于 2026 年 3 月 30 日发射，重 4.2 吨，采用单舱一体化构型，内部有 40 个货格，总容积约 27 立方米。它用于测试中国空间站货物运输技术，计划 2027 年发射正样件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2_nm_process">2 nm process - Wikipedia</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm">2nm Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
-<li><a href="https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14">A14 Technology - Taiwan Semiconductor Manufacturing Company ...</a></li>
+<li><a href="https://news.sciencenet.cn/sbhtmlnews/2026/4/389372.shtm?id=389372">科学网—它不只送货，还能做太空实 验</a></li>
+<li><a href="https://finance.sina.cn/tech/2026-04-22/detail-inhvhvws5992887.d.html?fromtech=1&vt=4">它不只送货，还能做太空实 验 _手机新浪网</a></li>
+<li><a href="https://m.gmw.cn/2026-04/15/content_1304419515.htm?source=msn">轻 舟 试 验 飞 船 首批科学成果发布</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#semiconductor`, `#chip manufacturing`, `#AI`, `#TSMC`
+**标签**: `#space technology`, `#China space program`, `#in-orbit experiments`, `#spacecraft`, `#biomedical`
 
 ---
 
 <a id="item-10"></a>
-## [AI 短剧主导中国市场，流量成本飙升](https://36kr.com/newsflashes/3873468605764873?f=rss) ⭐️ 7.0/10
+## [宸思科技数字波束形成芯片量产，功耗降低 90%](https://36kr.com/p/3873806295274756?f=rss) ⭐️ 7.0/10
 
-据 DataEye 数据，2025 年第一季度中国全行业上线约 12.8 万部短剧，其中 AI 短剧占比超过 95%。DataEye 副总裁林启文表示，AI 使制作成本下降约 90%，但流量成本同比上涨超过 100%，收益端下滑超过 50%。 这一数据表明，AI 已成为中国短剧行业的主导力量，但成本与收益的不可持续失衡威胁着该行业的长期发展。这一发现凸显了内容创作者和平台在 AI 驱动生产与用户获取成本不断攀升中所面临的关键挑战。 数据来自 DataEye 旗下的剧查查平台，该平台追踪超过 25 万部短剧和 2 万家公司。制作成本下降 90%归因于先进的视频生成模型和智能制作工具，而流量成本因竞争加剧而飙升。
+宸思科技完成由厦门高新投领投的新一轮融资，并于 2025 年实现数字波束形成（DBF）芯片量产。该芯片将系统功耗从约 200 瓦降低至 20 瓦，仅为传统 FPGA 方案的十分之一。 这一突破降低了数字相控阵系统的成本和功耗门槛，加速了在卫星互联网、低空经济和雷达市场的应用。同时，它展示了中国在高端通信芯片设计领域日益增强的能力，团队来自海思和中兴。 该 DBF 芯片用单颗 ASIC 替代了多颗 FPGA，在保持性能的同时降低了硬件成本和模组面积。宸思科技首先聚焦低空经济市场，并计划拓展至卫星互联网和雷达数据链。
 
-rss · 36氪 · 6月28日 23:36
+rss · 36氪 · 6月29日 05:20
 
-**背景**: 短剧是中国一种流行的移动优先视频内容形式，通常每集 1-5 分钟，节奏快。AI 技术，包括文生视频和自动剪辑，大幅降低了制作门槛，实现了规模化生产。然而，该行业严重依赖抖音、快手等平台的付费流量来触达观众，使得用户获取成为一项主要支出。
+**背景**: 数字相控阵技术利用数字波束形成（DBF）芯片以电子方式控制天线波束，相比传统模拟相控阵具有更高的灵活性和性能。DBF 芯片是此类系统的核心处理单元，负责波束形成与控制任务。传统实现依赖多颗 FPGA，功耗高且成本昂贵。宸思科技的 ASIC 方案在功耗效率和集成度上实现了显著提升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.dataeye.com/app.html">国内短剧、小说等全行业数据 - DataEye</a></li>
-<li><a href="https://www.techmami.com/detail/61ff9a10af114ac6989f42f7f0a2dba9Z5IkVyGl89">AI 短 剧 爆火背后： 成 本 降 90 ...</a></li>
+<li><a href="https://www.ebaina.com/articles/140000004884">首款 数 字 单 芯 片 毫米 波 波 束 形 成 器将利用5G功能_专栏_易百纳技术社区</a></li>
+<li><a href="https://m.elecfans.com/article/2271355.html">全数字波束形成 芯 片 的特性和应用场景-电子发烧友网</a></li>
+<li><a href="https://m.elecfans.com/article/2163995.html">浅谈 数 字 相 控 阵 雷达对无人机领域的应用-电子发烧友网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#short drama`, `#industry trends`, `#cost analysis`
+**标签**: `#digital beamforming`, `#phased array`, `#chip`, `#satellite internet`, `#low-altitude economy`
 
 ---
 
 <a id="item-11"></a>
-## [Hack Your Summer：学生免费暑期冲刺项目](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) ⭐️ 6.0/10
+## [海光芯正 IPO：AI 基础设施的低毛利与现金消耗](https://36kr.com/p/3873681978840071?f=rss) ⭐️ 7.0/10
 
-Hack Your Summer 是一个为期四周的免费生产冲刺项目，面向本科生和研究生，旨在让学生构建真实项目，以应对美国实习岗位短缺。第二期将于 7 月 13 日开始，申请截止日期为 7 月 8 日。 该计划为因招聘减少而无法获得传统实习的学生提供了替代途径，帮助他们获得实践经验并构建作品集项目。它及时应对了美国从教育到职业衔接中的危机。 该项目免费开放给本科生、研究生和应届毕业生，包括志愿者导师指导，重点在于创建可展示给未来雇主的公开作品。
+海光芯正，一家硅光子光互连产品提供商，于 2026 年 6 月 29 日在港交所上市，IPO 发售价每股 114 港元，市值约 102 亿港元。尽管营收从 2023 年的 1.75 亿元快速增长至 2025 年的 12.21 亿元，但公司毛利率仅 9%，2025 年经营活动现金流净流出 3.59 亿元，揭示了盈利困境。 这一分析挑战了 AI 基础设施“卖铲子”生意普遍盈利的叙事，表明即使是海光芯正这样的高增长公司也可能面临低毛利和现金消耗。这凸显了 AI 数据中心供应链（尤其是竞争激烈的光互连市场）中投资者的风险。 海光芯正的毛利率从 2024 年的 11.8%降至 2025 年的 9%，其最大收入来源 JDM 模式毛利率仅 3.1%。公司经营活动现金流连续三年为负，累计净流出 7.05 亿元，2025 年现金转换周期接近半年。
 
-rss · Simon Willison · 6月28日 19:26
+rss · 36氪 · 6月29日 03:13
 
-**背景**: 2025 年，美国公司大幅减少了实习招聘，导致许多学生没有暑期机会。Hack Your Summer 通过提供结构化的、有导师支持的冲刺项目来填补这一空白，类似于黑客马拉松但延长至四周。
+**背景**: 光互连产品（包括光模块、AOC 和 AEC）对于 AI 数据中心的高速数据传输至关重要。硅光子技术将光器件集成到硅芯片上，有望实现更低成本和更高集成度。海光芯正定位为“硅光第一股”，具备从芯片设计到光模块制造的端到端能力。
 
-**标签**: `#education`, `#internships`, `#student-projects`, `#career-development`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://www.iccsz.com/4g/news.Asp?ID=b704299a005c49098b858dd8b5e8c800">光 通信领域的 硅 光 技 术 -讯石 光 通讯网</a></li>
+<li><a href="https://www.eefocus.com/article/527860.html">光 和电的碰撞， 硅 光 子 技 术 如何引领创新？ - 与非网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI infrastructure`, `#IPO analysis`, `#optical interconnect`, `#financial analysis`, `#Chinese tech`
 
 ---
 
 <a id="item-12"></a>
-## [我国开源生态版图扩容，新增 7 个项目](https://www.ithome.com/0/969/742.htm) ⭐️ 6.0/10
+## [韩国宣布芯片、物理 AI 和 AI 数据中心重大项目计划](https://36kr.com/newsflashes/3873799609570564?f=rss) ⭐️ 7.0/10
 
-2026 年 6 月 26 日，开放原子开源基金会宣布我国开源生态版图新增 7 个项目，涵盖人工智能、具身智能和指令集等领域。此举旨在抢占大模型和 RISC-V 等新架构的先机，以开放基座打破技术垄断。 此次扩容标志着中国在具身智能和 RISC-V 等新兴技术领域的战略布局，有望重塑全球开源格局。随着国内活跃开源项目突破 425 万个、开发者规模达 263 万人，中国有望在 7 年内超越美国成为全球开源贡献第一大国。 这 7 个项目包括人工智能和具身智能等方向，开放原子开源基金会强调以开放基座抢占大模型和 RISC-V 架构先机。截至 2025 年底，GitHub 平台中国活跃开发者超 210 万（全球第三），计入国内平台后整体规模超 350 万（全球第二），OpenRank 贡献度位居全球第二。
+6 月 29 日，韩国总统李在明宣布，政府将加快在芯片、AI 数据中心和物理 AI 领域的投资，统筹公共和私人资源，建设完整的 AI 生态系统，以抢占竞争优势。 这一国家级战略投资表明韩国致力于在关键技术领域领先，可能重塑全球 AI 和半导体格局，并影响地区科技竞争。 李在明指出，现有的龙仁、平泽半导体产业集群的电力和供水能力已接近极限，需要开辟新的投资选址，在全国范围内扩大 AI 数据中心布局，并完善工业数据采集和利用体系以推动物理 AI 发展。
 
-rss · IT之家 · 6月29日 00:02
+rss · 36氪 · 6月29日 05:12
 
-**背景**: 开源是指将源代码开放，允许用户自由使用、修改和分发软件，促进协作创新。开放原子开源基金会成立于 2020 年，由阿里巴巴、华为等企业联合发起，是中国首家开源基金会。具身智能是指基于物理实体进行感知和行动的智能系统，而 RISC-V 是一种免费开放的指令集架构，旨在挑战 x86 和 ARM 等专有架构。
+**背景**: 物理 AI 是指与物理世界交互的 AI 系统，如机器人和自动驾驶汽车，结合了 AI 软件、传感器和执行器。韩国拥有强大的制造业基础，可作为物理 AI 发展的试验场。该公告发布之际，全球在 AI 和半导体领域竞争激烈，美国和中国等国正在大力投资。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/tianxingchen/Embodied-AI-Guide">GitHub - TianxingChen/Embodied-AI-Guide: [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide · GitHub</a></li>
-<li><a href="https://en.wikipedia.org/wiki/RISC-V">RISC-V - Wikipedia</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/开放原子开源基金会">开放原子开源基金会 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://grokipedia.com/page/Physical_AI">Physical AI</a></li>
+<li><a href="https://irisdynamics.com/articles/physical-ai-smart-linear-motors">What is Physical AI ? The Role of Smart Linear Motors in Intelligent...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open source`, `#China`, `#AI`, `#embodied intelligence`
+**标签**: `#AI`, `#semiconductors`, `#data centers`, `#policy`
 
 ---
 
 <a id="item-13"></a>
-## [百度昆仑芯拟赴港上市，目标估值 500 亿美元](https://www.ithome.com/0/969/732.htm) ⭐️ 6.0/10
+## [苹果 Mac 和 iPad 因 AI 内存需求涨价](https://9to5mac.com/2026/06/28/heres-why-your-ipad-and-mac-just-got-much-more-expensive/) ⭐️ 6.0/10
 
-据报道，百度旗下 AI 芯片子公司昆仑芯计划赴港上市，目标估值约 500 亿美元，部分投资者被要求认购价值相当于其申购金额 3-7 倍的芯片产品。 如果成功，这将是 AI 芯片领域规模最大的 IPO 之一，凸显在美国出口限制下国产 AI 芯片日益增长的重要性。 昆仑芯最初于 2012 年作为百度内部 AI 芯片部门成立，2021 年独立运营；它已于 2026 年 1 月向港交所提交了上市申请。
+苹果宣布对大部分 Mac 和 iPad 机型进行前所未有的涨价，并将涨价归因于 AI 数据中心导致的内存供应压力。 这标志着 AI 基础设施需求首次大规模直接影响消费硬件定价，预示着 AI 的资源需求将波及日常电子产品的趋势。 涨价幅度较大，Mac Studio M4 Max 型号上涨 500 美元，M3 Ultra 型号上涨 1300 美元。目前只有 iPhone 和 Apple Watch 尚未涨价。
 
-rss · IT之家 · 6月28日 22:47
+rss · 9to5Mac · 6月29日 02:33
 
-**背景**: 昆仑芯开发用于云和边缘计算的 AI 芯片，其昆仑 2 芯片声称性能可媲美 Nvidia A100。在美国对先进芯片出口实施制裁后，该公司是中国推动半导体自给自足的关键参与者。
+**背景**: AI 数据中心需要大量高带宽内存（HBM）和 DRAM 用于训练和推理。这种需求将内存芯片生产从消费电子产品转移，导致供应紧张和价格上涨。苹果的 Mac 和 iPad 依赖 DRAM，此前一直自行消化成本，但现已无法维持。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Kunlunxin">Kunlunxin - Wikipedia</a></li>
-<li><a href="https://www.straitstimes.com/business/baidus-ai-chip-unit-kunlunxin-targets-64-6-billion-hong-kong-ipo-report-says">Baidu’s AI chip unit Kunlunxin targets $64.6 billion Hong ...</a></li>
+<li><a href="https://www.eweek.com/news/apple-price-hikes-ai-memory-shortage/">Apple Raises Prices on Macs, iPads, and More as AI Drives Memory ...</a></li>
+<li><a href="https://stuff.co.za/2026/05/04/ai-data-centre-boom-leaving-short-chips/">AI data centre boom is leaving consumer electronics short of chips...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Baidu`, `#AI chips`, `#IPO`, `#Kunlunxin`, `#semiconductors`
+**标签**: `#Apple`, `#AI data centers`, `#memory pricing`, `#hardware`
 
 ---
 
 <a id="item-14"></a>
-## [首批商业不动产 REITs 上市，银行理财资金成重要买方](https://36kr.com/newsflashes/3873488170406915?f=rss) ⭐️ 6.0/10
+## [URTOPIA 融资超 2 亿元，从电助力自行车拓展至外骨骼](https://36kr.com/p/3873706225751296?f=rss) ⭐️ 6.0/10
 
-首批商业不动产 REITs 在上海证券交易所挂牌上市，标志着中国公募 REITs 市场从基础设施扩展到商业不动产。随后，监管机构又批准了第二批 6 单封闭式商业不动产 REITs，覆盖京沪深及大湾区商圈。 这一发展拓宽了中国 REITs 市场的资产基础，为银行理财资金等机构投资者提供了新的投资机会。它也标志着商业不动产 REITs 向常态化供给转变，可能增强市场流动性和多元化。 工银理财、中邮理财等银行理财子公司已宣布参与首批商业不动产 REITs 投资。第二批参与者包括国企、央企和外资，体现了多元化的主体结构。
+全球智能电助力自行车品牌 URTOPIA 完成 B 轮融资，总额超 2 亿元人民币，由 Brizan Ventures 与桐乡市政府产业基金领投，高秉强等跟投。公司计划将资金用于拓展至外骨骼和户外具身智能技术。 此次融资标志着 URTOPIA 从单一硬件产品向更广泛的“户外具身智能”平台战略转型，可能同时颠覆电助力自行车和外骨骼市场。此举凸显了机器人、AI 与人机耦合在消费应用中的日益融合。 URTOPIA 的核心技术是一套集成电机、传感器和控制单元的人机耦合系统，计划在电助力自行车和外骨骼之间复用。公司还收购了北美电助力自行车零售连锁品牌 Pedego 的资产，以加强线下渠道。
 
-rss · 36氪 · 6月28日 23:55
+rss · 36氪 · 6月29日 03:38
 
-**背景**: REITs（不动产投资信托基金）是持有产生收入的不动产并将大部分应税收入作为股息分配给投资者的投资工具。中国公募 REITs 市场最初专注于基础设施资产，如收费公路和公用事业；纳入商业不动产代表了重大扩展。在低利率和“资产荒”环境下，银行理财资金正越来越多地寻求另类资产。
+**背景**: 具身智能指拥有物理实体、能够感知并作用于真实世界的 AI 系统。人机耦合涉及人与机器之间的实时交互，例如电助力自行车根据骑行者的踏力和心率调整动力辅助。外骨骼是可穿戴设备，可增强人体力量和耐力，与电助力自行车共享类似的电机和控制技术。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/不動產投資信託">不 动 产 投资信托 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://wallstreetcn.com/articles/3630560">首批公募 Reits 获批！ 一文搞懂 Reits 是 什 么</a></li>
-<li><a href="https://www.sse.com.cn/lawandrules/guide/reits/">公 募 REITs 业 务指南与流程 | 上海证券交易所</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/embodied-ai/">Embodied AI: What Is It and How to Build It?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Exoskeleton">Exoskeleton</a></li>
 
 </ul>
 </details>
 
-**标签**: `#REITs`, `#金融`, `#投资`, `#银行理财`, `#资本市场`
-
----
-
-<a id="item-15"></a>
-## [中国银行关停独立信用卡 App](https://36kr.com/newsflashes/3873467931988993?f=rss) ⭐️ 6.0/10
-
-中国银行将于 6 月 30 日全面关停其独立信用卡 App“缤纷生活”，相关功能迁移至“中国银行”App。过去几年间，中小银行纷纷放弃开发信用卡独立 App，将其功能合并至手机银行 App 中，国有大行、股份行亦陆续关停线下异地分中心。 这一整合标志着中国信用卡行业从扩张转向成本优化，反映了银行业数字化转型和运营效率提升的广泛趋势。虽然可能减少客户选择，但能简化服务并降低银行成本。 此举同时影响线上和线下业务：信用卡功能被整合到主银行 App 中，线下区域中心也被关闭。这种重组是在多年快速扩张后优化成本的需求驱动的。
-
-rss · 36氪 · 6月28日 23:35
-
-**背景**: 中国银行此前推出独立信用卡 App，以在信用卡发卡快速增长期抢占市场份额。但随着市场成熟和获客成本上升，维护独立 App 变得不经济。整合到单一银行 App 可降低开发和维护成本，同时提升用户活跃度。
-
-**标签**: `#fintech`, `#banking`, `#app consolidation`, `#China`
+**标签**: `#funding`, `#ebike`, `#exoskeleton`, `#embodied AI`, `#startup`
 
 ---
