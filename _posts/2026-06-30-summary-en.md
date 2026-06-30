@@ -5,7 +5,7 @@ date: 2026-06-30
 lang: en
 ---
 
-> From 302 items, 37 important content pieces were selected
+> From 286 items, 37 important content pieces were selected
 
 ---
 
@@ -13,509 +13,510 @@ lang: en
 
 ## 🔭 Unknown Unknowns
 
-- [Human-Made Rocks Challenge Geology's Boundaries](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [Human-Made Rocks Challenge Geology](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > John MacDonald's Aeon essay introduces the concept of 'technofossils' and human-made rocks that blur the line between natural and artificial, expanding the field of geology into anthropogenic geology. This perspective opens a new lens for understanding the Anthropocene, as human activity is now creating geological materials that will persist in the rock record, challenging traditional geological categories. Technofossils include mineralized traces of early hominid tools and modern human-made materials like plastics and concrete, which could become part of Earth's future fossil record.
+  > The essay introduces the concept of 'technofossils' and anthropogenic rocks—novel rock types created by human activity that do not fit traditional geological categories. This challenges the foundations of geology and provides a tangible marker for the Anthropocene epoch, forcing scientists to reconsider what counts as 'natural' in Earth's rock record. Examples of technofossils include plastic bottles, concrete, and even altered beach rocks that incorporate melted plastic and metal. These materials will persist in the geological record for millions of years.
 
-- [Ancient Philosophy on the Household as Political](https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life) ⭐️ 9.0/10
+- [Nick Land's Dark Accelerationism: A No-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > A new essay argues that ancient philosophers like Aristotle and Xenophon treated the household (oikos) as a fundamental political and ethical community, challenging the modern assumption that domestic life is merely private and apolitical. This reframing invites readers to reconsider the public-private divide and recognize the household as a site of moral and political education, with implications for contemporary debates on domestic labor, care, and citizenship. The essay draws on Aristotle's Politics and Xenophon's Oeconomicus to show that the household was seen as a microcosm of the state, where virtues like justice and moderation were cultivated through daily practices.
+  > Aeon essay explores Nick Land's accelerationist philosophy, which envisions technology and capitalism driving humanity toward obsolescence. This radical anti-humanist critique challenges the tech industry's progressive narrative, forcing a reckoning with the darker implications of unchecked technological acceleration. Land's accelerationism departs from leftist variants by embracing capitalism as an autonomous, self-reinforcing 'war machine' that will inevitably supersede humanity.
 
-- [Nick Land's Accelerationism: A Dark Vision of Post-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Polyvagal Theory: The Neurobiology of Connection and Repair](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, arguing that humanity must accelerate technological and capitalist processes to transcend human limitations and embrace a post-human future. This essay introduces a radical intellectual territory merging cybernetics, Deleuzian thought, and dark ecology, challenging tech professionals to reconsider the ethical and existential implications of unchecked technological acceleration. Land's philosophy critiques human narcissism by confronting the inevitability of death, and his seemingly contradictory shifts in position derive from a consistent motive to critique anthropomorphizations of reality.
+  > An essay published on The Marginalian explores how polyvagal theory, developed by Stephen Porges, explains the nervous system's role in social connection, rupture, and repair, emphasizing that 'story follows state.' This framework bridges neuroscience and psychology, offering a deeper understanding of how trauma and safety shape relationships, which is valuable for mental health professionals and anyone interested in human connection. Polyvagal theory proposes that the parasympathetic nervous system has two branches: the ventral vagal system (social engagement) and the dorsal vagal system (immobilization/shutdown), challenging the traditional two-part autonomic model.
 
-- [Diatoms and the Meaning of Life](https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/) ⭐️ 9.0/10
+- [Nature Relationship Index: A New Metric for Prosperity](https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature) ⭐️ 8.0/10
 
-  > In 1703, an anonymous woman scientist published a letter in a leading scientific journal describing the discovery of diatoms—microscopic algae with intricate silica shells—on pond plants, marking an early milestone in microscopy and the study of these organisms. This story highlights the overlooked contributions of women in early science and reveals the philosophical wonder of diatoms, which produce up to 50% of Earth's oxygen and are foundational to aquatic ecosystems. The anonymous letter described diatoms as 'many pretty branches, compos'd of regular oblongs and exact figures,' with the longest side less than half a hair's breadth. Diatoms are unicellular algae with silica frustules, ranging from 2 to 2000 micrometers in size.
-
----
-
-## 🧬 Human Nature & Behavior
-
-- [Frame Error: A Third Type of Mistake Beyond Facts and Logic](https://www.lesswrong.com/posts/9cuvhhmebocLiCXpF/linkpost-frame-error) ⭐️ 9.0/10
-
-  > The LessWrong post introduces 'frame errors' as a distinct category of mistakes where correct facts and valid logic still lead to wrong conclusions due to an inadequate reasoning framework. The author provides five classes of frame errors with worked examples and tools for identification. This concept fills a gap in understanding cognitive errors beyond logical fallacies and empirical errors, offering a new lens for improving reasoning and decision-making. It is highly relevant for rationality practitioners, researchers, and anyone seeking to avoid subtle but impactful mistakes. The post distinguishes frame errors from logical fallacies (invalid inferences) and empirical errors (incorrect facts), emphasizing that the framework itself can be structurally inadequate. Examples range from classic framing effects to novel cases where the author claims to be the first to identify the error.
-
-- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
-
-  > Sonja Lyubomirsky and Harry Reis argue that feeling loved requires being known by others, based on seven years of collaborative research. This insight challenges common misconceptions about love and happiness, offering a science-backed path to improving emotional well-being. A survey of nearly 2,000 American adults found many struggle to identify actions that make them feel loved, often due to mistaken beliefs about love.
-
----
-
-## 🧠 AI Learning
-
-- [Context Windows Are Not Memory: AI Agent Design Insights](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
-
-  > The article clarifies that large context windows in LLMs are not equivalent to agent memory, and discusses techniques like retrieval-augmented generation (RAG) and context window compression for effective memory management. This distinction is crucial for AI agent developers because conflating context windows with memory leads to poor agent performance and scalability issues. Proper memory management enables agents to maintain long-term context and personalize interactions. RAG retrieves relevant information from external sources to augment LLM responses, while context window compression summarizes or prunes older content to fit within token limits. Neither technique alone provides true persistent memory.
-
-- [HyDE Boosts RAG for Conceptual Queries but Fails on Others](https://pub.towardsai.net/when-does-hyde-help-rag-i-tested-3-query-types-and-it-failed-on-two-c8946453de34?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > An empirical evaluation tested HyDE (Hypothetical Document Embeddings) on three query types—conceptual, proprietary, and keyword—and found it significantly improves retrieval for conceptual queries but degrades performance for proprietary and keyword queries due to hallucination and signal dilution. This finding provides a practical rule of thumb for RAG practitioners: HyDE is beneficial when user queries are semantically distant from document language, but harmful for exact-match or domain-specific queries. It helps developers decide when to apply HyDE in production systems. The test used a small knowledge base of 7 documents as a behavior probe, not a benchmark. For proprietary queries (e.g., internal company policy), the LLM hallucinated a fake answer, causing retrieval to target the hallucination. For keyword queries (e.g., exact product name), the extra generated text diluted the signal.
-
-- [Uncertainty Estimation in Medical AI: Knowing When to Hesitate](https://pub.towardsai.net/knowing-when-not-to-decide-uncertainty-estimation-in-medical-ai-systems-4ae40cd29b92?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > The article explains why confidence scores alone are insufficient in medical AI and introduces uncertainty estimation as a method to detect when a model's prediction may be unreliable, using perturbation-based sensitivity analysis. Uncertainty estimation is critical for safe deployment of AI in clinical settings, as it prevents overconfident misdiagnoses and ensures that clinicians are alerted when a second opinion is needed, thereby improving patient safety and trust in AI systems. The article distinguishes between aleatoric (data-inherent) and epistemic (model-knowledge) uncertainty, and proposes measuring uncertainty by observing prediction stability under small input perturbations like brightness changes or noise.
-
-- [Clustering Text with LLM Embeddings and HDBSCAN](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
-
-  > A tutorial demonstrates how to cluster unstructured text by combining LLM embeddings with the HDBSCAN algorithm, providing a practical application beyond chat interfaces. This technique enables semantic grouping of text data without labeled examples, expanding LLM utility to tasks like document organization and topic discovery. The tutorial includes implementation details and code examples, but lacks deep mathematical insight into the clustering algorithm.
-
-- [LLM Guardrails: Preventing Lies, Leaks, and Manipulation](https://pub.towardsai.net/llm-guardrails-your-ai-can-lie-leak-and-be-manipulated-here-is-how-to-stop-it-e67b5bd2f097?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > A comprehensive guide explains how to implement LLM guardrails—safety mechanisms that intercept user inputs and validate outputs—to prevent AI from lying, leaking sensitive data, or being manipulated via prompt injection and jailbreaks. Without guardrails, LLMs can cause real-world harm, as seen in the Air Canada chatbot case (wrong policy advice leading to a lawsuit) and the ChatGPT legal brief case (fabricated court citations). Implementing guardrails is critical for safe and trustworthy AI deployment. The guide covers both input guardrails (e.g., detecting prompt injection) and output guardrails (e.g., validating factual accuracy), with production-ready code examples. It emphasizes that guardrails must be layered and continuously updated to address evolving threats.
-
----
-
-## ✍️ Language & Expression
-
-- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
-
-  > Bill Gurley, a partner at Benchmark and board member of the Santa Fe Institute, shares mental models and systems thinking insights from his career in venture capital and complexity science on the Farnam Street podcast. This episode offers actionable frameworks for improving reasoning and decision-making, blending practical venture capital experience with deep complexity science principles. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a transcript. Gurley discusses topics such as founder selection criteria and defining success beyond venture capital.
-
-- [The Hidden Cost of 'Better' Sound: Fatigue and Normalization](https://sspai.com/post/111462) ⭐️ 7.0/10
-
-  > The article explains that optimizing sound systems for flatter frequency response and higher loudness can paradoxically increase listener fatigue and expose flaws after loudness normalization. This insight challenges common assumptions in audio production and consumer audio, helping engineers and listeners make more informed decisions about sound design and listening habits. The article uses visualizations to illustrate how frequency response optimization and loudness maximization lead to irreversible loss of dynamics and increased listening fatigue.
-
-- [RiseGuide Founder Discusses Expert-Led Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
-
-  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized expert-led plans for self-improvement. The interview explores the benefits of expert-led learning and how RiseGuide helps users achieve personal growth. This interview highlights the growing trend of expert-led self-improvement apps, which offer structured guidance from professionals rather than generic advice. It matters for users seeking effective, personalized growth strategies and for the broader tools-for-thought ecosystem. RiseGuide has over 1 million total downloads and 400,000 monthly active users. The app covers areas like charisma, intelligence training, and social media improvement, all guided by expert insights.
-
-- [Gut Health Expert Explains How to Repair Your Gut](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
-
-  > Dr. Giulia Enders, a physician and microbiome researcher, discusses how the gut influences digestion, immunity, mood, and overall health in a podcast episode on Farnam Street. This matters because gut health is increasingly recognized as central to overall well-being, affecting not only digestion but also mental health and immune function. Dr. Enders' insights can help people take actionable steps to improve their gut microbiome. The podcast covers topics such as the gut-brain axis, the role of diet in nurturing gut bacteria, and practical tips for repairing gut health. Dr. Enders is the author of the bestselling book 'Gut: The Inside Story of Our Body's Most Underrated Organ.'
+  > Yadvinder Malhi proposes the Nature Relationship Index (NRI) as a global metric to quantify human prosperity's dependence on nature, challenging the us-versus-nature dichotomy. The NRI reframes prosperity beyond GDP and the Human Development Index, potentially influencing policy and economic thinking to integrate ecological health. It offers a cross-disciplinary perspective from ecology and philosophy for sustainability. The NRI is under development by the Leverhulme Centre for Nature Recovery in association with the UN Human Development Reports, and is expected to feature in the 2026 Human Development Report. It identifies three cardinal dimensions: nature thriving and accessible, society treating nature with care, and regulations safeguarding the global environment.
 
 ---
 
 ## 💰 Wealth & Compounding
 
-- [Poorer Students Earn 7% Less with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > A study covering over 30 million students found that even with identical degrees from the same university, students from poorer backgrounds earn 7% less a decade after graduation. This reveals that socioeconomic background has a compounding effect on earnings beyond education, challenging the assumption that equal education ensures equal outcomes and highlighting persistent wealth inequality. The earnings gap persists even after controlling for university, degree, subject, and grades, as documented by MIT professor Anna Stansbury and NBER research. The slope of parental income vs. child income remains positive within each institution type.
+  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets but was called a "loser" by his wife for spending his days playing video games and using THC edibles has sparked a discussion on the FIRE movement. The article argues that financial independence alone is not enough; being useful and contributing to others is more attractive and fulfilling. This challenges the common FIRE narrative that accumulating wealth is the ultimate goal, highlighting that purpose and contribution are essential for a fulfilling life. It underscores the importance of "life capital"—ambition, drive, and usefulness—over mere financial capital. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, making $125k/year from assets. His wife, a school teacher, came home early to find him stoned and playing GTA, leading to the conflict. The article cites a study across 37 cultures by evolutionary psychologist David Buss showing that ambition and resourcefulness are key mate preferences.
 
-- [Being Useful Matters More Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+- [Poorer Students Earn 7% Less Even with Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets, only to be called a 'loser' by his wife for spending his days playing video games while high, has sparked a discussion on the importance of purpose in retirement. This story challenges the common FIRE (Financial Independence, Retire Early) narrative by highlighting that financial independence without purpose can lead to unhappiness and relationship strain, emphasizing that being useful is more attractive than being rich. The man has $2 million liquid, $650k in retirement, and $75k/year in royalties, but his wife sees his daily routine of getting high and playing Grand Theft Auto as a lack of ambition, suggesting that how you use your resources matters more than having them.
+  > A study by MIT professor Anna Stansbury reveals that students from poorer backgrounds earn 7% less than their wealthier peers a decade after graduation, even when they have the same degree, same university, same subject, and same grade. This finding challenges the assumption that education alone equalizes opportunities, highlighting how socioeconomic background creates persistent earnings gaps that compound over time, affecting social mobility and inequality. The research, based on over 30 million students from an NBER study, shows that even after controlling for college type, parental income still correlates with child earnings, with a slope of 0.095 for non-elite four-year colleges.
+
+---
+
+## 🧠 AI Learning
+
+- [U-Mind: Unified Real-Time Multimodal Interaction Framework](https://pub.towardsai.net/paper-walkthrough-u-mind-a-unified-framework-for-real-time-multimodal-interaction-with-c4a0dd2f8300?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > U-Mind, a CVPR 2026 paper from Tsinghua University and Meituan, proposes a unified autoregressive framework that jointly plans, reasons, and generates text, speech, and motion in real time. It introduces a two-stage training recipe and a text-first decoding strategy to prevent reasoning collapse when adding speech and motion generation. This work addresses a key challenge in multimodal LLMs: maintaining high-level reasoning while integrating multiple generation modalities. If successful, it could enable more natural and intelligent embodied agents capable of real-time, dynamic communication. U-Mind builds on the LLM decoder-based architecture, using motion tokens from VQ-VAE discretization and a text-first decoding strategy. It achieves state-of-the-art performance on multimodal interaction tasks, including synchronized speech, motion, and video generation.
+
+- [Building a New Dictionary with Events from Wikipedia Using LLMs](https://pub.towardsai.net/why-definitions-need-events-and-how-to-build-a-new-kind-of-dictionary-from-wikipedia-using-llms-094efd600871?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > The article proposes Synapedia, a four-layer lexicon that treats events as first-class definitional components, and provides a Python script that bootstraps entries from Wikipedia using LLMs. This addresses a fundamental architectural flaw in current AI knowledge representations (WordNet, Wikidata, LLMs) that fail to fully define concepts because they omit events, enabling more precise disambiguation and grounding. Synapedia uses a closed grammar of 15 semantic roles for event representation and six axioms to ensure definitions are grounded, minimal, consistent, and unique. The bootstrapping script downloads Wikipedia articles, generates entries via LLM, validates them against axioms, and outputs a JSON lexicon.
+
+- [Context Windows ≠ Memory: AI Agent Developers Take Note](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 7.0/10
+
+  > A new article clarifies that large context windows in LLMs are not equivalent to agent memory, and introduces techniques like retrieval and compression for effective memory management. This distinction is critical for AI agent developers because relying solely on context windows leads to session-limited, expensive, and noisy memory, whereas proper memory techniques enable persistent, scalable, and actionable knowledge across sessions. The article highlights that context windows are temporary and session-bound, while agent memory involves storing, retrieving, and compressing information across interactions. Techniques include retrieval-augmented generation (RAG), memory compression, and summarization.
+
+- [LLM Embeddings + HDBSCAN for Text Clustering](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+
+  > A tutorial demonstrates how to cluster unstructured text using LLM embeddings and the HDBSCAN algorithm, providing a practical implementation beyond typical chat-based LLM applications. This approach expands the utility of LLMs beyond conversational AI, enabling tasks like document organization, topic discovery, and data exploration without requiring labeled data. The tutorial uses LLM embeddings to convert text into dense vector representations, then applies HDBSCAN to cluster these vectors based on density, automatically determining the number of clusters.
+
+- [AI Systems Disagree with Themselves and Each Other on Ethics](https://pub.towardsai.net/five-ai-systems-same-prompts-twice-wildly-different-responses-a9bb2e118bd3?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > An experiment tested five leading AI systems (Claude, Gemini, GPT-5, Mistral, Cohere) on 116 ethics and safety prompts twice each, finding that systems disagreed with each other 34% to 66% of the time and often contradicted their own previous answers. This highlights a critical reliability issue in AI systems, especially for high-stakes applications like ethics and safety, where inconsistent responses could lead to unpredictable or harmful outcomes. The experiment used 60 prompts covering 15 ethical principles and 56 harm/safety scenarios, with each system answering twice and then being graded by the other four systems on a five-point scale. Disagreement rates exceeded the pre-set 15% threshold by two to four times.
+
+---
+
+## ✍️ Language & Expression
+
+- [Bill Gurley on Mental Models for Better Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+
+  > Bill Gurley, a partner at Benchmark and board member of the Santa Fe Institute, shares mental models from his career in venture capital and complexity science on the Farnam Street Knowledge Project podcast. This episode offers concrete frameworks for clearer thinking and better decision-making, drawing from Gurley's experience with Uber's hypergrowth and his study of complex systems, which can benefit investors, entrepreneurs, and anyone seeking to improve their reasoning. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a transcript. Gurley's insights are rooted in his work at Benchmark and his role at the Santa Fe Institute, where he studies complexity and systems thinking.
+
+- [The Cost of Better Sound: Frequency Response, Dynamics, and Irreversible Loss](https://sspai.com/post/111462) ⭐️ 6.0/10
+
+  > The article discusses how optimizing sound systems for frequency response and dynamics can lead to listener fatigue, and how loudness normalization exposes flaws in overly loud recordings. This matters because it highlights the trade-offs in audio engineering, reminding listeners and producers that technical optimization does not always result in a better listening experience, and that loudness normalization can reveal quality issues. The article is brief and generic, lacking specific technical details or actionable insights. It touches on the concept of listener fatigue and the pitfalls of the loudness war, but does not provide concrete examples or data.
+
+- [A Journey Through Four Note-Taking Apps for Better Thinking](https://sspai.com/post/110935) ⭐️ 5.0/10
+
+  > The author shares a personal narrative of switching between four note-taking apps—Notion, Obsidian, Logseq, and Craft—to find the ideal tool for thinking and writing. This article resonates with many users who struggle with note-taking tool fatigue, highlighting the importance of aligning tool choice with personal workflow rather than chasing features. The author ultimately settled on Obsidian for its local-first approach and extensibility, but notes that no single tool is perfect; the key is to adapt the tool to one's thinking process.
+
+- [RiseGuide Founder Interview on Expert-Led Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized, expert-led self-improvement plans. This interview highlights a growing trend of using expert-curated content for personal development, offering users structured guidance instead of generic advice. RiseGuide turns expert knowledge into actionable steps for improving skills like charisma or social media presence, and the interview discusses the philosophy behind expert-led learning.
+
+---
+
+## 🧬 Human Nature & Behavior
+
+- [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+
+  > Two leading researchers, Sonja Lyubomirsky and Harry Reis, argue that feeling known is a crucial component of feeling loved, based on seven years of collaboration and a survey of nearly 2,000 American adults. This insight challenges common misconceptions about love and happiness, offering a science-based path to improving relationships and well-being for individuals and couples. The article identifies five common misconceptions about feeling loved, such as believing that attractiveness, power, or success will lead to feeling more loved.
+
+- [Compression is Intelligence: LLMs as Compressors](https://www.lesswrong.com/posts/DStnBgofFK5FFqDJM/the-slogan-strikes-again) ⭐️ 8.0/10
+
+  > The article explains the 'Compression is Intelligence' slogan, using LLMs as an example of how compressing training data leads to learning and intelligent behavior. This insight provides a rigorous, information-theoretic foundation for understanding why large language models exhibit intelligence, connecting compression to learning in a non-obvious way. The article contrasts random text with structured mathematical writing to show how compressors exploit patterns, and argues that LLMs, being too small to memorize, must learn structure to achieve good compression.
 
 ---
 
 ## 📜 History & Patterns
 
+- [1976 UK Heatwave: Riots, Rationing, and Resilience](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 8.0/10
+
+  > A retrospective article on HistoryExtra recounts the 1976 UK heatwave, detailing how the nation faced drought, water rationing, and social unrest, with millions of ladybirds swarming and taps running dry. This historical account offers valuable lessons for modern climate resilience, as heatwaves and water scarcity become more frequent due to climate change, highlighting societal responses to extreme weather. The article describes shared baths, frayed tempers, and billions of ladybirds taking flight, illustrating the social and environmental impacts of the prolonged drought and heat.
+
 - [Georgian Queer Men Used Adult Adoption as Marriage Loophole](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
 
-  > In Georgian England, queer men legally adopted their adult partners as a workaround for same-sex marriage, securing inheritance rights and legal protection. This historical practice reveals a pattern of LGBTQ+ individuals using legal loopholes to form family bonds, highlighting parallels to modern struggles for marriage equality and legal recognition. Adult adoption created a legal parent-child relationship, which allowed the younger partner to inherit property and make medical decisions, though it also required the adoptee to legally disown their biological parents.
-
-- [1976 UK Heatwave: Social Strain and Water Shortages](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
-
-  > A historical article revisits the 1976 UK heatwave, detailing how Britons shared baths, faced frayed tempers, and witnessed billions of ladybirds taking flight. This retrospective offers valuable lessons on societal resilience and resource management during extreme weather, directly relevant to current climate crises. The heatwave caused water shortages, riots, and unusual phenomena like 'whiffy kippers' (smelly fish) due to heat. The article uses firsthand accounts to illustrate the impact.
+  > New historical research suggests that in Georgian England, queer men used adult adoption to formalize same-sex relationships and secure inheritances, as marriage was not legally available to them. This reveals a historical pattern of LGBTQ+ adaptation to legal constraints, mirroring modern debates on marriage equality and alternative legal structures for relationship recognition. Adult adoption created a legal parent-child bond, which allowed property and inheritance rights to pass between partners, effectively serving as a substitute for marriage.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [Supreme Court: Cellphone location data protected by Fourth Amendment](#item-1) ⭐️ 9.0/10
-2. [Cursor launches iOS app after SpaceX acquisition](#item-2) ⭐️ 8.0/10
-3. [Apple Releases iOS 26.5.2 Early to Counter AI-Assisted Hacks](#item-3) ⭐️ 8.0/10
-4. [Tata Electronics hack leaks iPhone 18 Pro secrets on dark web](#item-4) ⭐️ 8.0/10
-5. [DiScoFormer: Unified Transformer for Density and Score](#item-5) ⭐️ 8.0/10
-6. [South Korea's $550B+ Chip Investment to Combat RAM Shortage](#item-6) ⭐️ 8.0/10
-7. [Qwen 3.6 27B: Sweet Spot for Local Dev, But Hardware Costs Loom](#item-7) ⭐️ 7.0/10
-8. [Study: Over Half of Social Media Child Safety Features Fail](#item-8) ⭐️ 7.0/10
-9. [Anthropic and California Gov. Newsom sign discounted Claude deal](#item-9) ⭐️ 7.0/10
-10. [Arena AI leaderboard becomes $100M business](#item-10) ⭐️ 7.0/10
-11. [Proposed .self TLD Aims to Empower Self-Hosting](#item-11) ⭐️ 6.0/10
-12. [Ornith-1.0: Self-Improving Open-Source Coding Models](#item-12) ⭐️ 6.0/10
-13. [Amazon explains Fire TV's switch from Android to VegaOS](#item-13) ⭐️ 6.0/10
-14. [Apple seeks to dismiss India antitrust case as 'copy-pasted'](#item-14) ⭐️ 6.0/10
-15. [Tidal to Demonetize AI-Generated Music, Not Ban It](#item-15) ⭐️ 6.0/10
-16. [Zluda CUDA emulator for AMD loses funding, reverts to hobby](#item-16) ⭐️ 6.0/10
-17. [Report: US accounts for one-third of global carbon emission growth](#item-17) ⭐️ 6.0/10
-18. [CICC: SiC/GaN to Benefit from Data Center Power Upgrades](#item-18) ⭐️ 6.0/10
+1. [SCOTUS: Warrant Required for Cellphone Location Data](#item-1) ⭐️ 9.0/10
+2. [Meituan Releases LongCat-2.0: First Trillion-Parameter Model on Domestic Chips](#item-2) ⭐️ 9.0/10
+3. [Huawei open-sources 92B parameter openPangu-2.0-Flash model](#item-3) ⭐️ 8.0/10
+4. [China's 110-tonne Pintle Engine Sets 620s Record](#item-4) ⭐️ 8.0/10
+5. [Meta's Vistara Chip Reuses Old DDR4 Memory, Cuts AI Server Needs by 25%](#item-5) ⭐️ 8.0/10
+6. [Microsoft Launches Anthropic Claude on Azure with NVIDIA GB300](#item-6) ⭐️ 8.0/10
+7. [Kimi Valuation Hits $31.5B, ARR Surpasses $300M](#item-7) ⭐️ 8.0/10
+8. [AI-Powered Study Reveals Two Structures in Liquid Water](#item-8) ⭐️ 7.0/10
+9. [South Korea Invests $1T in Memory Chips and Humanoid Robots](#item-9) ⭐️ 7.0/10
+10. [Apple Releases Security Updates Early to Counter AI Hacking](#item-10) ⭐️ 7.0/10
+11. [Chinese AI Firm Proposes 'End-Side Native' Approach for Physical AI](#item-11) ⭐️ 7.0/10
+12. [Ex-Baidu Lab Director Raises 50M RMB for Robot World Model](#item-12) ⭐️ 7.0/10
+13. [AI adoption linked to job growth, not loss](#item-13) ⭐️ 7.0/10
+14. [Google Rolls Out Per-App Backup Controls for Android](#item-14) ⭐️ 6.0/10
+15. [Philips Hue Bridge Pro firmware update bricks hubs](#item-15) ⭐️ 6.0/10
+16. [OpenClaw Open Source AI Agent Launches Native iOS App](#item-16) ⭐️ 6.0/10
+17. [Puxing Aerospace Raises Hundreds of Millions for Spectral Satellite Constellation](#item-17) ⭐️ 6.0/10
+18. [Third-Party App Store Billing: Will Developers Still Get Paid?](#item-18) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Supreme Court: Cellphone location data protected by Fourth Amendment](https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/) ⭐️ 9.0/10
+## [SCOTUS: Warrant Required for Cellphone Location Data](https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/) ⭐️ 9.0/10
 
-In a 6-3 decision, the U.S. Supreme Court ruled that police must obtain a warrant to access detailed cellphone location data from tech companies, extending Fourth Amendment protections to digital location history. This landmark ruling significantly limits law enforcement's ability to conduct broad digital surveillance without individualized suspicion, setting a crucial precedent for privacy in the digital age. The case originated from a 2019 bank robbery where police used a geofence warrant to obtain location data from Google for all devices near the crime scene. The Court held that such sweeping requests require a warrant based on probable cause, but data requests targeting a specific known individual remain permissible.
+The Supreme Court ruled 6-3 that police need a warrant to obtain detailed cellphone location history from tech companies, extending Fourth Amendment protections to digital location data. This landmark decision sets a crucial precedent for digital privacy in the age of ubiquitous data collection, affecting how law enforcement accesses personal data and how tech companies handle user information. The ruling applies to cell site location information (CSLI) generated when phones connect to towers, even for short periods. The decision builds on the 2018 Carpenter v. United States case, which required a warrant for longer-term CSLI.
 
 rss · 9to5Mac · Jun 29, 22:29
 
-**Background**: The Fourth Amendment protects against unreasonable searches and seizures. In the digital age, courts have grappled with whether location data held by third parties like Google or Apple enjoys constitutional protection. The 2018 Carpenter v. United States decision established that historical cell-site location data requires a warrant; this ruling extends that principle to geofence warrants.
+**Background**: The Fourth Amendment protects against unreasonable searches and seizures. Historically, courts applied the 'third-party doctrine,' which held that information voluntarily shared with a third party (like a phone company) is not protected. This ruling limits that doctrine for sensitive digital data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-geofence-cell-phone-data-warrant-required-rcna345950">Supreme Court rules that broad cellphone location data sweeps...</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision">US supreme court rules geofence warrants require ... | The Guardian</a></li>
-<li><a href="https://qz.com/1312339/this-supreme-court-ruling-means-cellphone-location-data-is-now-the-last-vestige-of-your-privacy">Your cellphone location data is now the last vestige of your privacy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Carpenter_v._United_States">Carpenter v. United States - Wikipedia</a></li>
+<li><a href="https://www.brennancenter.org/our-work/policy-solutions/fourth-amendment-digital-age">The Fourth Amendment in the Digital Age - Brennan Center for ...</a></li>
+<li><a href="https://www.tylerlaw.com/police-need-warrant-cell-phone-location/">Can Police Track Your Cell Phone Without a Warrant ? | Law Office of...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#supreme court`, `#digital rights`, `#law enforcement`, `#location data`
+**Tags**: `#privacy`, `#supreme court`, `#fourth amendment`, `#digital rights`, `#law enforcement`
 
 ---
 
 <a id="item-2"></a>
-## [Cursor launches iOS app after SpaceX acquisition](https://9to5mac.com/2026/06/29/cursor-releases-iphone-and-ipad-app-following-recent-acquisition-by-spacex/) ⭐️ 8.0/10
+## [Meituan Releases LongCat-2.0: First Trillion-Parameter Model on Domestic Chips](https://www.ithome.com/0/970/320.htm) ⭐️ 9.0/10
 
-Cursor, the agentic coding platform recently acquired by SpaceX, has released its first iPhone and iPad app, enabling remote oversight of coding agents from mobile devices. This move extends Cursor's reach beyond desktop IDEs, making agentic coding more accessible and flexible for developers on the go, and signals SpaceX's intent to integrate AI coding tools into its broader ecosystem. The app focuses on remote oversight rather than full code editing, allowing developers to monitor and guide AI agents from their phone or tablet. The release follows SpaceX's acquisition of Cursor earlier in June 2026.
+Meituan has released LongCat-2.0, a trillion-parameter large language model (1.6T total parameters, ~48B activated) that was fully trained and inferred on a 50,000-card domestic computing cluster. The model supports a 1M-token context window and is open-sourced. This is the first time a trillion-parameter model has been trained entirely on domestic Chinese chips, demonstrating that China's AI hardware ecosystem can support cutting-edge large-scale model training. It reduces reliance on foreign GPUs and boosts the domestic AI supply chain. LongCat-2.0 uses a Mixture-of-Experts (MoE) architecture with dynamic activation ranging from 33B to 56B parameters, and employs LongCat Sparse Attention (LSA) to reduce computational complexity from quadratic to linear for long contexts. The model achieved a training MFU improvement of 1.5x and a steady daily throughput of over 1 trillion tokens.
 
-rss · 9to5Mac · Jun 29, 17:36
+rss · IT之家 · Jun 30, 02:55
 
-**Background**: Agentic coding uses autonomous AI agents to plan, write, test, and modify code with minimal human intervention, unlike traditional assistants that require step-by-step input. Cursor is a popular AI-powered code editor that understands entire projects. SpaceX, which includes xAI, acquired Cursor earlier this month to bolster its AI capabilities.
+**Background**: Large language models with trillions of parameters typically require thousands of high-end GPUs like NVIDIA H100s for training. Domestic Chinese chips have historically lagged in performance and ecosystem support, making large-scale training challenging. Meituan's LongCat-2.0 overcomes these hurdles through innovations in stability (e.g., HCCL exception handling, automatic fault recovery), correctness (bitwise consistency verification), and efficiency (pipeline scheduling, memory optimization).
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_coding">Agentic coding</a></li>
-<li><a href="https://cursor.com/">Cursor : AI coding agent</a></li>
+<li><a href="https://www.163.com/dy/article/L0LUTTAQ0511CPVM.html">业界首个！美团发布LongCat-2.0：总参数规模1.6万亿 全程由国产算力训练|算子|正确性|大模型|知名企业|longcat_网易订阅</a></li>
+<li><a href="https://finance.sina.com.cn/tech/digi/2026-06-30/doc-inifczzw4924616.shtml">业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型_新浪科技_新浪网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cursor`, `#SpaceX`, `#iOS app`, `#agentic coding`, `#acquisition`
+**Tags**: `#大模型`, `#国产芯片`, `#万亿参数`, `#美团`, `#AI训练`
 
 ---
 
 <a id="item-3"></a>
-## [Apple Releases iOS 26.5.2 Early to Counter AI-Assisted Hacks](https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/) ⭐️ 8.0/10
+## [Huawei open-sources 92B parameter openPangu-2.0-Flash model](https://www.ithome.com/0/970/466.htm) ⭐️ 8.0/10
 
-Apple released iOS 26.5.2, iPadOS 26.5.2, and macOS Tahoe 26.5.2 earlier than planned, bundling over 25 security fixes originally slated for the 26.6 updates. The company cited the need to reduce the window between disclosure and deployment due to AI-assisted hacking threats. This marks a significant shift in Apple's update strategy, acknowledging that AI accelerates the creation of malicious tools and forces faster patch cycles. It highlights the growing arms race between AI-powered defenses and AI-assisted attacks, affecting all Apple device users. The 26.5.2 updates address 29 critical vulnerabilities, primarily in WebKit components, though Apple stated no evidence of active exploitation. Apple is part of Anthropic's Project Glasswing and uses the Claude Mythos Preview to proactively hunt vulnerabilities.
+On June 30, 2026, Huawei officially open-sourced the openPangu-2.0-Flash model with 92 billion total parameters and 6 billion active parameters, along with its inference code and training operators. This open-source release provides the AI community with a powerful, permissively-licensed large language model that supports a 512K context window, potentially accelerating innovation in agent-based applications and reducing reliance on proprietary models. The openPangu-2.0-Flash model uses a Mixture-of-Experts (MoE) architecture with 6 billion active parameters out of 92 billion total. A larger Pro version with 505 billion total parameters and 18 billion active parameters is scheduled for open-source release in July 2026.
 
-rss · MacRumors · Jun 29, 21:14
+rss · IT之家 · Jun 30, 04:27
 
-**Background**: AI-assisted hacking uses machine learning to automate vulnerability discovery and exploit development, making attacks faster and more scalable. Traditional patch cycles may be too slow against such threats, prompting companies like Apple to accelerate releases. Apple's early deployment of security fixes originally planned for a major point release is an unusual move.
+**Background**: openPangu is Huawei's open-source AI model brand, built on Ascend native training and inference technologies to provide best practices for using Ascend hardware. The 512K context window allows the model to process very long documents, such as entire books or lengthy codebases, in a single pass.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/">iOS 26 . 5 . 2 Patches More Than 25 Security Vulnerabilities</a></li>
-<li><a href="https://www.macworld.com/article/3180118/apple-os-26-5-2-is-out-now-to-fix-dozens-of-security-vulnerabilities.html">Apple OS 26 . 5 . 2 is out now to fix dozens of security vulnerabilities</a></li>
-<li><a href="https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing">Don't wait to update: iOS 26 . 5 . 2 has more than 25 security fixes</a></li>
+<li><a href="https://www.aimadetools.com/blog/openpangu-2-complete-guide/">openPangu 2.0 Complete Guide: Huawei's 505B Model Trained ...</a></li>
+<li><a href="https://www.kucoin.com/news/flash/huawei-open-sources-9-2b-parameter-openpangu-2-0-flash-model">Huawei open-sources the 9.2B-parameter openPangu-2.0-Flash model</a></li>
+<li><a href="https://www.aimadetools.com/blog/how-to-run-openpangu-2-locally/">How to Run openPangu 2.0 Locally: Ascend and GPU Setup Guide ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#security`, `#AI`, `#cybersecurity`, `#iOS`
+**Tags**: `#AI`, `#open-source`, `#large language model`, `#Huawei`, `#NLP`
 
 ---
 
 <a id="item-4"></a>
-## [Tata Electronics hack leaks iPhone 18 Pro secrets on dark web](https://www.ithome.com/0/970/245.htm) ⭐️ 8.0/10
+## [China's 110-tonne Pintle Engine Sets 620s Record](https://www.ithome.com/0/970/435.htm) ⭐️ 8.0/10
 
-The World Leaks ransomware group hacked Apple's Indian supplier Tata Electronics and published over 200,000 files on the dark web, including confidential documents detailing iPhone 18 Pro components, supplier lists, and drop test photos. This breach exposes Apple's tightly guarded supply chain for an unreleased flagship device, potentially harming its negotiating leverage with suppliers and giving competitors and counterfeiters insight into component sourcing. At least six files list hundreds of iPhone 18 Pro components, including main circuit board chips, battery, and camera parts, with Apple's 'confidential' watermarks and internal codenames. The leak also includes Tesla parts and documents from TSMC and Qualcomm.
+Zhongke Yuhang's 110-tonne Liqing-2 pintle-type LOX/kerosene engine completed a 620-second long-duration qualification test, with a single longest continuous run of 400 seconds, setting new domestic records for thrust and operating time. This milestone demonstrates mature pintle injector and reusable engine technologies, directly supporting China's low-cost, reusable launch vehicles like Lijian-2 and Lijian-2 Heavy, which are critical for large-scale LEO satellite deployment and cargo transport. The engine uses a gas-generator cycle, achieves 50-100% thrust throttling, 95.8% combustion efficiency, specific impulse ≥275 s, and thrust-to-weight ratio >150. All main seals are metal, and integrated valve design reduces part count and weight.
 
-rss · IT之家 · Jun 29, 22:56
+rss · IT之家 · Jun 30, 04:07
 
-**Background**: Apple relies on a global network of suppliers to manufacture iPhones, and supplier agreements are typically highly confidential. Tata Electronics is a key Indian supplier central to Apple's efforts to diversify production outside China. The World Leaks group emerged in early 2025 as a successor to Hunters International, known for double extortion tactics.
+**Background**: Pintle injectors enable deep throttling and stable combustion, essential for reusable rockets. The Liqing-2 engine is the largest pintle-type engine in China by thrust. It will power the Lijian-2 and Lijian-2 Heavy reusable rockets, which use a cluster recovery scheme with common cores and boosters.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blackpointcyber.com/threat-profile/world-leaks-ransomware/">World Leaks Ransomware - Blackpoint</a></li>
-<li><a href="https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/">Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach | TechCrunch</a></li>
-<li><a href="https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/">Apple 'Concerned' Over iPhone 18 Pro Data Leak From... - MacRumors</a></li>
+<li><a href="https://www.ithome.com/0/970/435.htm">620 秒新突破：中科宇航 110 吨级力擎二号针栓式液氧煤油发动机长程鉴...</a></li>
+<li><a href="https://news.cctv.com/2026/06/30/ARTI47i9rTw3n5gigwzrgwIp260630.shtml">重复使用火箭“力箭二号” 主发动机完成长程试车</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/333735931">又双叒一项创新突破：火箭可回收“神器”——针栓式喷注器试车成功</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#supply chain`, `#Apple`, `#data breach`, `#iPhone`
+**Tags**: `#rocket engine`, `#aerospace`, `#liquid propellant`, `#reusable rocket`, `#China`
 
 ---
 
 <a id="item-5"></a>
-## [DiScoFormer: Unified Transformer for Density and Score](https://huggingface.co/blog/allenai/discoformer) ⭐️ 8.0/10
+## [Meta's Vistara Chip Reuses Old DDR4 Memory, Cuts AI Server Needs by 25%](https://www.ithome.com/0/970/387.htm) ⭐️ 8.0/10
 
-Allen AI introduces DiScoFormer, a transformer architecture that jointly learns density and score functions across multiple distributions, enabling both generative modeling and density estimation in a single model. This unification simplifies the pipeline for generative AI and density estimation tasks, potentially reducing computational overhead and enabling more flexible modeling across diverse data distributions. DiScoFormer leverages self-attention to capture dependencies across distributions, and is trained with a combined objective that includes both score matching and maximum likelihood estimation.
+Meta presented Vistara, a custom CXL ASIC that enables reusing DDR4 memory from retired servers in new DDR5-based machines, at ISCA 2026. The solution is already deployed across millions of servers and can reduce the number of servers needed for disaggregated machine learning inference by up to 25%. This innovation addresses both the global memory shortage and e-waste by extending the useful life of DDR4 memory, which typically outlasts servers by several years. It also offers significant cost savings for hyperscale operators like Meta, potentially influencing industry-wide memory reuse practices. Each Vistara ASIC supports two independent 72-bit DDR4 channels at up to 3200 MT/s, with a maximum capacity of 256 GB per chip using 64 GB DIMMs. The system uses a 3:1 ratio of DDR5 to DDR4 memory per MemServer (768 GB DDR5 + 256 GB DDR4) and relies on Transparent Page Placement (TPP) for software optimization.
 
-rss · Hugging Face Blog · Jun 29, 18:02
+rss · IT之家 · Jun 30, 03:32
 
-**Background**: Score-based generative models learn the gradient of the log-density (score) to generate samples via Langevin dynamics, while density estimation models directly learn the probability density. Previous approaches typically handled these tasks separately, often requiring different architectures or training procedures.
+**Background**: CXL (Compute Express Link) is an open interconnect standard that enables high-speed, low-latency communication between CPUs, memory, and accelerators. Memory pooling via CXL allows multiple hosts to share a common memory pool, improving utilization. Meta's Vistara is a custom CXL ASIC that specifically supports DDR4, which most commercial CXL solutions do not, enabling reuse of older memory modules.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2004.02441">[2004.02441] TraDE: Transformers for Density Estimation</a></li>
+<li><a href="https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483">Zuck saves Meta bucks by reusing memory from old servers with...</a></li>
+<li><a href="https://windowsforum.com/threads/meta-vistara-reusing-ddr4-via-cxl-asic-cuts-ai-servers-by-up-to-25.432016/">Meta Vistara: Reusing DDR4 via CXL ASIC Cuts AI Servers by Up ...</a></li>
+<li><a href="https://www.neowin.net/news/meta-is-reusing-old-ddr4-ram-in-its-servers-instead-of-buying-new-hardware/">Meta is reusing old DDR4 RAM in its servers instead ... - Neowin</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#transformer`, `#generative modeling`, `#density estimation`, `#score-based models`, `#AI research`
+**Tags**: `#Meta`, `#CXL`, `#memory reuse`, `#AI inference`, `#hardware`
 
 ---
 
 <a id="item-6"></a>
-## [South Korea's $550B+ Chip Investment to Combat RAM Shortage](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) ⭐️ 8.0/10
+## [Microsoft Launches Anthropic Claude on Azure with NVIDIA GB300](https://www.ithome.com/0/970/381.htm) ⭐️ 8.0/10
 
-South Korea announced a record $576 billion semiconductor and AI investment plan on June 29, 2026, with Samsung and SK Hynix committing 800 trillion won ($517.9 billion) to build four new chip fabrication facilities in the southwest region, aiming to double DRAM production capacity within five years. This massive investment addresses the global 'RAMageddon' memory shortage driven by AI demand for HBM and constrained conventional DRAM supply, positioning South Korea as a dominant AI hardware supplier and potentially stabilizing memory prices for consumers and tech companies. The plan includes 81 trillion won for a chip packaging cluster near Seoul, and local governments in the southwest will invest 5-20 trillion won each. The announcement came amid a class-action lawsuit against Samsung, SK Hynix, and Micron for alleged DRAM price manipulation.
+Microsoft has officially launched Anthropic's Claude models, including Claude Opus 4.8 and Claude Haiku 4.5, on the Azure cloud service via Microsoft Foundry, powered by NVIDIA GB300 Blackwell Ultra superchips. This integration brings Anthropic's advanced AI models to a major cloud platform, enabling enterprises to leverage Claude's capabilities within the Azure ecosystem, potentially accelerating AI adoption in business applications. The service runs on NVIDIA GB300 NVL72 racks with Quantum-X800 InfiniBand interconnect, and supports features like prompt caching and extended thinking for complex reasoning tasks.
 
-rss · TechCrunch · Jun 29, 18:07
+rss · IT之家 · Jun 30, 03:29
 
-**Background**: Since 2025, a global memory shortage dubbed 'RAMageddon' has escalated due to manufacturers shifting capacity to high-bandwidth memory (HBM) for AI, leaving conventional DRAM (DDR4/DDR5) undersupplied. This has caused price surges affecting smartphones, PCs, and servers, with Apple and other firms raising product prices. South Korea's Samsung and SK Hynix control over 70% of the global DRAM market.
+**Background**: Microsoft Foundry is Microsoft's enterprise AI platform for building and deploying AI applications. NVIDIA GB300 Blackwell Ultra is a next-generation AI superchip offering 50% more performance than its predecessor, with up to 288GB of HBM3E memory. Anthropic's Claude models are known for their strong reasoning and safety features.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
-<li><a href="https://blog.shi.com/business-of-it/procurement/global-memory-shortage/">What's driving the global RAM shortage? And why is it so expensive? - The SHI Resource Hub</a></li>
-<li><a href="https://wccftech.com/roundup/memory-crisis/">RAM Shortage 2026 Explained: Why AI Is Causing a DDR5 Crisis & When It Ends - Wccftech</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/dgx-gb300/">DGX GB 300 : AI Factory Infrastructure for Enterprises | NVIDIA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Foundry">Microsoft Foundry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Opus_4.8">Claude Opus 4.8</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#memory chips`, `#AI hardware`, `#semiconductor`, `#investment`, `#South Korea`
+**Tags**: `#Microsoft Azure`, `#Anthropic Claude`, `#NVIDIA GB300`, `#Cloud AI`, `#AI Infrastructure`
 
 ---
 
 <a id="item-7"></a>
-## [Qwen 3.6 27B: Sweet Spot for Local Dev, But Hardware Costs Loom](https://quesma.com/blog/qwen-36-is-awesome/) ⭐️ 7.0/10
+## [Kimi Valuation Hits $31.5B, ARR Surpasses $300M](https://36kr.com/newsflashes/3875210246418689?f=rss) ⭐️ 8.0/10
 
-Qwen 3.6 27B is highlighted as a strong local LLM option for development, but community comments reveal significant hardware cost and usability concerns for serious coding work. This discussion matters because it highlights the trade-offs between running powerful LLMs locally versus using cloud APIs, affecting developers' productivity and costs. Running Qwen 3.6 27B requires a Mac with at least 128GB unified memory, costing over $6,699, while cloud alternatives like OpenRouter offer cheaper access to larger models.
+Moonshot AI's Kimi has completed a funding round at a $20 billion valuation and has initiated a new round with a pre-money valuation of $31.5 billion, while its annual recurring revenue (ARR) exceeded $300 million in mid-June. This milestone signals strong commercial traction for Kimi, with API revenue dominating and growth resembling Anthropic's early stage, highlighting the increasing monetization potential of Chinese AI models. API revenue now accounts for over 70% of Kimi's total revenue and continues to rise, driven by model iteration that attracts more developers and increases usage.
 
-hackernews · stared · Jun 29, 17:05 · [Discussion](https://news.ycombinator.com/item?id=48721903)
+rss · 36氪 · Jun 30, 05:07
 
-**Background**: Local LLMs require significant VRAM (or unified memory on Mac) to run efficiently. Qwen 3.6 27B is a 27-billion-parameter model that excels at coding tasks, but its hardware demands make it impractical for many developers.
+**Background**: Annual Recurring Revenue (ARR) is a key metric for subscription-based businesses, calculated by multiplying monthly recurring revenue by 12. Kimi is a large language model chatbot developed by Chinese company Moonshot AI, known for its long-context capabilities. The company's revenue growth pattern mirrors that of Anthropic, a leading AI startup, where API calls from developers and overseas paying users drive revenue.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ollama.com/library/qwen3.6:27b">qwen 3 . 6 : 27 b</a></li>
-<li><a href="https://overchat.ai/ai-hub/llm-hardware-requirements">Local LLM Hardware Requirements in 2026 | AI Hub</a></li>
-<li><a href="https://medium.com/codex/the-complete-guide-to-local-llm-hardware-specs-for-running-ai-models-on-consumer-hardware-281552cbc4cb">The Complete Guide to Local LLM Hardware : Specs for... | Medium</a></li>
+<li><a href="https://pmtoolkit.ai/glossary/arr">What is ARR ( Annual Recurring Revenue )? Definition ... | PM Toolkit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members warn that running Qwen 3.6 27B on a MacBook Pro causes overheating and noise, making it unsuitable for interactive coding. They argue that cloud APIs offer better value, with $10 on OpenRouter lasting a long time for larger models.
-
-**Tags**: `#LLM`, `#local development`, `#hardware`, `#Qwen`, `#cost analysis`
+**Tags**: `#AI`, `#funding`, `#valuation`, `#API`, `#commercialization`
 
 ---
 
 <a id="item-8"></a>
-## [Study: Over Half of Social Media Child Safety Features Fail](https://www.ithome.com/0/970/253.htm) ⭐️ 7.0/10
+## [AI-Powered Study Reveals Two Structures in Liquid Water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) ⭐️ 7.0/10
 
-A study by New York University and Northeastern University tested 86 child safety features on Instagram, Snapchat, TikTok, and YouTube and found that at least 50% failed to work as advertised. This research reveals a significant gap between platform promises and actual protection, potentially leaving millions of children exposed to harmful content and unwanted contact. The study used simulated child and adult accounts to test three scenarios: normal use, teens bypassing safety features, and malicious adults evading protections. Snapchat allowed adults to find and message children without restrictions, and TikTok recommended eating disorder content to teen accounts.
+A study published in Nature Physics on June 4, 2026, used neural network-based molecular dynamics simulations to provide molecular-level evidence that liquid water consists of two interconvertible local structures: one denser and more disordered, the other less dense and more ordered. This finding confirms a long-standing hypothesis about water's anomalous properties, such as its density maximum at 4°C, and could lead to a deeper understanding of water's behavior in biological, chemical, and environmental systems. The researchers identified multidimensional reaction coordinates that capture the interconversion between the two structures, and the boundary between them is thought to terminate at a second critical point in deeply supercooled water, which is difficult to study experimentally due to rapid crystallization.
 
-rss · IT之家 · Jun 29, 23:46
+hackernews · wglb · Jun 29, 22:18 · [Discussion](https://news.ycombinator.com/item?id=48726073)
 
-**Background**: Social media platforms have long faced criticism over their handling of child safety. Features like restricting adult contact and blocking harmful content are often touted but rarely independently verified. This study provides systematic evidence of their ineffectiveness.
+**Background**: Water exhibits many anomalous properties, such as expanding when freezing and having a density maximum at 4°C, which have puzzled scientists for decades. A leading theory proposes that these anomalies arise from the coexistence of two distinct liquid structures. However, direct molecular-level evidence has been elusive until now, partly because the structures interconvert too quickly to be observed with conventional techniques.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/">Half Of Social Media Child Safety Features Don't Work, Report Claims</a></li>
-<li><a href="https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html">Many Child Safety Features on Social Apps Don’t Work, Report Finds</a></li>
-<li><a href="https://news.northeastern.edu/2026/06/29/social-media-safety-child-research/">Most Social Media Child Safety Features Fail, Study Finds</a></li>
+<li><a href="https://www.nature.com/articles/s41567-026-03301-8">Evidence for the generic existence of two local structures in ...</a></li>
+<li><a href="https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html">Scientists find molecular-level evidence for two structures ...</a></li>
+<li><a href="https://www.livescience.com/physics-mathematics/water-might-secretly-be-a-mix-of-2-different-liquids-scientists-say">Water might secretly be a mix of 2 different liquids ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The study has sparked debate, with Snap, Meta, and YouTube disputing the findings. Meta argued that the researchers made vague claims without providing examples or evidence, while the study's authors maintain their methodology was rigorous.
+**Discussion**: Commenters noted connections to hydration shells around proteins and referenced related studies on hydrogen bond networks. Some expressed excitement about potential future technologies leveraging the second critical point, while one commenter expressed skepticism about neural network-based methods, calling them "divination vibes."
 
-**Tags**: `#social media`, `#child safety`, `#research`, `#privacy`, `#platform accountability`
+**Tags**: `#physics`, `#water`, `#molecular dynamics`, `#research`
 
 ---
 
 <a id="item-9"></a>
-## [Anthropic and California Gov. Newsom sign discounted Claude deal](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) ⭐️ 7.0/10
+## [South Korea Invests $1T in Memory Chips and Humanoid Robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) ⭐️ 7.0/10
 
-Anthropic has struck a deal with California Governor Gavin Newsom to offer its AI model Claude to state agencies at half the standard price, accompanied by new executive orders on AI procurement. This deal signals growing enterprise adoption of AI in government operations and highlights a deepening relationship between Anthropic and California, contrasting with federal tensions over AI safety. California is home to 33 of the world's top 50 privately held AI companies and accounts for 25% of U.S. AI patents, giving the state significant market weight in AI procurement.
+South Korea announced a $1 trillion investment plan to expand memory chip production and develop humanoid robots, allocating $585 billion for new fabs and the remainder for robotics and AI data centers. This massive investment could reshape global semiconductor supply chains and accelerate humanoid robot deployment, but risks creating memory chip overcapacity and raises questions about the practicality of humanoid form factors. The plan includes $585 billion for new fabs to address the current memory shortage driven by AI workloads, while the robotics portion focuses on humanoid robots, which some commenters argue may not be the optimal form factor.
 
-rss · TechCrunch · Jun 29, 18:10
+hackernews · jnord · Jun 29, 22:21 · [Discussion](https://news.ycombinator.com/item?id=48726102)
 
-**Background**: Claude is a series of large language models developed by Anthropic, released as an AI chatbot in March 2023. The deal represents a deliberate, safety-conscious approach to integrating AI into government operations, contrasting with federal opposition.
+**Background**: Memory chips, especially DRAM and NAND, are essential components in electronics and AI systems. The global memory shortage in 2026, partly due to AI demand, has prompted countries to boost production. Humanoid robots are a growing field, but their form factor—bipedal, wheeled, or hybrid—remains debated.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cryptobriefing.com/anthropic-newsom-deal-california-government-ai/">Anthropic, Newsom sign deal to expand AI use in California ...</a></li>
-<li><a href="https://cagazette.com/newsom-signs-ai-procurement-executive-order-putting-california-on-a-collision-course-with-washington/">Newsom Signs AI Procurement Executive Order, Putting California ...</a></li>
-<li><a href="https://bitcoinworld.co.in/california-anthropic-claude-deal/">California Inks Deal With Anthropic To Offer Claude To State...</a></li>
+<li><a href="https://learn.rbtx.com/knowledge-resource/types-of-humanoid-robots-in-2026-a-breakdown-by-form-factor-and-mobility-architecture/">Types of Humanoid Robots in 2026: A Breakdown by Form Factor ...</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/memory-mania-how-a-once-in-four-decades">Memory Mania: How a Once-in-Four-Decades Shortage Is Fueling a Memory Boom</a></li>
+<li><a href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/">IDC - Global Memory Shortage Crisis: Market Analysis and the Potential Impact on the Smartphone and PC Markets in 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Anthropic`, `#Government`, `#Business`, `#Claude`
+**Discussion**: Commenters expressed skepticism about lumping memory chips and humanoid robots together, comparing it to 'groceries and dance lessons.' Some warned of overcapacity in memory, while others questioned why humanoid form factors are preferred over potentially more efficient designs.
+
+**Tags**: `#semiconductors`, `#humanoid robots`, `#government investment`, `#manufacturing`, `#AI`
 
 ---
 
 <a id="item-10"></a>
-## [Arena AI leaderboard becomes $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/) ⭐️ 7.0/10
+## [Apple Releases Security Updates Early to Counter AI Hacking](https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/) ⭐️ 7.0/10
 
-Arena, the popular free AI leaderboard, has reached a $100 million valuation after launching its commercial service last September. This milestone demonstrates commercial validation of community-driven AI evaluation, signaling a shift toward monetizing open benchmarking platforms. Arena's commercial service launched in September 2025, and the company reached $100M valuation within months, indicating strong market demand.
+Apple released iOS 26.5.2, iPadOS 26.5.2, and macOS 26.5.2 on June 29, 2026, containing security fixes originally planned for version 26.6, in response to AI-powered hacking risks. This marks a shift in Apple's update strategy, prioritizing rapid patching over bundling fixes into major releases, which could set a new industry standard for proactive cybersecurity against AI threats. The updates address 29 critical security vulnerabilities, primarily affecting WebKit components, and are available for iPhone, iPad, and Mac devices.
 
-rss · TechCrunch · Jun 29, 17:39
+rss · 9to5Mac · Jun 29, 23:29
 
-**Background**: Arena is a platform where users can chat with and compare various AI models, voting for the best ones to create a public leaderboard. It started as a free community project and has become a widely used benchmark in the AI industry.
+**Background**: AI-powered hacking uses machine learning to automate attacks, create convincing phishing content, and exploit vulnerabilities faster than traditional methods. Apple's Rapid Security Responses, introduced in 2023, allow delivering security fixes between major OS updates, but this is the first time the company has accelerated a full point release specifically due to AI threats.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arena.ai/">Arena AI : The Official AI Ranking & LLM Leaderboard</a></li>
-<li><a href="https://arena.ai/leaderboard">Arena Leaderboard | Compare & Benchmark the Best Frontier AI ...</a></li>
-<li><a href="https://huggingface.co/spaces/lmarena-ai/arena-leaderboard">Arena Leaderboard - a Hugging Face Space by lmarena- ai</a></li>
+<li><a href="https://support.apple.com/en-lamr/100100">Apple security releases - Apple Support</a></li>
+<li><a href="https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/">Apple says it is releasing updates early in response to AI ...</a></li>
+<li><a href="https://www.kaspersky.com/resource-center/preemptive-safety/ai-cybercrime">AI-Powered Hacking: Types of AI Cybercrime and How to Stay Safe</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#leaderboard`, `#startup`, `#valuation`
+**Tags**: `#Apple`, `#security`, `#AI`, `#cybersecurity`, `#software updates`
 
 ---
 
 <a id="item-11"></a>
-## [Proposed .self TLD Aims to Empower Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) ⭐️ 6.0/10
+## [Chinese AI Firm Proposes 'End-Side Native' Approach for Physical AI](https://36kr.com/p/3875047283659777?f=rss) ⭐️ 7.0/10
 
-A proposal for a new top-level domain (TLD) called .self has been published, designed specifically to support self-hosting by offering free subdomains to individuals and prohibiting squatting and reselling. If implemented, .self could lower barriers for individuals to host their own services, reducing reliance on centralized platforms and promoting a more decentralized internet. The proposal is still just an idea and has not been submitted to ICANN for approval; it currently lacks a clear funding model to cover the substantial costs of operating a TLD without registration fees.
+Chinese AI company Om AI released the VLX-Flow, VLX-Seek, and VLX-Go model series on June 27-29, 2026, introducing a streaming multimodal approach that prioritizes spatial understanding over the dominant VLA-world model architecture. This challenges the prevailing consensus that physical AI must rely on a tight loop between VLA and world models, potentially opening a new trillion-dollar market direction. It highlights that many physical terminals lack basic spatial perception, not just dexterous manipulation. The VLX-Flow model addresses 'continuous perception' by using Linear Attention and dual memory (visual cache + text carryover) to process video streams like flowing water, rather than frame-by-frame. The company argues that current VLA models allocate over 90% of compute to language, starving action components.
 
-hackernews · HumanCCF · Jun 29, 19:49 · [Discussion](https://news.ycombinator.com/item?id=48724230)
+rss · 36氪 · Jun 30, 03:24
 
-**Background**: Top-level domains (TLDs) like .com and .org are managed by ICANN and require significant financial and technical resources to operate. Self-hosting refers to individuals running their own servers for websites, email, or other services instead of using third-party providers.
+**Background**: Physical AI refers to AI systems that interact with the physical world, such as robots and autonomous vehicles. Vision-Language-Action (VLA) models combine visual, language, and action capabilities, while world models simulate physical dynamics to predict outcomes. The market for physical AI is projected to reach trillions of dollars by 2040.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=48724230">self: A new top - level domain designed to support self - hosting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains">List of Internet top - level domains - Wikipedia</a></li>
+<li><a href="https://neuralcoretech.com/physical-ai-architecture-vla-robotics/">Physical AI Architecture: VLA Models & Robotics Inference ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)">World model (artificial intelligence) - Wikipedia</a></li>
+<li><a href="https://www.turingpost.com/p/vlaplus">VLA Models Explained: Architecture, Types & the Leap to VLA+</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments raise concerns about abuse potential, citing the .tk TLD's history of being blocked due to scammers. Others question the financial feasibility and note that the proposal lacks technical details and ICANN approval.
-
-**Tags**: `#DNS`, `#self-hosting`, `#TLD`, `#internet governance`
+**Tags**: `#physical AI`, `#VLA`, `#world model`, `#AI investment`, `#robotics`
 
 ---
 
 <a id="item-12"></a>
-## [Ornith-1.0: Self-Improving Open-Source Coding Models](https://github.com/deepreinforce-ai/Ornith-1) ⭐️ 6.0/10
+## [Ex-Baidu Lab Director Raises 50M RMB for Robot World Model](https://36kr.com/p/3875059110221064?f=rss) ⭐️ 7.0/10
 
-DeepReinforce released Ornith-1.0, a family of open-source (MIT-licensed) agentic coding models fine-tuned from Qwen and Gemma 4, with variants from 9B to 397B parameters. The models claim self-improvement capabilities for coding tasks. Ornith-1.0 is one of the first open-source models to explicitly target self-improving agentic coding, potentially lowering the barrier for developers to use advanced coding assistants. Its mixed community reception highlights ongoing debates about benchmark reliability and real-world performance. The model family includes 9B Dense, 31B Dense, 35B MoE, and 397B MoE variants, with the 9B version fitting on a single 80GB GPU. It was evaluated on Terminal-Bench 2.1 using Claude Code with specific settings.
+Niuwa Robotics, founded by former Baidu autonomous driving lab director Dr. Yang Ruigang, has completed a 50 million RMB angel round led by Blue Lake Capital. The company is developing a 'World Traversal Model' (WTM) to enable robots to navigate complex human environments. This addresses a critical gap in embodied AI: enabling robots to safely and efficiently traverse unstructured human spaces like stairs, elevators, and crowded areas. The WTM approach could accelerate deployment of delivery robots, service robots, and humanoids across logistics, parks, and hospitality. Niuwa's proprietary physics simulator SimWeaver achieves 3x faster generation than NVIDIA Isaac Sim and 91% zero-shot success on deformable object tasks. The company plans to deploy WTM in 1-2 real-world scenarios in 2026, focusing on mapless navigation and zero-modification deployment.
 
-hackernews · danboarder · Jun 29, 17:16 · [Discussion](https://news.ycombinator.com/item?id=48722052)
+rss · 36氪 · Jun 30, 02:35
 
-**Background**: Agentic coding models are LLMs designed to autonomously write, debug, and improve code, often using tools like bash or Python. Self-improving models can refine their own outputs or training data without human intervention. Qwen and Gemma 4 are popular base models for fine-tuning due to their strong performance and open weights.
+**Background**: Embodied AI aims to give robots the ability to perceive, reason, and act in the physical world. A 'world model' is an internal representation that predicts future states and guides actions. Current approaches often separate planning (slow thinking) from control (fast reaction), but Niuwa focuses specifically on mobility—the ability to move through human environments—which it calls 'Embodied Mobility Intelligence'.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/deepreinforce-ai/Ornith-1">GitHub - deepreinforce-ai/ Ornith - 1 · GitHub</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/29/ornith/">Ornith - 1 . 0 : Self-Scaffolding LLMs for Agentic Coding</a></li>
-<li><a href="https://www.youtube.com/watch?v=GhFArv8kYJA">Ornith 1 . 0 : The Open Coding Model Built on Gemma 4 for Agentic ...</a></li>
+<li><a href="https://arxiv.org/abs/2606.01027">||tau;_0$-WM: A Unified Video-Action World Model for Robotic ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.00080">World Model for Robot Learning: A Comprehensive Survey World Model for Robot Learning: A Comprehensive Survey Robotics World Modeling World Models for Robotics Guide | world-models.io Frontiers | Robotic world models—conceptualization, review ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1668910/full">Frontiers | A review of embodied intelligence systems: a ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments show skepticism: one user noted poor performance on a specific bug-finding task and hallucination issues, while another called it a 'benchmaxxed' version of Qwen or Gemma 4. However, some users found it creative and recommended it for coding problems.
-
-**Tags**: `#open-source`, `#AI`, `#coding`, `#LLM`, `#agentic`
+**Tags**: `#robotics`, `#embodied AI`, `#autonomous navigation`, `#startup funding`, `#world model`
 
 ---
 
 <a id="item-13"></a>
-## [Amazon explains Fire TV's switch from Android to VegaOS](https://9to5google.com/2026/06/29/amazon-fire-tv-vegaos-android-interview/) ⭐️ 6.0/10
+## [AI adoption linked to job growth, not loss](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) ⭐️ 7.0/10
 
-Amazon's VP of Fire TV explained in an interview why the company is replacing Android with its in-house VegaOS on Fire TV devices, though only one part of the reasoning is convincing. This move signals a major shift for Amazon's streaming platform, potentially impacting app compatibility and user experience for millions of Fire TV users, and reflects a broader industry trend of companies building custom operating systems. The interview revealed that Amazon cites performance and control as key reasons, but critics argue the change will fragment the Android TV ecosystem and reduce app availability. VegaOS is based on Linux but not Android-compatible.
+A new report reveals that companies classified as 'high-intensity AI adopters' increased their total headcount by 10.2%, with entry-level positions rising by 12%, challenging the common belief that AI eliminates junior jobs. This finding provides data-driven evidence that AI adoption may complement rather than replace human labor, especially for entry-level roles, influencing how businesses and policymakers approach workforce planning and AI integration. The report specifically examined 'high-intensity AI adopters'—companies that heavily integrate AI into their operations—and found a net increase in headcount, with entry-level hiring outpacing overall growth.
 
-rss · 9to5Google · Jun 29, 18:20
+rss · TechCrunch · Jun 30, 04:01
 
-**Background**: Fire TV has used a forked version of Android since its launch in 2014, allowing it to run Android apps. VegaOS is a new operating system built from scratch by Amazon, aiming to optimize performance and integrate deeply with Amazon services. The switch has been controversial because it may break compatibility with existing apps.
+**Background**: The debate over AI's impact on jobs has been polarized, with some predicting widespread job displacement while others argue AI will create new roles. This report adds nuance by showing that in practice, AI-adopting firms are hiring more, particularly at the entry level, suggesting AI may augment junior workers rather than replace them.
 
-**Tags**: `#Amazon`, `#Fire TV`, `#VegaOS`, `#Android`, `#Operating Systems`
+**Tags**: `#AI`, `#employment`, `#economics`, `#tech industry`
 
 ---
 
 <a id="item-14"></a>
-## [Apple seeks to dismiss India antitrust case as 'copy-pasted'](https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/) ⭐️ 6.0/10
+## [Google Rolls Out Per-App Backup Controls for Android](https://9to5google.com/2026/06/29/android-backups-per-app-controls/) ⭐️ 6.0/10
 
-Apple is asking India's competition watchdog to quash its antitrust findings against the App Store, arguing that investigators simply copied allegations from rivals like Spotify and Match Group instead of conducting an independent probe. This case could set a precedent for how India enforces antitrust laws against Big Tech, with Apple potentially facing a fine of up to $38 billion (10% of its global turnover) under India's new competition regime. Apple contends that the Competition Commission of India (CCI) relied on a 'cut-and-paste' of complaints from competitors rather than conducting its own market analysis. The CCI's investigation reportedly found Apple abused its dominant position by forcing developers to use its in-app payment system, which charges commissions of up to 30%.
+Google is rolling out per-app backup controls for Android, allowing users to individually choose which apps to include in their device backups. This follows a previous redesign of the Android Backup settings in 2025. This gives users granular control over their backup data, enhancing privacy and storage management. It addresses a long-standing request from Android users who wanted to exclude certain apps from backups. The feature is rolling out on Pixel devices first, with support in Android 16 and 17. Users can toggle backup on or off for each app individually in the Backup settings.
 
-rss · 9to5Mac · Jun 29, 19:56
+rss · 9to5Google · Jun 29, 23:54
 
-**Background**: India's antitrust case against Apple began in 2022, joining a global wave of regulatory scrutiny over App Store practices. The CCI's investigation mirrors similar cases in the EU, US, and other jurisdictions, where Apple has been accused of anti-competitive behavior by restricting app distribution and payment options. Apple argues it does not have a dominant position in the smartphone or app market, but regulators define the market more narrowly as iOS app distribution.
+**Background**: Android backups have traditionally been all-or-nothing, backing up all app data without per-app selection. In 2025, Google redesigned the Backup settings page to simplify the interface, and now adds per-app controls for more flexibility.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://logicity.in/en/blog/apple-india-antitrust-fine-38b-penalty-risk-explained">Apple India Antitrust Fine: $38B Penalty Risk Explained | Logicity</a></li>
-<li><a href="https://www.mactrast.com/2026/01/india-fights-back-as-apple-works-to-lessen-potential-38b-app-store-antitrust-fine/">India Fights Back, As Apple Works to Lessen Potential $38b App ...</a></li>
+<li><a href="https://9to5google.com/2026/06/29/android-backups-per-app-controls/">Google rolling out per-app controls for Android Backups</a></li>
+<li><a href="https://www.androidauthority.com/android-per-app-data-backup-beta-3682357/">Google is finally giving Android users control over app backups</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#antitrust`, `#App Store`, `#India`, `#regulation`
+**Tags**: `#Android`, `#Backups`, `#Google`, `#Privacy`
 
 ---
 
 <a id="item-15"></a>
-## [Tidal to Demonetize AI-Generated Music, Not Ban It](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label) ⭐️ 6.0/10
+## [Philips Hue Bridge Pro firmware update bricks hubs](https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/) ⭐️ 6.0/10
 
-Starting July 15th, Tidal will label tracks identified as 100% AI-generated with an icon and will no longer pay royalties on them, but it will not ban such music outright. This policy sets a precedent for how streaming platforms can handle AI-generated content without outright censorship, balancing artist protection with openness to new technology. Tidal will also use automated tools to remove AI-generated music that impersonates an artist or group, and the policy targets high-volume uploads and unusual streaming activity.
+A recent firmware update (version 2071353020) for the Philips Hue Bridge Pro is reportedly bricking the hub for some users, causing the bridge's lights to turn red and making lights and accessories uncontrollable. This issue affects smart home reliability, as users may lose control of their entire Hue lighting system until a fix is released, potentially requiring hours to reconfigure devices. The faulty firmware version 2071353020 appears to affect only some users unpredictably; those affected see red lights on the bridge and their setup becomes inoperable. Signify has not yet released a fix, and users are advised to disable automatic updates.
 
-rss · The Verge · Jun 29, 19:47
+rss · 9to5Google · Jun 29, 23:30
 
-**Background**: AI-generated music has flooded streaming platforms, often linked to stream manipulation and fraudulent activity. Competitors like Deezer have also demonetized AI-generated music and licensed detection technology.
+**Background**: The Philips Hue Bridge Pro is a smart home hub that connects Hue lights and accessories to a network, enabling control via apps and voice assistants. Firmware updates are meant to improve functionality but can sometimes introduce bugs. This particular bug renders the hub completely inoperable, a state often referred to as 'bricking'.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label">Tidal won’t pay royalties on AI -generated music but... | The Verge</a></li>
-<li><a href="https://tidal.com/ai-policy">Tidal AI Policy | TIDAL</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48718840">Tidal AI Policy | Hacker News</a></li>
+<li><a href="https://www.androidauthority.com/update-bricking-hue-bridge-pro-3682465/">Don't update ! Hue Bridge Pro users warn about... - Android Authority</a></li>
+<li><a href="https://www.notebookcheck.net/Philips-Hue-Bridge-Pro-may-become-inoperable-after-latest-update.1331377.0.html">Philips Hue Bridge Pro may become inoperable after latest update</a></li>
+<li><a href="https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/">Philips Hue Bridge Pro update seems to be breaking the hub, taking...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#music`, `#policy`, `#copyright`
+**Tags**: `#smart home`, `#IoT`, `#Philips Hue`, `#firmware bug`
 
 ---
 
 <a id="item-16"></a>
-## [Zluda CUDA emulator for AMD loses funding, reverts to hobby](https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support) ⭐️ 6.0/10
+## [OpenClaw Open Source AI Agent Launches Native iOS App](https://www.macrumors.com/2026/06/29/openclaw-ios-app/) ⭐️ 6.0/10
 
-Zluda, an open-source CUDA emulator for AMD GPUs, has lost its commercial funding with the release of version 6, reverting the project to hobby status while adding early support for 32-bit PhysX. This development limits Zluda's potential to provide a viable CUDA alternative for AMD users, but the addition of 32-bit PhysX support could benefit gamers running older titles that rely on this physics engine. Version 6 of Zluda includes early 32-bit PhysX support, but the project is no longer commercially funded and returns to hobby status, meaning slower development and less reliability.
+OpenClaw, a popular open-source AI agent, has released a native iOS app for iPhone and iPad, allowing users to securely access their self-hosted gateway on the go. This expansion brings the power of a self-hosted AI agent to mobile devices, enabling secure chat, voice approvals, and device-aware automation without relying on third-party messaging workarounds. The app pairs with an existing OpenClaw gateway via QR code or setup code, and supports features like real-time talk mode, action approvals, and sharing text/media from iOS.
 
-rss · Tom's Hardware · Jun 29, 18:29
+rss · MacRumors · Jun 29, 22:42
 
-**Background**: CUDA is NVIDIA's parallel computing platform, widely used for GPU-accelerated applications. Zluda is a drop-in replacement that allows unmodified CUDA applications to run on AMD GPUs with near-native performance. PhysX is a physics engine often used in games; 32-bit PhysX support is important for older titles.
+**Background**: OpenClaw is a free, open-source autonomous AI agent that runs on a Mac or PC, using large language models (LLMs) like Claude, OpenAI, or Gemini to execute tasks via messaging platforms. It requires a self-hosted gateway and broad system permissions, which introduces risks such as prompt injection.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/vosen/ZLUDA">GitHub - vosen/ ZLUDA : CUDA on non-NVIDIA GPUs · GitHub</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support">CUDA emulator for AMD GPUs Zluda loses funding... | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenClaw">OpenClaw - Wikipedia</a></li>
+<li><a href="https://openclaw.ai/">OpenClaw — Personal AI Assistant</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#CUDA`, `#AMD`, `#GPU`, `#emulator`, `#PhysX`
+**Tags**: `#AI agent`, `#iOS`, `#open source`, `#automation`
 
 ---
 
 <a id="item-17"></a>
-## [Report: US accounts for one-third of global carbon emission growth](https://36kr.com/newsflashes/3874921675871495?f=rss) ⭐️ 6.0/10
+## [Puxing Aerospace Raises Hundreds of Millions for Spectral Satellite Constellation](https://36kr.com/p/3875120747942913?f=rss) ⭐️ 6.0/10
 
-A report by the Energy Institute, in collaboration with Ember, Kearney, and KPMG, reveals that in 2025, about one-third of the global increase in carbon emissions came from the United States, driven by a 10% rise in coal consumption as higher natural gas prices pushed power producers back to coal. This reversal of the clean energy transition in the US, the world's second-largest emitter, could undermine global climate goals and set a concerning precedent for other nations facing similar energy price pressures. Global energy-related carbon emissions rose 1.1% to 35.806 billion tonnes of CO2 in 2025, with the US contributing over one-third of that growth. North America's increase reversed a decade-long trend of 0.7% annual decline in emissions.
+Shanghai-based startup Puxing Aerospace has completed Angel+ and Pre-A funding rounds totaling hundreds of millions of yuan within nine months of its founding, with cumulative funding nearing 300 million yuan. The company plans to launch its first two spectral quantitative remote sensing verification satellites in Q1 2027. This funding signals strong investor confidence in China's commercial aerospace sector, particularly in spectral quantitative remote sensing, which could unlock new commercial applications in agriculture, finance, and environmental monitoring. Puxing's planned 1,024-satellite constellation aims to provide high-frequency, high-precision spectral data, potentially transforming industries reliant on timely Earth observation. Puxing Aerospace focuses on developing optical remote sensing payloads and 20-50 kg micro-nano satellites, with products including high-resolution spectral cameras and atmospheric synchronous detection spectrometers. The company has secured orders worth 440 million yuan and plans additional funding rounds this year to support constellation construction.
 
-rss · 36氪 · Jun 30, 00:20
+rss · 36氪 · Jun 30, 03:39
 
-**Background**: The Energy Institute is a UK-based professional body for the energy industry. The report highlights the challenge of balancing energy affordability with climate commitments, as rising natural gas prices made coal more economically attractive for power generation in the US.
+**Background**: Spectral quantitative remote sensing goes beyond traditional imaging by capturing dozens or even hundreds of spectral bands, enabling precise identification of materials via their unique spectral 'fingerprints.' Unlike qualitative remote sensing, which mainly serves government and military needs, quantitative remote sensing provides measurable data for commercial decision-making, such as crop yield prediction for futures trading. Puxing's approach combines high spectral resolution, radiometric accuracy, and frequent revisit times to overcome limitations of existing satellite systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ft.com/content/f256cc27-b80f-4fce-88cf-e80cb2451ef5">ft.com/content/f256cc27-b80f-4fce-88cf-e80cb2451ef5</a></li>
+<li><a href="https://www.c114.net.cn/device/58522.html">c114.net.cn/device/58522.html</a></li>
+<li><a href="https://36kr.com/p/3671451112579970">36kr.com/p/3671451112579970</a></li>
+<li><a href="https://m.163.com/dy/article/KL3FFHT905118DFD.html">m.163.com/dy/article/KL3FFHT905118DFD.html</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#climate change`, `#carbon emissions`, `#energy`, `#coal`, `#US`
+**Tags**: `#commercial aerospace`, `#remote sensing`, `#funding`, `#China`
 
 ---
 
 <a id="item-18"></a>
-## [CICC: SiC/GaN to Benefit from Data Center Power Upgrades](https://36kr.com/newsflashes/3874903140209672?f=rss) ⭐️ 6.0/10
+## [Third-Party App Store Billing: Will Developers Still Get Paid?](https://www.reddit.com/r/androiddev/comments/1uj81e2/so_if_i_allow_thirdparty_app_store_access_to_my/) ⭐️ 6.0/10
 
-CICC predicts that SiC and GaN semiconductors will benefit from data center power system upgrades, with SiC dominating server room side (gray zone) and GaN penetrating racks (white zone) by 2026. This shift is significant because as AI computing demands high density and continuous load, high-voltage architectures become essential, and SiC/GaN devices enable higher efficiency and power density, impacting data center energy consumption and performance. CICC notes that 2026 will be the first year of high-voltage architecture deployment in data centers, driven by hardware advances. SiC is expected to lead in gray zone (UPS, PDU) while GaN will dominate white zone (on-board power supplies).
+A developer received an email from Google Play stating their US apps will be made available to third-party Android app stores, prompting confusion about payment and billing. Google is rolling out changes allowing alternative billing systems and reduced fees as part of a settlement with Epic Games. This affects how Android developers earn revenue from apps distributed through third-party stores, potentially reducing their dependence on Google Play Billing. The changes could reshape the Android app ecosystem by enabling more competition and lower fees. Google now allows developers to use third-party payment providers for in-app purchases of digital goods in the US, with reduced service fees. The new "Registered App Stores" program streamlines installation from alternative marketplaces.
 
-rss · 36氪 · Jun 30, 00:08
+reddit · r/androiddev · /u/controlav · Jun 29, 23:08
 
-**Background**: Third-generation compound semiconductors like SiC (silicon carbide) and GaN (gallium nitride) have wider bandgaps than silicon, enabling higher voltage, frequency, and temperature operation. Data centers are upgrading to high-voltage power architectures to improve efficiency and support AI workloads. The gray zone refers to facility-level power distribution (e.g., UPS), while the white zone covers rack-level power conversion.
+**Background**: Historically, Google required all in-app purchases on Android to use Google Play Billing, charging a 30% commission. Following Epic Games' antitrust lawsuit, Google agreed to lower fees and allow alternative billing systems globally, starting June 30, 2026 in the US, UK, and EEA.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.alighting.cn/news/20191104/164872.htm">一文看懂 三 安光电的 化 合 物 半 导 体 布局与进展-阿拉丁照明网</a></li>
-<li><a href="https://mp.ofweek.com/ai/a845693127396">双雄逐鹿 第 三 代 半 导 体 ，More Moore之路 - 维科号V</a></li>
+<li><a href="https://www.xda-developers.com/google-play-store-in-app-billing-clarity-android-12-third-party-app-stores/">Google clarifies In-App Billing requirements, says using third-party app stores will be easier in Android 12</a></li>
+<li><a href="https://solidgate.com/blog/external-billing-google-play/">Google Play external billing: Maximize revenue from your app</a></li>
+<li><a href="https://www.megamobilecontent.com/news/2026/06/26/google-slashes-play-store-fees-epic-settlement/">Google Slashes Play Store Fees After | MegaMobileContent</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SiC`, `#GaN`, `#data center`, `#power systems`, `#AI`
+**Tags**: `#Android`, `#App Store`, `#Developer Revenue`, `#Google Play`
 
 ---

@@ -5,7 +5,7 @@ date: 2026-06-30
 lang: zh
 ---
 
-> 从 302 条内容中筛选出 37 条重要资讯。
+> 从 286 条内容中筛选出 37 条重要资讯。
 
 ---
 
@@ -13,509 +13,510 @@ lang: zh
 
 ## 🔭 未知的未知
 
-- [人造岩石挑战地质学边界](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人造岩石挑战地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上的文章引入了'技术化石'和人造岩石的概念，这些岩石模糊了自然与人工的界限，将地质学拓展到人类地质学领域。 这一视角为理解人类世提供了新视角，因为人类活动正在创造将留存于岩石记录中的地质材料，挑战了传统地质学分类。 技术化石包括早期人类工具矿化痕迹以及塑料、混凝土等现代人造材料，它们可能成为地球未来化石记录的一部分。
+  > 该文章引入了‘技术化石’和人为岩石的概念——这些由人类活动创造的新型岩石类型不符合传统地质学分类。 这挑战了地质学的基础，并为人类世提供了切实的标志，迫使科学家重新思考地球岩石记录中何为‘自然’。 技术化石的例子包括塑料瓶、混凝土，甚至融入了熔融塑料和金属的改造海滩岩石。这些材料将在地质记录中留存数百万年。
 
-- [古代哲学视家庭为政治共同体](https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life) ⭐️ 9.0/10
+- [尼克·兰德的黑暗加速主义：无人未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > 一篇新文章指出，亚里士多德和色诺芬等古代哲学家将家庭视为基本的政治和伦理共同体，挑战了现代认为家庭生活仅是私人和非政治的假设。 这种重新框架邀请读者重新思考公私之分，并认识到家庭是道德和政治教育的场所，对当代关于家务劳动、关怀和公民身份的辩论具有启示意义。 文章引用亚里士多德的《政治学》和色诺芬的《经济论》，表明家庭被视为国家的缩影，通过日常实践培养正义和节制等美德。
+  > Aeon 杂志的一篇文章探讨了尼克·兰德的加速主义哲学，该哲学设想技术和资本主义将推动人类走向过时。 这种激进的反人文主义批判挑战了科技行业的进步叙事，迫使人们正视技术无节制加速所带来的阴暗后果。 兰德的加速主义与左翼变体不同，它将资本主义视为一个自主、自我强化的“战争机器”，必将取代人类。
 
-- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [多迷走神经理论：连接与修复的神经生物学](https://www.themarginalian.org/2026/06/22/polyvagal-theory/) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，认为人类必须加速技术和资本主义进程，以超越人类局限并拥抱后人类未来。 这篇文章引入了一个融合控制论、德勒兹思想和黑暗生态学的激进思想领域，挑战科技专业人士重新思考无节制技术加速的伦理和存在意义。 兰德的哲学通过直面死亡的不可避免性来批判人类自恋，他看似矛盾的立场转变源于对现实拟人化的一贯批判动机。
+  > 《The Marginalian》发表的一篇文章探讨了斯蒂芬·波尔格斯提出的多迷走神经理论如何解释神经系统在社会连接、破裂与修复中的作用，强调“故事跟随状态”。 该框架连接了神经科学与心理学，为理解创伤和安全感如何塑造人际关系提供了更深层的视角，对心理健康从业者及所有对人类连接感兴趣的人都有价值。 多迷走神经理论提出副交感神经系统有两个分支：腹侧迷走系统（社会参与）和背侧迷走系统（僵直/关闭），挑战了传统的二元自主神经模型。
 
-- [硅藻与生命的意义](https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/) ⭐️ 9.0/10
+- [自然关系指数：衡量繁荣的新指标](https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature) ⭐️ 8.0/10
 
-  > 1703 年，一位匿名女科学家在顶级科学期刊上发表了一封信，描述了在池塘植物上发现硅藻——一种具有复杂硅质外壳的微型藻类——这标志着显微镜学和硅藻研究的早期里程碑。 这个故事凸显了早期科学中女性被忽视的贡献，并揭示了硅藻的哲学奇迹——它们产生地球上高达 50%的氧气，是水生生态系统的基础。 这封匿名信将硅藻描述为“许多漂亮的枝条，由规则的矩形和精确的形状组成”，最长边不到头发丝宽度的一半。硅藻是单细胞藻类，具有硅质外壳，大小从 2 到 2000 微米不等。
-
----
-
-## 🧬 人性与行为
-
-- [框架错误：超越事实与逻辑的第三种错误类型](https://www.lesswrong.com/posts/9cuvhhmebocLiCXpF/linkpost-frame-error) ⭐️ 9.0/10
-
-  > LessWrong 文章提出了“框架错误”作为一种独特的错误类别，即正确的事实和有效的逻辑仍可能因推理框架不充分而导致错误结论。作者提供了五类框架错误及其工作示例和识别工具。 这一概念填补了理解认知错误中超越逻辑谬误和经验错误的空白，为改进推理和决策提供了新视角。对理性实践者、研究人员以及任何希望避免微妙但影响深远的错误的人具有高度相关性。 文章将框架错误与逻辑谬误（无效推理）和经验错误（错误事实）区分开来，强调框架本身可能在结构上不充分。例子涵盖从经典框架效应到作者自称首次识别的新案例。
-
-- [被了解是感受到被爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
-
-  > Sonja Lyubomirsky 和 Harry Reis 基于七年的合作研究提出，感受到被爱需要被他人了解。 这一见解挑战了关于爱与幸福的常见误解，为改善情感健康提供了科学依据。 一项对近 2000 名美国成年人的调查发现，许多人难以确定让自己感受到被爱的行为，这通常是由于对爱的错误信念。
-
----
-
-## 🧠 AI 学习
-
-- [上下文窗口并非记忆：AI 代理设计洞见](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
-
-  > 文章澄清了 LLM 中的大上下文窗口并不等同于代理记忆，并讨论了检索增强生成（RAG）和上下文窗口压缩等有效记忆管理技术。 这一区别对 AI 代理开发者至关重要，因为混淆上下文窗口与记忆会导致代理性能不佳和可扩展性问题。正确的记忆管理使代理能够保持长期上下文并实现个性化交互。 RAG 从外部来源检索相关信息以增强 LLM 响应，而上下文窗口压缩则总结或修剪较旧的内容以适应令牌限制。这两种技术单独都不能提供真正的持久记忆。
-
-- [HyDE 提升概念查询的 RAG 效果，但在其他查询上失败](https://pub.towardsai.net/when-does-hyde-help-rag-i-tested-3-query-types-and-it-failed-on-two-c8946453de34?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > 一项实证评估测试了 HyDE（假设文档嵌入）在三种查询类型（概念性、专有性和关键词）上的表现，发现它能显著改善概念性查询的检索效果，但由于幻觉和信号稀释，在专有性和关键词查询上性能下降。 这一发现为 RAG 从业者提供了实用的经验法则：当用户查询与文档语言语义距离较远时，HyDE 有益；但对于精确匹配或领域特定查询则有害。这有助于开发者在生产系统中决定何时应用 HyDE。 测试使用了一个包含 7 个文档的小型知识库作为行为探针，而非基准测试。对于专有性查询（如公司内部政策），LLM 生成了虚假答案，导致检索目标变为幻觉内容。对于关键词查询（如精确产品名称），额外生成的文本稀释了信号。
-
-- [医疗 AI 中的不确定性估计：知道何时该犹豫](https://pub.towardsai.net/knowing-when-not-to-decide-uncertainty-estimation-in-medical-ai-systems-4ae40cd29b92?source=rss----98111c9905da---4) ⭐️ 8.0/10
-
-  > 文章解释了为何仅靠置信度分数在医疗 AI 中是不够的，并引入了不确定性估计作为一种方法，通过基于扰动的敏感性分析来检测模型预测何时可能不可靠。 不确定性估计对于 AI 在临床环境中的安全部署至关重要，它可以防止过度自信的误诊，并确保在需要第二意见时提醒临床医生，从而提高患者安全和对 AI 系统的信任。 文章区分了偶然不确定性（数据固有的）和认知不确定性（模型知识的），并建议通过观察在微小输入扰动（如亮度变化或噪声）下预测的稳定性来测量不确定性。
-
-- [使用 LLM 嵌入和 HDBSCAN 进行文本聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
-
-  > 一篇教程展示了如何通过结合 LLM 嵌入和 HDBSCAN 算法对非结构化文本进行聚类，提供了超越聊天界面的实际应用。 该技术无需标注示例即可实现文本的语义分组，将 LLM 的用途扩展到文档组织和主题发现等任务。 该教程包含实现细节和代码示例，但缺乏对聚类算法的深入数学洞察。
-
-- [LLM 护栏：防止谎言、泄露和操纵](https://pub.towardsai.net/llm-guardrails-your-ai-can-lie-leak-and-be-manipulated-here-is-how-to-stop-it-e67b5bd2f097?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > 一份全面指南解释了如何实施 LLM 护栏——拦截用户输入并验证输出的安全机制——以防止 AI 撒谎、泄露敏感数据或通过提示注入和越狱被操纵。 没有护栏，LLM 可能造成现实世界中的危害，如加拿大航空聊天机器人案例（错误政策建议导致诉讼）和 ChatGPT 法律摘要案例（虚构法庭引用）。实施护栏对于安全可信的 AI 部署至关重要。 该指南涵盖了输入护栏（例如检测提示注入）和输出护栏（例如验证事实准确性），并提供了生产级代码示例。它强调护栏必须分层并持续更新以应对不断演变的威胁。
-
----
-
-## ✍️ 表达提升
-
-- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
-
-  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 播客中分享了他从风险投资和复杂性科学职业生涯中总结的心智模型与系统思维洞见。 这期节目提供了改善推理和决策的实用框架，将风险投资的实践经验与深刻的复杂性科学原理相结合。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并附有文字稿。格利讨论了创始人选择标准以及超越风险投资定义成功等话题。
-
-- [“更好听”的代价：听觉疲劳与归一化陷阱](https://sspai.com/post/111462) ⭐️ 7.0/10
-
-  > 文章指出，追求更平坦的频响和更高响度的声音系统优化，反而可能加剧听觉疲劳，并在响度归一化后暴露缺陷。 这一观点挑战了音频制作和消费音频中的常见假设，帮助工程师和听众在声音设计和聆听习惯上做出更明智的决策。 文章通过可视化图表展示了频响优化和响度最大化如何导致动态的不可逆损失以及听觉疲劳的加剧。
-
-- [RiseGuide 创始人谈专家主导的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
-
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款提供个性化专家主导自我提升计划的应用程序。采访探讨了专家主导学习的好处以及 RiseGuide 如何帮助用户实现个人成长。 这次采访突显了专家主导的自我提升应用程序日益增长的趋势，这些应用提供来自专业人士的结构化指导，而非泛泛建议。这对于寻求有效、个性化成长策略的用户以及更广泛的思维工具生态系统具有重要意义。 RiseGuide 总下载量超过 100 万，月活跃用户达 40 万。该应用涵盖魅力提升、智力训练和社交媒体改善等领域，均由专家见解指导。
-
-- [肠道健康专家教你如何修复肠道](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
-
-  > 医生兼微生物组研究员朱莉娅·恩德斯博士在 Farnam Street 的播客节目中讨论了肠道如何影响消化、免疫、情绪和整体健康。 这很重要，因为肠道健康日益被认为是整体健康的核心，不仅影响消化，还影响心理健康和免疫功能。恩德斯博士的见解可以帮助人们采取可行措施改善肠道微生物组。 播客涵盖了肠脑轴、饮食在滋养肠道细菌中的作用以及修复肠道健康的实用技巧等主题。恩德斯博士是畅销书《肠子的小心思》的作者。
+  > Yadvinder Malhi 提出了自然关系指数（NRI），作为量化人类繁荣对自然依赖的全球指标，挑战了人与自然对立的二元论。 NRI 将繁荣的定义扩展到 GDP 和人类发展指数之外，可能影响政策和经济思维，将生态健康纳入考量。它从生态学和哲学角度为可持续性提供了跨学科视角。 NRI 由 Leverhulme 自然恢复中心与联合国人类发展报告组织联合开发，预计将出现在 2026 年人类发展报告中。它确定了三个核心维度：自然繁荣且可及、社会对自然给予关怀、法规保障全球环境。
 
 ---
 
 ## 💰 财富与复利
 
-- [贫困学生相同学位收入仍低 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > 一项涵盖超过 3000 万学生的研究发现，即使拥有同一所大学的相同学位，来自贫困背景的学生在毕业十年后收入仍低 7%。 这表明社会经济背景对收入有超越教育的累积效应，挑战了平等教育确保平等结果的假设，并凸显了持续的财富不平等。 即使控制了大学、学位、专业和成绩，收入差距仍然存在，正如 MIT 教授 Anna Stansbury 和 NBER 研究所记录的那样。在每种院校类型内，父母收入与子女收入的斜率仍为正。
+  > 一篇关于一位 41 岁男子提前退休、拥有 200 万美元流动资产，却因整天玩电子游戏和吸食 THC 而被妻子称为“失败者”的 Reddit 帖子引发热议。文章认为，财务独立本身并不足够；对他人有用、做出贡献比单纯富有更具吸引力和满足感。 这挑战了常见的 FIRE 叙事——积累财富是终极目标，强调目标和贡献对于充实生活至关重要。它凸显了“人生资本”——抱负、动力和有用性——比单纯的财务资本更重要。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，从资产中每年获得 12.5 万美元。他的妻子是一名学校教师，提前回家发现他吸食大麻并玩 GTA，从而引发冲突。文章引用了进化心理学家 David Buss 在 37 个文化中的研究，表明抱负和足智多谋是关键的择偶偏好。
 
-- [有用比富有更重要](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > 一篇关于 41 岁男子提前退休、拥有 200 万美元流动资产，却因整天吸食大麻并打游戏而被妻子称为“失败者”的 Reddit 帖子引发热议，讨论了退休后拥有目标的重要性。 这个故事挑战了常见的 FIRE（财务独立，提前退休）理念，指出没有目标的财务独立可能导致不快乐和关系紧张，强调有用比富有更具吸引力。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税，但他的妻子认为他每天吸食大麻并玩《侠盗猎车手》的日常缺乏雄心，表明如何使用资源比拥有资源更重要。
+  > MIT 教授 Anna Stansbury 的一项研究显示，来自贫困背景的学生在毕业十年后收入仍比富裕同学低 7%，即使他们拥有相同的学位、大学、专业和成绩。 这一发现挑战了教育本身能平等机会的假设，突显了社会经济背景如何造成持续的收入差距，并随时间累积，影响社会流动性和不平等。 这项基于 NBER 研究、涵盖超过 3000 万学生的数据显示，即使控制了大学类型，父母收入仍与子女收入相关，非精英四年制大学的斜率为 0.095。
+
+---
+
+## 🧠 AI 学习
+
+- [U-Mind：统一实时多模态交互框架](https://pub.towardsai.net/paper-walkthrough-u-mind-a-unified-framework-for-real-time-multimodal-interaction-with-c4a0dd2f8300?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > U-Mind 是清华大学与美团合作的一篇 CVPR 2026 论文，提出了一种统一的自回归框架，能够实时联合规划、推理并生成文本、语音和动作。它采用两阶段训练方案和文本优先解码策略，防止在加入语音和动作生成时推理能力崩溃。 这项工作解决了多模态大语言模型中的一个关键挑战：在集成多种生成模态的同时保持高级推理能力。如果成功，将有助于构建更自然、更智能的具身智能体，实现实时动态交流。 U-Mind 基于 LLM 解码器架构，使用 VQ-VAE 离散化得到的动作标记，并采用文本优先解码策略。它在多模态交互任务上达到了最先进性能，包括同步的语音、动作和视频生成。
+
+- [用 LLM 从维基百科构建基于事件的新词典](https://pub.towardsai.net/why-definitions-need-events-and-how-to-build-a-new-kind-of-dictionary-from-wikipedia-using-llms-094efd600871?source=rss----98111c9905da---4) ⭐️ 8.0/10
+
+  > 文章提出了 Synapedia，一种将事件视为定义核心组件的四层词典，并提供了一个 Python 脚本，利用 LLM 从维基百科引导生成词条。 这解决了当前 AI 知识表示（WordNet、Wikidata、LLM）中一个根本性的架构缺陷——它们因忽略事件而无法完整定义概念，从而实现了更精确的消歧和符号落地。 Synapedia 使用 15 种语义角色的封闭语法来表示事件，并通过六条公理确保定义具有根基性、最小性、一致性和唯一性。引导脚本下载维基百科文章，通过 LLM 生成词条，根据公理进行验证，并输出 JSON 格式的词典。
+
+- [上下文窗口≠记忆：AI 智能体开发者须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 7.0/10
+
+  > 一篇新文章澄清了大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩等有效记忆管理技术。 这一区别对 AI 智能体开发者至关重要，因为仅依赖上下文窗口会导致会话受限、成本高昂且信息杂乱，而正确的记忆技术能够实现跨会话的持久、可扩展且可操作的知识。 文章强调上下文窗口是临时的且受限于会话，而智能体记忆涉及跨交互的信息存储、检索和压缩。技术包括检索增强生成（RAG）、记忆压缩和摘要。
+
+- [LLM 嵌入与 HDBSCAN 文本聚类教程](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+
+  > 一篇教程展示了如何使用 LLM 嵌入和 HDBSCAN 算法对非结构化文本进行聚类，提供了超越典型聊天式 LLM 应用的实际实现。 这种方法将 LLM 的用途扩展到对话式 AI 之外，无需标注数据即可实现文档组织、主题发现和数据探索等任务。 该教程使用 LLM 嵌入将文本转换为稠密向量表示，然后应用 HDBSCAN 基于密度对这些向量进行聚类，自动确定聚类数量。
+
+- [AI 系统在伦理问题上自相矛盾且彼此分歧](https://pub.towardsai.net/five-ai-systems-same-prompts-twice-wildly-different-responses-a9bb2e118bd3?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > 一项实验对五个领先 AI 系统（Claude、Gemini、GPT-5、Mistral、Cohere）分别进行了 116 个伦理和安全提示词的两次测试，发现系统之间在 34%到 66%的情况下存在分歧，并且经常与自己之前的答案相矛盾。 这凸显了 AI 系统在可靠性方面的关键问题，尤其是在伦理和安全等高风险应用中，不一致的响应可能导致不可预测或有害的结果。 实验使用了涵盖 15 项伦理原则的 60 个提示词和 56 个伤害/安全场景，每个系统回答两次，然后由其他四个系统按五分制评分。分歧率超过预设的 15%阈值两到四倍。
+
+---
+
+## ✍️ 表达提升
+
+- [比尔·格利谈改善思维的思维模型](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+
+  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 的 Knowledge Project 播客中分享了他从风险投资和复杂性科学职业生涯中总结的思维模型。 这期节目提供了清晰思考和更好决策的具体框架，借鉴了格利在 Uber 超高速增长时期的经验以及他对复杂系统的研究，对投资者、创业者以及任何希望提升推理能力的人都有帮助。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并配有文字稿。格利的见解源于他在 Benchmark 的工作以及他在圣塔菲研究所研究复杂性和系统思维的职务。
+
+- [更好听的代价：频响、动态与不可逆损失](https://sspai.com/post/111462) ⭐️ 6.0/10
+
+  > 文章讨论了优化声音系统的频响和动态可能导致听感疲劳，以及响度归一化如何暴露过度响亮的录音中的缺陷。 这很重要，因为它揭示了音频工程中的权衡，提醒听众和制作人技术优化并不总能带来更好的听感体验，而响度归一化可能暴露质量问题。 文章简短且泛泛而谈，缺乏具体的技术细节或可操作的见解。它触及了听感疲劳和响度战争的陷阱，但没有提供具体例子或数据。
+
+- [四款笔记软件之旅，为思考找到归宿](https://sspai.com/post/110935) ⭐️ 5.0/10
+
+  > 作者分享了自己在 Notion、Obsidian、Logseq 和 Craft 四款笔记软件之间切换的个人经历，以寻找最适合思考和写作的工具。 这篇文章引起了许多面临笔记工具疲劳的用户的共鸣，强调了根据个人工作流程而非功能追逐来选择工具的重要性。 作者最终选择了 Obsidian，因为它采用本地优先的方法且可扩展性强，但指出没有单一工具是完美的；关键在于让工具适应自己的思考过程。
+
+- [RiseGuide 创始人谈专家主导的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+
+  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款提供个性化、专家主导的自我提升计划的应用程序。 这次采访突显了利用专家策划的内容进行个人发展的增长趋势，为用户提供结构化指导而非泛泛建议。 RiseGuide 将专家知识转化为可操作的步骤，用于提升如魅力或社交媒体表现等技能，采访讨论了专家主导学习背后的理念。
+
+---
+
+## 🧬 人性与行为
+
+- [被了解是感受到被爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
+
+  > 两位顶尖研究者 Sonja Lyubomirsky 和 Harry Reis 基于七年的合作以及对近 2000 名美国成年人的调查，提出被了解是感受到被爱的关键组成部分。 这一见解挑战了关于爱与幸福的常见误解，为个人和伴侣改善关系与幸福感提供了基于科学的路径。 文章指出了关于感受到被爱的五种常见误解，例如认为吸引力、权力或成功会让人更感受到被爱。
+
+- [压缩即智能：将 LLM 视为压缩器](https://www.lesswrong.com/posts/DStnBgofFK5FFqDJM/the-slogan-strikes-again) ⭐️ 8.0/10
+
+  > 文章解释了“压缩即智能”这一口号，并以 LLM 为例说明压缩训练数据如何导致学习和智能行为。 这一见解为理解大型语言模型为何表现出智能提供了严谨的信息论基础，以非显而易见的方式将压缩与学习联系起来。 文章通过对比随机文本与结构化数学写作，展示了压缩器如何利用模式，并指出 LLM 因规模不足以记忆，必须学习结构以实现良好压缩。
 
 ---
 
 ## 📜 历史的节律
 
-- [乔治王时代同性恋男子用成人收养作为婚姻漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+- [1976 年英国热浪：骚乱、配给与韧性](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 8.0/10
 
-  > 在乔治王时代的英格兰，同性恋男子通过合法收养成年伴侣来规避同性婚姻的禁令，从而获得继承权和法律保护。 这一历史实践揭示了 LGBTQ+群体利用法律漏洞建立家庭关系的模式，突显了与现代争取婚姻平等和法律认可斗争的相似之处。 成人收养建立了法律上的亲子关系，使较年轻的伴侣能够继承财产并做出医疗决定，但这也要求被收养者从法律上断绝与亲生父母的关系。
+  > HistoryExtra 上的一篇回顾文章讲述了 1976 年英国热浪，详细描述了国家如何应对干旱、水资源配给和社会动荡，数百万瓢虫成群飞舞，水龙头干涸。 这一历史记录为现代气候韧性提供了宝贵经验，因为气候变化导致热浪和水资源短缺更加频繁，凸显了社会对极端天气的反应。 文章描述了共用洗澡水、情绪暴躁以及数十亿瓢虫起飞，展示了长期干旱和高温带来的社会与环境影响。
 
-- [1976 年英国热浪：社会压力与水资源短缺](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
+- [乔治时代同性恋男子用成人收养作为婚姻漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
 
-  > 一篇历史文章回顾了 1976 年英国热浪，详细描述了英国人如何共用浴缸、情绪紧张，以及数十亿瓢虫飞上天空的情景。 这篇回顾文章提供了极端天气下社会韧性和资源管理的宝贵经验，与当前气候危机直接相关。 热浪导致水资源短缺、骚乱以及因高温引发的异常现象，如“发臭的腌鱼”。文章通过第一手叙述来展示其影响。
+  > 新的历史研究表明，在乔治时代的英格兰，同性恋男子利用成人收养来正式化同性关系并确保继承权，因为当时婚姻对他们来说在法律上不可行。 这揭示了 LGBTQ+群体适应法律限制的历史模式，与当代关于婚姻平等和关系认可的替代法律结构的辩论相呼应。 成人收养建立了法律上的亲子关系，允许财产和继承权在伴侣之间转移，有效地充当了婚姻的替代品。
 
 ---
 
 ## 📰 技术资讯
 
-1. [最高法院：手机位置数据受第四修正案保护](#item-1) ⭐️ 9.0/10
-2. [Cursor 被 SpaceX 收购后推出 iOS 应用](#item-2) ⭐️ 8.0/10
-3. [苹果提前发布 iOS 26.5.2 以应对 AI 辅助黑客攻击](#item-3) ⭐️ 8.0/10
-4. [塔塔电子遭黑客攻击，iPhone 18 Pro 机密泄露至暗网](#item-4) ⭐️ 8.0/10
-5. [DiScoFormer：统一密度与分数的 Transformer](#item-5) ⭐️ 8.0/10
-6. [韩国超 5500 亿美元芯片投资应对内存短缺](#item-6) ⭐️ 8.0/10
-7. [Qwen 3.6 27B：本地开发甜点，但硬件成本隐忧](#item-7) ⭐️ 7.0/10
-8. [研究：超半数社交媒体儿童安全功能失效](#item-8) ⭐️ 7.0/10
-9. [Anthropic 与加州州长纽森签署 Claude 折扣协议](#item-9) ⭐️ 7.0/10
-10. [Arena AI 排行榜成为 1 亿美元业务](#item-10) ⭐️ 7.0/10
-11. [提议的 .self 顶级域名旨在赋能自托管](#item-11) ⭐️ 6.0/10
-12. [Ornith-1.0：自我改进的开源编程模型](#item-12) ⭐️ 6.0/10
-13. [亚马逊解释 Fire TV 从 Android 转向 VegaOS](#item-13) ⭐️ 6.0/10
-14. [苹果要求驳回印度反垄断案，称指控系“复制粘贴”](#item-14) ⭐️ 6.0/10
-15. [Tidal 将对 AI 生成音乐去货币化，但不全面禁止](#item-15) ⭐️ 6.0/10
-16. [AMD GPU 的 CUDA 模拟器 Zluda 失去资助，回归业余项目](#item-16) ⭐️ 6.0/10
-17. [报告：美国占全球碳排放增长的三分之一](#item-17) ⭐️ 6.0/10
-18. [中金：SiC/GaN 将受益于数据中心电力升级](#item-18) ⭐️ 6.0/10
+1. [最高法院：获取手机位置数据需搜查令](#item-1) ⭐️ 9.0/10
+2. [美团发布 LongCat-2.0：首个在国产芯片上训练的万亿参数模型](#item-2) ⭐️ 9.0/10
+3. [华为开源 920 亿参数 openPangu-2.0-Flash 模型](#item-3) ⭐️ 8.0/10
+4. [中国 110 吨级针栓发动机创 620 秒纪录](#item-4) ⭐️ 8.0/10
+5. [Meta Vistara 芯片复用旧 DDR4 内存，AI 服务器需求减少 25%](#item-5) ⭐️ 8.0/10
+6. [微软在 Azure 上推出基于 NVIDIA GB300 的 Anthropic Claude 模型](#item-6) ⭐️ 8.0/10
+7. [Kimi 估值达 315 亿美元，ARR 突破 3 亿美元](#item-7) ⭐️ 8.0/10
+8. [AI 驱动研究揭示液态水中的两种结构](#item-8) ⭐️ 7.0/10
+9. [韩国投资 1 万亿美元发展存储芯片与人形机器人](#item-9) ⭐️ 7.0/10
+10. [苹果提前发布安全更新以应对 AI 黑客攻击](#item-10) ⭐️ 7.0/10
+11. [中国 AI 公司提出物理 AI 的“端侧原生”新思路](#item-11) ⭐️ 7.0/10
+12. [前百度实验室主任融资 5000 万，打造机器人世界通行模型](#item-12) ⭐️ 7.0/10
+13. [AI 采用与就业增长相关，而非减少](#item-13) ⭐️ 7.0/10
+14. [谷歌推出安卓应用级备份控制功能](#item-14) ⭐️ 6.0/10
+15. [飞利浦 Hue Bridge Pro 固件更新导致设备变砖](#item-15) ⭐️ 6.0/10
+16. [开源 AI 代理 OpenClaw 推出原生 iOS 应用](#item-16) ⭐️ 6.0/10
+17. [谱星航天获数亿元融资，建设光谱定量遥感星座](#item-17) ⭐️ 6.0/10
+18. [第三方应用商店计费：开发者还能收到钱吗？](#item-18) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [最高法院：手机位置数据受第四修正案保护](https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/) ⭐️ 9.0/10
+## [最高法院：获取手机位置数据需搜查令](https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/) ⭐️ 9.0/10
 
-美国最高法院以 6 比 3 裁定，警方从科技公司获取详细的手机位置数据必须获得搜查令，将第四修正案的保护扩展至数字位置历史。 这一里程碑式的裁决极大地限制了执法部门在没有针对个人嫌疑的情况下进行大规模数字监控的能力，为数字时代的隐私保护树立了关键先例。 该案源于 2019 年一起银行抢劫案，警方通过地理围栏搜查令从谷歌获取了案发现场附近所有设备的位置数据。法院认为，这种大范围的数据请求需要基于相当理由的搜查令，但针对特定已知个人的数据请求仍然允许。
+美国最高法院以 6 比 3 裁定，警方从科技公司获取详细的手机位置历史记录需要搜查令，将第四修正案的保护扩展至数字位置数据。 这一里程碑式的裁决为数据无处不在的时代确立了数字隐私的重要先例，影响执法部门获取个人数据的方式以及科技公司处理用户信息的方式。 该裁决适用于手机连接基站时生成的基站位置信息（CSLI），即使覆盖较短时间。该决定建立在 2018 年 Carpenter 诉美国案的基础上，该案要求长期获取 CSLI 需搜查令。
 
 rss · 9to5Mac · 6月29日 22:29
 
-**背景**: 第四修正案保护公民免受不合理的搜查和扣押。在数字时代，法院一直在争论由谷歌或苹果等第三方持有的位置数据是否享有宪法保护。2018 年的 Carpenter 诉美国案判决确立了历史基站位置数据需要搜查令；本次裁决将这一原则扩展至地理围栏搜查令。
+**背景**: 第四修正案保护公民免受不合理的搜查和扣押。历史上，法院适用“第三方原则”，即自愿与第三方（如电话公司）共享的信息不受保护。该裁决限制了这一原则对敏感数字数据的适用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-geofence-cell-phone-data-warrant-required-rcna345950">Supreme Court rules that broad cellphone location data sweeps...</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision">US supreme court rules geofence warrants require ... | The Guardian</a></li>
-<li><a href="https://qz.com/1312339/this-supreme-court-ruling-means-cellphone-location-data-is-now-the-last-vestige-of-your-privacy">Your cellphone location data is now the last vestige of your privacy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Carpenter_v._United_States">Carpenter v. United States - Wikipedia</a></li>
+<li><a href="https://www.brennancenter.org/our-work/policy-solutions/fourth-amendment-digital-age">The Fourth Amendment in the Digital Age - Brennan Center for ...</a></li>
+<li><a href="https://www.tylerlaw.com/police-need-warrant-cell-phone-location/">Can Police Track Your Cell Phone Without a Warrant ? | Law Office of...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#privacy`, `#supreme court`, `#digital rights`, `#law enforcement`, `#location data`
+**标签**: `#privacy`, `#supreme court`, `#fourth amendment`, `#digital rights`, `#law enforcement`
 
 ---
 
 <a id="item-2"></a>
-## [Cursor 被 SpaceX 收购后推出 iOS 应用](https://9to5mac.com/2026/06/29/cursor-releases-iphone-and-ipad-app-following-recent-acquisition-by-spacex/) ⭐️ 8.0/10
+## [美团发布 LongCat-2.0：首个在国产芯片上训练的万亿参数模型](https://www.ithome.com/0/970/320.htm) ⭐️ 9.0/10
 
-近期被 SpaceX 收购的智能编码平台 Cursor 发布了其首个 iPhone 和 iPad 应用，允许用户通过移动设备远程监督编码代理。 此举将 Cursor 的使用场景从桌面 IDE 扩展到移动端，使开发者能更灵活地使用智能编码工具，并表明 SpaceX 有意将 AI 编码工具整合到其更广泛的生态系统中。 该应用侧重于远程监督而非完整代码编辑，允许开发者通过手机或平板电脑监控和指导 AI 代理。此次发布紧随 SpaceX 于 2026 年 6 月初收购 Cursor 之后。
+美团发布了 LongCat-2.0，这是一个万亿参数大语言模型（总参数 1.6T，平均激活约 48B），在五万卡国产算力集群上完成全流程训练与推理，原生支持 1M 上下文，并已开源。 这是首次完全在国产芯片上训练出万亿参数模型，证明中国 AI 硬件生态能够支撑前沿大规模模型训练，减少对外国 GPU 的依赖，推动国产 AI 供应链发展。 LongCat-2.0 采用混合专家（MoE）架构，动态激活参数范围 33B~56B，并使用 LongCat 稀疏注意力（LSA）机制将长文本计算复杂度从平方级降至线性级。训练 MFU 提升 1.5 倍，稳态日吞吐量超过 1 万亿 token。
 
-rss · 9to5Mac · 6月29日 17:36
+rss · IT之家 · 6月30日 02:55
 
-**背景**: 智能编码（Agentic coding）使用自主 AI 代理来规划、编写、测试和修改代码，只需极少的人工干预，不同于需要逐步输入的传统助手。Cursor 是一款流行的 AI 驱动代码编辑器，能理解整个项目。SpaceX（包括 xAI）于本月早些时候收购了 Cursor，以增强其 AI 能力。
+**背景**: 万亿参数大模型通常需要数千块 NVIDIA H100 等高端 GPU 进行训练。国产芯片在性能和生态支持上长期落后，使得大规模训练面临挑战。美团 LongCat-2.0 通过在稳定性（如 HCCL 异常处理、自动故障恢复）、正确性（位级一致性验证）和效率（流水线调度、显存优化）方面的创新克服了这些困难。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_coding">Agentic coding</a></li>
-<li><a href="https://cursor.com/">Cursor : AI coding agent</a></li>
+<li><a href="https://www.163.com/dy/article/L0LUTTAQ0511CPVM.html">业界首个！美团发布LongCat-2.0：总参数规模1.6万亿 全程由国产算力训练|算子|正确性|大模型|知名企业|longcat_网易订阅</a></li>
+<li><a href="https://finance.sina.com.cn/tech/digi/2026-06-30/doc-inifczzw4924616.shtml">业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型_新浪科技_新浪网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Cursor`, `#SpaceX`, `#iOS app`, `#agentic coding`, `#acquisition`
+**标签**: `#大模型`, `#国产芯片`, `#万亿参数`, `#美团`, `#AI训练`
 
 ---
 
 <a id="item-3"></a>
-## [苹果提前发布 iOS 26.5.2 以应对 AI 辅助黑客攻击](https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/) ⭐️ 8.0/10
+## [华为开源 920 亿参数 openPangu-2.0-Flash 模型](https://www.ithome.com/0/970/466.htm) ⭐️ 8.0/10
 
-苹果提前发布了 iOS 26.5.2、iPadOS 26.5.2 和 macOS Tahoe 26.5.2，其中包含了原计划在 26.6 更新中推出的超过 25 个安全修复。该公司表示，由于 AI 辅助黑客攻击的威胁，需要缩短从披露到部署之间的时间窗口。 这标志着苹果更新策略的重大转变，承认 AI 加速了恶意工具的开发，迫使补丁周期加快。这凸显了 AI 驱动的防御与 AI 辅助攻击之间日益激烈的军备竞赛，影响所有苹果设备用户。 26.5.2 更新修复了 29 个关键漏洞，主要涉及 WebKit 组件，但苹果表示没有证据表明这些漏洞已被积极利用。苹果是 Anthropic 的 Project Glasswing 合作伙伴，并使用 Claude Mythos Preview 主动搜寻漏洞。
+2026 年 6 月 30 日，华为正式开源了 openPangu-2.0-Flash 模型，该模型总参数量 920 亿，激活参数量 60 亿，同时开源了推理代码和训练算子。 此次开源为 AI 社区提供了一个强大且采用宽松许可证的大语言模型，支持 512K 上下文窗口，有望加速基于智能体的应用创新，并减少对专有模型的依赖。 openPangu-2.0-Flash 模型采用混合专家（MoE）架构，总参数量 920 亿，激活参数量 60 亿。更大的 Pro 版本总参数量 5050 亿，激活参数量 180 亿，计划于 2026 年 7 月开源。
 
-rss · MacRumors · 6月29日 21:14
+rss · IT之家 · 6月30日 04:27
 
-**背景**: AI 辅助黑客攻击利用机器学习来自动化漏洞发现和利用开发，使攻击更快且更具可扩展性。传统的补丁周期可能无法应对此类威胁，促使苹果等公司加快发布速度。苹果提前部署原计划用于主要版本更新的安全修复，是一种不寻常的做法。
+**背景**: openPangu 是华为的开源 AI 模型品牌，基于昇腾原生训练与推理技术，为使用昇腾硬件提供最佳实践。512K 上下文窗口使模型能够一次性处理非常长的文档，例如整本书或大型代码库。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/">iOS 26 . 5 . 2 Patches More Than 25 Security Vulnerabilities</a></li>
-<li><a href="https://www.macworld.com/article/3180118/apple-os-26-5-2-is-out-now-to-fix-dozens-of-security-vulnerabilities.html">Apple OS 26 . 5 . 2 is out now to fix dozens of security vulnerabilities</a></li>
-<li><a href="https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing">Don't wait to update: iOS 26 . 5 . 2 has more than 25 security fixes</a></li>
+<li><a href="https://www.aimadetools.com/blog/openpangu-2-complete-guide/">openPangu 2.0 Complete Guide: Huawei's 505B Model Trained ...</a></li>
+<li><a href="https://www.kucoin.com/news/flash/huawei-open-sources-9-2b-parameter-openpangu-2-0-flash-model">Huawei open-sources the 9.2B-parameter openPangu-2.0-Flash model</a></li>
+<li><a href="https://www.aimadetools.com/blog/how-to-run-openpangu-2-locally/">How to Run openPangu 2.0 Locally: Ascend and GPU Setup Guide ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#security`, `#AI`, `#cybersecurity`, `#iOS`
+**标签**: `#AI`, `#open-source`, `#large language model`, `#Huawei`, `#NLP`
 
 ---
 
 <a id="item-4"></a>
-## [塔塔电子遭黑客攻击，iPhone 18 Pro 机密泄露至暗网](https://www.ithome.com/0/970/245.htm) ⭐️ 8.0/10
+## [中国 110 吨级针栓发动机创 620 秒纪录](https://www.ithome.com/0/970/435.htm) ⭐️ 8.0/10
 
-勒索软件组织 World Leaks 入侵了苹果印度供应商塔塔电子，并在暗网上发布了超过 20 万份文件，其中包括详细说明 iPhone 18 Pro 零部件、供应商清单和跌落测试照片的机密文件。 此次泄露暴露了苹果未发布旗舰设备的严密供应链，可能损害其与供应商的谈判筹码，并让竞争对手和山寨厂商了解零部件采购情况。 至少六份文件列出了 iPhone 18 Pro 的数百种零部件，包括主电路板芯片、电池和摄像头组件，并带有苹果的“机密”水印和内部代号。泄露内容还包括特斯拉的零部件以及台积电和高通的文件。
+中科宇航的 110 吨级力擎二号针栓式液氧煤油发动机完成了 620 秒长程鉴定试车，单次最长连续工作时间达 400 秒，刷新了国内推力与工作时长纪录。 这一里程碑验证了成熟的针栓喷注器和可重复使用发动机技术，直接支撑力箭二号和力箭二号重型等低成本可回收火箭，对低轨卫星大规模组网和货物运输至关重要。 该发动机采用燃气发生器循环，具备 50%-100%推力调节能力，燃烧效率 95.8%，比冲不低于 275 秒，推重比超过 150。所有主密封采用金属密封，集成阀设计减少了零件数量和重量。
 
-rss · IT之家 · 6月29日 22:56
+rss · IT之家 · 6月30日 04:07
 
-**背景**: 苹果依靠全球供应商网络生产 iPhone，供应商协议通常高度保密。塔塔电子是苹果在印度的关键供应商，对苹果实现生产多元化、减少对中国依赖至关重要。World Leaks 组织于 2025 年初出现，是 Hunters International 的后继者，以双重勒索手段闻名。
+**背景**: 针栓式喷注器可实现深度推力调节和稳定燃烧，是可回收火箭的关键技术。力擎二号是国内推力最大的针栓式发动机，将用于力箭二号和力箭二号重型可回收火箭，采用通用芯级捆绑的集束式回收方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blackpointcyber.com/threat-profile/world-leaks-ransomware/">World Leaks Ransomware - Blackpoint</a></li>
-<li><a href="https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/">Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach | TechCrunch</a></li>
-<li><a href="https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/">Apple 'Concerned' Over iPhone 18 Pro Data Leak From... - MacRumors</a></li>
+<li><a href="https://www.ithome.com/0/970/435.htm">620 秒新突破：中科宇航 110 吨级力擎二号针栓式液氧煤油发动机长程鉴...</a></li>
+<li><a href="https://news.cctv.com/2026/06/30/ARTI47i9rTw3n5gigwzrgwIp260630.shtml">重复使用火箭“力箭二号” 主发动机完成长程试车</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/333735931">又双叒一项创新突破：火箭可回收“神器”——针栓式喷注器试车成功</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#supply chain`, `#Apple`, `#data breach`, `#iPhone`
+**标签**: `#rocket engine`, `#aerospace`, `#liquid propellant`, `#reusable rocket`, `#China`
 
 ---
 
 <a id="item-5"></a>
-## [DiScoFormer：统一密度与分数的 Transformer](https://huggingface.co/blog/allenai/discoformer) ⭐️ 8.0/10
+## [Meta Vistara 芯片复用旧 DDR4 内存，AI 服务器需求减少 25%](https://www.ithome.com/0/970/387.htm) ⭐️ 8.0/10
 
-Allen AI 推出了 DiScoFormer，这是一种 Transformer 架构，能够跨多个分布联合学习密度函数和分数函数，从而在单一模型中同时实现生成建模和密度估计。 这种统一简化了生成式 AI 和密度估计任务的流程，可能降低计算开销，并支持跨不同数据分布的更灵活建模。 DiScoFormer 利用自注意力机制捕获跨分布的依赖关系，并通过包含分数匹配和最大似然估计的联合目标进行训练。
+Meta 在 ISCA 2026 上展示了自研 CXL ASIC 方案 Vistara，该方案可将退役服务器中的 DDR4 内存重新用于基于 DDR5 的新机器。该方案已在数百万台服务器中部署，可将分离式机器学习推理所需的服务器数量最多减少 25%。 这项创新通过延长 DDR4 内存的使用寿命（内存通常比服务器多用数年），同时应对了全球内存短缺和电子垃圾问题。它为 Meta 等超大规模运营商节省了大量成本，并可能影响整个行业的内存复用实践。 每个 Vistara ASIC 支持两个独立的 72-bit DDR4 通道，速度高达 3200 MT/s，使用 64 GB DIMM 时每芯片最大容量为 256 GB。每台 MemServer 采用 3:1 的 DDR5 与 DDR4 内存配比（768 GB DDR5 + 256 GB DDR4），并通过透明页放置（TPP）进行软件优化。
 
-rss · Hugging Face Blog · 6月29日 18:02
+rss · IT之家 · 6月30日 03:32
 
-**背景**: 基于分数的生成模型学习对数密度的梯度（分数），通过朗之万动力学生成样本，而密度估计模型直接学习概率密度。以往的方法通常分别处理这些任务，往往需要不同的架构或训练流程。
+**背景**: CXL（计算快速链路）是一种开放互连标准，可实现 CPU、内存和加速器之间的高速低延迟通信。通过 CXL 进行内存池化允许多个主机共享一个公共内存池，从而提高利用率。Meta 的 Vistara 是一款定制 CXL ASIC，专门支持 DDR4（大多数商用 CXL 方案不支持），从而能够复用旧内存模块。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2004.02441">[2004.02441] TraDE: Transformers for Density Estimation</a></li>
+<li><a href="https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483">Zuck saves Meta bucks by reusing memory from old servers with...</a></li>
+<li><a href="https://windowsforum.com/threads/meta-vistara-reusing-ddr4-via-cxl-asic-cuts-ai-servers-by-up-to-25.432016/">Meta Vistara: Reusing DDR4 via CXL ASIC Cuts AI Servers by Up ...</a></li>
+<li><a href="https://www.neowin.net/news/meta-is-reusing-old-ddr4-ram-in-its-servers-instead-of-buying-new-hardware/">Meta is reusing old DDR4 RAM in its servers instead ... - Neowin</a></li>
 
 </ul>
 </details>
 
-**标签**: `#transformer`, `#generative modeling`, `#density estimation`, `#score-based models`, `#AI research`
+**标签**: `#Meta`, `#CXL`, `#memory reuse`, `#AI inference`, `#hardware`
 
 ---
 
 <a id="item-6"></a>
-## [韩国超 5500 亿美元芯片投资应对内存短缺](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) ⭐️ 8.0/10
+## [微软在 Azure 上推出基于 NVIDIA GB300 的 Anthropic Claude 模型](https://www.ithome.com/0/970/381.htm) ⭐️ 8.0/10
 
-2026 年 6 月 29 日，韩国宣布了创纪录的 5760 亿美元半导体与 AI 投资计划，三星电子和 SK 海力士承诺投入 800 万亿韩元（约合 5179 亿美元），在西南地区新建四个芯片制造基地，目标是在五年内将 DRAM 产能翻倍。 这项巨额投资旨在应对由 AI 对 HBM 的需求和传统 DRAM 供应受限引发的全球“内存末日”短缺，巩固韩国作为 AI 硬件主要供应商的地位，并可能稳定消费者和科技公司的内存价格。 该计划包括在首尔附近忠清地区建设芯片封装集群的 81 万亿韩元投资，西南地区各城市将各自投资 5-20 万亿韩元。该声明发布之际，三星、SK 海力士和美光正因涉嫌操纵 DRAM 价格而面临集体诉讼。
+微软正式在 Microsoft Foundry 平台上推出托管于 Azure 云服务的 Anthropic Claude 模型，首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，硬件基于 NVIDIA GB300 Blackwell Ultra 超级芯片。 此次整合将 Anthropic 的先进 AI 模型引入主流云平台，使企业能够在 Azure 生态系统中利用 Claude 的能力，可能加速 AI 在商业应用中的普及。 该服务运行在 NVIDIA GB300 NVL72 机架上，采用 Quantum-X800 InfiniBand 互联，支持提示缓存和扩展思维等功能，适用于复杂推理任务。
 
-rss · TechCrunch · 6月29日 18:07
+rss · IT之家 · 6月30日 03:29
 
-**背景**: 自 2025 年以来，被称为“内存末日”的全球内存短缺加剧，原因是制造商将产能转向 AI 所需的高带宽存储器（HBM），导致传统 DRAM（DDR4/DDR5）供应不足。这引发了价格飙升，影响了智能手机、PC 和服务器，苹果等公司已上调产品价格。韩国的三星和 SK 海力士控制着全球超过 70%的 DRAM 市场。
+**背景**: Microsoft Foundry 是微软的企业级 AI 平台，用于构建和部署 AI 应用。NVIDIA GB300 Blackwell Ultra 是下一代 AI 超级芯片，性能比上一代提升 50%，配备高达 288GB 的 HBM3E 内存。Anthropic 的 Claude 模型以其强大的推理能力和安全特性著称。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
-<li><a href="https://blog.shi.com/business-of-it/procurement/global-memory-shortage/">What's driving the global RAM shortage? And why is it so expensive? - The SHI Resource Hub</a></li>
-<li><a href="https://wccftech.com/roundup/memory-crisis/">RAM Shortage 2026 Explained: Why AI Is Causing a DDR5 Crisis & When It Ends - Wccftech</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/dgx-gb300/">DGX GB 300 : AI Factory Infrastructure for Enterprises | NVIDIA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Foundry">Microsoft Foundry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Opus_4.8">Claude Opus 4.8</a></li>
 
 </ul>
 </details>
 
-**标签**: `#memory chips`, `#AI hardware`, `#semiconductor`, `#investment`, `#South Korea`
+**标签**: `#Microsoft Azure`, `#Anthropic Claude`, `#NVIDIA GB300`, `#Cloud AI`, `#AI Infrastructure`
 
 ---
 
 <a id="item-7"></a>
-## [Qwen 3.6 27B：本地开发甜点，但硬件成本隐忧](https://quesma.com/blog/qwen-36-is-awesome/) ⭐️ 7.0/10
+## [Kimi 估值达 315 亿美元，ARR 突破 3 亿美元](https://36kr.com/newsflashes/3875210246418689?f=rss) ⭐️ 8.0/10
 
-Qwen 3.6 27B 被强调为本地开发的强大 LLM 选项，但社区评论揭示了在严肃编码工作中存在显著的硬件成本和可用性问题。 这一讨论很重要，因为它凸显了本地运行强大 LLM 与使用云 API 之间的权衡，影响开发者的生产力和成本。 运行 Qwen 3.6 27B 需要至少 128GB 统一内存的 Mac，成本超过 6,699 美元，而 OpenRouter 等云替代方案提供更便宜的大模型访问。
+月之暗面 Kimi 已完成上一轮 200 亿美元估值的融资交割，并启动新一轮融资，投前估值涨至 315 亿美元；同时，其年度经常性收入（ARR）在 6 月中旬突破 3 亿美元。 这一里程碑表明 Kimi 的商业化进展强劲，API 收入占主导且增长模式类似 Anthropic 早期阶段，凸显了中国 AI 模型变现潜力的提升。 API 收入目前占 Kimi 总收入的 70%以上并持续走高，这一增长由模型迭代带动开发者使用量增加所驱动。
 
-hackernews · stared · 6月29日 17:05 · [社区讨论](https://news.ycombinator.com/item?id=48721903)
+rss · 36氪 · 6月30日 05:07
 
-**背景**: 本地 LLM 需要大量 VRAM（或 Mac 上的统一内存）才能高效运行。Qwen 3.6 27B 是一个 270 亿参数的模型，在编码任务上表现出色，但其硬件需求使许多开发者难以实际使用。
+**背景**: 年度经常性收入（ARR）是订阅制业务的关键指标，由月度经常性收入乘以 12 计算得出。Kimi 是中国公司月之暗面开发的大型语言模型聊天机器人，以其长上下文能力著称。其收入增长模式与领先 AI 初创公司 Anthropic 相似，即开发者 API 调用和海外付费用户推动收入增长。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ollama.com/library/qwen3.6:27b">qwen 3 . 6 : 27 b</a></li>
-<li><a href="https://overchat.ai/ai-hub/llm-hardware-requirements">Local LLM Hardware Requirements in 2026 | AI Hub</a></li>
-<li><a href="https://medium.com/codex/the-complete-guide-to-local-llm-hardware-specs-for-running-ai-models-on-consumer-hardware-281552cbc4cb">The Complete Guide to Local LLM Hardware : Specs for... | Medium</a></li>
+<li><a href="https://pmtoolkit.ai/glossary/arr">What is ARR ( Annual Recurring Revenue )? Definition ... | PM Toolkit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区成员警告说，在 MacBook Pro 上运行 Qwen 3.6 27B 会导致过热和噪音，不适合交互式编码。他们认为云 API 更具性价比，在 OpenRouter 上充值 10 美元就能长时间使用更大的模型。
-
-**标签**: `#LLM`, `#local development`, `#hardware`, `#Qwen`, `#cost analysis`
+**标签**: `#AI`, `#funding`, `#valuation`, `#API`, `#commercialization`
 
 ---
 
 <a id="item-8"></a>
-## [研究：超半数社交媒体儿童安全功能失效](https://www.ithome.com/0/970/253.htm) ⭐️ 7.0/10
+## [AI 驱动研究揭示液态水中的两种结构](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) ⭐️ 7.0/10
 
-纽约大学和东北大学的一项研究测试了 Instagram、Snapchat、TikTok 和 YouTube 上的 86 项儿童安全功能，发现至少 50%未能按宣传效果工作。 这项研究揭示了平台承诺与实际保护之间的巨大差距，可能使数百万儿童暴露于有害内容和不受欢迎的联系中。 该研究使用模拟儿童和成人账户测试了三种场景：正常使用、青少年绕过安全功能以及恶意成人规避保护。Snapchat 允许成人无限制地查找儿童并发送消息，TikTok 向青少年账户推荐与厌食症相关的内容。
+2026 年 6 月 4 日发表在《自然·物理》上的一项研究，利用基于神经网络的分子动力学模拟，提供了分子层面的证据，表明液态水由两种可相互转化的局部结构组成：一种密度更高、更无序，另一种密度更低、更有序。 这一发现证实了关于水异常特性（例如 4°C 时密度最大）的长期假设，并可能加深对水在生物、化学和环境系统中行为的理解。 研究人员确定了捕捉两种结构之间相互转化的多维反应坐标，它们之间的边界被认为终止于深度过冷水中的第二个临界点，由于快速结晶，该区域很难通过实验研究。
 
-rss · IT之家 · 6月29日 23:46
+hackernews · wglb · 6月29日 22:18 · [社区讨论](https://news.ycombinator.com/item?id=48726073)
 
-**背景**: 社交媒体平台长期以来因其儿童安全处理方式而受到批评。限制成人联系和屏蔽有害内容等功能常被宣传，但很少得到独立验证。这项研究提供了其无效性的系统证据。
+**背景**: 水表现出许多异常特性，例如结冰时膨胀以及在 4°C 时密度最大，这些现象困扰了科学家数十年。一个主流理论认为，这些异常源于两种不同液体结构的共存。然而，直到现在，直接的分子层面证据一直难以获得，部分原因是这些结构转化太快，无法用传统技术观察。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/">Half Of Social Media Child Safety Features Don't Work, Report Claims</a></li>
-<li><a href="https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html">Many Child Safety Features on Social Apps Don’t Work, Report Finds</a></li>
-<li><a href="https://news.northeastern.edu/2026/06/29/social-media-safety-child-research/">Most Social Media Child Safety Features Fail, Study Finds</a></li>
+<li><a href="https://www.nature.com/articles/s41567-026-03301-8">Evidence for the generic existence of two local structures in ...</a></li>
+<li><a href="https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html">Scientists find molecular-level evidence for two structures ...</a></li>
+<li><a href="https://www.livescience.com/physics-mathematics/water-might-secretly-be-a-mix-of-2-different-liquids-scientists-say">Water might secretly be a mix of 2 different liquids ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 该研究引发了争议，Snap、Meta 和 YouTube 对研究结果提出异议。Meta 认为研究人员做出了模糊的声明，没有提供实例或证据，而研究作者坚持其方法是严谨的。
+**社区讨论**: 评论者指出了与蛋白质周围水化层的联系，并引用了关于氢键网络的相关研究。一些人对利用第二个临界点的未来潜在技术表示兴奋，而一位评论者对基于神经网络的方法表示怀疑，称其有“占卜的感觉”。
 
-**标签**: `#social media`, `#child safety`, `#research`, `#privacy`, `#platform accountability`
+**标签**: `#physics`, `#water`, `#molecular dynamics`, `#research`
 
 ---
 
 <a id="item-9"></a>
-## [Anthropic 与加州州长纽森签署 Claude 折扣协议](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) ⭐️ 7.0/10
+## [韩国投资 1 万亿美元发展存储芯片与人形机器人](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) ⭐️ 7.0/10
 
-Anthropic 与加州州长加文·纽森达成协议，以半价向州政府机构提供其 AI 模型 Claude，并伴随新的 AI 采购行政命令。 该协议标志着 AI 在政府运营中的企业级应用日益增长，并凸显了 Anthropic 与加州之间关系的深化，与联邦层面在 AI 安全方面的紧张局势形成对比。 加州拥有全球前 50 家私有 AI 公司中的 33 家，并占美国 AI 专利的 25%，使该州在 AI 采购中具有显著的市场影响力。
+韩国宣布了一项 1 万亿美元的投资计划，用于扩大存储芯片生产并开发人形机器人，其中 5850 亿美元用于新建晶圆厂，其余资金投入机器人和 AI 数据中心。 这项巨额投资可能重塑全球半导体供应链并加速人形机器人部署，但存在导致存储芯片产能过剩的风险，并引发对人形形态实用性的质疑。 该计划包括 5850 亿美元用于新建晶圆厂，以应对当前 AI 工作负载驱动的存储短缺；机器人部分聚焦于人形机器人，但一些评论者认为人形形态并非最优选择。
 
-rss · TechCrunch · 6月29日 18:10
+hackernews · jnord · 6月29日 22:21 · [社区讨论](https://news.ycombinator.com/item?id=48726102)
 
-**背景**: Claude 是 Anthropic 开发的一系列大型语言模型，于 2023 年 3 月作为 AI 聊天机器人发布。该协议代表了一种谨慎且注重安全的方式，将 AI 整合到政府运营中，与联邦层面的反对态度形成对比。
+**背景**: 存储芯片（尤其是 DRAM 和 NAND）是电子设备和 AI 系统的关键组件。2026 年的全球存储短缺部分由 AI 需求驱动，促使各国扩大生产。人形机器人是一个新兴领域，但其形态（双足、轮式或混合式）仍存在争议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cryptobriefing.com/anthropic-newsom-deal-california-government-ai/">Anthropic, Newsom sign deal to expand AI use in California ...</a></li>
-<li><a href="https://cagazette.com/newsom-signs-ai-procurement-executive-order-putting-california-on-a-collision-course-with-washington/">Newsom Signs AI Procurement Executive Order, Putting California ...</a></li>
-<li><a href="https://bitcoinworld.co.in/california-anthropic-claude-deal/">California Inks Deal With Anthropic To Offer Claude To State...</a></li>
+<li><a href="https://learn.rbtx.com/knowledge-resource/types-of-humanoid-robots-in-2026-a-breakdown-by-form-factor-and-mobility-architecture/">Types of Humanoid Robots in 2026: A Breakdown by Form Factor ...</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/memory-mania-how-a-once-in-four-decades">Memory Mania: How a Once-in-Four-Decades Shortage Is Fueling a Memory Boom</a></li>
+<li><a href="https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/">IDC - Global Memory Shortage Crisis: Market Analysis and the Potential Impact on the Smartphone and PC Markets in 2026</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Anthropic`, `#Government`, `#Business`, `#Claude`
+**社区讨论**: 评论者对将存储芯片和人形机器人混为一谈表示怀疑，将其比作“ groceries and dance lessons”。一些人警告存储芯片可能产能过剩，另一些人则质疑为何偏好人类形态而非可能更高效的设计。
+
+**标签**: `#semiconductors`, `#humanoid robots`, `#government investment`, `#manufacturing`, `#AI`
 
 ---
 
 <a id="item-10"></a>
-## [Arena AI 排行榜成为 1 亿美元业务](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/) ⭐️ 7.0/10
+## [苹果提前发布安全更新以应对 AI 黑客攻击](https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/) ⭐️ 7.0/10
 
-广受欢迎的免费 AI 排行榜 Arena 自去年 9 月推出商业服务后，估值已达 1 亿美元。 这一里程碑证明了社区驱动 AI 评估的商业可行性，标志着开放基准平台货币化的趋势。 Arena 的商业服务于 2025 年 9 月推出，公司在数月内估值达到 1 亿美元，表明市场需求强劲。
+苹果于 2026 年 6 月 29 日发布了 iOS 26.5.2、iPadOS 26.5.2 和 macOS 26.5.2，其中包含原计划在 26.6 版本中发布的安全修复，以应对 AI 驱动的黑客攻击风险。 这标志着苹果更新策略的转变，优先快速修补而非将修复捆绑到主要版本中，可能为应对 AI 威胁的主动网络安全树立新的行业标准。 这些更新修复了 29 个关键安全漏洞，主要影响 WebKit 组件，适用于 iPhone、iPad 和 Mac 设备。
 
-rss · TechCrunch · 6月29日 17:39
+rss · 9to5Mac · 6月29日 23:29
 
-**背景**: Arena 是一个用户可以聊天、比较各种 AI 模型并为最佳模型投票的平台，从而生成公开排行榜。它最初是一个免费社区项目，现已成为 AI 行业广泛使用的基准。
+**背景**: AI 驱动的黑客攻击利用机器学习自动化攻击、生成令人信服的钓鱼内容，并比传统方法更快地利用漏洞。苹果于 2023 年推出的快速安全响应功能允许在主要操作系统更新之间提供安全修复，但这是该公司首次因 AI 威胁而加速完整的点版本发布。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arena.ai/">Arena AI : The Official AI Ranking & LLM Leaderboard</a></li>
-<li><a href="https://arena.ai/leaderboard">Arena Leaderboard | Compare & Benchmark the Best Frontier AI ...</a></li>
-<li><a href="https://huggingface.co/spaces/lmarena-ai/arena-leaderboard">Arena Leaderboard - a Hugging Face Space by lmarena- ai</a></li>
+<li><a href="https://support.apple.com/en-lamr/100100">Apple security releases - Apple Support</a></li>
+<li><a href="https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/">Apple says it is releasing updates early in response to AI ...</a></li>
+<li><a href="https://www.kaspersky.com/resource-center/preemptive-safety/ai-cybercrime">AI-Powered Hacking: Types of AI Cybercrime and How to Stay Safe</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#leaderboard`, `#startup`, `#valuation`
+**标签**: `#Apple`, `#security`, `#AI`, `#cybersecurity`, `#software updates`
 
 ---
 
 <a id="item-11"></a>
-## [提议的 .self 顶级域名旨在赋能自托管](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) ⭐️ 6.0/10
+## [中国 AI 公司提出物理 AI 的“端侧原生”新思路](https://36kr.com/p/3875047283659777?f=rss) ⭐️ 7.0/10
 
-一项名为 .self 的新顶级域名的提案已发布，该域名专门设计用于支持自托管，为个人提供免费子域名，并禁止抢注和转售。 如果实施，.self 可以降低个人托管自己服务的门槛，减少对中心化平台的依赖，促进更加去中心化的互联网。 该提案目前仍只是一个想法，尚未提交给 ICANN 批准；目前缺乏明确的资金模式来覆盖在没有注册费的情况下运营 TLD 的巨大成本。
+中国 AI 公司 Om AI 于 2026 年 6 月 27-29 日发布了 VLX-Flow、VLX-Seek 和 VLX-Go 系列模型，提出了一种流式多模态新思路，优先解决空间理解问题，而非主流的 VLA-世界模型架构。 这挑战了物理 AI 必须依赖 VLA 与世界模型深度闭环的主流共识，可能开辟一个新的万亿级市场方向。它指出许多物理终端缺乏基本的空间感知能力，而不仅仅是灵巧操作。 VLX-Flow 模型通过 Linear Attention 和双层记忆（视觉缓存+文本 carryover）解决“持续感知”问题，让视频流像水流一样持续进入模型，而非逐帧处理。该公司指出当前 VLA 模型将 90%以上算力分配给语言部分，导致动作部分训练不足。
 
-hackernews · HumanCCF · 6月29日 19:49 · [社区讨论](https://news.ycombinator.com/item?id=48724230)
+rss · 36氪 · 6月30日 03:24
 
-**背景**: 像 .com 和 .org 这样的顶级域名由 ICANN 管理，运营需要大量的财务和技术资源。自托管是指个人运行自己的服务器来提供网站、电子邮件或其他服务，而不是使用第三方提供商。
+**背景**: 物理 AI 指与物理世界交互的 AI 系统，如机器人和自动驾驶车辆。视觉-语言-动作（VLA）模型结合了视觉、语言和动作能力，而世界模型则模拟物理动态以预测结果。物理 AI 市场预计到 2040 年将达到数万亿美元。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=48724230">self: A new top - level domain designed to support self - hosting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains">List of Internet top - level domains - Wikipedia</a></li>
+<li><a href="https://neuralcoretech.com/physical-ai-architecture-vla-robotics/">Physical AI Architecture: VLA Models & Robotics Inference ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)">World model (artificial intelligence) - Wikipedia</a></li>
+<li><a href="https://www.turingpost.com/p/vlaplus">VLA Models Explained: Architecture, Types & the Leap to VLA+</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论对滥用可能性表示担忧，引用了 .tk 顶级域名因诈骗者而被屏蔽的历史。其他人质疑财务可行性，并指出该提案缺乏技术细节和 ICANN 的批准。
-
-**标签**: `#DNS`, `#self-hosting`, `#TLD`, `#internet governance`
+**标签**: `#physical AI`, `#VLA`, `#world model`, `#AI investment`, `#robotics`
 
 ---
 
 <a id="item-12"></a>
-## [Ornith-1.0：自我改进的开源编程模型](https://github.com/deepreinforce-ai/Ornith-1) ⭐️ 6.0/10
+## [前百度实验室主任融资 5000 万，打造机器人世界通行模型](https://36kr.com/p/3875059110221064?f=rss) ⭐️ 7.0/10
 
-DeepReinforce 发布了 Ornith-1.0，这是一个基于 Qwen 和 Gemma 4 微调的开源（MIT 许可）智能编程模型系列，参数规模从 9B 到 397B 不等。这些模型声称具备自我改进的编程能力。 Ornith-1.0 是首批明确针对自我改进智能编程的开源模型之一，可能降低开发者使用高级编程助手的门槛。社区对其评价不一，凸显了关于基准可靠性和实际性能的持续争论。 该模型系列包括 9B Dense、31B Dense、35B MoE 和 397B MoE 变体，其中 9B 版本可单卡运行在 80GB GPU 上。它使用 Claude Code 在 Terminal-Bench 2.1 上进行了特定设置的评估。
+纽娲机器人由前百度自动驾驶与机器人实验室主任杨睿刚博士创立，近日完成 5000 万元天使轮融资，由蓝湖资本领投。该公司正在研发“世界通行模型”（WTM），旨在让机器人在复杂的人类环境中自主移动。 这解决了具身智能的一个关键缺口：让机器人在楼梯、电梯、拥挤区域等非结构化人类空间中安全高效地通行。WTM 方法有望加速物流、园区、文旅等场景中的配送机器人、服务机器人和人形机器人的部署。 纽娲自研的物理仿真引擎 SimWeaver 相较英伟达 Isaac Sim 生成速度提升 3 倍，在柔性体操作任务上实现 91%零样本成功率。公司计划 2026 年在 1-2 个真实场景部署 WTM，重点验证无图导航和环境零改造能力。
 
-hackernews · danboarder · 6月29日 17:16 · [社区讨论](https://news.ycombinator.com/item?id=48722052)
+rss · 36氪 · 6月30日 02:35
 
-**背景**: 智能编程模型是设计用于自主编写、调试和改进代码的大语言模型，通常使用 bash 或 Python 等工具。自我改进模型可以在无需人工干预的情况下优化自身输出或训练数据。Qwen 和 Gemma 4 因其强大的性能和开放的权重而成为微调的热门基础模型。
+**背景**: 具身智能旨在让机器人具备在物理世界中感知、推理和行动的能力。“世界模型”是一种内部表征，用于预测未来状态并指导行动。当前方法通常将规划（慢思考）与控制（快反应）分离，而纽娲专注于通行能力——即在人类环境中移动的能力——并将其称为“具行智能”。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/deepreinforce-ai/Ornith-1">GitHub - deepreinforce-ai/ Ornith - 1 · GitHub</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/29/ornith/">Ornith - 1 . 0 : Self-Scaffolding LLMs for Agentic Coding</a></li>
-<li><a href="https://www.youtube.com/watch?v=GhFArv8kYJA">Ornith 1 . 0 : The Open Coding Model Built on Gemma 4 for Agentic ...</a></li>
+<li><a href="https://arxiv.org/abs/2606.01027">||tau;_0$-WM: A Unified Video-Action World Model for Robotic ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.00080">World Model for Robot Learning: A Comprehensive Survey World Model for Robot Learning: A Comprehensive Survey Robotics World Modeling World Models for Robotics Guide | world-models.io Frontiers | Robotic world models—conceptualization, review ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1668910/full">Frontiers | A review of embodied intelligence systems: a ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论显示出怀疑态度：一位用户指出其在特定找 bug 任务上表现不佳且存在幻觉问题，另一位用户称其为 Qwen 或 Gemma 4 的“刷榜”版本。不过，也有用户认为它富有创意，推荐用于编程问题。
-
-**标签**: `#open-source`, `#AI`, `#coding`, `#LLM`, `#agentic`
+**标签**: `#robotics`, `#embodied AI`, `#autonomous navigation`, `#startup funding`, `#world model`
 
 ---
 
 <a id="item-13"></a>
-## [亚马逊解释 Fire TV 从 Android 转向 VegaOS](https://9to5google.com/2026/06/29/amazon-fire-tv-vegaos-android-interview/) ⭐️ 6.0/10
+## [AI 采用与就业增长相关，而非减少](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) ⭐️ 7.0/10
 
-亚马逊 Fire TV 副总裁在一次采访中解释了为何 Fire TV 设备要从 Android 转向自研的 VegaOS，但只有一部分理由令人信服。 此举标志着亚马逊流媒体平台的重大转变，可能影响数百万 Fire TV 用户的应用兼容性和体验，也反映了公司自研操作系统的行业趋势。 采访中亚马逊将性能和自主控制作为关键理由，但批评者认为这一改变将分裂 Android TV 生态并减少可用应用。VegaOS 基于 Linux 但不兼容 Android。
+一份新报告显示，被归类为“高强度 AI 采用者”的公司总员工数增加了 10.2%，其中入门级职位增长了 12%，挑战了 AI 会淘汰初级岗位的普遍看法。 这一发现提供了数据驱动的证据，表明 AI 采用可能补充而非取代人类劳动，尤其是入门级岗位，从而影响企业和政策制定者对待劳动力规划和 AI 整合的方式。 该报告专门研究了“高强度 AI 采用者”——即重度将 AI 整合到运营中的公司——发现员工总数净增长，且入门级招聘速度超过整体增长。
 
-rss · 9to5Google · 6月29日 18:20
+rss · TechCrunch · 6月30日 04:01
 
-**背景**: Fire TV 自 2014 年推出以来一直使用 Android 的分支版本，从而能运行 Android 应用。VegaOS 是亚马逊从头构建的新操作系统，旨在优化性能并与亚马逊服务深度集成。这一转变之所以有争议，是因为它可能破坏现有应用的兼容性。
+**背景**: 关于 AI 对就业影响的争论一直两极分化，一些人预测大规模失业，而另一些人则认为 AI 将创造新岗位。这份报告增加了细微差别，表明在实践中，采用 AI 的公司正在招聘更多员工，尤其是在入门级，暗示 AI 可能增强初级员工而非取代他们。
 
-**标签**: `#Amazon`, `#Fire TV`, `#VegaOS`, `#Android`, `#Operating Systems`
+**标签**: `#AI`, `#employment`, `#economics`, `#tech industry`
 
 ---
 
 <a id="item-14"></a>
-## [苹果要求驳回印度反垄断案，称指控系“复制粘贴”](https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/) ⭐️ 6.0/10
+## [谷歌推出安卓应用级备份控制功能](https://9to5google.com/2026/06/29/android-backups-per-app-controls/) ⭐️ 6.0/10
 
-苹果正要求印度竞争监管机构撤销针对 App Store 的反垄断调查结果，声称调查人员只是从 Spotify 和 Match Group 等竞争对手那里复制粘贴指控，并未进行独立调查。 此案可能为印度如何对大型科技公司执行反垄断法树立先例，根据印度新的竞争制度，苹果可能面临高达 380 亿美元的罚款（占其全球营业额的 10%）。 苹果辩称，印度竞争委员会（CCI）依赖的是竞争对手投诉的“剪切粘贴”，而非进行自己的市场分析。据报道，CCI 的调查发现苹果滥用其主导地位，强制开发者使用其应用内支付系统，该系统收取高达 30%的佣金。
+谷歌正在为安卓推出应用级备份控制功能，允许用户单独选择哪些应用包含在设备备份中。这是继 2025 年安卓备份设置重新设计之后的又一更新。 这为用户提供了对备份数据的精细控制，增强了隐私和存储管理。它回应了安卓用户长期以来的需求，即希望将某些应用排除在备份之外。 该功能首先在 Pixel 设备上推出，支持 Android 16 和 17。用户可以在备份设置中为每个应用单独开启或关闭备份。
 
-rss · 9to5Mac · 6月29日 19:56
+rss · 9to5Google · 6月29日 23:54
 
-**背景**: 印度针对苹果的反垄断案始于 2022 年，加入了全球对 App Store 做法的监管审查浪潮。CCI 的调查与欧盟、美国及其他司法管辖区的类似案件相似，苹果被指控通过限制应用分发和支付选项实施反竞争行为。苹果辩称其在智能手机或应用市场不具主导地位，但监管机构将市场更狭义地定义为 iOS 应用分发。
+**背景**: 安卓备份传统上是全有或全无，备份所有应用数据而无法单独选择。2025 年，谷歌重新设计了备份设置页面以简化界面，现在又增加了应用级控制以提供更多灵活性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://logicity.in/en/blog/apple-india-antitrust-fine-38b-penalty-risk-explained">Apple India Antitrust Fine: $38B Penalty Risk Explained | Logicity</a></li>
-<li><a href="https://www.mactrast.com/2026/01/india-fights-back-as-apple-works-to-lessen-potential-38b-app-store-antitrust-fine/">India Fights Back, As Apple Works to Lessen Potential $38b App ...</a></li>
+<li><a href="https://9to5google.com/2026/06/29/android-backups-per-app-controls/">Google rolling out per-app controls for Android Backups</a></li>
+<li><a href="https://www.androidauthority.com/android-per-app-data-backup-beta-3682357/">Google is finally giving Android users control over app backups</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#antitrust`, `#App Store`, `#India`, `#regulation`
+**标签**: `#Android`, `#Backups`, `#Google`, `#Privacy`
 
 ---
 
 <a id="item-15"></a>
-## [Tidal 将对 AI 生成音乐去货币化，但不全面禁止](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label) ⭐️ 6.0/10
+## [飞利浦 Hue Bridge Pro 固件更新导致设备变砖](https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/) ⭐️ 6.0/10
 
-从 7 月 15 日起，Tidal 将用图标标记被识别为完全由 AI 生成的曲目，并停止为其支付版税，但不会全面禁止此类音乐。 该政策为流媒体平台如何处理 AI 生成内容树立了先例，在不全面审查的前提下平衡了艺术家保护与对新技术的开放态度。 Tidal 还将使用自动化工具移除冒充艺术家或乐队的 AI 生成音乐，该政策针对的是大量上传和异常流媒体活动。
+飞利浦 Hue Bridge Pro 的最新固件更新（版本 2071353020）据报告导致部分用户的集线器变砖，桥接器的指示灯变红，灯光和配件无法控制。 此问题影响智能家居的可靠性，用户可能失去对整个 Hue 照明系统的控制，直到修复发布，且可能需要数小时重新配置设备。 有问题的固件版本 2071353020 似乎只影响部分用户，且不可预测；受影响的用户会看到桥接器红灯亮起，设置无法使用。Signify 尚未发布修复，建议用户禁用自动更新。
 
-rss · The Verge · 6月29日 19:47
+rss · 9to5Google · 6月29日 23:30
 
-**背景**: AI 生成的音乐已涌入流媒体平台，通常与流媒体操纵和欺诈活动有关。Deezer 等竞争对手也已对 AI 生成音乐去货币化，并授权了检测技术。
+**背景**: 飞利浦 Hue Bridge Pro 是一种智能家居集线器，用于将 Hue 灯光和配件连接到网络，支持通过应用和语音助手控制。固件更新旨在改进功能，但有时会引入错误。此特定错误使集线器完全无法使用，通常称为“变砖”。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label">Tidal won’t pay royalties on AI -generated music but... | The Verge</a></li>
-<li><a href="https://tidal.com/ai-policy">Tidal AI Policy | TIDAL</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48718840">Tidal AI Policy | Hacker News</a></li>
+<li><a href="https://www.androidauthority.com/update-bricking-hue-bridge-pro-3682465/">Don't update ! Hue Bridge Pro users warn about... - Android Authority</a></li>
+<li><a href="https://www.notebookcheck.net/Philips-Hue-Bridge-Pro-may-become-inoperable-after-latest-update.1331377.0.html">Philips Hue Bridge Pro may become inoperable after latest update</a></li>
+<li><a href="https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/">Philips Hue Bridge Pro update seems to be breaking the hub, taking...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#music`, `#policy`, `#copyright`
+**标签**: `#smart home`, `#IoT`, `#Philips Hue`, `#firmware bug`
 
 ---
 
 <a id="item-16"></a>
-## [AMD GPU 的 CUDA 模拟器 Zluda 失去资助，回归业余项目](https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support) ⭐️ 6.0/10
+## [开源 AI 代理 OpenClaw 推出原生 iOS 应用](https://www.macrumors.com/2026/06/29/openclaw-ios-app/) ⭐️ 6.0/10
 
-Zluda，一个面向 AMD GPU 的开源 CUDA 模拟器，在发布第 6 版时失去了商业资助，项目回归业余状态，同时增加了对 32 位 PhysX 的早期支持。 这一进展限制了 Zluda 为 AMD 用户提供可行 CUDA 替代方案的潜力，但增加 32 位 PhysX 支持可能有益于运行依赖该物理引擎的老游戏的玩家。 Zluda 第 6 版包含早期 32 位 PhysX 支持，但该项目不再有商业资助，回归业余状态，意味着开发速度变慢且可靠性降低。
+流行的开源 AI 代理 OpenClaw 发布了适用于 iPhone 和 iPad 的原生 iOS 应用，让用户能够安全地随时随地访问自托管的网关。 此次扩展将自托管 AI 代理的能力带到移动设备上，支持安全聊天、语音审批和设备感知自动化，无需依赖第三方消息变通方案。 该应用通过二维码或设置码与现有 OpenClaw 网关配对，支持实时通话模式、操作审批以及从 iOS 分享文本/媒体等功能。
 
-rss · Tom's Hardware · 6月29日 18:29
+rss · MacRumors · 6月29日 22:42
 
-**背景**: CUDA 是 NVIDIA 的并行计算平台，广泛用于 GPU 加速应用。Zluda 是一个即插即用的替代方案，允许未经修改的 CUDA 应用程序在 AMD GPU 上以接近原生的性能运行。PhysX 是一个常用于游戏的物理引擎；32 位 PhysX 支持对老游戏很重要。
+**背景**: OpenClaw 是一个免费的开源自主动 AI 代理，运行在 Mac 或 PC 上，利用 Claude、OpenAI 或 Gemini 等大语言模型通过消息平台执行任务。它需要自托管网关和广泛的系统权限，这带来了提示注入等风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/vosen/ZLUDA">GitHub - vosen/ ZLUDA : CUDA on non-NVIDIA GPUs · GitHub</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support">CUDA emulator for AMD GPUs Zluda loses funding... | Tom's Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenClaw">OpenClaw - Wikipedia</a></li>
+<li><a href="https://openclaw.ai/">OpenClaw — Personal AI Assistant</a></li>
 
 </ul>
 </details>
 
-**标签**: `#CUDA`, `#AMD`, `#GPU`, `#emulator`, `#PhysX`
+**标签**: `#AI agent`, `#iOS`, `#open source`, `#automation`
 
 ---
 
 <a id="item-17"></a>
-## [报告：美国占全球碳排放增长的三分之一](https://36kr.com/newsflashes/3874921675871495?f=rss) ⭐️ 6.0/10
+## [谱星航天获数亿元融资，建设光谱定量遥感星座](https://36kr.com/p/3875120747942913?f=rss) ⭐️ 6.0/10
 
-英国能源学会与 Ember、科尔尼研究所和毕马威合作发布的报告显示，2025 年全球碳排放增长中约三分之一来自美国，原因是天然气价格上涨迫使电力生产商重新转向煤炭发电，导致美国煤炭消费量增加 10%。 作为全球第二大排放国，美国清洁能源转型的逆转可能破坏全球气候目标，并为面临类似能源价格压力的其他国家树立令人担忧的先例。 2025 年全球能源相关碳排放量增加 1.1%，达到 358.06 亿吨二氧化碳，其中美国贡献了超过三分之一的增长。北美地区的增长逆转了过去十年排放量每年下降 0.7%的趋势。
+上海初创公司谱星航天在成立 9 个月内连续完成天使+和 Pre-A 轮融资，累计规模近 3 亿元。公司计划于 2027 年一季度发射首批两颗光谱定量遥感验证卫星。 本轮融资表明投资者对中国商业航天领域，尤其是光谱定量遥感赛道充满信心。谱星航天规划的 1024 颗卫星星座旨在提供高频次、高精度的光谱数据，有望变革农业、金融、环保等依赖及时对地观测的行业。 谱星航天专注于光学遥感载荷及 20 至 50 公斤级微纳卫星的研发，产品包括高分辨光谱相机、大气同步探测光谱仪等。公司目前在手订单 4.4 亿元，年内计划完成多轮融资以支持星座建设。
 
-rss · 36氪 · 6月30日 00:20
+rss · 36氪 · 6月30日 03:39
 
-**背景**: 英国能源学会是英国能源行业的专业机构。该报告凸显了在能源可负担性与气候承诺之间取得平衡的挑战，因为天然气价格上涨使得煤炭发电在美国更具经济吸引力。
+**背景**: 光谱定量遥感通过捕获数十甚至上百个光谱波段，利用物质独特的光谱“指纹”实现精准识别。与主要服务政府和军方的定性遥感不同，定量遥感为商业决策提供可量化的数据，例如用于期货交易的作物产量预测。谱星航天的技术路线结合高光谱分辨率、辐射精度和高重访频率，以克服现有卫星系统的局限。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ft.com/content/f256cc27-b80f-4fce-88cf-e80cb2451ef5">ft.com/content/f256cc27-b80f-4fce-88cf-e80cb2451ef5</a></li>
+<li><a href="https://www.c114.net.cn/device/58522.html">c114.net.cn/device/58522.html</a></li>
+<li><a href="https://36kr.com/p/3671451112579970">36kr.com/p/3671451112579970</a></li>
+<li><a href="https://m.163.com/dy/article/KL3FFHT905118DFD.html">m.163.com/dy/article/KL3FFHT905118DFD.html</a></li>
 
 </ul>
 </details>
 
-**标签**: `#climate change`, `#carbon emissions`, `#energy`, `#coal`, `#US`
+**标签**: `#commercial aerospace`, `#remote sensing`, `#funding`, `#China`
 
 ---
 
 <a id="item-18"></a>
-## [中金：SiC/GaN 将受益于数据中心电力升级](https://36kr.com/newsflashes/3874903140209672?f=rss) ⭐️ 6.0/10
+## [第三方应用商店计费：开发者还能收到钱吗？](https://www.reddit.com/r/androiddev/comments/1uj81e2/so_if_i_allow_thirdparty_app_store_access_to_my/) ⭐️ 6.0/10
 
-中金预测，SiC 和 GaN 半导体将受益于数据中心电力系统升级，到 2026 年，SiC 将主导机房侧（灰区），GaN 将在机柜内（白区）大规模渗透。 这一转变意义重大，因为随着 AI 计算要求高密度和持续负载，高压架构变得必不可少，而 SiC/GaN 器件可实现更高效率和功率密度，影响数据中心的能耗和性能。 中金指出，在硬件进步推动下，2026 年将是数据中心高压架构落地的元年。SiC 预计将主导灰区（UPS、PDU），而 GaN 将主导白区（板载电源）。
+一位开发者收到 Google Play 的邮件，称其美国应用将提供给第三方 Android 应用商店，这引发了关于付款和计费的困惑。作为与 Epic Games 和解的一部分，Google 正在推出允许替代计费系统和降低费用的变更。 这影响到 Android 开发者通过第三方商店分发应用时如何获得收入，可能减少他们对 Google Play 计费的依赖。这些变化可能通过促进更多竞争和降低费用来重塑 Android 应用生态系统。 Google 现在允许开发者在美国使用第三方支付提供商处理数字商品的应用内购买，并降低服务费。新的“注册应用商店”计划简化了从替代市场安装应用的流程。
 
-rss · 36氪 · 6月30日 00:08
+reddit · r/androiddev · /u/controlav · 6月29日 23:08
 
-**背景**: 第三代化合物半导体如 SiC（碳化硅）和 GaN（氮化镓）具有比硅更宽的禁带，可实现更高电压、频率和温度操作。数据中心正在升级到高压电力架构以提高效率并支持 AI 工作负载。灰区指设施级配电（如 UPS），白区指机架级电源转换。
+**背景**: 历史上，Google 要求 Android 上的所有应用内购买必须使用 Google Play 计费，并收取 30%的佣金。在 Epic Games 提起反垄断诉讼后，Google 同意降低费用并允许全球范围内使用替代计费系统，从 2026 年 6 月 30 日起在美国、英国和欧洲经济区实施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.alighting.cn/news/20191104/164872.htm">一文看懂 三 安光电的 化 合 物 半 导 体 布局与进展-阿拉丁照明网</a></li>
-<li><a href="https://mp.ofweek.com/ai/a845693127396">双雄逐鹿 第 三 代 半 导 体 ，More Moore之路 - 维科号V</a></li>
+<li><a href="https://www.xda-developers.com/google-play-store-in-app-billing-clarity-android-12-third-party-app-stores/">Google clarifies In-App Billing requirements, says using third-party app stores will be easier in Android 12</a></li>
+<li><a href="https://solidgate.com/blog/external-billing-google-play/">Google Play external billing: Maximize revenue from your app</a></li>
+<li><a href="https://www.megamobilecontent.com/news/2026/06/26/google-slashes-play-store-fees-epic-settlement/">Google Slashes Play Store Fees After | MegaMobileContent</a></li>
 
 </ul>
 </details>
 
-**标签**: `#SiC`, `#GaN`, `#data center`, `#power systems`, `#AI`
+**标签**: `#Android`, `#App Store`, `#Developer Revenue`, `#Google Play`
 
 ---
