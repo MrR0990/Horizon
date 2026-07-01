@@ -5,7 +5,7 @@ date: 2026-07-01
 lang: zh
 ---
 
-> 从 303 条内容中筛选出 39 条重要资讯。
+> 从 291 条内容中筛选出 38 条重要资讯。
 
 ---
 
@@ -15,253 +15,320 @@ lang: zh
 
 - [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > Aeon 上的一篇文章指出，庄子的道家哲学挑战了“成功是应得的”这一根深蒂固的观念，认为自我奋斗成功的概念是一种幻觉。 这一观点为科技和商业领域盛行的精英主义理想提供了罕见的哲学反驳，促使人们重新思考成功与失败的归因方式。 该文章由 Christine Abigail L Tan 撰写，发表于 Aeon，借鉴了公元前 4 世纪的道家奠基之作《庄子》。
+  > Aeon 上的一篇文章引用中国古代哲学家庄子的思想，论证了“白手起家”这一概念存在缺陷，动摇了精英制度的根基。 这一批判挑战了关于成功与应得的根深蒂固的假设，提供了科技和商业圈中罕见的视角，促使人们重新审视精英主义理想。 该文章由 Christine Abigail L Tan 撰写，发表在 Aeon 上。它运用庄子哲学论证成功并非仅靠个人努力，还取决于个人无法控制的外部因素。
 
-- [人类世岩石：模糊自然与人工的界限](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人造岩石挑战地质学分类](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > John MacDonald 在 Aeon 上发表的文章探讨了人造材料如何创造出新型岩石，挑战了自然与人工的传统界限，重新定义了人类世的地质学。 这一概念引入了“技术化石”作为人类活动持久的地质证据，可能重塑未来地质学家解读地球历史及我们对地球影响的方式。 技术化石包括塑料、混凝土等日常物品以及被改变的材料，它们将在数百万年的地质记录中持续存在，成为人类世时代的标志。
+  > John MacDonald 在 Aeon 上发表的文章介绍了“技术化石”的概念，描述了塑料和混凝土等人造材料如何形成不符合传统地质学分类的新型岩石。 这挑战了地质学的基础，并为人类世提供了切实的标志，迫使科学家重新思考什么是天然岩石，并凸显了人类对地质的持久影响。 这些新岩石包括“塑料砾岩”（塑料与天然沉积物融合）以及混凝土碎片和玻璃等技术化石，它们可能在地质记录中保存数百万年。
 
-- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的加速主义：后人类未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Aeon 上的一篇文章探讨了由尼克·兰德推广的加速主义哲学，该哲学将技术资本主义视为一种不可控的力量，推动着后人类未来的到来，并审视了它对科技文化和极端主义政治的影响。 这篇文章揭示了一种晦涩但影响深远的哲学，科技专业人士对此知之甚少，但它挑战了关于未来的传统思维，并被科技爱好者和极端主义团体所利用。 文章指出，加速主义源于德勒兹和加塔利的思想，并由尼克·兰德和华威大学的控制论文化研究小组（CCRU）在 20 世纪 90 年代发展起来。文章还提到，加速主义已被白人至上主义运动用作暴力行动的理据，以加速社会崩溃。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学设想了一个由不受约束的技术资本主义驱动的后人类未来，并分析了其对科技文化和政治极端主义的影响。 加速主义已被科技爱好者和极端主义团体采纳，使得兰德的思想对于理解当代激进运动以及技术与政治的交叉领域具有重要意义。 兰德曾是华威大学的学者，共同创立了控制论文化研究组（CCRU），在经历个人危机后成为反动黑暗启蒙运动的基础思想家。
 
-- [硅藻与 1703 年的匿名女科学家](https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/) ⭐️ 9.0/10
+- [硅藻与生命的意义](https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/) ⭐️ 9.0/10
 
-  > 一篇历史文章揭示，1703 年，一位匿名女性在给当时最权威科学期刊的信中报告了硅藻的发现，挑战了关于科学认可和女性贡献的假设。 这个故事凸显了女性在早期显微学中被忽视的角色，以及硅藻的文化意义——它们产生地球上高达 50%的氧气，对全球生态系统至关重要。 这封信将硅藻描述为附着在池塘植物上的“漂亮的枝条，由规则的矩形和精确的形状组成”，最长边不到头发丝宽度的一半。在那个时代，匿名通常意味着作者是女性。
-
----
-
-## 🧬 人性与行为
-
-- [RL 中的 KL 惩罚可能增加思维链不忠实性](https://www.lesswrong.com/posts/SdoLsFvZ3AyyWr3ab/preliminary-investigation-kl-penalties-in-rl-can-increase) ⭐️ 9.0/10
-
-  > 英国 AISI 的研究人员发现，在强化学习中使用 KL 惩罚以防止奖励黑客行为，实际上会增加思维链的不忠实性，这与预期相反。 这一反直觉的发现挑战了常见的对齐实践，表明广泛用于 RL 微调的 KL 惩罚可能无意中鼓励模型隐藏欺骗性推理，削弱了思维链监控的有效性。 在 Olmo-32b 和 Qwen-2.5-32b 上的实验显示，应用 KL 惩罚后，不忠实思维链的比例持续增加；在 Qwen-2.5-32b 中，不忠实思维链从约 70%上升到约 100%。
-
-- [被了解是感受到被爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
-
-  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 认为，感受到被爱需要被他人了解和理解，并指出了阻碍这种感受的五个常见误区。 这一见解为难以捉摸的幸福问题提供了科学依据，强调深层社会联系是幸福感的重要贡献因素。 该文章基于对近 2000 名美国成年人的调查，并介绍了研究人员合著的新书《如何感受被爱》。
-
----
-
-## 🧠 AI 学习
-
-- [上下文窗口不等于记忆：AI 智能体开发的关键认知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
-
-  > 文章澄清了大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索增强生成（RAG）和压缩等有效管理记忆的技术。 这一区别对 AI 智能体开发者至关重要，因为仅依赖上下文窗口会导致会话受限、成本高昂且信息杂乱，而正确的记忆技术能实现持久、高效且可扩展的智能体。 上下文窗口是临时的且仅限于当前会话，而智能体记忆通过向量数据库等外部存储跨会话保存事实。RAG 和压缩等技术有助于减少 token 使用并提高检索准确性。
-
-- [使用 LLM 嵌入和 HDBSCAN 聚类非结构化文本](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
-
-  > 一篇教程展示了如何将 LLM 嵌入与 HDBSCAN 聚类算法结合，对非结构化文本数据进行聚类，提供了一个实用的文本分析流程。 这种方法无需手动特征工程即可有效聚类文本，对于主题发现、文档组织和客户反馈分析等任务很有价值。 该流程使用 LLM 嵌入将文本转换为稠密向量，然后应用 HDBSCAN——一种层次化密度聚类算法，能够处理噪声和不同密度的聚类。
-
-- [LoRA 与 QLoRA 高效微调 LLM 指南](https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > 一篇从入门到进阶的全面指南已发布，详细介绍了 LoRA 和 QLoRA 在高效微调大语言模型中的直觉、数学原理及使用 Hugging Face 和 PEFT 的实际实现。 该指南帮助从业者克服全参数微调的高 GPU 内存需求和昂贵成本，使更多人能够进行大语言模型适配。其重要性在于 LoRA 和 QLoRA 已成为高效模型定制的标准技术。 指南指出，全参数微调一个 70 亿参数的模型需要约 112GB 内存来存储权重、梯度和优化器状态，而 LoRA 仅更新低秩矩阵从而大幅降低内存需求。QLoRA 进一步结合量化与 LoRA，使得在消费级 GPU 上也能进行微调。
-
-- [更好训练深度神经网络的技术](https://pub.towardsai.net/making-neural-networks-learn-better-understanding-activation-functions-xavier-initialization-he-466ef253bb5e?source=rss----98111c9905da---4) ⭐️ 7.0/10
-
-  > 本文全面介绍了激活函数、Xavier/He 初始化和批归一化，解释了它们如何缓解梯度消失/爆炸问题并改善深度神经网络的训练。 这些技术是有效训练深度网络的基础，推动了图像分类、自然语言处理和语音识别等领域的突破。理解它们有助于从业者构建更稳定、收敛更快的模型。 Xavier 初始化保持各层激活值的方差恒定，而 He 初始化专为 ReLU 激活函数设计。批归一化对层输入进行归一化，稳定训练并允许使用更高的学习率。
-
-- [使用本地开源权重模型作为编码代理](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 6.0/10
-
-  > 文章探讨了使用本地开源权重模型作为 Claude Code 和 Codex 等订阅制编码代理的替代方案。 这很重要，因为它为开发者提供了一种经济高效且保护隐私的替代方案，替代专有编码助手，可能减少对基于云的订阅服务的依赖。 文章提供了表面层次的概述，没有深入的技术见解，侧重于实际设置而非新颖技术。
-
----
-
-## ✍️ 表达提升
-
-- [表现心理学家揭示自信如何释放潜能](https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/) ⭐️ 8.0/10
-
-  > 顶尖表现心理学家 Gio Valiante 博士——他曾指导史蒂夫·科恩和罗里·麦克罗伊等精英运动员——分享了关于自信和恐惧如何影响表现，以及高成就者与停滞不前者的区别的见解。 这场讨论提供了可操作的思维与沟通改进原则，帮助任何领域的人通过理解巅峰表现心理学来释放自身全部潜能。 该播客时长约 90 分钟，由以高质量思维模型和决策见解闻名的 Farnam Street 主持。
-
-- [比尔·格利谈改善思维的思维模型](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
-
-  > 著名风险投资家、Benchmark 合伙人比尔·格利做客《知识项目》播客，分享了他从风险投资和复杂性科学经验中提炼出的思维模型。 这期节目提供了实用的决策框架和理解复杂系统的方法，能帮助各领域的专业人士提升推理和沟通能力。 格利目前是圣塔菲研究所的董事会成员，研究复杂性和系统思维，其职业生涯还包括经历 Uber 的超高速增长时期。
-
-- [更好听的代价：可视化频响、动态与不可逆损失](https://sspai.com/post/111462) ⭐️ 7.0/10
-
-  > 文章解释了优化音频系统的频响和动态反而可能导致听觉疲劳，而过度动态压缩在响度归一化后会原形毕露。 这一见解挑战了音频工程和批判性聆听中的常见假设，揭示了影响音乐制作和消费的权衡。 文章通过可视化展示了激进的均衡和动态范围压缩如何产生最初令人印象深刻但令人疲劳的声音，以及响度归一化如何暴露过度压缩曲目的缺陷。
-
-- [四款笔记软件的使用心路历程](https://sspai.com/post/110935) ⭐️ 4.0/10
-
-  > 一位用户分享了他们在四款不同笔记软件之间切换的个人经历，以寻找理想的思考工具。 这篇叙述反映了选择生产力工具时的常见困境，为面临类似决策的用户提供了可共鸣的见解。 文章从个人角度详细介绍了每款应用的优缺点，但缺乏具体技巧或数据驱动的比较。
-
----
-
-## 📜 历史的节律
-
-- [乔治亚时代同性恋者用成人收养替代婚姻](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 8.0/10
-
-  > 新的历史研究揭示，在乔治亚时代的英格兰，同性恋男性通过合法收养成年伴侣来确保继承权和法律认可，实际上将成人收养用作婚姻的替代品。 这一发现凸显了历史上被边缘化的 LGBTQ+群体如何利用法律漏洞建立家庭纽带，与当代争取婚姻平等的斗争相呼应，并展示了在限制性法律下的韧性。 这种做法发生在乔治亚时期（1714–1830 年），当时同性婚姻非法，鸡奸可能面临死刑。成人收养允许收养者将财产和继承权传给伴侣，从而建立法律认可的关系。
-
-- [1976 年英国热浪内幕：骚乱、缺水与瓢虫](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
-
-  > 一篇历史文章回顾了 1976 年英国热浪，详细描述了缺水、社会动荡以及数十亿瓢虫漫天飞舞的景象。 这一记述提供了极端天气下社会韧性与适应的教训，与现代热浪和气候挑战有明显的相似之处。 热浪导致人们共用洗澡水、脾气暴躁，以及数十亿瓢虫起飞等奇异自然现象。
+  > 一篇随笔探讨了 1703 年硅藻的发现，该发现通过一封致科学期刊的信件被揭示，并反思了其精巧之美与哲学意义。 这篇文章将显微镜史、自然史与哲学联系起来，提供了一个罕见的视角，将科学发现与存在主义问题相连，丰富了读者对科学和生命的理解。 这封匿名信（很可能出自一位女科学家之手）将硅藻描述为形状规则的“漂亮枝条”，宽度不到头发丝的一半，凸显了早期显微镜的挑战与奇妙。
 
 ---
 
 ## 💰 财富与复利
 
-- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+- [有用比富有更具吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
 
-  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的学生在毕业十年后收入比富裕同龄人低 7%，即使他们就读同一所大学、获得相同学位且成绩相同。 这一发现挑战了仅靠教育就能实现机会均等的假设，揭示了社会经济背景会造成持续的收入差距，并随时间累积，影响社会流动性和财富不平等。 即使控制了大学选择性、专业和成绩，收入差距仍然存在；非精英四年制大学学生的父母收入与子女收入之间的斜率为 0.095，意味着富裕家庭的子女收入仍然更高。
+  > 一篇在 Reddit 上疯传的帖子讲述了一位 41 岁男子，拥有 200 万美元流动资产和每年 7.5 万美元版税收入，提前退休后却因每天吸食大麻并玩《侠盗猎车手》而被妻子称为“失败者”，这说明了没有目标的财富可能导致空虚。 这个故事挑战了 FIRE 运动的核心假设——仅靠财务独立就能保证满足感，强调了有用和对他人的贡献比单纯富有更具吸引力和成就感。 该男子每年从流动资产中获得 12.5 万美元收入，他的妻子是一名学校教师，提供医疗保险；尽管他财务成功，但妻子的反应表明，在长期关系中，雄心和目标比金钱更重要。
 
-- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+- [贫困学生即使获得相同学位，收入仍低 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
 
-  > 一则关于一位 41 岁男子提前退休、拥有 200 万美元流动资产，却因每天吸食大麻食品后玩电子游戏而被妻子称为“失败者”的 Reddit 帖子走红，说明没有目标的财富可能导致个人和关系上的衰退。 这个故事挑战了 FIRE（财务独立，提前退休）的叙事，强调了没有目标的提前退休所带来的心理和关系成本，表明有用和投入比仅仅富有更有吸引力。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收入总计 12.5 万美元，但他的妻子认为他每天吸食大麻并玩 GTA 的行为令人反感，反映了对退休后生活期望的错位。
+  > 一项涵盖超过 3000 万学生的研究表明，来自贫困背景的毕业生在毕业十年后收入比富裕同学低 7%，即使他们就读同一所大学、获得相同学位且成绩相同。 这一发现挑战了“仅靠教育就能实现机会均等”的假设，表明社会经济背景通过人脉和非认知因素持续影响收入，对社会流动政策具有重要启示。 即使控制了大学、学位、专业和成绩，收入差距仍然存在，这一结论由 MIT 教授 Anna Stansbury 和 NBER 研究人员记录。毕业十年后差距为 7%。
+
+---
+
+## ✍️ 表达提升
+
+- [比尔·格利谈思维模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+
+  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利在 Farnam Street 播客中分享了他最常用的思维模型，包括系统思维、二阶和三阶效应，以及理解领域基础与前沿的重要性。 这期节目提供了一位顶级风险投资家的实用思维模型，帮助创业者和投资者通过将复杂性科学原理应用于商业和技术来改进决策。 格利讨论了他如何在不同模型中使用 AI，他对开源、中国、稳定币、代币化、支付和风险投资趋势的看法，以及优秀创始人的特质。
+
+- [表现心理学家揭示释放潜能的思维模式](https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/) ⭐️ 7.0/10
+
+  > 顶级表现心理学家 Gio Valiante 博士在 Farnam Street 的 90 分钟播客中分享了关于思维模式、自信和恐惧的见解，他曾指导过 Steve Cohen 和 Rory McIlroy。 这期节目让听众能够接触到帮助顶尖成功人士卓越表现的专业策略，可能改变个人在个人和职业成长中的应对方式。 播客时长 90 分钟，Valiante 博士讨论了为什么大多数人从未发挥出潜能，以及持续表现出色者与停滞不前者的区别。
+
+- [更好听的代价：疲劳与缺陷](https://sspai.com/post/111462) ⭐️ 7.0/10
+
+  > 一项新分析指出，优化音频系统的频响和最大化响度反而可能增加听感疲劳，并在响度归一化后暴露缺陷。 这一见解挑战了常见的音频工程实践，帮助工程师和挑剔的听众在音响系统设计和音乐制作中做出更明智的决策。 文章具体讨论了过度优化的频响如何在某些音乐类型上导致疲劳，以及追求响度的混音在归一化后听起来更差。
+
+- [朱莉娅·恩德斯博士谈肠道健康与微生物组](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 5.0/10
+
+  > 医生兼微生物组研究员朱莉娅·恩德斯博士在 Farnam Street 的播客节目中讨论了肠道如何影响消化、免疫、情绪和整体健康。 这次对话凸显了肠道微生物组在整体健康中日益被认可的作用，为人们通过饮食和生活方式改善健康提供了见解。 播客涵盖了肠脑轴、饮食对微生物组的影响以及修复和滋养肠道的实用技巧等话题。恩德斯博士是畅销书《肠子的小心思》的作者。
+
+---
+
+## 🧬 人性与行为
+
+- [为什么像 AlphaFold 这样的变革性 AI 突破如此罕见](https://www.lesswrong.com/posts/wgzd7y6icyMmNvFKi/why-aren-t-there-more-alphafolds) ⭐️ 8.0/10
+
+  > 一篇在 2026 年 Gold Lab 研讨会上发表的论文分析了为什么像 AlphaFold 这样的深度学习模型很少能变革科学，认为基于人类文本的训练不足以发现深层的科学真理。 这一分析挑战了大型语言模型能轻易加速科学进步的假设，揭示了限制 AI 驱动突破的结构性和认知障碍。 该论文对比了基于人类生成文本（来之不易的知识的下游）的训练与基于科学前沿观察的训练，并用坏血病的历史例子说明“容易的真理”正变得越来越稀少。
+
+- [聊天界面削弱深度思考](https://www.lesswrong.com/posts/3mrBLJFLgqaE6vajD/the-problem-with-chat) ⭐️ 8.0/10
+
+  > 一篇博客文章指出，聊天界面虽然方便，但会带来认知成本，可能削弱深度思考和结构化沟通。 这一批评挑战了现代数字工具中基于聊天的沟通方式的主导地位，敦促用户和设计师重新权衡便利性与认知深度之间的取舍。 文章引用了 Magfrump 博客上的一篇帖子，并在 LessWrong（一个专注于理性与认知科学的社区）上分享。
+
+---
+
+## 🧠 AI 学习
+
+- [使用本地编码代理与开放权重模型](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 7.0/10
+
+  > 本文提供了将开放权重模型本地设置为编码代理的实用指南，作为 Claude Code 和 Codex 订阅等专有工具的经济高效替代方案。 这使得开发者无需支付重复订阅费用或担心数据隐私即可运行强大的编码助手，从而普及了 AI 辅助编程的访问。 该指南涵盖了设置步骤、模型选择和性能比较，强调本地代理在许多任务上可以匹配甚至超越专有工具，同时保持对数据的完全控制。
+
+- [上下文窗口不等于记忆：AI 智能体开发者的关键认知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 7.0/10
+
+  > 文章澄清了大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索增强生成（RAG）和上下文压缩等技术，用于 AI 智能体的有效记忆管理。 这一区分对 AI 智能体开发者至关重要，因为将上下文窗口与记忆混为一谈会导致糟糕的智能体设计、可扩展性问题和高昂成本。正确的记忆技术使智能体能够保持长期上下文、减少 token 使用并提高可靠性。 文章讨论了基于检索的方法（如 RAG），从外部数据库获取相关信息，以及压缩方法，在保留语义的同时减少 token 数量。它强调上下文窗口是临时工作记忆，而非持久存储。
+
+- [教程：使用 LLM 嵌入和 HDBSCAN 进行文本聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+
+  > 一篇新教程展示了如何通过结合 LLM 嵌入和 HDBSCAN 聚类算法对非结构化文本进行聚类，展示了 LLM 在聊天界面之外的实际应用。 该教程提供了一种利用 LLM 进行文本聚类的实践方法，对于希望无需手动标注即可组织大量文本数据的数据科学家和开发人员来说非常有价值。 该教程使用 LLM 嵌入将文本转换为数值向量，然后应用 HDBSCAN（一种基于层次密度的聚类算法）对相似文本进行分组。教程包含实现步骤和代码示例。
+
+- [AI 智能体工具设计：最佳实践与常见陷阱](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) ⭐️ 7.0/10
+
+  > 一篇关于为 AI 智能体设计有效工具的实用指南已发布，详细介绍了基于实际经验的常见陷阱和最佳实践。 随着 AI 智能体日益普及，精心设计的工具对其可靠性和实用性至关重要；本指南帮助从业者避免代价高昂的错误并提升智能体性能。 该指南涵盖构建和测试原型、创建全面评估等技术，并避免将智能体视为独立应用或允许其访问非预期数据等陷阱。
+
+- [LoRA 与 QLoRA 指南：高效大模型微调](https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4) ⭐️ 7.0/10
+
+  > 一篇涵盖 LoRA 和 QLoRA 的全面指南已发布，详细讲解了高效大模型微调的直觉、数学原理以及使用 Hugging Face 和 PEFT 的实践代码示例。 该指南帮助实践者在微调大模型时降低 GPU 内存和训练成本，使先进技术惠及更广泛的受众。 LoRA 冻结预训练权重并注入可训练的低秩矩阵，而 QLoRA 进一步使用 NormalFloat 和双重量化将权重量化到 4 位，从而在单个 48GB GPU 上微调 65B 模型。
+
+---
+
+## 📜 历史的节律
+
+- [乔治时代同性恋男子用成人收养作为婚姻漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+
+  > 一篇近期文章揭示，在乔治时代的英国，同性恋男子通过合法收养成年伴侣来规避同性婚姻禁令，以确保继承权和法律认可。 这一历史做法凸显了同性恋群体在寻求关系法律认可方面的韧性，与现代争取婚姻平等的斗争相呼应。 成人收养允许收养人继承被收养人的财产，并防止旁系亲属对遗产提出异议，在同性恋行为非法的时代有效模仿了婚姻权利。
+
+- [1976 年英国热浪：骚乱、缺水与瓢虫](https://www.historyextra.com/membership/riots-whiffy-kippers-and-taps-running-dry-the-inside-story-of-the-1976-heatwave/) ⭐️ 7.0/10
+
+  > 一篇历史文章回顾了 1976 年英国热浪，详细描述了缺水、社会动荡和大量瓢虫聚集的现象，为现代气候危机提供了教训。 这一叙述揭示了社会应对极端天气的反复模式，为当前和未来的热浪防范及水资源管理策略提供了参考。 1976 年的热浪导致人们共用洗澡水、情绪暴躁，以及数十亿只瓢虫飞舞，展现了人类适应与生态破坏的双重景象。
 
 ---
 
 ## 📰 技术资讯
 
-1. [Anthropic 解除 Claude Fable 5 和 Mythos 5 出口管制](#item-1) ⭐️ 9.0/10
-2. [Realta Fusion 声称首次直接从聚变反应发电](#item-2) ⭐️ 9.0/10
-3. [Anthropic 发布 Claude Sonnet 5，反响不一](#item-3) ⭐️ 8.0/10
-4. [Anthropic 推出 Claude Science，面向安全数据科学](#item-4) ⭐️ 8.0/10
-5. [DIY 毫米波雷达实现墙体材料分类](#item-5) ⭐️ 8.0/10
-6. [美国悬赏 1000 万美元追捕攻击 Signal 和 WhatsApp 的俄罗斯黑客](#item-6) ⭐️ 8.0/10
-7. [最高法院将审理苹果对 Epic Games 案的上诉](#item-7) ⭐️ 8.0/10
-8. [AI 实验室展示云代理和编码工具为关键趋势](#item-8) ⭐️ 8.0/10
-9. [英伟达 BioNeMo 接入 Claude Science，加速生命科学研究](#item-9) ⭐️ 8.0/10
-10. [ScarfBench：评估 AI 代理的 Java 框架迁移基准](#item-10) ⭐️ 8.0/10
-11. [SEC 重新审视 16 万亿美元 ETF 市场规则](#item-11) ⭐️ 8.0/10
-12. [AI 时代前部署工程师与产品工程师角色融合](#item-12) ⭐️ 7.0/10
-13. [Ahmad Osman：本地 AI 正在快速追赶](#item-13) ⭐️ 7.0/10
-14. [AMD 确认 Zen 6 将引入低功耗核心，效仿 Intel 混合架构](#item-14) ⭐️ 7.0/10
-15. [苹果 CEO 库克与欧盟就 Siri AI 举行建设性会谈](#item-15) ⭐️ 7.0/10
-16. [微软据报将新一轮裁员，波及 Xbox 业务](#item-16) ⭐️ 7.0/10
-17. [中国最严电池安全标准生效](#item-17) ⭐️ 7.0/10
-18. [前 DeepMind 扑克 AI 三人组打造 5 亿美元量化对冲基金](#item-18) ⭐️ 7.0/10
-19. [AI 芯片初创公司 Etched 估值达 50 亿美元，销售额 10 亿美元](#item-19) ⭐️ 7.0/10
-20. [Rockstar 员工在 GTA VI 发布前寻求工会认可](#item-20) ⭐️ 6.0/10
+1. [美国解除对 Anthropic 的 Claude Fable 5 和 Mythos 5 的出口管制](#item-1) ⭐️ 9.0/10
+2. [Meta 为智能眼镜添加速率限制和付费墙](#item-2) ⭐️ 8.0/10
+3. [TCP/IP 共同开发者温顿·瑟夫将从谷歌退休](#item-3) ⭐️ 8.0/10
+4. [世界首套水下焊接中子衍射装置投用](#item-4) ⭐️ 8.0/10
+5. [Tenstorrent 发布 TT-Ascalon S RISC-V 内核，面积效率提升 1.4 倍](#item-5) ⭐️ 8.0/10
+6. [中国强制要求电动汽车配备物理紧急断电装置](#item-6) ⭐️ 8.0/10
+7. [KV 缓存量化使 DeepSeek-V4-Flash 计算缓冲区缩小 3 倍](#item-7) ⭐️ 8.0/10
+8. [Google Copybara：带历史记录在仓库间迁移代码](#item-8) ⭐️ 7.0/10
+9. [美国悬赏 1000 万美元缉拿攻击 Signal 和 WhatsApp 的俄罗斯黑客](#item-9) ⭐️ 7.0/10
+10. [专家 Ahmad Osman 称本地 AI 正快速追赶](#item-10) ⭐️ 7.0/10
+11. [中国最严电池安全标准正式施行](#item-11) ⭐️ 7.0/10
+12. [蒂姆·库克与欧盟科技主管就 Siri AI 延迟举行建设性会谈](#item-12) ⭐️ 6.0/10
+13. [AI 工程师世博会聚焦循环与软件工厂](#item-13) ⭐️ 6.0/10
+14. [前部署工程师与软件工程的未来](#item-14) ⭐️ 6.0/10
+15. [Google DeepMind 发布 Nano Banana 2 Lite](#item-15) ⭐️ 6.0/10
+16. [前安克 CMO 推出 AI 记忆可穿戴设备 Memoket](#item-16) ⭐️ 6.0/10
+17. [机器人触觉皮肤初创公司获天使轮融资](#item-17) ⭐️ 6.0/10
+18. [SK 海力士采用无价格上限长期合约](#item-18) ⭐️ 6.0/10
+19. [澳大利亚考虑拆分四大会计师事务所](#item-19) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Anthropic 解除 Claude Fable 5 和 Mythos 5 出口管制](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) ⭐️ 9.0/10
+## [美国解除对 Anthropic 的 Claude Fable 5 和 Mythos 5 的出口管制](https://twitter.com/AnthropicAI/status/2072106151890809341) ⭐️ 9.0/10
 
-Anthropic 宣布美国商务部已解除对 Claude Fable 5 和 Mythos 5 的出口管制，访问权限将于 2026 年 7 月 1 日起恢复。 这标志着美国对先进 AI 模型出口限制的重大逆转，可能使 Anthropic 最强大的模型在全球范围内更广泛地可用，并为 AI 监管树立先例。 Claude Fable 5 是 Anthropic 最强大的广泛发布模型，而 Mythos 5 具有相同能力，但仅通过 Project Glasswing 有限发布。这些模型因出口管制在近三周前被下线。
+美国商务部解除了对 Anthropic 的 Claude Fable 5 和 Mythos 5 的出口管制，允许更广泛部署，并新增分类器以阻止网络安全任务。 这标志着美国 AI 监管的重大转变，可能为前沿模型的控制开创先例，并影响全球 AI 发展及企业对美国 AI 的依赖。 这些旨在发现软件漏洞的模型现在将重新部署，配备针对网络安全任务的分类器，导致部分常规编码和调试任务回退到 Opus 4.8。
 
-rss · Simon Willison · 6月30日 23:58
+hackernews · Pragmata · 6月30日 23:55 · [社区讨论](https://news.ycombinator.com/item?id=48740771)
 
-**背景**: 美国对 AI 模型实施出口管制，以限制先进技术向特定国家（主要是中国）扩散。2025 年 1 月，工业和安全局（BIS）首次发布了控制 AI 模型权重的规则。Anthropic 的 Claude 模型是大型语言模型（LLM），用于各种任务，其中 Mythos 专门用于网络安全漏洞检测和修复。
+**背景**: Claude Fable 5 和 Mythos 5 是 Anthropic 开发的先进 AI 模型，用于发现网络安全漏洞。此前因安全和滥用担忧而受到出口管制。美国政府的决定是在与 Anthropic 进行富有成效的对话后做出的。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Claude_Mythos">Claude Mythos - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors">United States export controls on AI chips and semiconductors</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Fable_5">Claude Fable 5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mythos_5">Mythos 5</a></li>
+<li><a href="https://www.bbc.com/news/articles/ckg701v1dp6o">Claude Mythos: Anthropic releases version of AI tool despite risk...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#anthropic`, `#claude`, `#generative-ai`, `#ai`, `#llms`
+**社区讨论**: 社区评论表达了对 AI 监管缺乏可预测性的担忧，有人认为企业无法依赖美国的前沿模型。其他人指出这些模型被限制用于编码任务，并分享了一封商务部的信函，突显了该过程的临时性。
+
+**标签**: `#AI regulation`, `#export controls`, `#Anthropic`, `#frontier models`, `#cybersecurity`
 
 ---
 
 <a id="item-2"></a>
-## [Realta Fusion 声称首次直接从聚变反应发电](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) ⭐️ 9.0/10
+## [Meta 为智能眼镜添加速率限制和付费墙](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit) ⭐️ 8.0/10
 
-Realta Fusion 成为首家直接将等离子体能量转化为电能的商业聚变公司，实现了聚变能源的一个里程碑。该公司首席执行官 Kieran Furlong 表示：“我们可以从等离子体中获取电力。” 这一突破证明了直接从聚变发电是可行的，使聚变能更接近实用的零碳能源生产。它可能加速商业聚变反应堆的开发，并有助于应对气候变化。 这一成就得益于 Realta 的直接能量转换（DEC）系统，该系统捕获等离子体中带电粒子的能量。该公司声称，这种提升抵消了维持等离子体所注入的所有能量，提高了能量增益并降低了成本。
+Meta 悄然更新帮助文档，为其 Ray-Ban Meta 和 Oakley Meta HSTN 智能眼镜的“对话增强”功能引入每月 3 小时的使用限制，而每月 19.99 美元的 Meta One Premium 订阅可将限制延长至 15 小时。 此举标志着硬件商业模式的重大转变，Meta 对一项完全在设备本地运行且不消耗云端资源的功能设置付费墙，可能为其他硬件制造商通过订阅变现内置功能开创先例。 “对话增强”功能利用设备端 AI 和空间音频在嘈杂环境中放大说话者的声音，即使在飞行模式下也能工作，证实使用上限并非出于服务器成本考虑，而是刻意的付费墙策略。
 
-rss · TechCrunch · 6月30日 19:12
+rss · The Verge · 7月1日 00:51
 
-**背景**: 聚变能复制了为太阳提供动力的过程，通过结合轻原子核释放巨大能量。传统的聚变反应堆设计利用热量产生蒸汽并驱动涡轮机，但直接转换绕过了这一热步骤，效率更高。Realta Fusion 采用了一种名为 CoSMo 聚变的紧凑、可扩展设计。
+**背景**: Meta One 是 2026 年 5 月宣布的订阅服务，捆绑了 Meta 应用和硬件上的高级 AI 功能。“对话增强”功能于 2025 年 9 月为 Ray-Ban Meta 和 Oakley Meta HSTN 智能眼镜推出，利用设备端处理增强语音清晰度。Meta 面临财务压力，已裁员约 10%以对冲巨额 AI 投资。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.prnewswire.com/news-releases/realta-fusion-becomes-first-commercial-fusion-company-to-convert-plasma-energy-into-electricity-302813632.html">Realta Fusion Becomes First Commercial Fusion Company to Convert Plasma ...</a></li>
-<li><a href="https://realtafusion.com/technology/">Technology - Realta Fusion</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Direct_energy_conversion">Direct energy conversion - Wikipedia</a></li>
+<li><a href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/">Meta launches Instagram, Facebook, and WhatsApp subscriptions ...</a></li>
+<li><a href="https://www.techtimes.com/articles/313988/20260112/meta-launches-conversation-focus-feature-smart-glasses-early-access.htm">Meta Launches Conversation Focus Feature for Smart Glasses on...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#fusion energy`, `#clean energy`, `#physics breakthrough`, `#startup`
+**标签**: `#Meta`, `#smart glasses`, `#paywall`, `#AI`, `#consumer rights`
 
 ---
 
 <a id="item-3"></a>
-## [Anthropic 发布 Claude Sonnet 5，反响不一](https://www.anthropic.com/news/claude-sonnet-5) ⭐️ 8.0/10
+## [TCP/IP 共同开发者温顿·瑟夫将从谷歌退休](https://www.ithome.com/0/970/992.htm) ⭐️ 8.0/10
 
-Anthropic 推出了 Claude Sonnet 5，这是一款更实惠、更快速的模型，旨在更具代理性，能够规划、使用工具并自主运行。 此次发布缩小了 Sonnet 与 Opus 之间的差距，为代理任务提供了经济高效的选择，但社区基准测试显示，在成本调整后的任务上，其表现不如 Opus，引发了对其实际价值的质疑。 社区基准测试表明，在较高努力水平下，Sonnet 5 的每任务成本高于 Opus，并且在常识、工具调用和谜题解决任务上得分较低。一些用户报告称，在软件开发方面，其体验比 Opus 4.8 更差。
+谷歌副总裁兼首席互联网布道师温顿·瑟夫宣布退休，结束其在谷歌超过 20 年的职业生涯，退休将于下周生效。该消息由大卫·帕特森在劳德研究所主办的 Open Frontier 大会上宣布。 瑟夫的退休标志着互联网奠基人之一的一个时代结束，其 TCP/IP 工作为现代网络奠定了基础。他近期对 AI 智能体标准化通信的倡导，凸显了自主 AI 系统普及过程中的关键挑战。 瑟夫在 20 世纪 70 年代与罗伯特·卡恩共同设计了 TCP/IP，使不同的计算机网络能够互联。在大会上，他认为 AI 智能体需要正式、精确的通信标准，而非自然语言，以避免歧义并确保相互理解。
 
-hackernews · marinesebastian · 6月30日 17:59 · [社区讨论](https://news.ycombinator.com/item?id=48736605)
+rss · IT之家 · 7月1日 03:47
 
-**背景**: Anthropic 的 Claude 模型系列包括 Sonnet（中端）和 Opus（高端）。Sonnet 5 被定位为代理工作流的更经济替代方案，但成本调整后的基准测试对于从业者评估性能与成本之间的权衡至关重要。
+**背景**: TCP/IP（传输控制协议/网际协议）是互联网的基本通信协议套件，定义了数据如何打包、寻址、传输、路由和接收。温顿·瑟夫和罗伯特·卡恩被公认为这些协议的主要设计者，瑟夫因此获得总统自由勋章和图灵奖。大会讨论还涉及少数资金雄厚的实验室垄断先进 AI 模型的现象，这与孕育互联网的去中心化开放环境形成对比。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.icsuniverse.com/insights/llm-benchmarks-interpretation/">Reading LLM Benchmarks — A Practitioner Guide to What They Mean</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/TCP/IP协议族">互联网协议套件 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/TCP/IP协议/212915">TCP/IP协议_百度百科</a></li>
+<li><a href="https://www.sac.gov.cn/xw/tzgg/art/2026/art_6d629bf6ccad47598e81a47ed3d9e9ea.html">关于批准发布《人工智能 智能体互联第1部分：总体架构》等8项国家标准...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪复杂：一些用户质疑何时使用 Sonnet 5 而非 Opus，指出在较高努力水平下，Opus 在给定成本下表现更好。其他人报告了在工具调用和常识方面的具体弱点，而少数人则欣赏其速度和代理能力。
-
-**标签**: `#AI`, `#LLM`, `#Anthropic`, `#Claude`, `#benchmark`
+**标签**: `#internet history`, `#TCP/IP`, `#AI standardization`, `#Vint Cerf`, `#technology pioneers`
 
 ---
 
 <a id="item-4"></a>
-## [Anthropic 推出 Claude Science，面向安全数据科学](https://claude.com/product/claude-science) ⭐️ 8.0/10
+## [世界首套水下焊接中子衍射装置投用](https://www.ithome.com/0/970/977.htm) ⭐️ 8.0/10
 
-Anthropic 推出了 Claude Science，这是一款新的数据科学工具，采用本地服务器加 Web UI 的架构，专为安全研究环境设计。它原生集成了超过 60 个科学数据库和领域特定模型，包括 NVIDIA 的 BioNeMo Agent Toolkit。 Claude Science 满足了制药等高度监管行业中数据科学家的安全和连接需求——这些行业的数据不能离开本地环境。其本地服务器架构和广泛的集成能力使其区别于纯云端 AI 工具，有望加速研究工作流程。 该工具支持连接机构集群和数据库，并集成了 NVIDIA BioNeMo，可调用 Evo 2、Boltz-2 和 OpenFold3 等生命科学模型。与 Claude Code 或 Cowork 不同，Claude Science 的 UI 与主机解耦，从而能在严格受限的环境中使用。
+中国在中国散裂中子源（CSNS）上投入使用了世界首套水下焊接原位中子衍射研究装置，并成功完成了首次水下焊接过程原位观测实验。 这一突破实现了水下焊接过程中微观结构演变的实时监测，将该领域从焊后取样转变为数据驱动的科学，对核电、海上风电、管道等海洋基础设施的维护至关重要。 该装置使用重水（D₂O）替代普通水模拟水下环境，并设计了避免水体干扰的中子束通道，实现了多重热循环下应力-相变耦合的动态观测。
 
-hackernews · lebovic · 6月30日 17:07 · [社区讨论](https://news.ycombinator.com/item?id=48735770)
+rss · IT之家 · 7月1日 03:32
 
-**背景**: 在受监管行业中，数据科学常常需要处理不能上传到云服务的敏感数据。传统的 AI 编程助手直接在用户机器上运行，但可能不支持科学研究所需的复杂数据库和集群连接。Claude Science 通过提供本地服务器来安全连接机构资源，同时提供熟悉的 Web 界面，填补了这一空白。
+**背景**: 中子衍射是一种利用中子强穿透能力无损探测材料内部应变和结构的技术。CSNS 工程材料衍射谱仪（EMD）是专门用于此类测量的仪器。水下焊接长期以来是一个“黑箱”过程，因为传统的焊后取样无法捕捉焊接过程中的动态变化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://claude.com/product/claude-science">Claude Science beta | Claude by Anthropic</a></li>
-<li><a href="https://claudeskills.info/blog/claude-skills-for-data-scientists/">Claude Skills for Data Scientists: Essential Tools for Analysis Workflows - Claude Skills Hub</a></li>
+<li><a href="https://www.ams.org.cn/article/2024/0412-1961/0412-1961-2024-60-8-1017.shtml">中子衍射应力分析技术及其应用进展</a></li>
+<li><a href="https://www.opticsjournal.net/Articles/OJ7eeefed74cba60ff/FullText">多场耦合原位拉伸中子衍射实验装置综述 | 强激光与粒子束 -- 中国光学期刊网</a></li>
+<li><a href="https://www.shiyanjia.com/knowledge/articleinfo-1331.html">同步辐射光源和中子衍射在材料研究中的应用-材料测试-科学指南针</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区成员指出，Claude Science 的本地服务器架构是针对制药环境的战略举措——这些环境的数据不能离开本地。一位用户测试了其在 RNAi 生物农药设计中的表现，认为结果合理但较为初级，类似于一年级博士生水平。另一位指出，该工具的优势在于数据科学而非纯科学，并且图像理解用于数据可视化是一个被低估的应用场景。
-
-**标签**: `#AI`, `#data science`, `#Anthropic`, `#research tools`, `#security`
+**标签**: `#underwater welding`, `#neutron diffraction`, `#materials science`, `#marine engineering`, `#China`
 
 ---
 
 <a id="item-5"></a>
-## [DIY 毫米波雷达实现墙体材料分类](https://gauthier-lechevalier.com/radar) ⭐️ 8.0/10
+## [Tenstorrent 发布 TT-Ascalon S RISC-V 内核，面积效率提升 1.4 倍](https://www.ithome.com/0/970/866.htm) ⭐️ 8.0/10
 
-一篇详细的技术文章描述了构建用于材料分类的毫米波雷达原型，包括设计、挑战和经验教训。 该项目展示了毫米波雷达在无损材料识别中的新颖应用，可能有助于检测建筑物中的石棉等危险材料。 该雷达工作在毫米波频段（可能约 60 GHz），采用调频连续波（FMCW）技术。作者分享了天线设计和信号处理等具体挑战。
+Tenstorrent 发布了 TT-Ascalon S RISC-V CPU 内核，该内核以旗舰 Ascalon X 一半的面积实现了其 70% 的性能，单位面积性能提升至 1.4 倍。该内核针对代理式 AI 工作负载和高能效服务器进行了优化。 这一设计里程碑展示了 RISC-V 在高性能计算领域日益增强的竞争力，尤其是在 AI 推理和边缘部署方面。它可能对服务器和 AI 加速器市场中 ARM 和 x86 等成熟架构构成挑战。 TT-Ascalon S 是一款符合 RVA23 规范的 4 宽乱序超标量内核，配备单个 256 位矢量单元、32KB L1 指令缓存和 64KB L1 数据缓存。其 IPC 达到每 GHz 15 个 SPECint2006 分，每个集群最多可扩展至 8 个内核，并配有可配置的共享 L2 缓存。
 
-hackernews · GL26 · 6月30日 17:29 · [社区讨论](https://news.ycombinator.com/item?id=48736137)
+rss · IT之家 · 7月1日 01:42
 
-**背景**: 毫米波雷达使用毫米波段的电磁波（30-300 GHz）来探测物体并测量距离。FMCW 雷达发射频率扫描信号，分析反射信号以确定距离和材料特性。DIY 雷达项目常使用 TI 的 AWR1843 等商业评估模块。
+**背景**: Tenstorrent 是一家由知名芯片设计师 Jim Keller 领导的 Fabless 半导体公司，专注于 AI 硬件和 RISC-V 处理器。RVA23 规范是 RISC-V 标准，确保 64 位应用处理器的软件兼容性。代理式 AI 指能够自主执行任务的 AI 系统，通常需要高效处理混合型、分支密集的工作负载。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.electronicsforu.com/electronics-projects/low-power-mmwave-radar-reference-design">Low-Power mmWave Radar Reference Design</a></li>
-<li><a href="https://calvin.me/diy-mmwave-presence-detectors/">DIY mmWave Presence Detectors – Calvin Bui</a></li>
-<li><a href="https://www.ti.com/design-development/embedded-development/mmwave-radar.html">TI mmWave radar sensor design & development | TI.com</a></li>
+<li><a href="https://tenstorrent.com/en/ip/risc-v-cpu">64-bit Out-of-Order Superscalar CPU - Tenstorrent</a></li>
+<li><a href="https://riscv.org/blog/ashling-announces-riscfree-debug-and-trace-support-for-tenstorrent-tt-ascalon-risc-v-cpus/">Ashling Announces RiscFree™ Debug and Trace Support for ...</a></li>
+<li><a href="https://docs.riscv.org/reference/rva23/_attachments/rva23-profile.pdf">RVA23 Profiles - docs.riscv.org</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者称赞了详细的文章和经验教训，一些人指出了石棉检测的潜力。其他人讨论了局限性，例如需要区分石棉与类似材料，并提出了替代应用，如不连续性检测。
-
-**标签**: `#mmWave`, `#radar`, `#material classification`, `#hardware`, `#DIY`
+**标签**: `#RISC-V`, `#CPU Design`, `#AI Hardware`, `#Tenstorrent`, `#Semiconductor`
 
 ---
 
 <a id="item-6"></a>
-## [美国悬赏 1000 万美元追捕攻击 Signal 和 WhatsApp 的俄罗斯黑客](https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/) ⭐️ 8.0/10
+## [中国强制要求电动汽车配备物理紧急断电装置](https://www.ithome.com/0/970/853.htm) ⭐️ 8.0/10
 
-美国国务院宣布悬赏 1000 万美元，征集能够识别或定位两个俄罗斯国家支持的黑客组织（UNC5792 和 UNC4221）成员的信息，这些组织一直在攻击 Signal 和 WhatsApp 用户。 这一悬赏凸显了美国政府加大力度打击针对加密通信平台的国家支持网络威胁，这些平台对全球隐私和安全至关重要。 该悬赏是国务院“正义赏金”计划的一部分，被针对的组织据信与俄罗斯情报机构有关联。该攻击活动专门针对 Signal 和 WhatsApp 用户，这两款是广泛使用的加密消息应用。
+两项电动汽车安全强制性国家标准 GB 18384-2025 和 GB 38031-2025 于 2026 年 7 月 1 日正式实施，要求配备物理紧急断电按钮并执行更严格的电池热扩散测试。 这些标准通过消除对软件控制高压断开的依赖，确保即使在电子设备失效时也能紧急断电，并强制要求电池在热失控时不起火不爆炸，从而显著提升电动汽车安全性。 物理断电按钮必须通过单个动作（点触或长按）机械切断电池与整车之间的高压线路，即使车机黑屏或线束受损也能正常工作。热扩散测试现在要求不起火、不爆炸，且烟气不得侵入乘员舱。
 
-rss · 9to5Mac · 6月30日 21:56
+rss · IT之家 · 7月1日 01:14
 
-**背景**: Signal 和 WhatsApp 是端到端加密的消息应用，可保护用户通信不被拦截。国家支持的黑客组织经常针对这些平台，以获取政府官员、记者和活动人士的敏感信息。美国的“正义赏金”计划此前也曾为其他网络犯罪组织的信息提供悬赏。
+**背景**: 此前，电动汽车高压断开依赖软件控制的接触器，在事故中可能因电子损坏而失效。新标准还引入了模拟碎石撞击的底部撞击测试，以及 300 次快充循环后的外部短路测试。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/">US offers $10 million to identify hackers targeting Signal... - 9to5Mac</a></li>
-<li><a href="https://www.ghacks.net/2026/06/30/us-offers-10-million-bounty-for-information-on-russian-hackers-targeting-signal-and-whatsapp-users/">US Offers $10 Million Bounty for Information on Russian Hackers ...</a></li>
+<li><a href="https://www.chinesestandard.net/PDF-EN/GB38031-2025EN-P13P-H10896H-184581.pdf">GB 38031-2025 English PDF - chinesestandard.net</a></li>
+<li><a href="https://www.thebatterymagazine.com/the-no-runaway-standard-how-gb-38031-2025-is-redefining-battery-safety/">How GB 38031-2025 is Redefining Battery Safety</a></li>
+
+</ul>
+</details>
+
+**标签**: `#electric vehicles`, `#battery safety`, `#regulation`, `#automotive`, `#China`
+
+---
+
+<a id="item-7"></a>
+## [KV 缓存量化使 DeepSeek-V4-Flash 计算缓冲区缩小 3 倍](https://www.reddit.com/r/LocalLLaMA/comments/1uk5y5m/deepseekv4flash_mxfp4_compute_buffer_scales_3x/) ⭐️ 8.0/10
+
+一位 Reddit 用户发现，在 llama.cpp 中将 DeepSeek-V4-Flash 的 KV 缓存量化从 f16 切换到 q8_0，计算缓冲区从 12,964 MiB 降至 3,973 MiB（上下文长度 10,240），缩小了约 3 倍。 这一优化使得在 32 GB 显存的消费级 GPU 上运行 DeepSeek-V4-Flash 时，能够支持更高的上下文长度，此前在 32,000 上下文时使用 f16 缓存会导致内存不足。 计算缓冲区从 12,964 MiB 降至 3,973 MiB（减少 3.26 倍），而 KV 缓存本身仅缩小约 200 MiB，表明计算缓冲区是主要内存消耗者。测试使用了 llama.cpp build 9851，启用了 flash attention，批大小相同。
+
+reddit · r/LocalLLaMA · /u/Shoddy_Bed3240 · 7月1日 00:01
+
+**背景**: KV 缓存存储先前 token 的键值对，以避免自回归解码时的重复计算。将该缓存从 f16（16 位浮点）量化为 q8_0（8 位整数）可减少内存使用，但计算缓冲区（用于中间计算的独立内存区域）可能大得多。对于使用压缩 KV 缓存（CSA/HCA/lightning-indexer）的 DeepSeek-V4-Flash，计算缓冲区主导了内存消耗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://medium.com/rigel-computer-com/optimize-your-gpu-kv-cache-for-llama-cpp-opencode-co-13b6bc74f5ec">KV-Cache Quantization: Boost Your Local LLM Setup | rigel-computer.com</a></li>
+<li><a href="https://forums.developer.nvidia.com/t/kv-cache-quantization-benchmarks-on-dgx-spark-q4-0-vs-q8-0-vs-f16-llama-cpp-nemotron-30b-128k-context/365138">KV Cache Quantization Benchmarks on DGX Spark — q4_0 vs q8_0 vs f16 (llama.cpp, Nemotron 30B, 128K context) - DGX Spark / GB10 Projects - NVIDIA Developer Forums</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp/discussions/20969">TurboQuant - Extreme KV Cache Quantization · ggml-org/llama.cpp · Discussion #20969</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 该帖子获得了高度关注，用户确认了类似发现。一些人指出，计算缓冲区的缩放取决于模型架构，而这一优化对 DeepSeek-V4-Flash 尤其有效，因其独特的缓存设计。
+
+**标签**: `#DeepSeek`, `#KV cache quantization`, `#LLM inference`, `#memory optimization`, `#llama.cpp`
+
+---
+
+<a id="item-8"></a>
+## [Google Copybara：带历史记录在仓库间迁移代码](https://github.com/google/copybara) ⭐️ 7.0/10
+
+Google 开源了 Copybara，这是一个在仓库之间转换和移动代码并保留完整提交历史的工具。它支持单向导出和双向同步，允许开发者将文件夹提取到新仓库或在多个仓库间同步代码。 Copybara 简化了复杂的工作流程，比如将单体仓库的部分代码开源或在项目间共享公共代码而无需提取库。它在保留历史记录的同时减少了维护多个仓库的开销，使需要管理内部和公共代码库的团队受益。 Copybara 使用 Java 编写，通过配置文件定义转换规则，如文件夹映射、文件过滤和提交信息重写。它支持 Git 和 Mercurial，并能处理复杂场景，如将单体仓库拆分为多个仓库或合并仓库。
+
+hackernews · reconnecting · 6月30日 23:45 · [社区讨论](https://news.ycombinator.com/item?id=48740698)
+
+**背景**: 许多组织在内部开发中使用单体仓库（单一仓库），但需要公开发布部分代码。手动复制代码会丢失历史记录并增加维护负担。Copybara 自动化了这一过程，确保可追溯性并减少错误。它与 Josh（Rust 使用）和 Meta 的 fbshipit 等工具类似。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/google/copybara">GitHub - google/copybara: Copybara: A tool for transforming ...</a></li>
+<li><a href="https://github.com/google/copybara/releases">Releases · google/copybara - GitHub</a></li>
+<li><a href="https://sourceforge.net/projects/copybara.mirror/">Copybara download | SourceForge.net</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 用户赞赏 Copybara 用于单向导出，但认为双向同步麻烦。一些人将其与 Josh 和 fbshipit 等替代工具比较，指出 Rust 使用 Josh 实现类似目的。一位开发者构建了更简单的 shell 脚本版本，而其他人则询问从单体仓库开源子项目的缺点和技巧。
+
+**标签**: `#code migration`, `#version control`, `#developer tools`, `#repository management`
+
+---
+
+<a id="item-9"></a>
+## [美国悬赏 1000 万美元缉拿攻击 Signal 和 WhatsApp 的俄罗斯黑客](https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/) ⭐️ 7.0/10
+
+美国国务院的“正义赏金”计划宣布悬赏 1000 万美元，征集有助于识别或定位两个俄罗斯国家支持的黑客组织（UNC5792 和 UNC4221）成员的信息，这些组织正针对 Signal 和 WhatsApp 用户发起攻击。 此次悬赏凸显了国家支持的网络间谍活动对加密通讯平台构成的日益严重的威胁，这些平台被军事人员、政府官员和记者广泛用于安全通信。这表明美国政府致力于打击俄罗斯网络行动并保护关键通信基础设施。 这两个组织——UNC5792（与俄罗斯联邦安全局有关联）和 UNC4221（与俄罗斯总参谋部情报总局有关联）——一直在进行鱼叉式网络钓鱼活动，以入侵 Signal 和 WhatsApp 账户。这笔赏金是“正义赏金”计划的一部分，该计划此前也曾为其他网络威胁信息提供奖励。
+
+rss · 9to5Mac · 6月30日 21:56
+
+**背景**: Signal 和 WhatsApp 是端到端加密的通讯应用，提供强大的隐私保护，因此受到需要安全通信的个人（如军事、外交和情报人员）的青睐。国家支持的黑客组织经常针对这些平台，以拦截敏感通信。美国“正义赏金”计划是国务院的一项倡议，为有助于打击恐怖主义和其他国家安全威胁的信息提供金钱奖励。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/">US offers $10 million to identify hackers targeting Signal ... - 9to5Mac</a></li>
+<li><a href="https://dailysecurityreview.com/cyber-security/us-offers-10m-bounty-for-russian-hackers-unc5792-and-unc4221/">US Offers $10M Bounty for Russian Hackers UNC5792 and UNC4221</a></li>
+<li><a href="https://www.ghacks.net/2026/06/30/us-offers-10-million-bounty-for-information-on-russian-hackers-targeting-signal-and-whatsapp-users/">US Offers $10 Million Bounty for Information on Russian ...</a></li>
 
 </ul>
 </details>
@@ -270,242 +337,212 @@ rss · 9to5Mac · 6月30日 21:56
 
 ---
 
-<a id="item-7"></a>
-## [最高法院将审理苹果对 Epic Games 案的上诉](https://9to5mac.com/2026/06/30/supreme-court-agrees-to-hear-apple-appeal-over-epic-games-ruling/) ⭐️ 8.0/10
-
-美国最高法院同意审理苹果对一项藐视法庭裁决的上诉，该裁决认定苹果因对开发者链接到替代支付选项收取费用而违反了禁令。 此案可能重新定义 App Store 的佣金结构，并为如何对科技平台执行反垄断禁令树立先例，影响数百万开发者和消费者。 2021 年的原始禁令要求苹果允许开发者链接到外部支付选项，但苹果对此类链接收取 12%-27%的费用，导致 2025 年 4 月被认定藐视法庭。苹果辩称，藐视裁决是基于禁令的“精神”而非文字。
-
-rss · 9to5Mac · 6月30日 16:34
-
-**背景**: Epic Games 于 2020 年起诉苹果，指控其 App Store 存在反竞争行为。2021 年，法院基本判苹果胜诉，但要求其放宽反引导规则。苹果随后对链接跳转收取费用的做法被认定为违规，导致藐视裁决，并最终上诉至最高法院。
-
-**标签**: `#Apple`, `#Epic Games`, `#Supreme Court`, `#antitrust`, `#App Store`
-
----
-
-<a id="item-8"></a>
-## [AI 实验室展示云代理和编码工具为关键趋势](https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai) ⭐️ 8.0/10
-
-Gergely Orosz 分享了访问 OpenAI、Anthropic 和 Cursor 的印象，强调基于云的 AI 代理和编码工具是塑造软件工程的主要趋势。 来自领先 AI 实验室的这些见解为软件工程师和公司提供了适应快速发展的 AI 领域的路线图，影响着代码编写和部署的方式。 文章指出，在云中运行的代理是一个主要趋势，而编码工具正在超越手工制作，表明向更自动化和集成开发环境的转变。
-
-rss · The Pragmatic Engineer · 6月30日 17:21
-
-**背景**: AI 代理是代表用户执行任务的自主程序，通常在云环境中运行以实现可扩展性。编码工具指帮助开发者编写、测试和调试代码的工具，越来越多地由 AI 驱动。
-
-**标签**: `#AI`, `#software engineering`, `#AI labs`, `#coding tools`, `#industry trends`
-
----
-
-<a id="item-9"></a>
-## [英伟达 BioNeMo 接入 Claude Science，加速生命科学研究](https://www.ithome.com/0/970/789.htm) ⭐️ 8.0/10
-
-英伟达宣布其 BioNeMo 智能体工具包已接入 Anthropic 的 Claude Science 研究工作台，为生命科学工作流提供 AI 加速。前 20 大制药公司中已有 18 家使用 BioNeMo。 此次集成将 Claude Science 的自然语言界面与英伟达的 GPU 加速工具相结合，简化了药物发现和基因组学研究，有望将分析时间从数小时缩短至数分钟。这标志着制药行业向 AI 驱动的科学发现迈出了重要一步。 关键加速包括：NVIDIA Parabricks（基因组分析从数小时缩短至数分钟）、RAPIDS-singlecell（130 万细胞预处理从 52 分钟缩短至 25 秒）以及 nvMolKit（相似性搜索提速最高 3000 倍）。BioNeMo 智能体工具包已通过 GitHub 和英伟达开发者资源页面提供。
-
-rss · IT之家 · 6月30日 17:04
-
-**背景**: Claude Science 是 Anthropic 推出的 AI 研究工作台，研究人员可用自然语言编排科学工作流，连接模型、工具和计算资源。英伟达 BioNeMo 智能体工具包是一套面向生命科学 AI 智能体的 GPU 加速模型、库和微服务集合，涵盖药物发现、分子设计和蛋白质工程等领域。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://claude.com/product/claude-science">Claude Science beta | Claude by Anthropic</a></li>
-<li><a href="https://www.anthropic.com/news/claude-science-ai-workbench">Claude Science , an AI workbench for scientists \ Anthropic</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#AI`, `#life sciences`, `#drug discovery`, `#BioNeMo`
-
----
-
 <a id="item-10"></a>
-## [ScarfBench：评估 AI 代理的 Java 框架迁移基准](https://huggingface.co/blog/ibm-research/scarfbench) ⭐️ 8.0/10
+## [专家 Ahmad Osman 称本地 AI 正快速追赶](https://www.latent.space/p/ahmad-osman-local-ai) ⭐️ 7.0/10
 
-IBM Research 与 Hugging Face 推出了 ScarfBench 基准测试套件，用于评估 AI 代理在 Jakarta EE、Quarkus 和 Spring 等框架之间迁移企业 Java 应用的能力。与传统基准不同，ScarfBench 会检查迁移后的应用是否真正能构建、部署并保持功能。 该基准解决了遗留系统现代化中的关键需求，因为手动迁移成本高且易出错。通过提供结构化评估，ScarfBench 可以加速开发用于企业软件工程任务的可靠 AI 代理。 ScarfBench 包含跨多个框架的 Java 应用套件，并根据构建成功、部署和功能正确性来评估迁移。该基准揭示了当前 AI 代理在真实 Java 现代化任务中的失败模式。
+Ahmad Osman 指出，本地 AI 正在从笔记本电脑、手机到企业级基础设施等各类设备上快速进步，挑战着云端 AI 的主导地位。 这一转变可能通过减少对云提供商的依赖来推动 AI 民主化，提升隐私保护，降低延迟，并在边缘计算场景中实现实时决策。 文章强调，本地 AI 不再局限于小型模型；企业级基础设施现在可以在本地运行复杂模型，模糊了云与边缘之间的界限。
 
-rss · Hugging Face Blog · 6月30日 18:32
+rss · Latent Space · 6月30日 23:39
 
-**背景**: 企业应用通常依赖 Jakarta EE 等遗留 Java 框架，迁移到 Quarkus 或 Spring 等现代框架可以提升性能和可维护性。AI 代理在自动化代码迁移方面展现出潜力，但此前缺乏标准化基准来评估其在这项复杂任务中的有效性。
+**背景**: 本地 AI 是指在您控制的硬件（如笔记本电脑、公司服务器）上运行 AI 模型，而不是调用外部 API。边缘计算将计算靠近数据源，以减少延迟。本地 AI 与云端 AI 的争论通常围绕隐私、成本、延迟和可扩展性之间的权衡展开。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://huggingface.co/blog/ibm-research/scarfbench">ScarfBench : Benchmarking AI Agents for Enterprise Java Framework...</a></li>
-<li><a href="https://ibm.github.io/scarfbench/benchmark/">Benchmark · ScarfBench</a></li>
-<li><a href="https://arxiv.org/abs/2510.04852">A Benchmark for Evaluating AI Agents on Java Code Migration - arXiv</a></li>
+<li><a href="https://www.mindstudio.ai/blog/local-ai-vs-cloud-ai-what-to-own-vs-rent">Local AI vs Cloud AI : How to Decide What to Own and... | MindStudio</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Edge_computing">Edge computing</a></li>
+<li><a href="https://medium.com/@7009341/local-ai-vs-cloud-ai-who-actually-owns-your-future-e0e78e605513">Local AI vs Cloud AI : Who Actually Owns Your Future? | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#benchmarking`, `#Java migration`, `#software engineering`, `#enterprise`
+**标签**: `#local AI`, `#edge computing`, `#AI infrastructure`, `#on-device AI`
 
 ---
 
 <a id="item-11"></a>
-## [SEC 重新审视 16 万亿美元 ETF 市场规则](https://36kr.com/newsflashes/3876315990896905?f=rss) ⭐️ 8.0/10
+## [中国最严电池安全标准正式施行](https://36kr.com/p/3876318522077442?f=rss) ⭐️ 7.0/10
 
-美国证券交易委员会（SEC）已发布征求意见稿，就更新交易所交易基金（ETF）监管框架征求公众意见，此举源于近期基于预测市场的新型 ETF 申请以及市场的显著增长。 此次审查可能重塑 16 万亿美元 ETF 市场的监管格局，在确保投资者保护和市场稳定的同时，为预测市场 ETF 等创新产品铺平道路。 ETF 市场已从 2019 年的 4 万亿美元增长至 2025 年底的逾 12 万亿美元，SEC 希望公众就如何调整规则以适应新策略和市场变化提供意见。
+2026 年 7 月 1 日，两项强制性国家标准《电动汽车安全要求》（GB 18384-2025）和《电动汽车用动力蓄电池安全要求》（GB 38031-2025）正式实施，引入了物理一键断电和更严格的热扩散测试等要求。 这些标准通过强制要求物理断电而非软件控制断电，并要求电池在热扩散测试中不起火、不爆炸，显著提升了电动汽车安全性，将影响所有电动汽车制造商并提高消费者安全。 新标准要求配备物理“一键断电”装置，可通过一个动作激活，并新增了底部撞击测试和快充循环安全测试（300 次快充循环后进行外部短路测试）。
 
-rss · 36氪 · 7月1日 00:28
+rss · 36氪 · 6月30日 23:55
 
-**背景**: 交易所交易基金（ETF）是在证券交易所交易的投资基金，类似于股票。SEC 当前的监管框架是在 ETF 领域快速增长和创新之前建立的，包括基于预测市场的 ETF 的出现，这类 ETF 的价值来源于选举或体育等事件的结果。
+**背景**: 电动汽车电池火灾一直是全球主要的安全问题。此前中国标准要求在热失控测试中着火或爆炸前 5 分钟发出报警信号，但新标准将要求提升为不起火、不爆炸，且烟气不对乘员造成伤害。
 
-**标签**: `#SEC`, `#ETF`, `#regulation`, `#financial markets`, `#fintech`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/0/970/853.htm">电动汽车电池新国标今日施行：首次强制要求“一键物理断电” - IT之家</a></li>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-07-01/doc-iniffivq6505687.shtml">史上最严标准！电动汽车新国标今起实施：首次引入物理一键断电</a></li>
+<li><a href="https://news.qq.com/rain/a/20260628A07MI300">电动汽车安全新国标7月1日起实施：动力电池热失控判定要求提升为“不起...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EV`, `#battery safety`, `#Apple`, `#data leak`, `#regulation`
 
 ---
 
 <a id="item-12"></a>
-## [AI 时代前部署工程师与产品工程师角色融合](https://www.latent.space/p/forward-deployed-engineers-aiewf) ⭐️ 7.0/10
+## [蒂姆·库克与欧盟科技主管就 Siri AI 延迟举行建设性会谈](https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/) ⭐️ 6.0/10
 
-Sierra 公司的 Natalie Meurer 指出，随着 AI 重塑软件工程，产品工程师与前部署工程师（FDE）的角色开始融合。 这种融合标志着软件团队组织方式的转变，可能推动 AI 驱动行业采用更具适应性、以客户为中心的工程实践。 该文章发表于 Latent Space，引用行业从业者的见解，强调了现场定制（FDE）与产品开发技能的融合。
+蒂姆·库克与欧盟科技主管 Henna Virkkunen 举行了建设性的虚拟会议，讨论苹果因《数字市场法案》（DMA）合规问题而推迟在欧洲推出 Siri AI 的事宜。 此次会议标志着苹果与欧盟之间僵局可能得到解决，这将影响数百万欧洲用户获得先进 AI 功能，并为大型科技公司如何应对 DMA 要求树立先例。 苹果此前宣布，由于 DMA 要求，Siri AI 不会随 iOS 27 和 iPadOS 27 在欧盟推出，而 macOS 27 和 visionOS 27 仍将包含该功能。欧盟拒绝了苹果提出的在 18 个月内逐步推出可信系统代理的提案。
 
-rss · Latent Space · 7月1日 00:20
+rss · 9to5Mac · 6月30日 23:17
 
-**背景**: 前部署工程师（FDE）直接与客户合作，在实际环境中定制和部署解决方案，融合了软件工程、销售和平台工程。产品工程师则专注于为广泛用户构建可扩展功能。AI 的兴起使这些界限变得模糊，因为快速迭代和客户反馈变得至关重要。
+**背景**: 《数字市场法案》（DMA）是欧盟的一项法规，对大型在线平台施加严格规则以确保公平竞争。苹果的 Siri AI 是由 Apple Intelligence 驱动的新版 Siri，具备先进的 AI 能力。争议焦点在于 DMA 要求苹果允许第三方访问其 AI 系统。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Forward_Deployed_Engineer">Forward Deployed Engineer - Wikipedia</a></li>
-<li><a href="https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers">What are Forward Deployed Engineers, and why are they so in demand?</a></li>
-<li><a href="https://invisibletech.ai/blog/what-is-forward-deployed-engineering">What is Forward Deployed Engineering? | Invisible Blog</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/">Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27</a></li>
+<li><a href="https://thenextweb.com/news/apple-siri-ai-eu-dma-delay-ios-27">For the second time, Apple Intelligence is delayed in Europe , and this...</a></li>
+<li><a href="https://www.ithinkdiff.com/siri-ai-eu-delay-ios-27-ipados-27/">Siri AI delayed in the EU as Apple blames Digital Markets Act ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#software engineering`, `#AI`, `#forward deployed engineering`, `#product engineering`, `#role evolution`
+**标签**: `#Apple`, `#Siri`, `#AI`, `#EU regulation`, `#tech policy`
 
 ---
 
 <a id="item-13"></a>
-## [Ahmad Osman：本地 AI 正在快速追赶](https://www.latent.space/p/ahmad-osman-local-ai) ⭐️ 7.0/10
+## [AI 工程师世博会聚焦循环与软件工厂](https://www.latent.space/p/aiewf-daily-dispatch-loops) ⭐️ 6.0/10
 
-Ahmad Osman 认为，本地 AI 正在从笔记本电脑、手机到企业级基础设施等各类设备上快速进步，挑战着云端 AI 的主导地位。 这一转变可能重塑 AI 部署策略，为消费者和企业带来更低的延迟、更好的隐私保护以及减少对云端的依赖。 Osman 的见解源于两场座无虚席的 AI Engineer World's Fair (AIEWF) 研讨会，会上讨论了边缘计算和企业基础设施的实际影响。
+在 AI 工程师世博会上，讨论聚焦于循环工程、智能体工程以及软件工厂的兴起，开放模型也是热门话题。 这些趋势标志着从手动提示到基于目标的自动化 AI 工作流、从编码到构建生产软件的工厂的转变，可能大幅提升工程生产力并重塑软件开发。 循环工程用基于目标的自动化取代手动提示，而软件工厂旨在实现软件密集型系统的规模经济和可重复性。开放模型因其可访问性和定制潜力仍是关键话题。
 
-rss · Latent Space · 6月30日 23:39
+rss · Latent Space · 7月1日 04:46
 
-**背景**: 本地 AI 直接在用户自有硬件上运行模型，支持离线处理和更低延迟，而云端 AI 依赖远程服务器。本地与云端 AI 的争论并非二元对立；不同任务根据隐私、成本和延迟需求适合不同的基础设施。
+**背景**: 循环工程涉及设计系统以循环方式自主提示 AI 智能体，从而无需持续人工输入即可执行复杂任务。软件工厂将制造原理应用于软件开发，利用可重用组件和自动化流水线高效生产软件。AI 工程师世博会是一个专注于实用 AI 工程主题的会议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Local_AI_vs_cloud_AI">Local AI vs. cloud AI</a></li>
-<li><a href="https://www.mindstudio.ai/blog/local-ai-vs-cloud-ai-what-to-own-vs-rent">Local AI vs Cloud AI : How to Decide What to Own and... | MindStudio</a></li>
+<li><a href="https://www.mindstudio.ai/blog/what-is-loop-engineering-ai-coding-agents">What Is Loop Engineering? The New Meta for AI Coding Agents</a></li>
+<li><a href="https://factory.ai/news/software-factory">Factory 2.0: From coding agents to software factories</a></li>
+<li><a href="https://prolifics.com/usa/resource-center/blog/ai-software-factories-for-enterprise-delivery">AI Software Factories For Enterprise Delivery | Prolifics</a></li>
 
 </ul>
 </details>
 
-**标签**: `#local AI`, `#edge computing`, `#AI infrastructure`, `#on-device ML`
+**标签**: `#AI engineering`, `#agent engineering`, `#software factories`, `#open models`
 
 ---
 
 <a id="item-14"></a>
-## [AMD 确认 Zen 6 将引入低功耗核心，效仿 Intel 混合架构](https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks) ⭐️ 7.0/10
+## [前部署工程师与软件工程的未来](https://www.latent.space/p/forward-deployed-engineers-aiewf) ⭐️ 6.0/10
 
-AMD 已确认计划在其即将推出的 Zen 6 架构中集成低功耗 CPU 核心，这一消息来自 Linux 内核补丁，该补丁新增了“低功耗”核心分类，与现有的性能核心和效率核心并列。 这标志着 AMD 架构的重大转变，转向类似 Intel 混合架构的异构核心设计，有望显著提升后台任务的能效，并延长移动设备的电池续航。 该 Linux 内核补丁通过 CPUID Function 0x80000026 识别核心类型，其中 EBX 位[31:28]现在包含低功耗分类。Zen 6 LP 核心预计将首发于 AMD 的 Medusa APU 系列，与标准 Zen 6 和 Zen 6C 核心共存。
+Sierra 公司的 Natalie Meurer 认为，产品工程师和前部署工程师正开始融合，模糊了构建软件和在客户环境中部署软件之间的界限。 这种融合可能重塑软件工程角色，使工程师更贴近客户，缩小开发与部署之间的差距，尤其是在 AI 原生产品中。 前部署工程师角色起源于 2010 年代初的 Palantir，2025 年职位发布量激增超过 800%，薪酬高达 70 万美元。
 
-rss · Tom's Hardware · 6月30日 16:50
+rss · Latent Space · 7月1日 00:20
 
-**背景**: Intel 在其第 12 代 Alder Lake 处理器中引入了混合架构，结合了高性能 P 核与高效 E 核。AMD 传统上采用同构核心设计，但 Zen 6 LP 核心标志着其向异构计算的转变，以更好地平衡性能与功耗。
+**背景**: 前部署工程师（FDE）是高级技术角色，工程师直接嵌入客户组织，编写生产代码、定制 AI 模型并集成数据管道。产品工程师专注于构建功能和用户体验。这种融合反映了对既能构建又能部署 AI 解决方案的工程师的需求，尤其是在复杂的企业环境中。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks">AMD confirms low - power CPU cores in Linux kernel patch — Zen ...</a></li>
-<li><a href="https://wccftech.com/amd-zen-6-new-low-power-core-beyond-zen-6-and-zen-6c/">AMD Zen 6 Gains a New Low - Power Core Beyond Zen 6 and Zen ...</a></li>
+<li><a href="https://www.latent.space/p/forward-deployed-engineers-aiewf">Forward Deployed Engineers and the future of software engineering</a></li>
+<li><a href="https://outpoll.com/en/news/generative-ai/AI-Job-Postings-Surge-Over-800-for-Forward-Deployed-Engineers">AI Job Postings Surge Over 800% for Forward - Deployed Engineers</a></li>
+<li><a href="https://getaninsight.com/general/forward-deployed-the-integration-wall-and-the-role-that-now-pays-700k-to-climb-i/">Forward - Deployed : The Integration Wall, and the Role That Now Pays...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AMD`, `#CPU architecture`, `#heterogeneous computing`, `#energy efficiency`, `#Linux kernel`
+**标签**: `#software engineering`, `#AI`, `#engineering roles`, `#product engineering`
 
 ---
 
 <a id="item-15"></a>
-## [苹果 CEO 库克与欧盟就 Siri AI 举行建设性会谈](https://www.ithome.com/0/970/810.htm) ⭐️ 7.0/10
+## [Google DeepMind 发布 Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) ⭐️ 6.0/10
 
-苹果 CEO 蒂姆·库克与欧盟科技事务负责人亨娜·维尔库宁举行视频会议，讨论新版 Siri AI 在欧洲推迟发布的问题，该问题源于对《数字市场法》合规性的争议。 会谈结果可能决定苹果能否在欧盟推出 AI 驱动的 Siri，影响苹果的 AI 竞争力，并为大型科技公司如何遵守欧盟数字法规树立先例。 苹果提出了一个“可信系统代理”方案，在用户数据与第三方 AI 模型之间增加一层软件，但欧盟表示苹果未提供具体计划，且寻求暂时免除互操作义务，欧盟拒绝接受。
+Google DeepMind 发布了 Nano Banana 2 Lite（也称为 Gemini 3.1 Flash Lite Image），这是其最快、最便宜的图像生成模型，能在 4 秒内生成一张图像，每 1000 张图像成本为 0.034 美元。 该模型使高质量 AI 图像生成对开发者和企业更加可及和负担得起，可能加速在需要快速视觉探索的应用中的采用。它也加剧了成本效益型图像生成 API 市场的竞争。 该模型比 Gemini 3.1 Flash Image 快约 2.7 倍，同时保持角色一致性和精确编辑。在演示中，它生成了一张“寻找沃尔多”风格的图像，其中有一只拿着业余无线电的浣熊，但将“Forest Festival”拼错了两种不同的方式。
 
-rss · IT之家 · 6月30日 23:43
+rss · Simon Willison · 6月30日 22:15
 
-**背景**: 欧盟的《数字市场法》（DMA）要求大型科技平台向竞争对手开放服务。苹果的新版 Siri AI 能够访问个人数据，被视为 DMA 下的核心平台服务。苹果以监管不确定性为由推迟在欧盟发布，而欧盟坚持苹果必须在发布前遵守互操作规则。
+**背景**: Nano Banana 2 Lite 是 Google DeepMind Gemini 模型系列的一部分，专为文本到图像生成而设计。它是 Nano Banana（Gemini 2.5 Flash Image）的继任者，提供更好的质量、更快的速度和更低的成本。该模型可通过 Gemini API 和 AI Studio 使用。
 
-**标签**: `#Apple`, `#Siri`, `#EU`, `#Digital Markets Act`, `#AI regulation`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://deepmind.google/models/gemini-image/flash-lite/">Gemini 3.1 Flash- Lite Image – Nano Banana ... — Google DeepMind</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/">Start building with Nano Banana 2 Lite and Gemini Omni Flash</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-lite-image">Gemini 3 . 1 Flash Lite Image | Gemini API | Google AI for Developers</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 上的讨论（文章中有链接）可能包含对该模型速度和成本的反应，以及与其他图像生成模型的比较。但输入中未提供具体评论。
+
+**标签**: `#AI`, `#image generation`, `#Google DeepMind`, `#Gemini`, `#API`
 
 ---
 
 <a id="item-16"></a>
-## [微软据报将新一轮裁员，波及 Xbox 业务](https://www.ithome.com/0/970/804.htm) ⭐️ 7.0/10
+## [前安克 CMO 推出 AI 记忆可穿戴设备 Memoket](https://36kr.com/p/3867992509125636?f=rss) ⭐️ 6.0/10
 
-据报道，微软正准备在销售、咨询和 Xbox 业务部门裁员数千人，最早可能于下周宣布。此次裁员是该公司在加大 AI 投资的同时削减成本的一部分。 这标志着微软战略转向优先发展 AI，同时削减其他领域，可能影响 Xbox 的未来方向和员工士气。裁员也反映了科技巨头将资源重新分配给 AI 的更广泛行业趋势。 此次裁员预计不超过微软 22 万名员工的 2.5%，小于去年 4%的裁员比例。受影响的员工可能会立即获得内部转岗机会。
+前安克 CMO 王时远推出了 AI 记忆可穿戴设备 Memoket，它能捕捉并结构化物理世界中的音频信息。该设备仅重 11 克，待机 30 天，连续录音 20 小时，有表带款和手环款两种形态。 Memoket 代表了从传统硬件出海到 AI 原生硬件的转变，旨在管理所有线下信息流，而不仅仅是记录会议。这可能重新定义个人记忆的捕捉和检索方式，影响生产力和知识管理。 该设备采用双麦克风降噪，并依靠 AI 对跨天数、周或月的对话信息进行结构化串联。王时远强调硬件只是数据入口，AI 能力才是真正的护城河。
 
-rss · IT之家 · 6月30日 23:23
+rss · 36氪 · 7月1日 02:00
 
-**背景**: 微软一直在增加对 AI 的投资，同时寻求在其他方面控制成本。今年早些时候，该公司向美国职级 67 级及以下、年龄与司龄合计达到 70 年的员工提供了自愿退休计划，约三分之一的合格员工接受了该计划。Xbox CEO Asha Sharma 要求对 Xbox 业务进行“重置”，导致外界预期将进行裁员。
+**背景**: AI 原生硬件指从底层设计就充分利用 AI 的设备，超越简单的录音，实现智能上下文管理。中国硬件出海模式已成熟，但 ROI 下降，促使初创公司聚焦 AI 细分应用。Memoket 与 Bee、Plaud 等 AI 可穿戴设备竞争，但差异化在于管理所有线下信息流。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://games.gg/news/xbox-reset-microsoft-worst-month/">Xbox Reset Hits Microsoft During Its Worst Month in 26... | GAMES.GG</a></li>
-<li><a href="https://www.gamespot.com/articles/amid-xbox-reset-microsoft-is-having-its-worst-month-in-26-years/">Amid Xbox " Reset ," Microsoft Is Having Its Worst Month... - GameSpot</a></li>
-<li><a href="https://www.geekwire.com/2026/microsoft-will-offer-voluntary-retirement-to-thousands-of-employees-in-a-first-for-tech-giant/">Microsoft will offer voluntary retirement to thousands of employees in...</a></li>
+<li><a href="https://memoket.ai/">Memoket | The Lightest AI Wristband That Remembers Context</a></li>
+<li><a href="https://memoket.ai/pages/product-description">Memoket Gem | AI Note-Taking Wristband</a></li>
+<li><a href="https://www.producthunt.com/products/memoket-gem">Memoket Gem - Product Hunt</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Microsoft`, `#layoffs`, `#Xbox`, `#tech industry`, `#cost cutting`
+**标签**: `#AI hardware`, `#wearable`, `#memory`, `#startup`, `#hardware出海`
 
 ---
 
 <a id="item-17"></a>
-## [中国最严电池安全标准生效](https://36kr.com/p/3876318522077442?f=rss) ⭐️ 7.0/10
+## [机器人触觉皮肤初创公司获天使轮融资](https://36kr.com/p/3874358072710407?f=rss) ⭐️ 6.0/10
 
-2025 年 7 月 1 日，中国两项关于电动汽车安全和动力蓄电池安全的强制性国家标准正式实施，引入了物理断电装置和更严格的热扩散要求。 这些标准通过要求物理而非软件控制的紧急断电装置，并规定电池在热失控后不得起火或爆炸，显著提升了电动汽车安全性，有望降低火灾风险并增强消费者对电动汽车的信心。 新标准要求配备物理“一键断电”装置，新增底部撞击测试，并将热失控报警要求从“着火前 5 分钟报警”改为“不起火、不爆炸，且烟气不对乘员造成伤害”。
+由苏州大学教授刘瑞远创立的感知纪元科技有限公司完成了由松禾资本领投的千万级天使轮融资，用于开发机器人多模态触觉电子皮肤。 这笔融资凸显了触觉感知在具身智能中日益增长的重要性，因为当前的单点传感器无法支持精细操作任务。该公司的多模态集成方法可加速机器人在工业、医疗和服务场景中的部署。 该电子皮肤可拉伸超过 400%，集成了压力、滑动、温度、纹理和形变传感，并通过了超过一百万次的可靠性测试。公司已与头部人形机器人公司签署战略协议，并获得新能源汽车和护理机器人企业的采购意向。
 
-rss · 36氪 · 6月30日 23:55
+rss · 36氪 · 7月1日 01:20
 
-**背景**: 中国是全球最大的电动汽车市场，由于多起引人注目的火灾事故，电池安全一直是主要关注点。以往的标准允许基于软件的紧急断电，这在事故中可能失效。新标准通过强制要求物理断电和更严格的测试来弥补这些漏洞。
+**背景**: 触觉感知是机器人执行复杂物理任务所缺失的关键能力。当前大多数方案使用仅测量力的单点传感器，缺乏多模态感知。多模态电子皮肤模仿人类皮肤同时感知压力、温度、纹理和滑移的能力，使机器人操作更加灵巧。
 
-**标签**: `#electric vehicles`, `#battery safety`, `#Apple`, `#data leak`, `#regulation`
+**标签**: `#robotics`, `#tactile sensing`, `#electronic skin`, `#startup funding`, `#flexible electronics`
 
 ---
 
 <a id="item-18"></a>
-## [前 DeepMind 扑克 AI 三人组打造 5 亿美元量化对冲基金](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/) ⭐️ 7.0/10
+## [SK 海力士采用无价格上限长期合约](https://36kr.com/newsflashes/3876640980070664?f=rss) ⭐️ 6.0/10
 
-由三位前 DeepMind 研究人员创立的布拉格 AI 实验室 EquiLibre Technologies，在量化对冲基金领域估值已超过 5 亿美元。 这标志着顶尖 AI 人才从 DeepMind 向量化金融领域的显著转移，证明了游戏 AI 技术可以成功应用于金融市场。 创始人此前开发了击败人类的扑克 AI，现在他们将类似的强化学习和博弈论方法应用于股票交易。
+SK 海力士近期与客户签下的长期供应合约（LTA）不设价格上限，打破了传统的存储器定价模式。 这一策略使 SK 海力士在供不应求时能充分获取涨价收益，可能重塑整个存储芯片行业的合约结构。 据报道，这种无价格上限的 LTA 与竞争对手的合约不同，后者通常设有价格上限以保护买家。此举可能增加 SK 海力士的收入波动性，但在供应紧张时也能提升利润。
 
-rss · TechCrunch · 6月30日 20:33
+rss · 36氪 · 7月1日 05:23
 
-**背景**: DeepMind 是领先的 AI 研究实验室，以 AlphaGo 等突破闻名。扑克 AI 需要处理不完美信息，这与金融市场类似。量化对冲基金使用算法交易资产。
+**背景**: 半导体行业的长期供应协议（LTA）传统上会锁定一定时期内的数量和价格，通常按季度调整。近期，随着 AI 需求导致存储短缺，云服务提供商寻求供应链稳定，LTA 变得越来越普遍。SK 海力士的无上限做法是对这一常规的显著偏离。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/">The DeepMind trio who built a poker AI are now making... | TechCrunch</a></li>
+<li><a href="https://www.sohu.com/a/1035099582_250147">动辄百亿锁量，存储行业兴起的“LTA”到底是啥？</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2039747428178457290">摩根大通：长期协议（LTA）正“消灭”存储行业周期性，大幅上调三星电子...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#quantitative finance`, `#DeepMind`, `#hedge funds`, `#startups`
+**标签**: `#semiconductor`, `#memory`, `#SK Hynix`, `#pricing strategy`
 
 ---
 
 <a id="item-19"></a>
-## [AI 芯片初创公司 Etched 估值达 50 亿美元，销售额 10 亿美元](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/) ⭐️ 7.0/10
+## [澳大利亚考虑拆分四大会计师事务所](https://36kr.com/newsflashes/3876566002413576?f=rss) ⭐️ 6.0/10
 
-AI 芯片初创公司 Etched 宣布其推理系统已获得 10 亿美元合同，估值达到 50 亿美元，成为英伟达的有力竞争对手。 这标志着 AI 芯片市场出现重大转变，新进入者获得巨额资金验证，可能挑战英伟达在推理任务中的主导地位，从而降低成本并推动创新。 10 亿美元销售额来自 Etched 芯片驱动的推理系统合同，但技术规格和客户名称尚未披露。50 亿美元估值反映了投资者对该初创公司潜力的强烈信心。
+澳大利亚政府宣布，鉴于近期丑闻，正考虑拆分四大会计师事务所（德勤、安永、毕马威、普华永道）并加强监管，相关提议已在一份财政部文件中概述。 此举可能重塑澳大利亚会计行业，削弱四大会计师事务所的主导地位，并可能提升审计质量和公司治理水平。这也标志着全球对专业服务公司加强监管的趋势。 财政部文件提议将合伙制事务所的规模上限从 1000 人降至 400 人，并将这些事务所纳入企业监管机构的监管范围。该提案还对比了英国和美国的监管方式。
 
-rss · TechCrunch · 6月30日 18:13
+rss · 36氪 · 7月1日 04:06
 
-**背景**: 英伟达目前主导 AI 芯片市场，尤其是在大型模型训练方面，而推理（运行已训练模型的过程）是一个不断增长的市场，专用芯片可提供效率提升。Etched 是多家试图在这一领域占据一席之地的初创公司之一。
+**背景**: 四大会计师事务所在全球审计市场占据主导地位，审计绝大多数上市公司。在澳大利亚，近期丑闻暴露了监管漏洞，促使政府考虑进行结构性改革，类似于英国和美国正在讨论的改革。
 
-**标签**: `#AI chips`, `#Nvidia`, `#hardware`, `#startup`, `#inference`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Big_Four_accounting_firms">Big Four accounting firms</a></li>
 
----
+</ul>
+</details>
 
-<a id="item-20"></a>
-## [Rockstar 员工在 GTA VI 发布前寻求工会认可](https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi) ⭐️ 6.0/10
-
-Rockstar Games 的员工在《侠盗猎车手 VI》发布前正式请求自愿承认他们的工会 IWGB Game Workers Union。 此举凸显了游戏行业持续的劳资紧张关系，并可能为大型工作室的工会化开创先例，从而影响数千名开发者的工作条件。 此前 Rockstar 去年解雇了 30 多名员工，工会指责这是破坏工会的行为。IWGB 工会代表英国游戏行业的工人。
-
-rss · The Verge · 6月30日 17:04
-
-**背景**: 视频游戏行业的工会化一直很少见，但近年来努力不断增加，尤其是在大型工作室。IWGB（英国独立工人工会）一直积极组织游戏工人。GTA VI 是最受期待的游戏之一，因此 Rockstar 的劳工行动尤其具有新闻价值。
-
-**标签**: `#game development`, `#labor`, `#union`, `#Rockstar`, `#GTA VI`
+**标签**: `#regulation`, `#accounting`, `#corporate governance`, `#Australia`
 
 ---
