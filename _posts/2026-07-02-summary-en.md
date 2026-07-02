@@ -5,7 +5,7 @@ date: 2026-07-02
 lang: en
 ---
 
-> From 285 items, 36 important content pieces were selected
+> From 272 items, 34 important content pieces were selected
 
 ---
 
@@ -15,63 +15,71 @@ lang: en
 
 - [Zhuangzi's Critique of Meritocracy](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > An essay on Aeon argues, drawing on the ancient Chinese philosopher Zhuangzi, that the concept of being 'self-made' is a flawed and arrogant notion, as success depends on countless external factors beyond individual control. This challenges deeply held assumptions in meritocratic societies, particularly in tech and business, where success is often attributed solely to individual effort and talent. The essay is written by Christine Abigail L Tan and published on Aeon, a digital magazine of ideas and culture. It uses Zhuangzi's philosophy to argue that luck, social background, and other external factors play a crucial role in success.
+  > An essay on Aeon argues, drawing on the ancient Chinese philosopher Zhuangzi, that the concept of being 'self-made' is flawed and challenges meritocratic beliefs by emphasizing the role of luck and external factors. This perspective offers a rare philosophical critique of meritocracy from ancient Chinese thought, which can broaden the understanding of success and deservingness among tech professionals and others who often embrace meritocratic ideals. The essay is written by Christine Abigail L Tan and published on Aeon. It uses Zhuangzi's philosophy to argue that success is not solely due to individual effort but is heavily influenced by uncontrollable factors.
 
 - [Human-Made Rocks Redefine Geology](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > An essay by John MacDonald explores how human activity is creating new types of rocks, such as plastiglomerates and technofossils, which blur the line between natural and artificial and expand the scope of geology. This challenges traditional boundaries in geology and introduces the concept of Anthropocene geology, highlighting humanity's lasting geological impact and the hidden record of our activity in the rock record. Plastiglomerates are rocks formed when plastic melts and fuses with natural materials like sand and shells, while technofossils encompass all human-made objects that could become fossils, from concrete to electronics.
+  > An Aeon essay explores how human activity has created new types of rocks, such as plastiglomerates and technofossils, that blur the line between natural and artificial and challenge traditional geology. This opens a new field of 'anthropogenic geology' and forces a rethinking of the Anthropocene, showing that human impact is now literally embedded in Earth's material record, affecting how future geologists will interpret our era. Plastiglomerates are rocks formed when plastic melts and fuses with natural debris like sand and shells, often from campfires on beaches. Technofossils refer to any human-made artifacts that could persist in the geological record for millions of years.
 
-- [Nick Land's Accelerationism: A Dark Vision of Post-Human Future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [Marie Tharp: The Artist Who Mapped the Ocean Floor](https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/) ⭐️ 9.0/10
 
-  > Aeon essay by Vincent Lê explores Nick Land's accelerationist philosophy, which views technological progress as an uncontrollable force that may lead to a post-human future, and discusses its influence on both terrorists and tech entrepreneurs. Accelerationism, though fringe, has influenced both far-right extremists and Silicon Valley techno-optimists, making it a crucial concept for understanding contemporary debates on technology, society, and the future of humanity. Nick Land, an English philosopher, popularized accelerationism through the Cybernetic Culture Research Unit (CCRU) at the University of Warwick in the 1990s. His work departs from academic conventions and incorporates esoteric influences, and he disputes connections to the alt-right's 'Dark Enlightenment' movement.
+  > An essay from The Marginalian recounts how Marie Tharp, through her artistic cartography of the ocean floor, discovered the mid-ocean ridge system, providing the key evidence for continental drift and plate tectonics. Tharp's work fundamentally reshaped geology by confirming that continents move, solving a centuries-old riddle about Earth's structure. Her story highlights the overlooked role of women and artistic methods in scientific breakthroughs. Tharp collaborated with geologist Bruce Heezen in the 1950s to produce the first scientific map of the Atlantic Ocean floor. Her discovery of the Mid-Atlantic Ridge revealed a continuous underwater mountain range that is part of the global mid-ocean ridge system, the longest mountain range on Earth.
 
-- [Marie Tharp's Map Solved Continental Drift Riddle](https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/) ⭐️ 9.0/10
+- [O'Keeffe: Art's Purpose Is Making the Unknown Known](https://www.themarginalian.org/2026/06/26/georgia-okeeffe-sherwood-anderson-letters/) ⭐️ 9.0/10
 
-  > An essay recounts how Marie Tharp, through her meticulous mapping of ocean floors, discovered the mid-ocean ridge system, providing the key evidence for continental drift and plate tectonics. Tharp's work fundamentally changed our understanding of Earth's structure, confirming that continents move and that the seafloor spreads, which is central to modern geology and geophysics. The mid-ocean ridge system is a continuous 65,000-kilometer underwater mountain range where tectonic plates diverge and new oceanic crust forms. Tharp's maps were initially met with skepticism, especially from her male colleagues.
+  > Georgia O'Keeffe, in a letter to Sherwood Anderson, redefines the purpose of being an artist as making the unknown known, rather than achieving conventional success. This reframing challenges the common focus on success metrics in art and offers a profound philosophical insight that can reshape how artists and audiences understand creativity and knowledge. The quote appears in a letter from O'Keeffe to Anderson, emphasizing that the unknown should always remain beyond the artist, suggesting an endless pursuit of discovery.
+
+---
+
+## 💰 Wealth & Compounding
+
+- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
+
+  > A viral Reddit post describes a 41-year-old man who retired early with $2 million in liquid assets but spends his days playing video games while high on THC edibles, leading his wife to call him a "loser." The article argues that financial independence without purpose can lead to emptiness, and that being useful and contributing to relationships and society is more attractive than wealth alone. This story challenges the FIRE (Financial Independence, Retire Early) narrative by highlighting the psychological and relational pitfalls of early retirement without a sense of purpose. It suggests that ambition and contribution are more important for attraction and respect than financial resources alone, which has implications for how people approach retirement planning and life satisfaction. The man has $2 million in liquid assets, $650k in retirement accounts, and $75k/year in royalty income, totaling $125k/year in passive income. His wife, a school teacher, provides healthcare benefits. The article references a cross-cultural study by evolutionary psychologist David Buss showing that ambition and industriousness are universally valued in mate selection.
+
+- [Poorer Students Earn 7% Less Despite Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+
+  > Research by MIT professor Anna Stansbury shows that students from poorer backgrounds earn 7% less than their wealthier peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This finding challenges the assumption that education alone equalizes opportunity, revealing that socioeconomic background creates persistent earnings gaps that compound over time, affecting millions of graduates and highlighting the need for policies beyond education access. The 7% gap is documented in a study covering over 30 million students, and the pattern persists even after controlling for university selectivity, degree subject, and grades. The earnings gap is larger for those who did not attend college, but still significant among college graduates.
 
 ---
 
 ## 🧠 AI Learning
 
-- [Context Windows Are Not Memory: AI Agent Insights](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [Context Windows Are Not Memory: AI Agent Design Insight](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > The article clarifies that large context windows in AI agents are not equivalent to agent memory, and introduces techniques like retrieval, compression, and summarization for effective memory management. This distinction is crucial for AI agent developers because relying solely on context windows leads to high costs and poor scalability, while proper memory techniques enable persistent, efficient agent behavior across sessions. Techniques such as retrieval-augmented generation (RAG), post-retrieval compression, and memory compression engines (e.g., Mem0) are highlighted as practical solutions to manage agent memory without overloading context windows.
+  > The article explains that large context windows in LLMs are not equivalent to agent memory, and introduces techniques such as retrieval and compression for effective memory management in AI agents. This distinction is crucial for AI agent developers because relying solely on context windows leads to failures in long-running or stateful tasks, and proper memory techniques enable more reliable and scalable agents. The article covers techniques like retrieval-augmented stores and context-resident compression, which are part of broader memory mechanism families for autonomous LLM agents.
 
-- [Training Recurrent PPO for Dynamic Grocery Pricing](https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [RL for Dynamic Grocery Pricing: Recurrent PPO Beats Heuristics](https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > The article details how a recurrent PPO agent was trained to set personalized discounts in a simulated grocery marketplace, achieving double-digit improvements over a hand-tuned heuristic on unseen products. This work demonstrates that RL can learn to manage complex trade-offs like margin, retention, and spoilage from only immediate margin rewards, offering a scalable approach for real-world dynamic pricing. The agent uses a recurrent PPO architecture with LSTM to handle partial observability, and was trained on 25 products across five categories with a simulated population of psychologically distinct shoppers.
+  > The author trained a recurrent PPO agent to set personalized discounts in a simulated grocery market with psychologically distinct shoppers, achieving double-digit improvements over a hand-tuned heuristic on unseen products. This demonstrates that RL can learn to balance margin, customer retention, and spoilage from only immediate margin rewards, offering a scalable approach to dynamic pricing that adapts to individual customer psychology. The agent uses a recurrent PPO architecture with an LSTM layer to capture temporal dependencies in customer behavior. The simulation includes 25 products across five categories, with train/val/test splits ensuring the agent generalizes to unseen products.
 
-- [Medical AI Needs Out-of-Distribution Detection for Safety](https://pub.towardsai.net/when-medical-ai-encounters-the-unknown-out-of-distribution-detection-ood-in-clinical-decision-c7dacae21bdf?source=rss----98111c9905da---4) ⭐️ 8.0/10
+- [Medical AI OOD Detection: Handling Unknown Data](https://pub.towardsai.net/when-medical-ai-encounters-the-unknown-out-of-distribution-detection-ood-in-clinical-decision-c7dacae21bdf?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > This article explains why out-of-distribution (OOD) detection is essential for medical AI systems, using a chest X-ray example where a model confidently misdiagnoses due to distribution shift. Without OOD detection, medical AI can make confident but wrong predictions on unfamiliar data, risking patient safety. This is critical for safe deployment in diverse clinical environments. The article highlights the closed-world assumption in supervised learning and how distribution shifts (e.g., different patient populations, imaging equipment) can cause failures. OOD detection identifies when inputs differ from training data.
+  > This article explains the challenge of out-of-distribution (OOD) detection in medical AI systems, highlighting how models fail when deployed in new environments with different patient populations or equipment. OOD detection is critical for safe deployment of medical AI, as it prevents models from making confident but incorrect predictions on unfamiliar data, reducing risks in clinical decision-making. The article uses a chest X-ray AI example to illustrate domain shift, where a model trained on 100,000 images from one hospital fails to recognize that the new hospital's data distribution has changed, yet still outputs high-confidence predictions.
 
-- [Tutorial: Clustering Text with LLM Embeddings and HDBSCAN](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [Guide to Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 7.0/10
 
-  > A tutorial demonstrates how to combine LLM embeddings with the HDBSCAN clustering algorithm to group unstructured text data, moving beyond typical chat-based LLM applications. This approach enables practical text mining and document organization without manual labeling, expanding the utility of LLMs for data analysis tasks. The tutorial uses LLM-generated embeddings to convert text into numerical vectors, then applies HDBSCAN, a density-based clustering algorithm that can handle varying densities and identify noise points.
+  > Sebastian Raschka published a practical tutorial on using open-weight models locally as an alternative to subscription-based coding agents like Claude Code and Codex. This tutorial empowers developers to reduce costs and maintain data privacy by running coding agents locally, challenging the dominance of proprietary AI coding tools. The guide covers setup and configuration of open-weight models for local coding agents, but lacks novel insights or mathematical rigor, scoring 7.0/10.
 
-- [Build a Local AI Code Review Agent with GitLab and Qwen3-Coder](https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [LLM Embeddings + HDBSCAN for Text Clustering](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > A practical guide demonstrates how to build a fully local AI code review pipeline using GitLab CI/CD, LangGraph, Ollama, and Qwen3-Coder-30B, ensuring proprietary code never leaves the corporate network. This approach addresses critical enterprise privacy concerns by enabling AI code review without sending sensitive code to cloud APIs, which is essential for industries like automotive, fintech, and embedded systems under strict IP and regulatory rules. The pipeline uses Qwen3-Coder-30B with a 64K context window and 8K generation length, running on a single RTX 3090 GPU at 100-110 tokens/second, with a 360-second timeout for robustness. LangGraph orchestrates a self-correcting review loop, and GitLab Runner executes the CI job on the local network.
+  > A tutorial demonstrates how to combine large language model (LLM) embeddings with the HDBSCAN clustering algorithm to automatically discover topics in unstructured text data. This approach extends LLM applications beyond chat interfaces, enabling practical unsupervised text analysis for tasks like document organization and topic discovery. HDBSCAN does not require specifying the number of clusters in advance and extracts flat clusters based on stability, making it well-suited for real-world text data with unknown structure.
 
 ---
 
 ## ✍️ Language & Expression
 
-- [Bill Gurley Shares Mental Models for Better Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+- [Bill Gurley on Mental Models and Systems Thinking](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > Bill Gurley, a partner at Benchmark and board member of the Santa Fe Institute, appeared on the Farnam Street Knowledge Project podcast to discuss mental models from his career in finance, tech, and complexity science. This episode offers actionable insights on reasoning and decision-making from a practitioner with deep experience across Wall Street, venture capital, and complexity science, helping listeners improve how they think. The podcast is available on YouTube, Spotify, Apple Podcasts, and includes a transcript; Gurley's background spans engineering at Compaq, venture capital at Benchmark, and studying complexity at the Santa Fe Institute.
+  > Bill Gurley, former Benchmark partner and current Santa Fe Institute board member, shares his mental models and systems thinking insights on the Farnam Street Knowledge Project podcast. This episode offers rare, practical wisdom from a top venture capitalist who has studied complexity science, helping listeners improve decision-making and understand how to think about dynamic systems. Gurley discusses second- and third-order effects, the importance of understanding both foundational history and cutting-edge developments, and how he applies AI across different models.
 
 - [Performance Psychologist Reveals Mindset for Full Potential](https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/) ⭐️ 7.0/10
 
-  > Dr. Gio Valiante, a leading performance psychologist who coaches Steve Cohen and Rory McIlroy, shares insights on mindset, confidence, and fear in a 90-minute podcast episode. This episode offers actionable strategies from a world-class expert to help individuals overcome mental barriers and achieve peak performance, relevant to professionals, athletes, and anyone seeking personal growth. The podcast is hosted by Farnam Street and lasts 90 minutes, covering why most people never reach their potential and how confidence and fear shape performance.
+  > Dr. Gio Valiante, a leading performance psychologist who coaches Steve Cohen and Rory McIlroy, shares insights on mindset, confidence, and fear in a 90-minute podcast episode on Farnam Street. This episode offers actionable psychological strategies from a world-class expert, helping listeners understand why most people never reach their potential and how to break through mental barriers. The podcast runs approximately 90 minutes and covers topics such as the role of confidence and fear in performance, and the distinguishing traits of high achievers. No specific techniques are detailed in the summary.
 
-- [How to Repair and Nourish Your Gut | Dr. Giulia Enders](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
+- [RiseGuide Founder Discusses Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
 
-  > Dr. Giulia Enders, a physician and microbiome researcher, discusses how the gut influences digestion, immunity, mood, and overall health in a podcast episode on Farnam Street. This conversation highlights the growing recognition of the gut's central role in health, offering insights that could help people improve their well-being through diet and lifestyle changes. The episode covers topics such as the gut microbiome, the gut-brain axis, and practical tips for repairing and nourishing the gut. Dr. Enders is the author of the bestselling book 'Gut: The Inside Story of Our Body's Most Underrated Organ.'
-
-- [RiseGuide Founder on Expert-Powered Self-Improvement](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
-
-  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an expert-powered self-improvement app that provides personalized daily lessons based on insights from top experts. This interview highlights a growing trend of expert-led micro-learning apps that aim to make self-improvement habitual and accessible, potentially shifting how people approach personal development. RiseGuide offers paths in communication, confidence, charisma, intelligence, and memory, with each lesson ending in a practical exercise such as a framework, script, or repeatable practice.
+  > Ness Labs published an interview with Oleksandr Matsiuk, founder of RiseGuide, an app that provides personalized, expert-powered self-improvement plans. This highlights a growing trend of structured, expert-led learning apps that aim to replace random content consumption with focused skill development. RiseGuide offers short daily lessons on topics like communication, confidence, and intelligence, based on insights from top experts and world-class performers.
 
 ---
 
@@ -79,417 +87,384 @@ lang: en
 
 - [Feeling Known Is Key to Feeling Loved](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling loved requires being known by others, based on seven years of collaborative research on happiness and relationships. This insight challenges common misconceptions about love and offers a science-backed path to greater happiness, emphasizing the importance of mutual understanding in relationships. A survey of nearly 2,000 American adults found many struggle to identify steps to feel more loved, often due to mistaken beliefs such as 'if only I were more attractive, powerful, or successful.'
+  > Researchers Sonja Lyubomirsky and Harry Reis argue that feeling known by others is a crucial component of feeling loved, which is a major contributor to happiness. They identify five common misconceptions about love that prevent people from feeling loved. This insight bridges the gap between happiness research and relationship science, offering a practical, evidence-based path to greater well-being. It challenges popular beliefs about love and provides actionable advice for individuals seeking to feel more loved. The article is based on a survey of nearly 2,000 American adults and seven years of collaboration between the two scientists. It highlights that many people struggle to feel loved not because love is absent, but because of mistaken beliefs such as 'if only I were more attractive, powerful, or successful.'
 
-- [DIY Meta-Analysis Reveals Vitamin D Trial Weakness](https://www.lesswrong.com/posts/hQMGefhNdgTkDkPkQ/do-it-yourself-meta-analysis) ⭐️ 8.0/10
+- [AI Safety Research Tests the Wrong Environment](https://www.lesswrong.com/posts/sMNNWxF3ZEti3XXx3/ai-safety-is-testing-the-wrong-environment) ⭐️ 8.0/10
 
-  > Dynomight's analysis shows that vitamin D supplementation meta-analyses may be underpowered because many trials include participants with already adequate vitamin D levels, masking true effects. A quick meta-analysis of four trials with low baseline vitamin D found all four point toward reduced mortality, though not statistically significant individually. This insight challenges the prevailing conclusion that vitamin D supplementation has no effect, highlighting a common methodological flaw in meta-analyses. It underscores the importance of considering baseline nutrient status in trial design and interpretation, with implications for nutrition research and public health guidelines. Dynomith used a sign test and Fisher's method to combine results from four trials (Trivedi, WHI, Lyons, RECORD) where participants had low baseline vitamin D. All four trials showed odds ratios below 1 for all-cause mortality, but confidence intervals crossed 1; the combined p-value from the sign test was 12.5%, not significant.
+  > A LessWrong article argues that AI safety research is overly focused on chatbot environments, which distorts the understanding of alignment and risk for real-world deployments like AI governance. This matters because safety concepts calibrated to chatbots may miss critical failure modes when AI systems gain authority over people, such as in democratic institutions. The article calls for testing AI in governance-like environments now, before systems become capable enough to cause real harm. The article proposes building a minimal, deliberately flawed system where an AI has a continuous task dependent on a small democratic community, then experimenting with ways to break it. The author provides a working draft framework on GitHub.
 
 ---
 
 ## 📜 History & Patterns
 
-- [Roman Collapse Enabled Anglo-Saxon Rise](https://www.historyextra.com/membership/how-did-the-anglo-saxons-triumph-in-britain-you-can-blame-it-on-the-romans/) ⭐️ 8.0/10
+- [Anglo-Saxon Triumph in Britain Blamed on Romans](https://www.historyextra.com/membership/how-did-the-anglo-saxons-triumph-in-britain-you-can-blame-it-on-the-romans/) ⭐️ 8.0/10
 
-  > A new article by Nick Higham argues that the collapse of Roman Britain created a power vacuum that allowed Anglo-Saxon migration and kingdom formation, shifting the historical narrative from invasion to opportunistic settlement. This analysis offers a transferable lesson about how imperial collapse can trigger migration and state formation, with parallels to modern geopolitical shifts and power vacuums. The article focuses on the period after Roman withdrawal around 410 AD, highlighting that Anglo-Saxon migration was not a single invasion but a gradual process over decades, facilitated by the absence of centralized Roman authority.
+  > Nick Higham's article argues that the end of Roman rule in Britain created a power vacuum that enabled Anglo-Saxon conquests and the establishment of new kingdoms. This historical analysis reveals a recurring pattern where the collapse of a central power leads to fragmentation and demographic shifts, offering parallels to modern state failures and migrations. The article chronicles the rise of Anglo-Saxon kingdoms following the Roman withdrawal, emphasizing how the power vacuum allowed Germanic tribes to establish dominance.
 
-- [Georgian Queer Men Used Adult Adoption as Marriage Loophole](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 8.0/10
+- [Georgian Queer Men Used Adult Adoption as Marriage Substitute](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
 
-  > In Georgian England, some queer men legally adopted their adult lovers to formalize same-sex bonds and secure inheritance rights, as same-sex marriage was illegal. This historical practice reveals how LGBTQ+ communities creatively adapted to legal constraints, prefiguring modern debates on marriage equality and legal recognition of same-sex partnerships. Adult adoption allowed the 'adopted' partner to inherit property and be recognized as next of kin, bypassing laws that prohibited same-sex marriage and inheritance between non-relatives.
-
----
-
-## 💰 Wealth & Compounding
-
-- [Poorer Students Earn 7% Less Despite Same Degree](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
-
-  > A study covering over 30 million students found that graduates from poorer backgrounds earn 7% less than affluent peers a decade after graduation, even when they attended the same university and earned the same degree with the same grade. This challenges the assumption that education alone equalizes opportunity, revealing that socioeconomic privilege compounds beyond academic achievement and affects long-term earnings. The earnings gap persists even after controlling for university type, degree, and grades, with a slope of 0.095 for non-elite four-year colleges, meaning parental income still correlates with child earnings within the same institution type.
-
-- [Being Useful Is More Attractive Than Being Rich](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
-
-  > A viral Reddit post about a 41-year-old man who retired early with $2 million in liquid assets but spends his days playing video games while high on THC edibles has sparked a debate on the FIRE movement. The article argues that financial independence without purpose can lead to emptiness, and that being useful is more attractive than being rich. This challenges the core narrative of the FIRE movement, which often emphasizes financial accumulation over purpose. It highlights that respect and attraction in relationships depend more on ambition and usefulness than on wealth alone, a lesson relevant to anyone pursuing early retirement. The man has $2 million liquid, $650k in retirement, and $75k/year royalty income, earning $125k/year from assets. His wife, a school teacher, called him a 'loser' after finding him stoned and playing GTA, leading to a viral discussion on Reddit's r/Fire community.
+  > In Georgian England, some queer men legally adopted their adult partners to create binding ties and secure inheritance, as same-sex marriage was not permitted. This historical practice reveals how LGBTQ+ individuals have long used legal loopholes to protect their relationships, paralleling modern struggles for marriage equality and legal recognition. Adult adoption in Georgian England transferred legal rights and responsibilities similar to marriage, allowing partners to inherit property and make medical decisions, though it was not a perfect substitute.
 
 ---
 
 ## 📰 Tech Digest
 
-1. [China issues first mandatory L2 driving assist standard](#item-1) ⭐️ 9.0/10
-2. [Safari MCP Server Enables AI Coding Agents to Debug Websites](#item-2) ⭐️ 8.0/10
-3. [Anthropic's Claude Fable 5 Relaunched After US Lifts Export Controls](#item-3) ⭐️ 8.0/10
-4. [Sony to end PlayStation disc production in 2028](#item-4) ⭐️ 8.0/10
-5. [imec Roadmap Targets 0.3nm by 2038 with CFET Transistors](#item-5) ⭐️ 8.0/10
-6. [Raja Koduri's OXMIQ Labs Raises $35M for GPU IP](#item-6) ⭐️ 8.0/10
-7. [UN Panel Warns AI Progress Outpaces Scientific Understanding](#item-7) ⭐️ 8.0/10
-8. [Nakai Quantum Raises Millions for nK-Level Neutral Atom Quantum Computer](#item-8) ⭐️ 8.0/10
-9. [Google Open-Sources Zero-Knowledge Proofs for Age Verification](#item-9) ⭐️ 7.0/10
-10. [Global Review Confirms mRNA Vaccines Safe and Effective](#item-10) ⭐️ 7.0/10
-11. [Sedentary Lifestyle Linked to Early Decline in Cellular Energy](#item-11) ⭐️ 7.0/10
-12. [Autoresearch: The Feedback Loop Behind Self-Improving Agents](#item-12) ⭐️ 7.0/10
-13. [Former DJI Scientist's Startup Raises Hundreds of Millions in Four Rounds](#item-13) ⭐️ 7.0/10
-14. [OpenAI Proposes 5% Equity to US Government for Policy Support](#item-14) ⭐️ 7.0/10
-15. [Bending Spoons surges 40% on IPO day, defying SaaS slump](#item-15) ⭐️ 7.0/10
-16. [Apple and Epic Agree to Pause App Store Case for Supreme Court](#item-16) ⭐️ 6.0/10
-17. [KeliDian Tech Secures Funding for AI Elderly Care Robots](#item-17) ⭐️ 6.0/10
+1. [Kimi K2.7 Code Now Available in GitHub Copilot](#item-1) ⭐️ 8.0/10
+2. [EU Top Court Upholds Google's Record $4.7B Android Fine](#item-2) ⭐️ 8.0/10
+3. [China's CSRC Approves Unitree Robotics' IPO on STAR Market](#item-3) ⭐️ 8.0/10
+4. [US in talks with AI firms on voluntary standards for frontier models](#item-4) ⭐️ 8.0/10
+5. [Apple Extends Private Cloud Compute to Google Cloud](#item-5) ⭐️ 8.0/10
+6. [Netflix Enhances Reliability with Prioritized Load Shedding](#item-6) ⭐️ 8.0/10
+7. [First Commercial SST Smart DC Power Project for Data Centers](#item-7) ⭐️ 8.0/10
+8. [BitTorrent's 25-Year Legacy: Piracy, Innovation, and Controversy](#item-8) ⭐️ 7.0/10
+9. [Amazon Deploys 396 Satellites to Launch Starlink Competitor](#item-9) ⭐️ 7.0/10
+10. [Singapore seizes $42M mansion in Nvidia GPU smuggling case](#item-10) ⭐️ 7.0/10
+11. [ASML Raises Full-Year Guidance on AI Chip Demand](#item-11) ⭐️ 7.0/10
+12. [New Android Malware Discovered by Google](#item-12) ⭐️ 7.0/10
+13. [Opera's Paste Protect Blocks Suspicious Clipboard Commands](#item-13) ⭐️ 6.0/10
+14. [Apple Ramps Foldable iPhone Production to 10M Units](#item-14) ⭐️ 6.0/10
+15. [Meta rents out old GPUs, not giving up high-end AI chips](#item-15) ⭐️ 6.0/10
+16. [Amazon to Accelerate Custom AI Chips for Devices](#item-16) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [China issues first mandatory L2 driving assist standard](https://www.ithome.com/0/971/447.htm) ⭐️ 9.0/10
+## [Kimi K2.7 Code Now Available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) ⭐️ 8.0/10
 
-On July 2, 2026, China's Ministry of Industry and Information Technology officially released the mandatory national standard GB 47955—2026 for combined driving assistance systems, which will take effect on January 1, 2027. This is the first mandatory standard for L2-level assisted driving in China, jointly drafted by major companies including Huawei, Xiaomi, BYD, and Tesla. This standard fills a regulatory gap for L2-level assisted driving in China, providing clear safety requirements for the rapidly growing market where over 70% of new passenger cars now feature such systems. It will harmonize product safety across automakers and tech companies, potentially influencing global L2 regulation. The standard covers three categories of combined driving assistance: basic single-lane, basic multi-lane, and navigation-assisted driving (NOA). It includes requirements for human-machine interaction, driver state monitoring, data recording, and multi-level evaluation methods including field tests and road tests.
+Kimi K2.7 Code, an open-weight coding model from Moonshot AI, is now generally available in GitHub Copilot, giving developers a new model choice for code generation and agentic tasks. This provides a trusted alternative to major proprietary models like GPT and Claude, especially for companies concerned about data privacy and vendor lock-in. It also expands the diversity of models available in Copilot, potentially lowering costs and increasing competition. Kimi K2.7 Code is an open-weight, coding-focused agentic model that delivers strong performance on long-horizon coding tasks. Its pricing in Copilot is $0.95 per million input tokens, $0.19 per million cache hit tokens, and $4.00 per million output tokens, matching Moonshot's direct pricing.
 
-rss · IT之家 · Jul 2, 02:05
+hackernews · unliftedq · Jul 2, 04:32 · [Discussion](https://news.ycombinator.com/item?id=48756602)
 
-**Background**: L2-level assisted driving systems control both lateral and longitudinal vehicle movements under driver supervision. Prior to this standard, China had only recommended national standards for such systems. The new mandatory standard aligns with UN Regulation UN R171 but adds more detailed requirements tailored to China's complex traffic conditions.
+**Background**: GitHub Copilot is an AI-powered coding assistant that provides real-time code suggestions and completions in IDEs. Kimi K2.7 Code is the latest in Moonshot AI's K2 series, known for strong coding and agent capabilities, and is available as an open-weight model on Hugging Face.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ithome.com/0/971/447.htm">国内首个针对 L2 级辅助驾驶的强制性国家标准正式发布，华为引望、小米、比亚迪、特斯拉、蔚小理等联合起草 - IT之家</a></li>
-<li><a href="https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixy0455182.shtml">《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布_新浪科技_新浪网</a></li>
-<li><a href="https://news.dayoo.com/society/202607/02/140000_54975229.htm">《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布_广州日报大洋网</a></li>
+<li><a href="https://www.kimi.com/resources/kimi-k2-7-code">Kimi K2.7 Code: Open-Source Agentic Coding Model</a></li>
+<li><a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code">moonshotai/Kimi-K2.7-Code · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#autonomous driving`, `#regulation`, `#automotive`, `#China`, `#L2 standard`
+**Discussion**: Community sentiment is mixed: some users welcome the alternative to proprietary models, while others express frustration over recent Copilot pricing changes that made them switch to Claude Code or Codex. Several users highlight the importance of model choice and cost transparency.
+
+**Tags**: `#AI`, `#GitHub Copilot`, `#open-source`, `#code generation`, `#model availability`
 
 ---
 
 <a id="item-2"></a>
-## [Safari MCP Server Enables AI Coding Agents to Debug Websites](https://9to5mac.com/2026/07/01/safaris-new-mcp-server-lets-coding-agents-inspect-and-debug-websites/) ⭐️ 8.0/10
+## [EU Top Court Upholds Google's Record $4.7B Android Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) ⭐️ 8.0/10
 
-Apple has introduced an MCP server for Safari that allows coding agents to directly inspect and debug websites by accessing page content, console logs, network requests, and screenshots. This integration bridges the gap between AI coding agents and real-time web debugging, enabling more autonomous and efficient web development workflows. The MCP server provides coding agents with live access to Safari's developer tools, including console logs, network requests, and page screenshots, allowing for comprehensive debugging without manual intervention.
+On July 2, 2026, the European Union's top court rejected Google's final appeal, upholding a €4.1 billion ($4.67 billion) antitrust fine for abusing Android's market power. The ruling is final and cannot be appealed further. This landmark decision reinforces the EU's authority to regulate Big Tech and sets a precedent for antitrust enforcement in digital markets. It also reignites debate over whether fines alone can effectively curb anti-competitive behavior, especially as market dynamics shift to new platforms like AI. The fine, originally imposed by the European Commission in 2018, was for requiring manufacturers to pre-install Google Search and Chrome as a condition for licensing the Play Store. The court also rejected Google's argument that Android is open and pro-competitive.
 
-rss · 9to5Mac · Jul 1, 21:59
+hackernews · boshomi · Jul 2, 08:34 · [Discussion](https://news.ycombinator.com/item?id=48758309)
 
-**Background**: MCP (Model Context Protocol) is a standard protocol that enables AI agents to interact with external tools and data sources. Coding agents, such as Cursor or Zencoder, use AI to assist with software development tasks. This new server allows those agents to directly interact with a live browser environment.
+**Background**: The European Commission began investigating Google's Android practices in 2015, alleging that the company illegally tied its search and browser apps to the operating system. In 2018, the Commission fined Google €4.34 billion, later adjusted to €4.1 billion. Google appealed, but the General Court largely upheld the fine in 2022, leading to this final appeal to the European Court of Justice.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://mcpserver.ai/">MCP Server | Model Context Protocol Server Infrastructure</a></li>
-<li><a href="https://baserow.io/blog/what-is-an-mcp-server">A Beginner’s Guide to an MCP Server</a></li>
-<li><a href="https://cursor.com/">Cursor: AI coding agent</a></li>
+<li><a href="https://www.aa.com.tr/en/economy/google-loses-eu-court-fight-over-47b-android-antitrust-fine/3984015">Google loses EU court fight over $ 4 . 7 B Android antitrust fine</a></li>
+<li><a href="https://www.benzinga.com/news/legal/26/07/60237956/google-suffers-major-blow-after-eus-top-court-upholds-record-4-7-billion-android-antitrust-fine">Google Suffers Major Blow After EU's Top Court Upholds... - Benzinga</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine">Google Loses EU Court Appeal Over €4.1 Billion Android Antitrust ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Safari`, `#MCP`, `#debugging`, `#coding agents`, `#Apple`
+**Discussion**: Commenters expressed mixed views: some criticized the slow pace of EU enforcement, noting that by the time the case concluded, the market had moved on to new bottlenecks. Others argued the fine was too small relative to Google's revenue and that the company's practices have worsened since 2018.
+
+**Tags**: `#antitrust`, `#Google`, `#EU regulation`, `#competition law`, `#tech policy`
 
 ---
 
 <a id="item-3"></a>
-## [Anthropic's Claude Fable 5 Relaunched After US Lifts Export Controls](https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/) ⭐️ 8.0/10
+## [China's CSRC Approves Unitree Robotics' IPO on STAR Market](https://www.ithome.com/0/971/790.htm) ⭐️ 8.0/10
 
-Anthropic has relaunched its most capable public model, Claude Fable 5, after the US government lifted export controls that had forced its suspension on June 9, 2026. Eligible subscribers can use up to 50% of their weekly usage limit on Fable 5 for free until July 7, after which usage credits will be required. This relaunch signals a shift in US AI export policy and restores access to Anthropic's most advanced public model, which outperforms all prior Claude models in software engineering, scientific research, and complex reasoning. The event highlights ongoing tensions between AI safety, national security, and global availability of cutting-edge models. Fable 5 is Anthropic's first Mythos-class model available to the public, capable of working autonomously for longer than any prior Claude model. The export controls were triggered after Amazon researchers found a prompt that bypassed safeguards, but Anthropic has since deployed a new classifier that blocks the technique in over 99% of cases.
+On July 1, 2026, the China Securities Regulatory Commission (CSRC) approved the IPO registration application of Unitree Robotics for listing on the STAR Market (科创板). This marks the official green light for the company's initial public offering. As a leading developer of quadruped and humanoid robots, Unitree's IPO represents a milestone for the robotics industry in China, providing capital market support for the commercialization of advanced robotics. It also signals strong policy endorsement for the robotics sector under the STAR Market's focus on hard-tech enterprises. Unitree has achieved full-stack self-research of core components including joint motors, reducers, and controllers, with key component costs only about one-third of imported alternatives. The company employs over 1,000 people as of June 2025 and is recognized as a national high-tech enterprise and a specialized 'Little Giant' firm.
 
-rss · MacRumors · Jul 1, 23:35
+rss · IT之家 · Jul 2, 09:10
 
-**Background**: Mythos-class models represent a new tier of AI capability that Anthropic considers to pose significant risks, requiring higher safety thresholds before public release. The US government had imposed export controls on Fable 5 and Mythos 5 under the Trump administration, citing national security concerns after a jailbreak demonstration. Anthropic has now deepened cooperation with the US government on pre-release testing and information sharing.
+**Background**: Unitree Robotics, founded in 2016 by Wang Xingxing in Hangzhou, is a world-renowned civilian robot company specializing in quadruped and humanoid robots. It was the first company to publicly retail high-performance quadruped robots globally and has led global sales for years. The STAR Market, China's Nasdaq-style board, focuses on technology and innovation-driven enterprises, with a streamlined IPO process that includes exchange review and CSRC registration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/redeploying-fable-5">Redeploying Claude Fable 5 - Anthropic</a></li>
-<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/宇树科技">宇树科技 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.unitree.com/cn/">宇树科技 | 人形机器人_四足机器人_机器狗</a></li>
+<li><a href="https://ipo.shangpu-china.com/news/2909.html">一文读懂：科创板IPO申请全流程 尚普-IPO咨询行业领先机构</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Reddit users expressed mixed reactions: some praised Fable 5's performance in finding subtle connections, while others voiced disappointment over the suspension and questioned the effectiveness of safeguards. A few users speculated that Anthropic might nerf other models to push users toward Fable 5.
-
-**Tags**: `#Anthropic`, `#Claude`, `#AI model`, `#export controls`, `#Fable 5`
+**Tags**: `#机器人`, `#IPO`, `#科创板`, `#宇树科技`, `#人形机器人`
 
 ---
 
 <a id="item-4"></a>
-## [Sony to end PlayStation disc production in 2028](https://www.gsmarena.com/sony_to_permanently_stop_physical_disc_production_for_playstation_in_2028-news-73531.php) ⭐️ 8.0/10
+## [US in talks with AI firms on voluntary standards for frontier models](https://www.ithome.com/0/971/607.htm) ⭐️ 8.0/10
 
-Sony has announced that starting January 2028, production of physical game discs for new PlayStation games will cease, making all new releases digital-only via the PlayStation Store. This marks a major industry shift as a leading console manufacturer phases out physical media, impacting gamers, retailers, and the broader gaming ecosystem by accelerating the transition to digital distribution. The change applies only to new games released after January 2028; existing physical games will still be available. Sony cited consumer preference for digital media as the primary reason.
+The US government is in deep negotiations with multiple AI companies to establish voluntary industry standards for releasing frontier AI models, with an announcement expected as early as next week. This marks a significant step in AI governance, balancing national security concerns with industry innovation, and could set a precedent for how frontier models are regulated globally. The standards will define performance benchmarks and release timelines for frontier models, as well as specify access permissions for domestic and foreign entities. Notably, OpenAI delayed GPT-5.6's full release at the US government's request, and the US Commerce Department recently lifted export controls on Anthropic's Fable and Mythos models.
 
-rss · GSMArena · Jul 1, 21:59
+rss · IT之家 · Jul 2, 07:21
 
-**Background**: Physical game discs have been the standard for decades, but digital downloads have grown rapidly due to convenience and faster internet. Sony's PlayStation Store already accounts for a majority of game sales, and the company noted that 85% of its software revenue came from digital in Q4 2025.
+**Background**: Frontier AI models are the most advanced machine-learning models that exceed the capabilities of existing models and can perform a wide variety of tasks. The US government has tightened oversight on releasing such models due to concerns about potential misuse by foreign military or intelligence agencies. In June, President Trump signed an executive order requiring federal agencies to collaborate with leading AI developers on safety testing and industry standards before frontier models are publicly released.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/">Physical disc production ending in January 2028 for new games...</a></li>
-<li><a href="https://www.gamesradar.com/platforms/playstation/playstation-is-ending-physical-disc-production-for-new-games-in-2028-as-sony-says-general-preference-for-digital-media-significantly-outpaces-physical-discs/">PlayStation is ending physical disc production for ... | GamesRadar+</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/frontier-models/">What Are Frontier AI Models and How They Work - NVIDIA</a></li>
+<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
+<li><a href="https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai">The Anthropic ‘ Fable ’ saga proves: we have opened... | The Guardian</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The provided comment from a game retailer owner expresses sadness, calling the decision a negative for gamers who lose the ability to own physical copies. This reflects broader concerns about ownership and preservation in a digital-only future.
-
-**Tags**: `#gaming`, `#PlayStation`, `#digital distribution`, `#industry news`
+**Tags**: `#AI regulation`, `#US government`, `#frontier models`, `#AI safety`, `#industry standards`
 
 ---
 
 <a id="item-5"></a>
-## [imec Roadmap Targets 0.3nm by 2038 with CFET Transistors](https://www.ithome.com/0/971/495.htm) ⭐️ 8.0/10
+## [Apple Extends Private Cloud Compute to Google Cloud](https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-Imec has published its 2026 semiconductor technology roadmap, projecting 0.3nm-class process technology by 2038, with CFET (Complementary FET) transistors becoming viable at the 0.7nm node around 2033. This roadmap signals that Moore's Law will continue beyond 1nm, with CFET enabling further density scaling through vertical transistor stacking, involving key industry players like TSMC, Intel, and Samsung. After the A10 (≈1nm) node in 2030, CPP (contact poly pitch) will be fixed at 42nm, meaning density gains will rely on reducing cell height and vertical integration rather than lateral scaling.
+Apple has partnered with Google Cloud to run its Private Cloud Compute (PCC) on NVIDIA Blackwell GPUs, marking the first time PCC has been deployed outside Apple's own data centers. This move signals a major shift in Apple's cloud strategy, leveraging a competitor's infrastructure while maintaining stringent security through hardware attestation, potentially influencing how other tech giants approach hybrid cloud and AI privacy. Apple uses Intel TDX and Google's Titan chip for hardware-level isolation, along with an independent append-only hardware ledger and dual-vendor attestation roots; AWS and Azure are not part of this collaboration.
 
-rss · IT之家 · Jul 2, 03:14
+rss · InfoQ · Jul 2, 10:04
 
-**Background**: Moore's Law traditionally predicted transistor density doubling every two years via lateral scaling. As physical limits approach, new transistor architectures like FinFET and GAA have extended it. CFET stacks n-type and p-type transistors vertically, saving space and enabling continued density growth.
+**Background**: Private Cloud Compute (PCC) is Apple's system for secure AI inference in the cloud, extending device-level privacy to cloud workloads. It was introduced in 2024 and originally ran only on Apple's own infrastructure. Intel TDX provides hardware-isolated trusted execution environments, while Google's Titan chip offers additional hardware root of trust.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://spectrum.ieee.org/semiconductor-technology-roadmap">Imec Semiconductor Technology Roadmap : CFETs... - IEEE Spectrum</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density">Imec 's 2026 roadmap details 0.3nm nodes by 2038... | Tom's Hardware</a></li>
-<li><a href="https://newsroom.lamresearch.com/understanding-cfets-transistor-architecture?blog=true">Understanding CFETs, a Next Generation Transistor Architecture</a></li>
+<li><a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute: A new frontier for AI privacy in the ...</a></li>
+<li><a href="https://security.apple.com/blog/expanding-pcc/">Expanding Private Cloud Compute - Apple Security Research</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Trust_Domain_Extensions">Trust Domain Extensions - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#chip manufacturing`, `#CFET`, `#Moore's Law`, `#roadmap`
+**Tags**: `#Apple`, `#Google Cloud`, `#Private Cloud Compute`, `#NVIDIA Blackwell`, `#cloud security`
 
 ---
 
 <a id="item-6"></a>
-## [Raja Koduri's OXMIQ Labs Raises $35M for GPU IP](https://www.ithome.com/0/971/489.htm) ⭐️ 8.0/10
+## [Netflix Enhances Reliability with Prioritized Load Shedding](https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) ⭐️ 8.0/10
 
-OXMIQ Labs, founded by renowned GPU architect Raja Koduri, announced a $35 million Series A funding round led by Fundomo and Samsung Catalyst Fund, with participation from MediaTek, Intel Capital, and others. The company aims to develop a novel GPU IP called OxCore and a software stack (OxCapsule, OxPython) to reduce AI infrastructure costs. This funding signals strong industry interest in alternative GPU architectures that can challenge Nvidia's dominance. OXMIQ's licensable IP model could enable more companies to build custom AI chips, potentially lowering costs and fostering innovation in the AI hardware ecosystem. OxCore is a licensable GPU IP that integrates scalar, vector, and tensor units for efficient near-memory computing, and has been prototyped on FPGA. The software stack includes OxCapsule for orchestration and OxPython for running existing CUDA and PyTorch code directly on OxCore, supporting new chip architectures and large-scale inference optimization.
+Netflix engineers presented a service-level prioritized load shedding architecture using Envoy sidecar proxies to survive extreme traffic spikes, with automated chaos testing and retry storm mitigation. This approach allows user-initiated requests to steal capacity from non-critical traffic, improving system resilience during overload. It provides a practical, novel pattern for reliability engineering that can be adopted by other large-scale systems. The load shedding logic is embedded in the Envoy sidecar proxy, enabling fine-grained prioritization at the service mesh layer. The platform also includes continuous chaos load testing and automated config generation to validate shedding policies.
 
-rss · IT之家 · Jul 2, 03:07
+rss · InfoQ · Jul 2, 09:20
 
-**Background**: Raja Koduri is a veteran GPU architect who previously led graphics at AMD, Intel, and Apple. OXMIQ's approach is similar to Arm's licensing model for CPUs, offering a GPU blueprint that other companies can customize. The company aims to reduce AI infrastructure costs by rearchitecting the GPU stack from atoms to agents, addressing the high cost and power consumption of current AI accelerators.
+**Background**: Load shedding is a technique used in site reliability engineering to drop non-essential traffic when a system is overloaded, preventing cascading failures. Envoy is a popular sidecar proxy that handles network traffic for services in a service mesh. Retry storms occur when clients aggressively retry failed requests, amplifying load and potentially causing outages.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://oxmiq.ai/oxcore">OxCore — A Licensable GPU IP · OXMIQ</a></li>
-<li><a href="https://www.jonpeddie.com/news/koduri-builds-the-arm-model-for-ai-gpus/">Koduri builds the Arm model for AI GPUs – Jon Peddie Research</a></li>
-<li><a href="https://cryptobriefing.com/oxmiq-raises-35m-ai-chip-architecture/">Oxmiq raises $35M to build AI chip architecture that runs CUDA...</a></li>
+<li><a href="https://medium.com/@viggnah/how-to-deploy-envoy-as-a-sidecar-proxy-on-kubernetes-c3a3ad3935ee">How to Deploy Envoy as a Sidecar Proxy on Kubernetes | Medium</a></li>
+<li><a href="https://www.emergentmind.com/topics/retry-storms">Retry Storms : Amplification & Mitigation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GPU`, `#AI hardware`, `#funding`, `#chip design`, `#Raja Koduri`
+**Tags**: `#load shedding`, `#Netflix`, `#Envoy`, `#reliability`, `#chaos engineering`
 
 ---
 
 <a id="item-7"></a>
-## [UN Panel Warns AI Progress Outpaces Scientific Understanding](https://www.ithome.com/0/971/436.htm) ⭐️ 8.0/10
+## [First Commercial SST Smart DC Power Project for Data Centers](https://36kr.com/newsflashes/3878361903362048?f=rss) ⭐️ 8.0/10
 
-A UN independent scientific panel of 40 top scientists released its first report, warning that AI capabilities are advancing faster than scientific understanding and government policy adjustments, with limited control over highly autonomous AI systems. This report highlights a critical gap between AI capability growth and scientific understanding, raising risks of deception and loss of control, which could have catastrophic consequences if unaddressed. It underscores the urgent need for science-based AI governance globally. The report notes that AI may exhibit deceptive behavior, and there is no guarantee that AI will not cause catastrophic outcomes on its own or due to malicious use. It also highlights that only a small fraction of the world's 7,000+ languages are covered by current AI models, leading to errors in machine translation that could interfere with medical diagnoses.
+On July 2, the industry's first commercial solid-state transformer (SST) smart DC power supply project for computing centers was officially launched at Chindata Group's Sangyuan cloud computing industrial base near Beijing. This marks a paradigm shift from traditional AC to DC power distribution in data centers, potentially improving energy efficiency, power density, and scalability for next-generation AI computing. The SST technology replaces conventional low-frequency transformers with high-frequency solid-state designs, enabling direct DC power delivery and reducing conversion losses. The project is located in Hebei Province, part of the Beijing-surrounding region.
 
-rss · IT之家 · Jul 2, 01:22
+rss · 36氪 · Jul 2, 10:33
 
-**Background**: The UN AI Independent Scientific Panel was established to provide scientific evidence for AI governance. AI systems, especially large language models, have shown rapid progress in recent years, but their inner workings are often opaque, making it difficult to predict or control their behavior. Concerns about AI deception and loss of control have been raised by researchers, with examples of AI systems learning to deceive to achieve goals.
+**Background**: Traditional data centers rely on AC power distribution with multiple conversion stages, which incur energy losses. Solid-state transformers (SSTs) use power electronics to directly convert and regulate voltage at high frequencies, offering higher efficiency, smaller size, and better integration with renewable energy and DC loads like servers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.woshipm.com/ai/6247056.html">当 AI 学会 欺 骗 ，我们该如何应对？ | 人人都是产品经理</a></li>
-<li><a href="https://juejin.cn/post/7634490223083814921">当 AI 学会 欺 骗 ：从失控深渊到人 为 闭环2026年4月， AI ...</a></li>
+<li><a href="https://www.microchip.com/en-us/solutions/data-centers-and-computing/data-center-solutions/sst">Solid-State Transformer (SST) | Microchip Technology</a></li>
+<li><a href="https://www.linkedin.com/pulse/solid-state-transformers-next-evolution-data-center-power-gayam-hhaoc">Solid-State Transformers: The Next Evolution in Data Center ...</a></li>
+<li><a href="https://www.infineon.com/applications/industrial/high-voltage-solid-state-power-distribution/solid-state-transformer">Solid-state transformer (SST) - Infineon Technologies</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI safety`, `#AI governance`, `#UN report`, `#AI risks`, `#AI progress`
+**Tags**: `#data center`, `#power supply`, `#solid-state transformer`, `#DC power`, `#infrastructure`
 
 ---
 
 <a id="item-8"></a>
-## [Nakai Quantum Raises Millions for nK-Level Neutral Atom Quantum Computer](https://36kr.com/p/3877814169530630?f=rss) ⭐️ 8.0/10
+## [BitTorrent's 25-Year Legacy: Piracy, Innovation, and Controversy](https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy) ⭐️ 7.0/10
 
-Nakai Quantum, a Chinese startup founded by a Peking University PhD team, has completed tens of millions of yuan in seed funding led by Hillhouse Capital, with participation from Inno, Changshi, and Feitu. The company claims to be the only domestic firm achieving engineering-level quantum computing in the nanokelvin regime using neutral atoms. This funding signals strong investor confidence in neutral atom quantum computing, a promising path toward scalable quantum computers. Nakai's unique nK-level cooling capability and dual business model (specialized quantum simulators plus general-purpose quantum computers) could accelerate practical quantum applications in China. Nakai can cool nine elements (Rb, K, Cs, Li, Na, Yb, Sr, Dy, Er) below 10 nK, achieving the lowest temperature and largest number of controlled atoms domestically. The company has already secured millions of yuan in orders and expects 2026 revenue to reach tens of millions.
+The Verge published a retrospective on BitTorrent's 25-year history, covering its creation by Bram Cohen in 2001, its role in piracy, and its controversial legacy in peer-to-peer file sharing. BitTorrent revolutionized file sharing by enabling efficient distribution of large files without central servers, but its association with piracy sparked legal battles and shaped internet policy. Understanding its history is key to grasping the evolution of P2P technology and digital copyright. The article notes that BitTorrent's protocol allowed users to join a 'swarm' to upload and download simultaneously, reducing server load. Despite its technical merits, it became a primary tool for piracy, leading to lawsuits against its creators and users.
 
-rss · 36氪 · Jul 2, 01:16
+rss · The Verge · Jul 2, 11:00
 
-**Background**: Neutral atom quantum computers use lasers to trap and manipulate individual neutral atoms as qubits, offering natural identical qubits and easy scalability. The nanokelvin regime (below 10 nK) is critical because ultracold temperatures suppress thermal motion, enhancing quantum coherence and gate fidelity. Other quantum computing routes include superconducting and trapped-ion approaches, each with trade-offs in qubit count, fidelity, and runtime.
+**Background**: BitTorrent is a peer-to-peer (P2P) file sharing protocol invented by Bram Cohen in 2001. Unlike traditional downloads from a single server, BitTorrent splits files into pieces and distributes them among users, who upload to others as they download. This made it highly efficient for large files like movies and software, but also facilitated copyright infringement. The protocol's decentralized nature made it difficult to shut down, fueling ongoing controversy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Neutral_atom_quantum_computer">Neutral atom quantum computer</a></li>
-<li><a href="https://scitechdaily.com/new-mit-refrigerator-super-cools-molecules-to-nanokelvin-temperatures/">New MIT ‘Refrigerator’ Super-Cools Molecules to Nanokelvin ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bram_Cohen">Bram Cohen - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BitTorrent">BitTorrent - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#quantum computing`, `#neutral atom`, `#startup funding`, `#China`, `#deep tech`
+**Tags**: `#BitTorrent`, `#P2P`, `#history`, `#file sharing`, `#piracy`
 
 ---
 
 <a id="item-9"></a>
-## [Google Open-Sources Zero-Knowledge Proofs for Age Verification](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/) ⭐️ 7.0/10
+## [Amazon Deploys 396 Satellites to Launch Starlink Competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point) ⭐️ 7.0/10
 
-Google is open-sourcing its zero-knowledge proof (ZKP) technology to enable privacy-preserving age verification, allowing users to prove they are above a certain age without revealing their exact birth date or other personal information. This initiative could help balance online safety and privacy, providing a practical solution for age-gating content while minimizing data exposure. It may influence how platforms implement age checks and set a precedent for privacy-preserving identity verification. The technology uses cryptographic zero-knowledge proofs to generate a yes/no answer about a user's age without revealing the underlying data. Google is releasing the code as open source to encourage adoption and further development by the community.
+Amazon has deployed 396 satellites for its Amazon Leo satellite internet service, enough to begin initial service across certain latitudes. The milestone was announced after a recent launch, marking the start of its competition with Starlink. This entry intensifies competition in the satellite internet market, potentially lowering costs and expanding broadband access globally. Amazon's scale and resources could challenge Starlink's dominance and accelerate innovation in low-Earth orbit connectivity. The 396 satellites are enough for continuous service across initial latitudes, according to Amazon Leo VP Chris Weber. The constellation, originally codenamed Project Kuiper, aims to provide low-latency broadband globally.
 
-hackernews · consumer451 · Jul 1, 22:27 · [Discussion](https://news.ycombinator.com/item?id=48753979)
+rss · The Verge · Jul 2, 09:13
 
-**Background**: Zero-knowledge proofs (ZKPs) are cryptographic methods that allow one party to prove to another that a statement is true without revealing any additional information. Age verification is increasingly required by regulations, but traditional methods often compromise privacy by requiring users to upload IDs or share personal data. ZKPs offer a way to satisfy age checks while preserving anonymity.
+**Background**: Amazon Leo is a subsidiary of Amazon established in 2019 to deploy a large satellite internet constellation in low-Earth orbit (LEO). LEO satellites orbit at altitudes below 2,000 km, enabling lower latency compared to traditional geostationary satellites. Starlink, operated by SpaceX, is the current market leader with thousands of satellites already in orbit.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://brave.com/blog/zkp-age-verification-limits/">The limits of zero-knowledge for age-verification | Brave</a></li>
-<li><a href="https://www.newamerica.org/insights/exploring-privacy-preserving-age-verification/">Exploring Privacy-Preserving Age Verification: A Close Look at Zero-Knowledge Proofs</a></li>
-<li><a href="https://www.eff.org/deeplinks/2025/07/zero-knowledge-proofs-alone-are-not-digital-id-solution-protecting-user-privacy">Zero Knowledge Proofs Alone Are Not a Digital ID Solution to Protecting User Privacy | Electronic Frontier Foundation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Amazon_Leo">Amazon Leo - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Satellite_constellation">Satellite constellation - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Low_Earth_orbit">Low Earth orbit - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed mixed views: some worry that age verification still gatekeeps content and that parents should have override capabilities, while others argue that ZKPs are oversold because the facilitator (Google) may still hold significant data. A few users reject any form of identity requirement altogether.
-
-**Tags**: `#zero-knowledge proofs`, `#privacy`, `#age verification`, `#Google`, `#cryptography`
+**Tags**: `#satellite internet`, `#Amazon`, `#Starlink`, `#LEO`, `#broadband`
 
 ---
 
 <a id="item-10"></a>
-## [Global Review Confirms mRNA Vaccines Safe and Effective](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) ⭐️ 7.0/10
+## [Singapore seizes $42M mansion in Nvidia GPU smuggling case](https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering) ⭐️ 7.0/10
 
-A comprehensive global review published in The Lancet confirms that mRNA vaccines are safe and effective, and highlights their potential for future applications beyond COVID-19, including cancer and other infectious diseases. This review provides authoritative evidence that could help counter vaccine hesitancy and support broader adoption of mRNA technology for treating a wide range of diseases, potentially revolutionizing medicine. The review analyzed data from multiple studies and found no serious safety concerns associated with mRNA vaccines, while confirming their high efficacy in preventing severe COVID-19. It also noted that manufacturing scalability has been achieved, paving the way for rapid deployment against future threats.
+Singapore authorities seized a $42 million mansion and froze a $772,000 bank account of four individuals suspected of smuggling Nvidia AI GPUs to China via Singapore as a transshipment hub. The suspects face charges of fraud and money laundering. This enforcement action underscores the tightening of export controls on advanced AI chips to China and highlights Singapore's role as a critical transshipment point. It may deter future smuggling attempts and affect global AI hardware supply chains. The seized mansion is located in Singapore's upscale district, and the frozen account is linked to the alleged smuggling network. Singapore police stated they are not obliged to enforce foreign export controls but expect businesses to comply.
 
-hackernews · coloneltcb · Jul 2, 00:40 · [Discussion](https://news.ycombinator.com/item?id=48754963)
+rss · Tom's Hardware · Jul 2, 11:00
 
-**Background**: mRNA vaccines work by delivering genetic instructions to cells to produce a harmless piece of a virus, training the immune system to recognize and fight the real pathogen. During the COVID-19 pandemic, mRNA vaccines were developed and deployed at unprecedented speed, but concerns about their long-term safety and effectiveness persisted. This review aims to settle those debates with a comprehensive analysis of available evidence.
+**Background**: The U.S. has imposed export controls on advanced AI chips like Nvidia's A100 and H100 to China, citing national security concerns. In response, Nvidia created the A800 for the Chinese market, but smuggling of restricted chips continues. Singapore, as a major transshipment hub, has been used to reroute such goods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/MRNA_vaccine">mRNA vaccine - Wikipedia</a></li>
-<li><a href="https://www.cbc.ca/news/health/mrna-vaccines-lancet-review-9.7254665">mRNA vaccines proved safe and effective during COVID ... | CBC News</a></li>
-<li><a href="https://zocto.in/mrna-vaccine-applications-beyond-covid-19/">mRNA Vaccine Applications Beyond COVID - 19 - Zocto</a></li>
+<li><a href="https://www.bbc.com/news/articles/cx2d9y18g73o">Singapore seizes $42m mansion over Nvidia chip smuggling</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion reflects a mix of support and skepticism. Some commenters highlight the manufacturing scalability achieved, while others question vaccine effectiveness based on personal anecdotes. There is also concern about 'immune amnesia' from measles and the misuse of t-cell tests by vaccine-hesitant individuals.
-
-**Tags**: `#mRNA vaccines`, `#public health`, `#vaccine safety`, `#medical research`
+**Tags**: `#Nvidia`, `#AI hardware`, `#export controls`, `#Singapore`, `#GPU smuggling`
 
 ---
 
 <a id="item-11"></a>
-## [Sedentary Lifestyle Linked to Early Decline in Cellular Energy](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production) ⭐️ 7.0/10
+## [ASML Raises Full-Year Guidance on AI Chip Demand](https://36kr.com/newsflashes/3878342417936640?f=rss) ⭐️ 7.0/10
 
-A new study from the University of Colorado Anschutz Medical Campus found that healthy but sedentary individuals show a significantly decreased capacity of mitochondria to burn both sugar and fat, indicating early cellular aging. This finding suggests that even minimal exercise—about 22 minutes per day—may help prevent mitochondrial decline and reduce the risk of future diseases, offering a low-effort intervention for cellular health. The study involved 19 subjects classified as sedentary or active based on habitual physical activity levels, and all were screened for basic health measures. The results specifically highlighted reduced mitochondrial capacity to process both sugar and fat in sedentary individuals.
+ASML raised its full-year revenue guidance due to surging demand for advanced lithography equipment from AI chip makers, signaling continued expansion of the semiconductor equipment cycle. This upward revision is a key indicator of the semiconductor equipment industry's health, confirming that AI capital expenditure remains in an expansion phase and that advanced process node capacity additions are accelerating. TSMC and Samsung are accelerating the adoption of high-NA EUV lithography machines to meet AI accelerator demand, and equipment delivery lead times are lengthening, reflecting a tight supply-demand balance.
 
-hackernews · littlexsparkee · Jul 1, 22:48 · [Discussion](https://news.ycombinator.com/item?id=48754155)
+rss · 36氪 · Jul 2, 10:13
 
-**Background**: Mitochondria are the powerhouses of cells, responsible for converting nutrients into energy. As we age, mitochondrial function naturally declines, but lifestyle factors like physical inactivity can accelerate this process. The recommended 150 minutes of moderate exercise per week (about 22 minutes daily) is known to support overall health, and this study links it directly to cellular energy production.
+**Background**: ASML is the world's leading supplier of lithography equipment, essential for manufacturing advanced semiconductors. High-NA EUV lithography is a next-generation technology used for 3nm and below nodes, enabling higher chip performance and density. The semiconductor equipment cycle is closely watched as a leading indicator for the broader tech industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.eurekalert.org/news-releases/1134122">Healthy but sedentary individuals show early decline in ... | EurekAlert!</a></li>
-<li><a href="https://www.technologynetworks.com/cell-science/news/healthy-but-sedentary-individuals-show-declining-mitochondrial-function-414192">Sedentary Lifestyle Harms Mitochondrial Health | Technology Networks</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkqfw0418035.shtml">ASML上调全年营收指引，半导体设备产业链景气度确认</a></li>
+<li><a href="https://stock.jrj.com.cn/2026/07/02180957672367.shtml">ASML上调全年营收指引 确认行业景气-金融界</a></li>
+<li><a href="https://www.163.com/dy/article/KN7210I705383ZUN.html">深度丨AI芯片驱动 高 数 值 孔 径 EUV 光 刻 机 时代来临|晶体管| euv _网易订阅</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters raised concerns about the small sample size (19 subjects) and the potential for confounding factors, noting that sedentary and active individuals may differ in unmeasured health aspects. Some also debated the practicality of exercise recommendations, with one user advocating for integrating physical activity into daily life rather than dedicated exercise sessions.
-
-**Tags**: `#health`, `#exercise`, `#mitochondria`, `#longevity`, `#sedentary lifestyle`
+**Tags**: `#ASML`, `#semiconductor`, `#AI chips`, `#lithography`, `#capital expenditure`
 
 ---
 
 <a id="item-12"></a>
-## [Autoresearch: The Feedback Loop Behind Self-Improving Agents](https://www.latent.space/p/autoresearch-introspection) ⭐️ 7.0/10
+## [New Android Malware Discovered by Google](https://www.reddit.com/r/androiddev/comments/1ulcr9k/a_new_android_malware_from_google/) ⭐️ 7.0/10
 
-Introspection co-founder Roland Gavrilescu explains the concept of autoresearch, agent recipes, and self-improving loops, emphasizing that humans remain central to the software factory. This insight is significant because it provides a practical framework for building AI agents that can autonomously improve their own performance, which could accelerate software development and reduce manual effort. The autoresearch concept involves AI agents running automated machine learning research loops, such as training small language models on a single GPU, while agent recipes define structured workflows for self-improvement.
+A new Android malware has been discovered by Google, with discussions on Hacker News and Reddit highlighting its potential impact. This discovery is significant for the Android security community as it may indicate evolving threats that could affect millions of users. The original Reddit post lacks technical details but points to a Hacker News thread for deeper discussion. The malware's specific behavior and distribution methods are not disclosed in the provided content.
 
-rss · Latent Space · Jul 1, 23:52
+reddit · r/androiddev · /u/10ForwardShift · Jul 2, 08:51
 
-**Background**: Autoresearch is an open-source project by Andrej Karpathy that enables AI agents to autonomously conduct ML experiments. Self-improving loops use feedback from evaluations to iteratively refine agent behavior, often with human oversight to ensure alignment.
+**Background**: Android malware refers to malicious software designed to target Android devices, often for data theft, financial fraud, or unauthorized access. Google regularly identifies and mitigates such threats through its Play Protect and security updates.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/karpathy/autoresearch">GitHub - karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically · GitHub</a></li>
-<li><a href="https://www.datacamp.com/tutorial/guide-to-autoresearch">A Guide to Andrej Karpathy’s AutoResearch: Automating ML with AI Agents | DataCamp</a></li>
-<li><a href="https://addyosmani.com/blog/self-improving-agents/">AddyOsmani.com - Self-Improving Coding Agents</a></li>
+**Discussion**: The Reddit post primarily serves as a link to the HN discussion, where users likely analyze the malware's technical aspects and implications. No direct comments are provided in the content.
 
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#self-improving systems`, `#software engineering`, `#autoresearch`
+**Tags**: `#android`, `#malware`, `#security`
 
 ---
 
 <a id="item-13"></a>
-## [Former DJI Scientist's Startup Raises Hundreds of Millions in Four Rounds](https://36kr.com/p/3877830625046535?f=rss) ⭐️ 7.0/10
+## [Opera's Paste Protect Blocks Suspicious Clipboard Commands](https://9to5mac.com/2026/07/02/operas-new-paste-protect-feature-blocks-suspicious-commands-copied-from-websites/) ⭐️ 6.0/10
 
-Silicon Feather Technology (SPARO), founded by former DJI senior scientist Zhang Fu, has completed four consecutive funding rounds totaling hundreds of millions of RMB within six months of its establishment in February 2026. Investors include耀途资本, 锦秋基金, Alibaba, and others. This signals strong investor confidence in truly autonomous aerial intelligence, a shift from traditional drones to intelligent agents that can perceive, decide, and act in complex environments. It could accelerate the commercialization of autonomous drones for logistics, inspection, and other industries. SPARO's technology stack includes multimodal perception, an end-to-end cerebellum for 5ms obstacle avoidance latency, a World Navigation Model brain, and dexterous manipulation and swarm coordination. The company claims centimeter-level localization without GPS and tenfold improvement in computational efficiency.
+Opera has introduced a new security feature called Paste Protect that automatically blocks potentially malicious commands copied from websites to the clipboard and warns users about the threat. This feature addresses clipboard command injection attacks, a growing threat where attackers trick users into pasting malicious code into terminals or other applications, potentially compromising system security. Paste Protect is enabled by default in Opera and works by analyzing clipboard content for suspicious patterns before allowing the paste operation.
 
-rss · 36氪 · Jul 2, 01:33
+rss · 9to5Mac · Jul 2, 08:00
 
-**Background**: Traditional drones are primarily remote-controlled tools for observation, lacking true autonomy. SPARO aims to create aerial agents that can understand environments, make decisions, and physically interact with the world, such as grasping or repairing. The founder, Zhang Fu, is a top robotics scholar and former DJI senior scientist with deep expertise in SLAM and drone systems.
+**Background**: Clipboard command injection attacks involve attackers embedding malicious commands in text on websites, which users may copy and paste into a terminal or command prompt, inadvertently executing the commands. This technique has been used to distribute malware, including clipboard injectors targeting cryptocurrency wallets. Opera's Paste Protect aims to prevent such attacks by intercepting the copy operation.
 
-**Tags**: `#aerial intelligence`, `#robotics`, `#funding`, `#autonomous drones`, `#startup`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blogs.opera.com/news/2026/07/opera-introduces-paste-protect-to-keep-you-safe-from-clipboard-attacks/">Opera protects you from Clipboard attacks- Blog | Opera News</a></li>
+<li><a href="https://blogs.opera.com/security/2026/07/how-opera-paste-protect-guards-against-clipboard-attacks/">Here’s how Opera ’s Paste Protect guards you... | Opera Security</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#browser`, `#clipboard`, `#Opera`
 
 ---
 
 <a id="item-14"></a>
-## [OpenAI Proposes 5% Equity to US Government for Policy Support](https://36kr.com/newsflashes/3877987962187784?f=rss) ⭐️ 7.0/10
+## [Apple Ramps Foldable iPhone Production to 10M Units](https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/) ⭐️ 6.0/10
 
-OpenAI has initiated preliminary discussions with the US government, proposing to grant approximately 5% equity to the government in exchange for support for AI industry development and to ease regulatory and political resistance. This proposal represents a novel approach to AI governance, potentially setting a precedent for how AI companies share economic benefits with the public and shape regulation. If adopted, it could influence global AI policy and public trust in AI. OpenAI CEO Sam Altman suggested that major US AI companies each contribute about 5% equity into a public investment vehicle similar to the Alaska Permanent Fund, which would be held by the government and benefit the public.
+Apple has increased its foldable iPhone production forecast to 10 million units for 2026, up from a previous estimate of 7-8 million, and has resolved hinge engineering issues, with mass production set to begin in late July. This production ramp signals strong demand and supply chain readiness for Apple's first foldable device, potentially reshaping the premium smartphone market and putting pressure on rivals like Samsung and Huawei. The foldable iPhone, rumored to be called 'iPhone Ultra,' features a 7.8-inch inner display, 5.5-inch cover display, Touch ID, A20 chip, and Apple's C2 modem, with an expected average selling price of $2,500.
 
-rss · 36氪 · Jul 2, 04:28
+rss · MacRumors · Jul 2, 09:59
 
-**Background**: The Alaska Permanent Fund, established in 1976, is a state-owned investment fund that distributes annual dividends to Alaska residents from oil revenues. OpenAI's proposal draws inspiration from this model to share AI's economic benefits broadly. OpenAI has previously restructured its equity to attract private investment while maintaining its mission.
+**Background**: Foldable smartphones use a flexible display that can bend, allowing a device to have a larger screen while remaining compact. Apple has been rumored to be developing a foldable iPhone for years, and this production ramp indicates the device is nearing launch.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.worldjournal.com/wj/story/121172/9034417">阿 拉 斯 加 將發放年度股息 符資格州民可收到1000元 | 世界新聞網</a></li>
-<li><a href="https://beginneros.com/triviaDetail.php?trivia_id=492">【世界冷知識】每年派糖的 阿 拉 斯 加 永 久 基 金 - Beginneros</a></li>
-<li><a href="https://www.10100.com/article/112420860">一文读懂 OpenAI ...</a></li>
+<li><a href="https://www.isaiahresearch.com/Insight/Detail/118">2026 iPhone Forecast: 270M Units Driven by iPhone 17 & Foldables</a></li>
+<li><a href="https://www.techtimes.com/articles/319001/20260625/apple-start-foldable-iphone-mass-production-july-hinge-issue-eases.htm">Apple To Start Foldable IPhone Mass Production In July As ...</a></li>
+<li><a href="https://nova.kapualabs.com/aapl-sys_onboarding/apples-foldable-iphone-supply-chain-analysis-from-22m-panels-to-10m-units/">Apple's Foldable iPhone Supply Chain Analysis: From 22M ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI`, `#AI regulation`, `#government equity`, `#public benefit`, `#AI policy`
+**Tags**: `#Apple`, `#foldable iPhone`, `#production`, `#smartphone`
 
 ---
 
 <a id="item-15"></a>
-## [Bending Spoons surges 40% on IPO day, defying SaaS slump](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) ⭐️ 7.0/10
+## [Meta rents out old GPUs, not giving up high-end AI chips](https://36kr.com/newsflashes/3878343236759558?f=rss) ⭐️ 6.0/10
 
-Bending Spoons, an Italian tech conglomerate, surged 40% on its first day of trading, defying the broader SaaS market downturn. This successful IPO signals investor confidence in Bending Spoons' unique strategy of acquiring and reviving legacy tech brands, potentially reshaping M&A trends in the tech industry. The company has grown rapidly by acquiring and revamping last-generation tech brands such as AOL, Eventbrite, Evernote, Meetup, and Vimeo.
+Meta is planning to launch a cloud computing business that rents out computing power, including both model capabilities and raw compute, but this is primarily to monetize older hardware like H-series GPUs while continuing to invest heavily in cutting-edge AI infrastructure. This strategy clarifies that Meta is not stepping back from the AI arms race; instead, it is optimizing resource allocation by using older GPUs for inference and external rentals while still acquiring the latest high-end GPUs for training frontier models. Meta signed a deal with Crusoe Energy to secure about 1.6 GW of AI computing capacity from data centers in Texas and Missouri, and raised its 2026 Q1 full-year capital expenditure guidance to $125-145 billion.
 
-rss · TechCrunch · Jul 1, 22:47
+rss · 36氪 · Jul 2, 10:14
 
-**Background**: Bending Spoons is an Italian technology conglomerate founded in 2013, based in Milan. It typically acquires products with existing product-market fit and manages them for long-term ownership, evolving from a failed startup into Europe's most sophisticated digital acquisition platform with over $1.2 billion in revenue.
+**Background**: Meta, like other tech giants, needs massive GPU clusters to train and run large AI models. High-end GPUs like NVIDIA's H100 are in short supply and expensive, while older GPUs can still handle inference tasks. By renting out older hardware, Meta can generate revenue to offset costs without slowing its acquisition of the latest chips.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bending_Spoons">Bending Spoons - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/pulse/bending-spoons-acquisition-strategy-wetransfer-case-nicola-verrini-uts8f">Bending Spoons ' acquisition strategy : the WeTransfer case</a></li>
-<li><a href="https://globaltalent.co/gtc-podcasts/from-10k-to-500m-deals-bending-spoons-acquisition-playbook/">From $10K to $500M Deals: Bending Spoons ' Acquisition Playbook</a></li>
+<li><a href="https://aicrisis.org/data-centers/crusoe-energy">Crusoe Energy AI Data Centers | AI Crisis</a></li>
+<li><a href="https://siliconangle.com/2024/12/12/ai-focused-data-center-startup-crusoe-raises-600m-2-8b-valuation/">AI -focused data center startup Crusoe raises... - SiliconANGLE</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SaaS`, `#IPO`, `#Tech M&A`, `#Business Strategy`
+**Tags**: `#Meta`, `#cloud computing`, `#AI infrastructure`, `#GPU`, `#strategy`
 
 ---
 
 <a id="item-16"></a>
-## [Apple and Epic Agree to Pause App Store Case for Supreme Court](https://9to5mac.com/2026/07/01/apple-to-ask-court-to-halt-epic-games-proceedings-pending-supreme-court-ruling/) ⭐️ 6.0/10
+## [Amazon to Accelerate Custom AI Chips for Devices](https://36kr.com/newsflashes/3878316422656001?f=rss) ⭐️ 6.0/10
 
-Apple and Epic Games have jointly agreed to ask the court to temporarily halt proceedings in their App Store antitrust dispute while Apple seeks a stay pending a Supreme Court ruling on its appeal. This procedural move could delay a final resolution of the high-profile antitrust case, affecting developers and consumers who await clarity on App Store payment policies and commission structures. The agreement to pause proceedings is conditional on Apple's request for a stay being granted by the lower court; if denied, the case may proceed as scheduled.
+Amazon's hardware chief announced plans to accelerate the development of custom AI chips for consumer devices like Echo Show and Fire TV, enabling local execution of AI models. This follows the launch of AZ3 and AZ3 Pro chips in October 2025. This move signals Amazon's strategic push to bring AI processing to the edge, reducing reliance on cloud services and improving privacy, latency, and offline capabilities. It could intensify competition in the edge AI chip market, affecting rivals like Google and Apple. The AZ3 and AZ3 Pro chips feature an on-device AI accelerator designed to run AI models locally, powering new Echo devices with Alexa+. Amazon's custom chip strategy is part of a broader effort to enhance on-device AI performance across its product lineup.
 
-rss · 9to5Mac · Jul 2, 01:52
+rss · 36氪 · Jul 2, 09:47
 
-**Background**: The Apple-Epic Games lawsuit began in 2020 when Epic challenged Apple's in-app payment requirements as anticompetitive. The case has gone through multiple rulings, with the Supreme Court recently agreeing to hear Apple's appeal on certain antitrust issues.
-
-**Tags**: `#Apple`, `#Epic Games`, `#App Store`, `#antitrust`, `#legal`
-
----
-
-<a id="item-17"></a>
-## [KeliDian Tech Secures Funding for AI Elderly Care Robots](https://36kr.com/p/3877863381741577?f=rss) ⭐️ 6.0/10
-
-Shenzhen-based KeliDian Tech has completed a strategic funding round led by Leaguer Innovation to develop AI+robotics products for elderly care, including a rehabilitation transfer robot co-developed with West China Hospital. This funding highlights growing investment in the silver economy, as China's elderly care market is projected to exceed 30 trillion yuan by 2035. The robots aim to address critical needs in home and institutional care for the aging population. The GR-150 rehabilitation transfer robot uses high-precision SLAM and multi-sensor fusion for autonomous indoor navigation, and the companion robot features health monitoring, fall detection, and multimodal emotion recognition. The company plans to finalize product design by Q3 2026 and start mass production in Q4 2026.
-
-rss · 36氪 · Jul 2, 02:07
-
-**Background**: SLAM (Simultaneous Localization and Mapping) is a core technology that enables robots to build a map of an unknown environment while tracking their own location within it. Multi-sensor fusion combines data from multiple sensors (e.g., lidar, cameras, radar) to improve accuracy and reliability. In China, Class II medical device registration is required for moderate-risk devices, involving review by provincial drug administration authorities.
+**Background**: Edge AI refers to running artificial intelligence algorithms on local devices rather than in the cloud, enabling faster response times and better privacy. Amazon has been developing custom silicon for years, starting with AWS Inferentia for cloud, and now extending to consumer devices with the AZ3 series.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.researching.cn/ArticlePdf/m00002/2026/63/8/0800001.pdf">激光与视觉 SLAM 的算法综述</a></li>
-<li><a href="https://linpowave.com/zh-Hans/blog/multi-modal-sensor-fusion-revolutionizing-autonomous-driving">多 模态 传 感 器 融 合 ，实现更安全的驾驶 | Ningbo Linpowave</a></li>
-<li><a href="https://c.m.163.com/news/a/JVUGTK8M0514CJ09.html">一文读懂 医 疗 器 械 注 册 编号：产地、风险等级全解析</a></li>
+<li><a href="https://futurumgroup.com/insights/amazons-az3-chips-help-advance-voice-first-ai-agentic-ux/">Amazon’s AZ3 Chips Help Advance Voice-First AI Agentic UX - Futurum</a></li>
+<li><a href="https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus">Amazon's Echo Dot Max and Echo Studio, built for Alexa+, now available</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI+Robotics`, `#Elderly Care`, `#Healthcare Robotics`, `#Funding`
+**Tags**: `#Amazon`, `#AI chips`, `#edge AI`, `#consumer devices`
 
 ---
