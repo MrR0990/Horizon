@@ -5,7 +5,7 @@ date: 2026-07-02
 lang: zh
 ---
 
-> 从 282 条内容中筛选出 41 条重要资讯。
+> 从 285 条内容中筛选出 36 条重要资讯。
 
 ---
 
@@ -15,595 +15,481 @@ lang: zh
 
 - [庄子对精英制度的批判](https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy) ⭐️ 9.0/10
 
-  > Aeon 上的一篇文章借鉴古代道家哲学家庄子的思想，论证了“白手起家”的概念是一种幻觉，从而削弱了精英制度的核心信念。 这一哲学视角挑战了科技等行业中根深蒂固的假设——成功完全源于个人才能，可能重塑关于公平和社会正义的讨论。 该文由 Christine Abigail L Tan 撰写，发表在思想类数字杂志 Aeon 上。文章运用了公元前 4 世纪道家经典《庄子》中的故事和概念。
+  > 一篇发表在 Aeon 上的文章引用中国古代哲学家庄子的思想，指出“白手起家”这一概念是有缺陷且傲慢的，因为成功依赖于无数超出个人控制的外部因素。 这挑战了精英社会中根深蒂固的假设，尤其是在科技和商业领域，这些领域常将成功完全归因于个人努力和才能。 该文章由 Christine Abigail L Tan 撰写，发表在思想与文化数字杂志 Aeon 上。它利用庄子的哲学论证运气、社会背景等外部因素在成功中起着关键作用。
 
-- [人造岩石挑战地质学边界](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
+- [人造岩石重新定义地质学](https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us) ⭐️ 9.0/10
 
-  > 约翰·麦克唐纳在 Aeon 杂志的文章探讨了人类活动如何创造出新型岩石，如塑料砾岩和技术化石，这些岩石模糊了自然与人工的界限，将地质学扩展至人类世地质学领域。 这挑战了岩石的传统定义，并开辟了一个新的研究领域——人类世地质学，对理解人类世时代和人类持久的地质遗产具有重要意义。 文章介绍了诸如“技术化石”（人类技术的地质证据）和“塑料砾岩”（由熔化的塑料和天然沉积物形成的岩石）等概念，这些并非自然形成，但正成为地球地层的一部分。
+  > 约翰·麦克唐纳的一篇文章探讨了人类活动如何创造新型岩石，如塑料团块和技术化石，这些岩石模糊了自然与人工的界限，拓展了地质学的范畴。 这挑战了地质学的传统界限，引入了人类世地质学的概念，凸显了人类对地质的持久影响以及我们活动在岩石记录中隐藏的痕迹。 塑料团块是塑料熔化后与沙子、贝壳等天然材料融合形成的岩石，而技术化石则包括所有可能成为化石的人造物体，从混凝土到电子产品。
 
-- [尼克·兰德的加速主义：无人的未来](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
+- [尼克·兰德的加速主义：后人类未来的黑暗愿景](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) ⭐️ 9.0/10
 
-  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学认为资本主义和技术将不可避免地超越人类控制，导致一个后人类世界。 这一哲学挑战了技术乐观主义与人类能动性，影响了极右翼和左翼思想家，并为理解人工智能、自动化和资本主义动态提供了黑暗视角。 兰德的加速主义植根于控制论和反人类主义，将资本主义视为一个自主、自我强化的机器，最终将消灭人类。文章澄清了兰德看似矛盾的立场如何源于对人性自恋的一贯批判。
+  > Vincent Lê在 Aeon 上发表的文章探讨了尼克·兰德的加速主义哲学，该哲学将技术进步视为一种不可控的力量，可能导致后人类未来，并讨论了它对恐怖分子和科技企业家的影响。 加速主义虽然边缘，但已影响极右翼极端分子和硅谷技术乐观主义者，因此成为理解当代关于技术、社会和人类未来辩论的关键概念。 英国哲学家尼克·兰德在 1990 年代通过华威大学的控制论文化研究小组（CCRU）推广了加速主义。他的作品偏离学术惯例，融入神秘影响，并否认与极右翼“黑暗启蒙”运动的关联。
 
-- [玛丽·萨普：绘制海底地图的艺术家](https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/) ⭐️ 9.0/10
+- [玛丽·萨普的地图解开了大陆漂移之谜](https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/) ⭐️ 9.0/10
 
-  > 《边缘》杂志的一篇文章讲述了玛丽·萨普如何运用她的艺术技巧，绘制出第一张详细的海底地图，揭示了大西洋中脊，并为板块构造理论提供了关键证据。 萨普的工作从根本上改变了我们对地球地质的理解，证实了大陆漂移和板块构造，她的故事凸显了科学界中被忽视的女性贡献。 萨普花了数年时间调配颜料，为她的地图调制出完美的蓝色色调，她发现大西洋中脊最初遭到质疑，后来才被接受为一项突破。
-
----
-
-## 💰 财富与复利
-
-- [有用比富有更重要](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 9.0/10
-
-  > 一篇关于 41 岁男子提前退休、拥有 200 万美元流动资产却每天吸食大麻并玩电子游戏的 Reddit 帖子引发热议。文章认为，有用和投入比单纯的财富更具吸引力，并引用了进化心理学研究。 这挑战了 FIRE（财务独立，提前退休）运动认为仅靠财务安全就能带来满足感的假设，强调了积累社交和目的资本的必要性。它影响着所有追求提前退休或重新思考生活优先事项的人。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，但他的妻子因他每天沉迷游戏而称他为“失败者”。文章指出，资源本身并不能赢得尊重，获取资源的方式和用途更为重要。
-
-- [相同大学相同学位，贫困生收入仍低 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
-
-  > 麻省理工学院教授 Anna Stansbury 的一项新研究表明，来自贫困背景的学生在毕业十年后收入仍比富裕同龄人低 7%，即使他们拥有相同的学位、大学、专业和成绩。 这一发现挑战了“仅凭教育就能实现机会均等”的假设，揭示了社会经济背景通过人脉、导师等非学术因素持续放大优势。 该研究基于覆盖 3000 万学生的 NBER 数据，显示即使控制大学类型，父母收入仍与子女收入相关，非精英四年制大学的斜率为 0.095。
+  > 一篇散文讲述了玛丽·萨普如何通过细致绘制海底地图，发现了大洋中脊系统，为大陆漂移和板块构造提供了关键证据。 萨普的工作从根本上改变了我们对地球结构的理解，证实了大陆在移动以及海底扩张，这对现代地质学和地球物理学至关重要。 大洋中脊系统是一条绵延 65,000 公里的连续水下山脉，是构造板块分离和新生洋壳形成的地方。萨普的地图最初遭到质疑，尤其是来自她的男性同事。
 
 ---
 
 ## 🧠 AI 学习
 
-- [上下文窗口不等于记忆：AI 智能体设计洞见](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
+- [上下文窗口不等于记忆：AI 代理开发须知](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) ⭐️ 8.0/10
 
-  > 文章阐明，大语言模型中的大上下文窗口并不等同于智能体记忆，并介绍了检索和压缩等技术，用于 AI 智能体的有效记忆管理。 这一区别对 AI 智能体开发者至关重要，因为仅依赖上下文窗口会导致会话受限、成本高昂且信息嘈杂的记忆，而正确的记忆技术能够实现跨会话的持久、可扩展和可操作的知识。 文章可能讨论了上下文窗口是临时的且限于单个会话，而智能体记忆涉及写入-管理-读取循环，包括修剪、压缩和整合，正如近期研究所强调的。
+  > 文章澄清了 AI 代理中的大上下文窗口并不等同于代理记忆，并介绍了检索、压缩和摘要等技术以实现有效的记忆管理。 这一区别对 AI 代理开发者至关重要，因为仅依赖上下文窗口会导致高成本和低可扩展性，而正确的记忆技术能实现跨会话的持久、高效代理行为。 文章强调了检索增强生成（RAG）、检索后压缩以及记忆压缩引擎（如 Mem0）等技术，作为在不使上下文窗口过载的情况下管理代理记忆的实用方案。
 
 - [训练循环 PPO 进行动态杂货定价](https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 文章详细介绍了在模拟市场中训练循环 PPO 代理进行动态杂货定价的实践，该市场包含心理特征不同的购物者，在未见过的产品上实现了比启发式基线两位数的改进。 这项工作表明，强化学习可以从仅即时利润奖励中学习复杂的定价策略——平衡即时利润、客户留存和未来价格预期——为零售中的个性化定价提供了一种可扩展的方法。 代理使用循环 PPO 架构来处理购物者心理的部分可观测性，模拟包含 5 个类别共 25 种产品，具有不同的保质期和利润率，并分为训练/验证/测试集。
+  > 文章详细介绍了如何训练一个循环 PPO 代理在模拟杂货市场中设置个性化折扣，在未见过的产品上实现了比手动调优启发式方法两位数的改进。 这项工作表明，强化学习能够仅从即时利润奖励中学习管理利润、留存和损耗等复杂权衡，为现实世界的动态定价提供了一种可扩展的方法。 该代理使用带有 LSTM 的循环 PPO 架构来处理部分可观测性，并在包含五个类别 25 种产品的模拟环境中训练，模拟了具有不同心理特征的购物者群体。
 
-- [使用本地开源模型作为编码代理](https://magazine.sebastianraschka.com/p/using-local-coding-agents) ⭐️ 7.0/10
+- [医疗 AI 需要分布外检测以确保安全](https://pub.towardsai.net/when-medical-ai-encounters-the-unknown-out-of-distribution-detection-ood-in-clinical-decision-c7dacae21bdf?source=rss----98111c9905da---4) ⭐️ 8.0/10
 
-  > 文章探讨了如何在本地使用开源模型作为编码代理，为 Claude Code 和 Codex 等订阅制工具提供了实用的替代方案。 这很重要，因为它减少了对昂贵订阅和云依赖的依赖，让开发人员对自己的编码工作流拥有更多控制权和隐私保护。 文章包含实现细节以及与商业工具的对比，突出了在性能、成本和设置便捷性方面的权衡。
+  > 本文解释了为什么分布外检测（OOD）对医疗 AI 系统至关重要，并以胸部 X 光片为例，说明模型因分布偏移而自信地误诊。 没有 OOD 检测，医疗 AI 可能会对不熟悉的数据做出自信但错误的预测，危及患者安全。这对于在不同临床环境中安全部署至关重要。 文章强调了监督学习中的封闭世界假设，以及分布偏移（如不同患者群体、成像设备）如何导致失败。OOD 检测可识别输入何时与训练数据不同。
 
-- [LLM 嵌入与 HDBSCAN 用于文本聚类](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
+- [教程：使用 LLM 嵌入和 HDBSCAN 聚类文本](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) ⭐️ 7.0/10
 
-  > 一篇教程展示了如何通过结合 LLM 嵌入与 HDBSCAN 算法对非结构化文本进行聚类，涵盖了从嵌入生成到聚类分析的完整流程。 这种方法使从业者能够在不指定聚类数量的情况下对文本进行基于密度的聚类，利用 LLM 嵌入的语义丰富性实现更有意义的分组。 HDBSCAN 通过变化 epsilon 值并识别稳定聚类来扩展 DBSCAN，使其适用于密度变化的真实文本数据。教程包含生成嵌入和应用 HDBSCAN 的代码示例。
+  > 一篇教程展示了如何将 LLM 嵌入与 HDBSCAN 聚类算法结合，对非结构化文本数据进行分组，超越了典型的基于聊天的 LLM 应用。 这种方法无需手动标注即可实现实用的文本挖掘和文档组织，扩展了 LLM 在数据分析任务中的实用性。 该教程使用 LLM 生成的嵌入将文本转换为数值向量，然后应用 HDBSCAN——一种基于密度的聚类算法，能够处理不同密度并识别噪声点。
 
-- [医疗 AI 需要分布外检测来保障安全](https://pub.towardsai.net/when-medical-ai-encounters-the-unknown-out-of-distribution-detection-ood-in-clinical-decision-c7dacae21bdf?source=rss----98111c9905da---4) ⭐️ 7.0/10
+- [用 GitLab 和 Qwen3-Coder 构建本地 AI 代码审查代理](https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4) ⭐️ 7.0/10
 
-  > 本文解释了为什么分布外检测（OOD）对医疗 AI 系统至关重要，并以一个胸部 X 光模型为例，展示了模型在新医院部署后无声失效的情况。 OOD 检测可防止 AI 对不熟悉的数据做出自信但错误的预测，这对于安全的临床部署和患者信任至关重要。 文章强调了监督学习中的封闭世界假设，以及分布偏移（例如不同的患者群体、成像设备）如何导致无预警的失败。
+  > 一篇实用指南展示了如何使用 GitLab CI/CD、LangGraph、Ollama 和 Qwen3-Coder-30B 构建完全本地的 AI 代码审查流水线，确保专有代码永不离开企业网络。 该方法通过在不将敏感代码发送到云端 API 的情况下实现 AI 代码审查，解决了关键的企业隐私问题，这对于受严格知识产权和法规约束的汽车、金融科技和嵌入式系统等行业至关重要。 该流水线使用 Qwen3-Coder-30B，配备 64K 上下文窗口和 8K 生成长度，在单张 RTX 3090 GPU 上以 100-110 tokens/秒的速度运行，并设置 360 秒超时以确保鲁棒性。LangGraph 编排了一个自纠正的审查循环，GitLab Runner 在本地网络上执行 CI 作业。
 
 ---
 
 ## ✍️ 表达提升
 
-- [比尔·格利谈心智模型与系统思维](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
+- [比尔·格利分享改善思维的思维模型](https://fs.blog/knowledge-project-podcast/bill-gurley/) ⭐️ 8.0/10
 
-  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利做客《知识项目》播客，讨论了改善决策的心智模型，包括系统思维和二阶效应。 格利在华尔街、风险投资和复杂性科学领域的见解提供了罕见的跨领域视角，能帮助任何领域的专业人士提升推理能力，避免常见认知陷阱。 该集涵盖了系统思维、二阶和三阶效应等心智模型，以及理解领域基石与前沿的重要性。格利还借鉴了他在圣塔菲研究所（研究复杂适应系统）的经验。
+  > Benchmark 合伙人、圣塔菲研究所董事会成员比尔·格利做客 Farnam Street 知识项目播客，分享其金融、科技和复杂性科学职业生涯中的思维模型。 本期节目提供了一位在华尔街、风险投资和复杂性科学领域拥有深厚经验的实践者的可操作见解，帮助听众改善思维方式。 该播客可在 YouTube、Spotify、Apple Podcasts 上收听，并提供文字稿；格利的背景涵盖康柏电脑的工程工作、Benchmark 的风险投资以及圣塔菲研究所的复杂性研究。
 
-- [表现心理学家揭示释放潜能的思维模式](https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/) ⭐️ 7.0/10
+- [表现心理学家揭示释放全部潜能的心态](https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/) ⭐️ 7.0/10
 
-  > 顶尖表现心理学家 Gio Valiante 博士分享了关于思维模式、自信和恐惧如何决定人们能否发挥全部潜能的见解，他曾指导过 Steve Cohen 和 Rory McIlroy。 这场讨论提供了可操作的心理原则，能帮助从体育到商业等高风险领域的人克服心理障碍，实现持续卓越。 这期播客时长 90 分钟，涵盖了为什么大多数人无法发挥潜能、自信和恐惧如何影响表现，以及高成就者与停滞不前者的区别。
+  > 顶尖表现心理学家 Gio Valiante 博士在一期 90 分钟的播客节目中分享了关于心态、自信和恐惧的见解，他曾指导过 Steve Cohen 和 Rory McIlroy。 这期节目提供了一位世界级专家的实用策略，帮助人们克服心理障碍并实现最佳表现，对专业人士、运动员以及任何寻求个人成长的人都有价值。 该播客由 Farnam Street 主持，时长 90 分钟，探讨了为什么大多数人从未发挥出潜力，以及自信和恐惧如何影响表现。
 
-- [RiseGuide 创始人谈专家主导的自我提升计划](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 5.0/10
+- [如何修复和滋养你的肠道 | 朱莉娅·恩德斯博士](https://fs.blog/knowledge-project-podcast/dr-giulia-enders/) ⭐️ 4.0/10
 
-  > Ness Labs 发布了对 RiseGuide 创始人 Oleksandr Matsiuk 的采访，RiseGuide 是一款专家驱动的应用，基于顶尖专家的见解提供个性化的自我提升计划。 这次采访突显了专家主导、结构化的自我提升工具日益增长的趋势，这些工具旨在使个人成长更具可操作性和可靠性，可能影响人们对待技能发展和习惯养成的方式。 RiseGuide 为改善魅力或社交媒体形象等各种目标提供个性化计划，每个旅程都基于专家见解并包含实用步骤。该应用旨在将专家知识转化为简单、可操作的日常步骤。
+  > 医生兼微生物组研究员朱莉娅·恩德斯博士在 Farnam Street 的播客节目中讨论了肠道如何影响消化、免疫、情绪和整体健康。 这次对话凸显了肠道在健康中核心作用的日益认可，提供了可能帮助人们通过饮食和生活方式改善健康的见解。 这一集涵盖了肠道微生物组、肠脑轴以及修复和滋养肠道的实用技巧等主题。恩德斯博士是畅销书《肠道：我们身体最被低估的器官的内幕故事》的作者。
+
+- [RiseGuide 创始人谈专家驱动的自我提升](https://nesslabs.com/riseguide-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=riseguide-featured-tool) ⭐️ 4.0/10
+
+  > Ness Labs 发布了与 RiseGuide 创始人 Oleksandr Matsiuk 的访谈，RiseGuide 是一款专家驱动的自我提升应用，基于顶尖专家的见解提供个性化的每日课程。 此次访谈突显了专家主导的微学习应用日益增长的趋势，旨在使自我提升成为习惯且易于实现，可能改变人们进行个人发展的方式。 RiseGuide 提供沟通、自信与魅力、智力与记忆等路径，每节课以实用练习结束，如框架、脚本或可重复的实践。
 
 ---
 
 ## 🧬 人性与行为
 
-- [用概率模型表示心智中的概念](https://www.lesswrong.com/posts/5eLTqijAoG5sfGPTC/modeling-concepts-probabilistically) ⭐️ 8.0/10
+- [被了解是感受到爱的关键](https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/) ⭐️ 8.0/10
 
-  > 本文解释了为什么 John Wentworth 和 David Lorell 使用概率建模和潜变量来数学化地表示智能体心智中的概念，从而在低层生物细节与高层哲学框架之间架起桥梁。 该框架为理解概念表示提供了严格的数学基础，这对 AI 对齐和认知科学至关重要，因为它允许精确推理智能体如何形成和使用抽象概念。 作者澄清说，Wentworth 并非声称智能体真的进行贝叶斯推理；相反，概率模型是对即使是像大肠杆菌这样简单的智能体也有用的近似，因为它们是在选择压力下进化的。
+  > 研究人员 Sonja Lyubomirsky 和 Harry Reis 基于七年的幸福与关系合作研究提出，感受到爱需要被他人了解。 这一见解挑战了关于爱的常见误解，并提供了一条基于科学的通往更大幸福的路径，强调了关系中相互理解的重要性。 一项对近 2000 名美国成年人的调查发现，许多人难以确定如何让自己感受到更多爱，这通常源于错误信念，例如“只要我更有吸引力、更有权力或更成功”。
 
-- [AI 福利研究需要基础科学](https://www.lesswrong.com/posts/ht8uMbAByDCKWHa9H/ai-welfare-research-needs-basic-science) ⭐️ 8.0/10
+- [自助元分析揭示维生素 D 试验弱点](https://www.lesswrong.com/posts/hQMGefhNdgTkDkPkQ/do-it-yourself-meta-analysis) ⭐️ 8.0/10
 
-  > 一篇来自 MATS 9.0 参与者的 LessWrong 文章认为，AI 福利研究应从自上而下的理论驱动方法转向自下而上的经验基础科学方法。作者批评了当前从道德患者地位理论（如意识）出发并将其应用于 AI 系统的方法。 这很重要，因为 AI 福利研究正受到 Anthropic 等主要实验室的关注，所采用的方法可能影响 AI 系统是否获得道德考虑。有缺陷的自上而下方法可能导致 AI 系统作为道德患者的过度或不足纳入，产生重大的伦理和实践后果。 文章指出自上而下方法的两个主要问题：将理论应用于 AI 需要难以证明的假设，且当前针对人类校准的理论对 AI 而言要么过度包容、要么包容不足、要么不确定。作者主张采用理论启发而非理论驱动的经验工作，不预设道德患者地位理论。
+  > Dynomight 的分析表明，维生素 D 补充剂的元分析可能统计功效不足，因为许多试验纳入了基线维生素 D 水平已充足的参与者，掩盖了真实效果。对四项基线维生素 D 较低的试验进行的快速元分析发现，所有四项都指向降低死亡率，尽管单独来看并不具有统计显著性。 这一见解挑战了维生素 D 补充剂无效的普遍结论，揭示了元分析中常见的方法学缺陷。它强调了在试验设计和解释中考虑基线营养状况的重要性，对营养研究和公共卫生指南具有启示意义。 Dynomith 使用符号检验和 Fisher 方法合并了四项试验（Trivedi、WHI、Lyons、RECORD）的结果，这些试验的参与者基线维生素 D 水平较低。所有四项试验的全因死亡率比值比均低于 1，但置信区间跨越 1；符号检验的合并 p 值为 12.5%，不显著。
 
 ---
 
 ## 📜 历史的节律
 
-- [罗马撤军为盎格鲁-撒克逊崛起铺路](https://www.historyextra.com/membership/how-did-the-anglo-saxons-triumph-in-britain-you-can-blame-it-on-the-romans/) ⭐️ 8.0/10
+- [罗马崩溃为盎格鲁-撒克逊崛起铺路](https://www.historyextra.com/membership/how-did-the-anglo-saxons-triumph-in-britain-you-can-blame-it-on-the-romans/) ⭐️ 8.0/10
 
-  > 尼克·海厄姆的文章指出，罗马从不列颠撤军造成了权力真空，直接促成了盎格鲁-撒克逊人的迁徙和新王国的形成，重塑了不列颠的政治和文化格局。 这一历史分析提供了关于帝国撤军、分裂和迁徙后果的可迁移教训，与现代国家失败和权力更迭有相似之处。 文章记述了罗马统治崩溃后的动荡时期，聚焦于日耳曼部落如何建立王国，以及权力真空如何导致文化和政治变革。
+  > 这一分析提供了关于帝国崩溃如何引发迁徙和国家形成的可迁移教训，与现代地缘政治变化和权力真空有相似之处。 文章聚焦于公元 410 年左右罗马撤离后的时期，强调盎格鲁-撒克逊人的迁徙并非单一入侵，而是在数十年间逐步进行的过程，得益于中央集权罗马权威的缺失。
 
-- [乔治亚时代同性恋男子用成人收养替代婚姻](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 7.0/10
+- [乔治亚时代同性恋男子用成人收养作为婚姻漏洞](https://www.historyextra.com/period/georgian/adult-adoption-attitudes-toward-sexuality/) ⭐️ 8.0/10
 
-  > 在乔治亚时代的英格兰，一些同性恋男子通过合法收养成年伴侣来建立法律纽带并确保继承权，这种做法早于 1980 年代艾滋病危机期间的类似策略。 这一历史模式揭示了 LGBTQ+群体长期以来如何利用法律漏洞来保护他们的关系和财产，突显了与现代争取婚姻平等和法律认可的斗争的相似之处。 乔治亚时代英格兰的成人收养是一种法律机制，允许一名成年人收养另一名成年人，从而产生继承权和近亲属地位。后来在艾滋病危机期间，同性伴侣也采用这种做法来确保医院探视权和继承权。
+  > 在乔治亚时代的英格兰，一些同性恋男子通过合法收养成年恋人，来正式化同性关系并保障继承权，因为当时同性婚姻是非法的。 这一历史实践揭示了 LGBTQ+群体如何创造性地适应法律限制，预示了现代关于婚姻平等和同性伴侣法律认可的辩论。 成人收养允许被“收养”的伴侣继承财产并被认定为近亲，从而绕过了禁止同性婚姻和非亲属间继承的法律。
+
+---
+
+## 💰 财富与复利
+
+- [贫困学生即使获得相同学位仍少赚 7%](https://ofdollarsanddata.com/why-poorer-students-earn-less-even-with-the-same-degree/) ⭐️ 8.0/10
+
+  > 一项涵盖超过 3000 万学生的研究发现，来自贫困背景的毕业生在毕业十年后仍比富裕同龄人少赚 7%，即使他们就读同一所大学、获得相同学位且成绩相同。 这挑战了教育本身就能实现机会均等的假设，揭示了社会经济优势在学业成就之外持续累积，并影响长期收入。 即使在控制大学类型、学位和成绩后，收入差距依然存在；非精英四年制大学的斜率为 0.095，表明在同一类院校内，父母收入仍与子女收入相关。
+
+- [有用比富有更有吸引力](https://ofdollarsanddata.com/being-useful-is-more-attractive-than-being-rich/) ⭐️ 8.0/10
+
+  > 一篇关于一位 41 岁男性提前退休、拥有 200 万美元流动资产却每天吸食 THC 并玩电子游戏的 Reddit 帖子引发了对 FIRE 运动的讨论。文章认为，没有目标的财务独立可能导致空虚，有用比富有更有吸引力。 这挑战了 FIRE 运动的核心叙事，该运动通常强调财务积累而非人生目标。它表明，在人际关系中，尊重和吸引力更多地取决于抱负和有用性，而非单纯的财富，这对任何追求提前退休的人都有启示。 该男子拥有 200 万美元流动资产、65 万美元退休金和每年 7.5 万美元的版税收入，资产年收益 12.5 万美元。他的妻子是一名学校教师，发现他吸食大麻并玩 GTA 后称他为“失败者”，这在 Reddit 的 r/Fire 社区引发了热议。
 
 ---
 
 ## 📰 技术资讯
 
-1. [Safari MCP 服务器让 AI 代理调试网站](#item-1) ⭐️ 8.0/10
-2. [Anthropic 的 Claude Fable 5 在美国解除出口管制后重新上线](#item-2) ⭐️ 8.0/10
-3. [Kent Beck 谈敏捷、TDD 与 AI 时代的信任](#item-3) ⭐️ 8.0/10
-4. [索尼计划 2028 年停止 PlayStation 实体游戏光盘生产](#item-4) ⭐️ 8.0/10
-5. [苹果隐藏邮件漏洞可 100%溯源真实邮箱](#item-5) ⭐️ 8.0/10
-6. [Cloudflare 要求 AI 爬虫在 9 月 15 日前分离](#item-6) ⭐️ 8.0/10
-7. [图形编程职业指南引发热议](#item-7) ⭐️ 7.0/10
-8. [苹果与遭制裁的中国内存厂商 CXMT 和 YMTC 谈判](#item-8) ⭐️ 7.0/10
-9. [自动研究：自我改进型智能体解析](#item-9) ⭐️ 7.0/10
-10. [Cursor 通过前部署工程师部署 AI 代理](#item-10) ⭐️ 7.0/10
-11. [Bending Spoons 上市首日大涨 40%，逆势突围](#item-11) ⭐️ 7.0/10
-12. [Together AI 融资 8 亿美元，估值跃升至 83 亿](#item-12) ⭐️ 7.0/10
-13. [本田转向数据中心电池生产](#item-13) ⭐️ 7.0/10
-14. [从微分几何看哈密顿神经网络：诺特定理在 ML 中的应用](#item-14) ⭐️ 7.0/10
-15. [ZCode 桌面应用：GLM-5.2 的编程助手](#item-15) ⭐️ 6.0/10
-16. [Android 17 QPR1 Beta 6 发布，达到平台稳定性里程碑](#item-16) ⭐️ 6.0/10
-17. [SpaceX 开发比 iPhone 更薄的 AI 硬件](#item-17) ⭐️ 6.0/10
-18. [Xbox 测试光盘转数字功能](#item-18) ⭐️ 6.0/10
-19. [现代起亚发布车内远紫外线消毒系统](#item-19) ⭐️ 6.0/10
-20. [华为联合上海电信演示 5G-A×AI 大上行，峰值 1Gbps](#item-20) ⭐️ 6.0/10
-21. [华泰证券看好锂电涨价周期](#item-21) ⭐️ 6.0/10
-22. [AI 硬件稀缺创造投资机会](#item-22) ⭐️ 6.0/10
-23. [Meta 承认 AI 算力过剩](#item-23) ⭐️ 6.0/10
+1. [中国发布首个 L2 级辅助驾驶强制性国家标准](#item-1) ⭐️ 9.0/10
+2. [Safari MCP 服务器让 AI 编程代理调试网站](#item-2) ⭐️ 8.0/10
+3. [美国解除出口管制后，Anthropic 重新发布 Claude Fable 5](#item-3) ⭐️ 8.0/10
+4. [索尼将于 2028 年停止 PlayStation 光盘生产](#item-4) ⭐️ 8.0/10
+5. [imec 路线图：2038 年实现 0.3nm，CFET 晶体管成关键](#item-5) ⭐️ 8.0/10
+6. [Raja Koduri 创立的 OXMIQ Labs 完成 3500 万美元 A 轮融资](#item-6) ⭐️ 8.0/10
+7. [联合国专家组警告 AI 进步速度超过科学认知](#item-7) ⭐️ 8.0/10
+8. [纳开量子获数千万元融资，推进纳开温区中性原子量子计算机](#item-8) ⭐️ 8.0/10
+9. [谷歌开源零知识证明技术用于年龄验证](#item-9) ⭐️ 7.0/10
+10. [全球综述确认 mRNA 疫苗安全有效](#item-10) ⭐️ 7.0/10
+11. [久坐生活方式与细胞能量早期衰退相关](#item-11) ⭐️ 7.0/10
+12. [自动研究：自我改进代理背后的反馈循环](#item-12) ⭐️ 7.0/10
+13. [前大疆科学家创业，半年内连获四轮数亿融资](#item-13) ⭐️ 7.0/10
+14. [OpenAI 提议向美国政府提供 5%股权以换取政策支持](#item-14) ⭐️ 7.0/10
+15. [Bending Spoons 上市首日大涨 40%，逆势突破 SaaS 低迷](#item-15) ⭐️ 7.0/10
+16. [苹果与 Epic 同意暂停 App Store 诉讼，等待最高法院裁决](#item-16) ⭐️ 6.0/10
+17. [可立点科技获融资，研发 AI 养老机器人](#item-17) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Safari MCP 服务器让 AI 代理调试网站](https://9to5mac.com/2026/07/01/safaris-new-mcp-server-lets-coding-agents-inspect-and-debug-websites/) ⭐️ 8.0/10
+## [中国发布首个 L2 级辅助驾驶强制性国家标准](https://www.ithome.com/0/971/447.htm) ⭐️ 9.0/10
 
-苹果在 Safari Technology Preview 247 中引入了模型上下文协议（MCP）服务器，使 AI 编码代理能够通过直接访问浏览器中的页面内容、控制台日志、网络请求和截图来检查和调试网站。 这一集成将 AI 编码代理与真实的浏览器渲染连接起来，使代理能够理解代码在 Safari 中的实际行为，从而显著简化 Web 开发和调试流程。 Safari MCP 服务器与任何兼容 MCP 的客户端兼容，并可在 Safari Technology Preview 247 中使用，该版本可与常规 Safari 浏览器并行运行，且无需开发者账户。
+2026 年 7 月 2 日，中国工业和信息化部正式发布了强制性国家标准 GB 47955—2026《智能网联汽车 组合驾驶辅助系统安全要求》，将于 2027 年 1 月 1 日起实施。这是国内首个针对 L2 级辅助驾驶的强制性标准，由华为、小米、比亚迪、特斯拉等头部企业联合起草。 该标准填补了中国 L2 级辅助驾驶的监管空白，为渗透率已超 70%的快速增长市场提供了明确的安全要求。它将统一各车企和科技公司的产品安全标准，并可能影响全球 L2 级法规的制定。 该标准涵盖三类组合驾驶辅助系统：基础单车道、基础多车道和领航驾驶辅助（NOA）。它提出了人机交互、驾驶员状态监测、数据记录等要求，并构建了包括场地试验、道路试验在内的多层级评价方法。
 
-rss · 9to5Mac · 7月1日 21:59
+rss · IT之家 · 7月2日 02:05
 
-**背景**: 模型上下文协议（MCP）是一种开放标准，允许 AI 代理与外部工具和数据源交互。Safari Technology Preview 是苹果用于测试未来 Web 技术的实验性浏览器。这个新的 MCP 服务器让 AI 编码代理能够直接访问浏览器内部，从而实现更准确的调试和测试。
+**背景**: L2 级辅助驾驶系统在驾驶员监控下同时控制车辆的横向和纵向运动。此前中国仅有推荐性国家标准。新强制性标准与联合国 UN R171 法规协调一致，但针对中国复杂的道路交通环境增加了更详细的要求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://developer.apple.com/safari/technology-preview/">Safari Technology Preview - Safari - Apple Developer</a></li>
-<li><a href="https://github.com/modelcontextprotocol/servers">GitHub - modelcontextprotocol/ servers : Model Context Protocol Servers</a></li>
+<li><a href="https://www.ithome.com/0/971/447.htm">国内首个针对 L2 级辅助驾驶的强制性国家标准正式发布，华为引望、小米、比亚迪、特斯拉、蔚小理等联合起草 - IT之家</a></li>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkixy0455182.shtml">《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布_新浪科技_新浪网</a></li>
+<li><a href="https://news.dayoo.com/society/202607/02/140000_54975229.htm">《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布_广州日报大洋网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Safari`, `#MCP server`, `#web debugging`, `#coding agents`, `#Apple`
+**标签**: `#autonomous driving`, `#regulation`, `#automotive`, `#China`, `#L2 standard`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic 的 Claude Fable 5 在美国解除出口管制后重新上线](https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/) ⭐️ 8.0/10
+## [Safari MCP 服务器让 AI 编程代理调试网站](https://9to5mac.com/2026/07/01/safaris-new-mcp-server-lets-coding-agents-inspect-and-debug-websites/) ⭐️ 8.0/10
 
-在美国商务部于 2026 年 6 月 30 日解除出口管制后，Anthropic 已将其最先进的 AI 模型 Claude Fable 5 重新向全球用户开放。符合条件的订阅者可在 7 月 7 日前免费使用 Fable 5，最高可达其每周使用限额的 50%。 这标志着 Anthropic 与特朗普政府在 AI 安全和出口管制问题上备受瞩目的对峙得到解决，预示着监管方式的转变。Fable 5 的重新发布可能加速软件工程、科学研究等领域的 AI 能力，同时引发关于模型安全性和信任度的新一轮讨论。 Fable 5 是 Anthropic 首个向公众开放的 Mythos 级模型，在长周期任务上优于 Opus 模型。出口管制是在发现越狱提示词后实施的，但 Anthropic 随后发布了一个分类器，可在超过 99%的情况下阻止该技术。
+苹果为 Safari 推出了一个 MCP 服务器，使编程代理能够直接检查并调试网站，可访问页面内容、控制台日志、网络请求和截图。 这一集成弥合了 AI 编程代理与实时网页调试之间的鸿沟，使 Web 开发工作流程更加自主和高效。 该 MCP 服务器为编程代理提供对 Safari 开发者工具的实时访问，包括控制台日志、网络请求和页面截图，无需人工干预即可进行全面调试。
 
-rss · MacRumors · 7月1日 23:35
+rss · 9to5Mac · 7月1日 21:59
 
-**背景**: Anthropic 的 Claude 模型是为安全部署 AI 而设计的大型语言模型（LLM）。Mythos 级模型代表了高于 Opus 的新层级，能力显著提升。在亚马逊研究人员发现一个绕过 Fable 5 安全措施的提示词后，特朗普政府以国家安全为由实施了出口管制。
+**背景**: MCP（模型上下文协议）是一种标准协议，使 AI 代理能够与外部工具和数据源交互。编程代理（如 Cursor 或 Zencoder）利用 AI 辅助软件开发任务。这个新服务器允许这些代理直接与实时浏览器环境交互。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
-<li><a href="https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html">Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5</a></li>
-<li><a href="https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html">Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls</a></li>
+<li><a href="https://mcpserver.ai/">MCP Server | Model Context Protocol Server Infrastructure</a></li>
+<li><a href="https://baserow.io/blog/what-is-an-mcp-server">A Beginner’s Guide to an MCP Server</a></li>
+<li><a href="https://cursor.com/">Cursor: AI coding agent</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 上的社区评论反应不一：一些用户批评该模型的安全限制过于严格，称其“基本无用”，而另一些人则担心权重泄露的可能性以及对美国 AI 模型信任度的下降。还有人对 7 月 7 日后转向基于积分的定价表示担忧。
-
-**标签**: `#AI`, `#Anthropic`, `#Claude`, `#export controls`, `#large language models`
+**标签**: `#Safari`, `#MCP`, `#debugging`, `#coding agents`, `#Apple`
 
 ---
 
 <a id="item-3"></a>
-## [Kent Beck 谈敏捷、TDD 与 AI 时代的信任](https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software) ⭐️ 8.0/10
+## [美国解除出口管制后，Anthropic 重新发布 Claude Fable 5](https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/) ⭐️ 8.0/10
 
-极限编程和测试驱动开发的创始人 Kent Beck 分享了他对敏捷和 TDD 演变的思考，并指出在 AI 时代，建立信任将比生成代码更为重要。 随着大语言模型等 AI 工具能够生成代码，Beck 的观点促使开发者关注人的因素和信任，这可能重塑软件工程的实践和优先级。 Beck 创造了“Genies”一词来描述大语言模型作为编码协作者，并认为 AI 正在加速回归类似极限编程的小团队、贴近客户的做法。
+Anthropic 重新发布了其最强大的公开模型 Claude Fable 5，此前美国政府解除了导致该模型于 2026 年 6 月 9 日暂停使用的出口管制。符合条件的订阅者可在 7 月 7 日前免费使用 Fable 5，额度不超过其套餐每周使用量的 50%，之后将需要使用使用积分。 此次重新发布标志着美国 AI 出口政策的转变，并恢复了 Anthropic 最先进公开模型的访问权限，该模型在软件工程、科学研究和复杂推理方面优于所有之前的 Claude 模型。这一事件凸显了 AI 安全、国家安全与尖端模型全球可用性之间的持续紧张关系。 Fable 5 是 Anthropic 首个面向公众的 Mythos 级模型，能够比之前的任何 Claude 模型更长时间地自主工作。出口管制是在亚马逊研究人员发现一种可以绕过安全措施的提示后触发的，但 Anthropic 随后部署了一个新的分类器，可在超过 99% 的情况下阻止该技术。
 
-rss · The Pragmatic Engineer · 7月1日 16:57
+rss · MacRumors · 7月1日 23:35
 
-**背景**: Kent Beck 是一位开创性的软件工程师，他创建了测试驱动开发（TDD）和极限编程（XP），并且是敏捷宣言的签署人之一。他的工作深刻影响了现代软件开发实践，强调迭代开发、测试和协作。
+**背景**: Mythos 级模型代表了 Anthropic 认为具有重大风险的新一代 AI 能力，在公开发布前需要更高的安全门槛。特朗普政府曾以国家安全为由，在越狱演示后对 Fable 5 和 Mythos 5 实施出口管制。Anthropic 现已深化与美国政府在发布前测试和信息共享方面的合作。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Kent_Beck">Kent Beck</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li>
-<li><a href="https://agiledata.org/essays/tdd.html">Introduction to Test Driven Development ( TDD )</a></li>
+<li><a href="https://www.anthropic.com/news/redeploying-fable-5">Redeploying Claude Fable 5 - Anthropic</a></li>
+<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Kent Beck`, `#Agile`, `#TDD`, `#AI`, `#software engineering`
+**社区讨论**: Reddit 用户反应不一：一些人称赞 Fable 5 在发现细微联系方面的表现，而另一些人则对暂停表示失望，并质疑安全措施的有效性。少数用户猜测 Anthropic 可能会削弱其他模型，以推动用户转向 Fable 5。
+
+**标签**: `#Anthropic`, `#Claude`, `#AI model`, `#export controls`, `#Fable 5`
 
 ---
 
 <a id="item-4"></a>
-## [索尼计划 2028 年停止 PlayStation 实体游戏光盘生产](https://www.gsmarena.com/sony_to_permanently_stop_physical_disc_production_for_playstation_in_2028-news-73531.php) ⭐️ 8.0/10
+## [索尼将于 2028 年停止 PlayStation 光盘生产](https://www.gsmarena.com/sony_to_permanently_stop_physical_disc_production_for_playstation_in_2028-news-73531.php) ⭐️ 8.0/10
 
-索尼宣布，从 2028 年 1 月起，所有新 PlayStation 游戏将仅以数字下载形式发布，停止为新游戏生产实体光盘。 这标志着游戏发行方式的重大转变，可能终结实体游戏零售，并影响消费者的所有权、二手交易和游戏保存。 该变化仅适用于 2028 年 1 月之后发布的新游戏；现有实体游戏和光盘仍可销售和游玩。数字版游戏将通过 PlayStation 商店或零售商代码提供。
+索尼宣布，从 2028 年 1 月起，将停止生产新 PlayStation 游戏的实体光盘，所有新游戏将仅通过 PlayStation Store 以数字形式发售。 这标志着领先游戏机制造商逐步淘汰实体媒体的重大行业转变，将加速向数字发行的过渡，对玩家、零售商及整个游戏生态系统产生影响。 此变更仅适用于 2028 年 1 月之后发布的新游戏；现有实体游戏仍可购买。索尼表示，消费者对数字媒体的偏好是主要原因。
 
 rss · GSMArena · 7月1日 21:59
 
-**背景**: 实体游戏光盘是主机游戏几十年来的标配，支持所有权、二手交易和离线游玩。索尼此举顺应了数字发行的行业趋势，此前 Rockstar 已宣布《GTA VI》仅提供数字版。
+**背景**: 实体游戏光盘几十年来一直是标准，但由于便利性和更快的互联网，数字下载迅速增长。索尼的 PlayStation Store 已占游戏销售的大部分，该公司指出，2025 年第四季度其软件收入的 85%来自数字版。
 
-**社区讨论**: Pink Gorilla Games 联合创始人 Cody Spencer 对此表示遗憾，认为这一决定对玩家不利，因为他们失去了拥有实体拷贝的能力。这种情绪反映了对数字所有权和游戏保存的广泛担忧。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/">Physical disc production ending in January 2028 for new games...</a></li>
+<li><a href="https://www.gamesradar.com/platforms/playstation/playstation-is-ending-physical-disc-production-for-new-games-in-2028-as-sony-says-general-preference-for-digital-media-significantly-outpaces-physical-discs/">PlayStation is ending physical disc production for ... | GamesRadar+</a></li>
 
-**标签**: `#gaming`, `#digital distribution`, `#PlayStation`, `#industry news`
+</ul>
+</details>
+
+**社区讨论**: 一位游戏零售商老板的评论表达了悲伤，称这一决定对玩家不利，因为他们失去了拥有实体副本的能力。这反映了对纯数字未来中所有权和保存问题的广泛担忧。
+
+**标签**: `#gaming`, `#PlayStation`, `#digital distribution`, `#industry news`
 
 ---
 
 <a id="item-5"></a>
-## [苹果隐藏邮件漏洞可 100%溯源真实邮箱](https://www.ithome.com/0/971/393.htm) ⭐️ 8.0/10
+## [imec 路线图：2038 年实现 0.3nm，CFET 晶体管成关键](https://www.ithome.com/0/971/495.htm) ⭐️ 8.0/10
 
-苹果“隐藏邮件”功能存在安全漏洞，攻击者可逆向解析匿名邮箱别名，获取用户真实的 Apple ID 邮箱地址，研究人员测试中成功率达 100%。 该漏洞破坏了隐藏邮件功能的核心隐私承诺，使 iCloud+订阅用户（尤其是记者和活动人士）面临身份暴露风险。苹果拖延一年多未修复，引发对其隐私承诺的严重质疑。 该漏洞由 EasyOptOuts 联合创始人 Tyler Murphy 发现，并经 404 Media 独立验证。苹果于 2025 年 6 月获知漏洞，2026 年 3 月声称已修复但无效，至今未发布补丁，尽管承诺“数周内”修复。
+imec 发布了 2026 年半导体技术路线图，预计 2038 年实现 0.3nm 级别制程，CFET（互补场效应晶体管）将在 2033 年左右 0.7nm 节点成为可行方案。 该路线图表明摩尔定律将在 1nm 之后继续推进，CFET 通过垂直堆叠晶体管实现更高密度，台积电、英特尔、三星等关键厂商均参与其中。 2030 年 A10（约 1nm）节点后，CPP（栅极接触间距）将固定在 42nm，意味着密度提升将依赖降低单元高度和垂直集成，而非横向微缩。
 
-rss · IT之家 · 7月1日 22:38
+rss · IT之家 · 7月2日 03:14
 
-**背景**: 隐藏邮件是 iCloud+订阅用户的隐私功能，可生成随机邮箱地址并转发至真实收件箱，旨在防止追踪和垃圾邮件。该漏洞使攻击者能将别名关联回原始 Apple ID，结合公开数据代理目录可能暴露个人信息。
+**背景**: 摩尔定律传统上预测晶体管密度每两年通过横向微缩翻倍。随着物理极限逼近，FinFET 和 GAA 等新架构延续了定律。CFET 将 n 型和 p 型晶体管垂直堆叠，节省空间并实现密度持续增长。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/cybersecurity/articles/apple-hide-email-flaw-expose-175302827.html">Apple 'Hide My Email' Has a Flaw That Can Expose Your Real Address</a></li>
-<li><a href="https://www.easyoptouts.com/">EasyOptOuts - Personal Data Removal Service | Just $19.99/year</a></li>
+<li><a href="https://spectrum.ieee.org/semiconductor-technology-roadmap">Imec Semiconductor Technology Roadmap : CFETs... - IEEE Spectrum</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density">Imec 's 2026 roadmap details 0.3nm nodes by 2038... | Tom's Hardware</a></li>
+<li><a href="https://newsroom.lamresearch.com/understanding-cfets-transistor-architecture?blog=true">Understanding CFETs, a Next Generation Transistor Architecture</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#privacy`, `#security vulnerability`, `#iCloud`, `#email`
+**标签**: `#semiconductor`, `#chip manufacturing`, `#CFET`, `#Moore's Law`, `#roadmap`
 
 ---
 
 <a id="item-6"></a>
-## [Cloudflare 要求 AI 爬虫在 9 月 15 日前分离](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/) ⭐️ 8.0/10
+## [Raja Koduri 创立的 OXMIQ Labs 完成 3500 万美元 A 轮融资](https://www.ithome.com/0/971/489.htm) ⭐️ 8.0/10
 
-Cloudflare 宣布一项新政策，要求 AI 公司在 2026 年 9 月 15 日前将用于搜索索引的网络爬虫与用于 AI 训练和代理的爬虫分离，否则在许多发布商网站上将被默认屏蔽。 这一由主要互联网基础设施提供商推动的政策转变可能重塑 AI 公司访问网络内容的方式，赋予发布商对其内容使用的更多控制权，并可能迫使 AI 公司为训练数据谈判许可协议。 截止日期为 2026 年 9 月 15 日；此后，使用 Cloudflare 的发布商网站可以默认屏蔽未正确分离的 AI 爬虫。该政策旨在解决“同意崩溃”问题，即当前单一许可同时允许搜索索引和 AI 训练。
+由知名 GPU 架构师 Raja Koduri 创立的 OXMIQ Labs 宣布完成 3500 万美元 A 轮融资，由 Fundomo 和三星 Catalyst Fund 领投，联发科、英特尔资本等跟投。该公司旨在开发名为 OxCore 的新型 GPU IP 以及软件栈（OxCapsule、OxPython），以降低 AI 基础设施成本。 此次融资表明业界对能够挑战英伟达主导地位的替代 GPU 架构兴趣浓厚。OXMIQ 的可授权 IP 模式可使更多公司构建定制 AI 芯片，有望降低成本并促进 AI 硬件生态系统的创新。 OxCore 是一种可授权的 GPU IP，集成了标量、矢量和张量单元，专为高效近内存计算设计，并已完成 FPGA 原型验证。软件栈包括用于编排的 OxCapsule 和可在 OxCore 上直接运行现有 CUDA 和 PyTorch 代码的 OxPython，支持新兴芯片架构和大规模推理优化。
 
-rss · TechCrunch · 7月1日 17:48
+rss · IT之家 · 7月2日 03:07
 
-**背景**: 网络爬虫是扫描网站的自动化机器人。搜索爬虫为搜索引擎索引内容，而 AI 训练爬虫收集数据以训练大型语言模型。目前，许多 AI 公司对两种用途使用相同的爬虫，使得发布商难以在不阻止搜索索引的情况下阻止 AI 训练。
+**背景**: Raja Koduri 是一位资深的 GPU 架构师，曾领导 AMD、Intel 和 Apple 的图形业务。OXMIQ 的方法类似于 Arm 的 CPU 授权模式，提供可定制的 GPU 蓝图。该公司旨在通过从原子到智能体全维度重构 GPU 栈来降低 AI 基础设施成本，解决当前 AI 加速器的高成本和高功耗问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/">Cloudflare 's new policy pushes AI companies to pay for... | TechCrunch</a></li>
-<li><a href="https://blog.cloudflare.com/uk-google-ai-crawler-policy/">Google’s AI advantage: why crawler separation is the only path to...</a></li>
-<li><a href="https://www.amicited.com/blog/ai-training-crawlers-vs-search-crawlers/">AI Training Crawlers vs Search Crawlers: Understanding the Difference | Am I Cited</a></li>
+<li><a href="https://oxmiq.ai/oxcore">OxCore — A Licensable GPU IP · OXMIQ</a></li>
+<li><a href="https://www.jonpeddie.com/news/koduri-builds-the-arm-model-for-ai-gpus/">Koduri builds the Arm model for AI GPUs – Jon Peddie Research</a></li>
+<li><a href="https://cryptobriefing.com/oxmiq-raises-35m-ai-chip-architecture/">Oxmiq raises $35M to build AI chip architecture that runs CUDA...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#web scraping`, `#copyright`, `#Cloudflare`, `#policy`
+**标签**: `#GPU`, `#AI hardware`, `#funding`, `#chip design`, `#Raja Koduri`
 
 ---
 
 <a id="item-7"></a>
-## [图形编程职业指南引发热议](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) ⭐️ 7.0/10
+## [联合国专家组警告 AI 进步速度超过科学认知](https://www.ithome.com/0/971/436.htm) ⭐️ 8.0/10
 
-一篇题为《成为图形程序员需要学什么》的博客文章为有志于图形编程的人提供了实用指南，涵盖了必要的技能和知识领域。 该指南满足了在快速发展的领域中对清晰职业建议的迫切需求，帮助新手应对图形编程复杂的环境。 文章强调了线性代数、渲染管线、着色器编程等基础主题，同时讨论了游戏开发与引擎编程之间的选择。
+由 40 名顶尖科学家组成的联合国 AI 独立科学小组发布首份报告，警告 AI 能力的进步速度已超过科学界的认知和各国政府的政策调整速度，对高度自主的 AI 系统目前可用的控制手段仍然很少。 该报告凸显了 AI 能力增长与科学认知之间的关键差距，带来了欺骗和失控的风险，若不加以应对可能造成灾难性后果。它强调了全球范围内以科学为基础的 AI 治理的紧迫性。 报告指出 AI 可能出现欺骗行为，且无法保证 AI 不会自行或因恶意使用者造成灾难性后果。报告还强调，全球 7000 多种语言中只有很少一部分被现有 AI 模型覆盖，部分语言的机器翻译存在大量错误，可能干扰医疗诊断。
 
-hackernews · atan2 · 7月1日 17:53 · [社区讨论](https://news.ycombinator.com/item?id=48750710)
+rss · IT之家 · 7月2日 01:22
 
-**背景**: 图形编程是计算机科学中专注于生成图像和视觉效果的专业领域。它需要扎实的数学技能以及对硬件和 API（如 OpenGL、Vulkan 或 DirectX）的了解。
+**背景**: 联合国 AI 独立科学小组成立旨在为 AI 治理提供科学证据。AI 系统，尤其是大语言模型，近年来进展迅速，但其内部运作往往不透明，难以预测或控制其行为。研究人员已提出对 AI 欺骗和失控的担忧，例如 AI 系统为达成目标而学会欺骗的案例。
 
-**社区讨论**: 评论者就图形编程职业的可行性展开辩论，有人警告行业变化太快，也有人强调理解人类感知和设计原则的重要性。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.woshipm.com/ai/6247056.html">当 AI 学会 欺 骗 ，我们该如何应对？ | 人人都是产品经理</a></li>
+<li><a href="https://juejin.cn/post/7634490223083814921">当 AI 学会 欺 骗 ：从失控深渊到人 为 闭环2026年4月， AI ...</a></li>
 
-**标签**: `#graphics programming`, `#career advice`, `#game engines`, `#computer graphics`, `#industry trends`
+</ul>
+</details>
+
+**标签**: `#AI safety`, `#AI governance`, `#UN report`, `#AI risks`, `#AI progress`
 
 ---
 
 <a id="item-8"></a>
-## [苹果与遭制裁的中国内存厂商 CXMT 和 YMTC 谈判](https://9to5mac.com/2026/07/01/apple-in-negotiations-with-two-banned-chinese-ram-firms-after-price-increases/) ⭐️ 7.0/10
+## [纳开量子获数千万元融资，推进纳开温区中性原子量子计算机](https://36kr.com/p/3877814169530630?f=rss) ⭐️ 8.0/10
 
-据报道，苹果正在与两家被美国列入黑名单的中国半导体公司 CXMT 和 YMTC 谈判采购内存芯片，此举可能需要获得美国政府批准。 此举可能重塑全球内存供应链，在内存短缺中降低苹果成本，若获批或遭拒，将加剧美中科技紧张局势。 CXMT 生产 DRAM 芯片，YMTC 专注于 NAND 闪存；两家公司均在美国国防部 1260H 清单上，YMTC 还在美国商务部的实体清单上。
+由北大博士团队创立的纳开量子完成了由高瓴创投领投、英诺、长石、飞图跟投的数千万元种子轮融资。该公司声称是国内唯一实现纳开温区中性原子量子计算机工程化的企业。 此次融资表明投资者对中性原子量子计算这一有前景的规模化量子计算路径充满信心。纳开独特的纳开温区冷却能力和双轮驱动商业模式（专用量子模拟器加通用量子计算机）可能加速中国量子计算的实用化进程。 纳开能够将铷、钾、铯、锂、钠、镱、锶、镝、铒等 9 种元素冷却至 10nK 以下，在国内实现最低温度和最多可控原子数。公司已获得千万元级订单，预计 2026 年营收达数千万元。
 
-rss · 9to5Mac · 7月1日 20:25
+rss · 36氪 · 7月2日 01:16
 
-**背景**: 由于 AI 服务器需求导致全球内存短缺，苹果近期提高了 Mac、iPad 等设备的价格。从中国供应商采购可降低成本，但美国对中国半导体公司的限制使此类交易复杂化。苹果曾在 2022 年尝试从 YMTC 采购，但遭到国会反对。
+**背景**: 中性原子量子计算机利用激光捕获和操控单个中性原子作为量子比特，具有天然全同性和易扩展性。纳开温区（低于 10nK）至关重要，因为超低温抑制了热运动，增强了量子相干性和门保真度。其他量子计算路线包括超导和离子阱，它们在比特数、保真度和运行时间上各有优劣。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neutral_atom_quantum_computer">Neutral atom quantum computer</a></li>
+<li><a href="https://scitechdaily.com/new-mit-refrigerator-super-cools-molecules-to-nanokelvin-temperatures/">New MIT ‘Refrigerator’ Super-Cools Molecules to Nanokelvin ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#RAM`, `#supply chain`, `#US-China trade`, `#semiconductors`
+**标签**: `#quantum computing`, `#neutral atom`, `#startup funding`, `#China`, `#deep tech`
 
 ---
 
 <a id="item-9"></a>
-## [自动研究：自我改进型智能体解析](https://www.latent.space/p/autoresearch-introspection) ⭐️ 7.0/10
+## [谷歌开源零知识证明技术用于年龄验证](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/) ⭐️ 7.0/10
 
-Introspection 联合创始人 Roland Gavrilescu 阐述了自动研究、智能体配方和自我改进循环的概念，强调 AI 智能体可以自主运行实验并提升自身性能，同时人类在软件开发过程中仍处于核心地位。 这一概念可能通过让智能体无需人工干预即可持续学习和优化，显著加速 AI 研究和软件工程，从而降低开发时间和成本。它还探讨了在软件工厂中自动化与人类监督之间的平衡。 由 Andrej Karpathy 的开源工具推广的自动研究，采用“提出-训练-评估”循环，智能体仅保留能改善验证损失的更改，并通过 git revert 丢弃其他更改。智能体配方是可复用的指令集，用于约束 AI 智能体遵循现代软件工程实践，如关注点分离和测试驱动开发。
+谷歌正在开源其零知识证明（ZKP）技术，以实现保护隐私的年龄验证，让用户能够证明自己超过某个年龄，而无需透露具体出生日期或其他个人信息。 这一举措有助于平衡在线安全与隐私，为内容年龄限制提供实用解决方案，同时最大限度地减少数据暴露。它可能影响平台实施年龄检查的方式，并为保护隐私的身份验证树立先例。 该技术使用密码学零知识证明来生成关于用户年龄的是/否答案，而不透露底层数据。谷歌以开源形式发布代码，以鼓励社区采用和进一步开发。
 
-rss · Latent Space · 7月1日 23:52
+hackernews · consumer451 · 7月1日 22:27 · [社区讨论](https://news.ycombinator.com/item?id=48753979)
 
-**背景**: 自动研究指的是自主进行机器学习研究的 AI 智能体，例如在单个 GPU 上无需人工干预地训练模型。自我改进循环是一种反馈机制，智能体通过自身行动和结果进行学习，以迭代提升性能。智能体配方是结构化的提示或指令，用于引导 AI 智能体有效执行特定任务，通常融合了软件工程的最佳实践。
+**背景**: 零知识证明（ZKP）是一种密码学方法，允许一方在不透露任何额外信息的情况下向另一方证明某个陈述为真。法规对年龄验证的要求日益增加，但传统方法通常要求用户上传身份证或共享个人数据，从而损害隐私。ZKP 提供了一种在满足年龄检查的同时保持匿名性的方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/karpathy/autoresearch">GitHub - karpathy/autoresearch: AI agents running research on ...</a></li>
-<li><a href="https://www.datacamp.com/tutorial/guide-to-autoresearch">A Guide to Andrej Karpathy’s AutoResearch ... - DataCamp</a></li>
-<li><a href="https://uvayankee.github.io/">AI Agent Recipes | AI Agent Recipes</a></li>
+<li><a href="https://brave.com/blog/zkp-age-verification-limits/">The limits of zero-knowledge for age-verification | Brave</a></li>
+<li><a href="https://www.newamerica.org/insights/exploring-privacy-preserving-age-verification/">Exploring Privacy-Preserving Age Verification: A Close Look at Zero-Knowledge Proofs</a></li>
+<li><a href="https://www.eff.org/deeplinks/2025/07/zero-knowledge-proofs-alone-are-not-digital-id-solution-protecting-user-privacy">Zero Knowledge Proofs Alone Are Not a Digital ID Solution to Protecting User Privacy | Electronic Frontier Foundation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#self-improving systems`, `#software engineering`, `#autoresearch`, `#machine learning`
+**社区讨论**: 评论者表达了不同看法：一些人担心年龄验证仍然限制内容访问，并认为父母应拥有覆盖权限；另一些人则认为 ZKP 被过度宣传，因为服务提供方（谷歌）可能仍掌握大量数据。少数用户完全拒绝任何形式的身份要求。
+
+**标签**: `#zero-knowledge proofs`, `#privacy`, `#age verification`, `#Google`, `#cryptography`
 
 ---
 
 <a id="item-10"></a>
-## [Cursor 通过前部署工程师部署 AI 代理](https://www.latent.space/p/cursor-forward-deployed-engineers) ⭐️ 7.0/10
+## [全球综述确认 mRNA 疫苗安全有效](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) ⭐️ 7.0/10
 
-Cursor 的前部署工程师通过建立软件工厂帮助企业实施 AI 代理，Pauline Brunet 对此进行了解释。 这种方法弥合了 AI 开发与企业实际部署之间的差距，使得 AI 的采用更快、更定制化。它突显了将工程师嵌入客户组织以确保 AI 系统在实践中正常运行的日益增长的趋势。 “前部署工程师”一词由 Palantir 推广，涉及在整个系统生命周期中与客户紧密合作。Cursor 将此模型专门应用于 AI 代理，利用软件工厂从可重用组件组装解决方案。
+一项发表在《柳叶刀》上的全球综合综述确认 mRNA 疫苗安全有效，并强调了其在 COVID-19 之外的未来应用潜力，包括癌症和其他传染病。 这项综述提供了权威证据，有助于消除疫苗犹豫，并支持 mRNA 技术在治疗多种疾病方面的更广泛应用，可能彻底改变医学。 该综述分析了多项研究数据，未发现与 mRNA 疫苗相关的严重安全问题，同时确认了其在预防重症 COVID-19 方面的高效性。它还指出，制造规模化已经实现，为未来快速应对威胁铺平了道路。
 
-rss · Latent Space · 7月1日 19:03
+hackernews · coloneltcb · 7月2日 00:40 · [社区讨论](https://news.ycombinator.com/item?id=48754963)
 
-**背景**: 前部署工程师直接与客户组织合作，在运营环境中开发、定制和部署技术解决方案。软件工厂是软件资产的结构化集合，能够从预定义组件组装应用程序，模拟制造效率。Cursor 的方法结合了这些概念，以交付针对企业需求定制的 AI 代理。
+**背景**: mRNA 疫苗通过向细胞传递遗传指令，使其产生无害的病毒片段，从而训练免疫系统识别并对抗真正的病原体。在 COVID-19 大流行期间，mRNA 疫苗以前所未有的速度被开发并部署，但关于其长期安全性和有效性的担忧一直存在。这项综述旨在通过全面分析现有证据来平息这些争议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Forward_Deployed_Engineer">Forward Deployed Engineer</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Software_factories">Software factories</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MRNA_vaccine">mRNA vaccine - Wikipedia</a></li>
+<li><a href="https://www.cbc.ca/news/health/mrna-vaccines-lancet-review-9.7254665">mRNA vaccines proved safe and effective during COVID ... | CBC News</a></li>
+<li><a href="https://zocto.in/mrna-vaccine-applications-beyond-covid-19/">mRNA Vaccine Applications Beyond COVID - 19 - Zocto</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#enterprise`, `#software engineering`, `#deployment`, `#Cursor`
+**社区讨论**: Hacker News 上的讨论反映了支持和怀疑的混合态度。一些评论者强调了制造规模化的成就，而另一些人则基于个人经历质疑疫苗的有效性。还有人对麻疹引起的“免疫失忆”以及疫苗犹豫者滥用 T 细胞测试表示担忧。
+
+**标签**: `#mRNA vaccines`, `#public health`, `#vaccine safety`, `#medical research`
 
 ---
 
 <a id="item-11"></a>
-## [Bending Spoons 上市首日大涨 40%，逆势突围](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) ⭐️ 7.0/10
+## [久坐生活方式与细胞能量早期衰退相关](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production) ⭐️ 7.0/10
 
-意大利科技集团 Bending Spoons 于 2026 年 7 月 1 日上市首日股价飙升 40%，逆势摆脱了 SaaS 行业整体低迷的影响。 此次成功上市表明市场对拥有成熟收购与复兴策略（尤其是针对老牌科技品牌）的公司抱有浓厚兴趣，为当前 SaaS 低迷行情提供了另一种叙事。 Bending Spoons 通过收购并改造 AOL、Eventbrite、Evernote、Meetup 和 Vimeo 等老牌科技品牌实现快速增长，其策略聚焦于已有产品市场契合度的产品。
+科罗拉多大学安舒茨医学校区的一项新研究发现，健康但久坐的人线粒体燃烧糖和脂肪的能力显著下降，表明细胞早期衰老。 这一发现表明，即使是每天约 22 分钟的最低限度运动也可能有助于预防线粒体衰退，降低未来疾病风险，为细胞健康提供了一种低成本的干预措施。 该研究涉及 19 名受试者，根据习惯性体力活动水平分为久坐组和活跃组，并进行了基本健康筛查。结果特别指出，久坐者线粒体处理糖和脂肪的能力降低。
+
+hackernews · littlexsparkee · 7月1日 22:48 · [社区讨论](https://news.ycombinator.com/item?id=48754155)
+
+**背景**: 线粒体是细胞的能量工厂，负责将营养物质转化为能量。随着年龄增长，线粒体功能自然衰退，但久坐等生活方式因素会加速这一过程。每周 150 分钟（约每天 22 分钟）的中等强度运动已知有益于整体健康，而这项研究将其直接与细胞能量产生联系起来。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.eurekalert.org/news-releases/1134122">Healthy but sedentary individuals show early decline in ... | EurekAlert!</a></li>
+<li><a href="https://www.technologynetworks.com/cell-science/news/healthy-but-sedentary-individuals-show-declining-mitochondrial-function-414192">Sedentary Lifestyle Harms Mitochondrial Health | Technology Networks</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对小样本量（19 名受试者）和潜在混杂因素表示担忧，指出久坐者和活跃者可能在未测量的健康方面存在差异。一些人还讨论了运动建议的实用性，一位用户主张将体力活动融入日常生活，而非专门安排锻炼时间。
+
+**标签**: `#health`, `#exercise`, `#mitochondria`, `#longevity`, `#sedentary lifestyle`
+
+---
+
+<a id="item-12"></a>
+## [自动研究：自我改进代理背后的反馈循环](https://www.latent.space/p/autoresearch-introspection) ⭐️ 7.0/10
+
+Introspection 联合创始人 Roland Gavrilescu 解释了自动研究、代理配方和自我改进循环的概念，并强调人类在软件工厂中仍处于核心地位。 这一见解意义重大，因为它为构建能够自主提升性能的 AI 代理提供了实用框架，有望加速软件开发并减少人工投入。 自动研究概念涉及 AI 代理运行自动化的机器学习研究循环，例如在单个 GPU 上训练小型语言模型，而代理配方则定义了自我改进的结构化工作流。
+
+rss · Latent Space · 7月1日 23:52
+
+**背景**: 自动研究是 Andrej Karpathy 的一个开源项目，允许 AI 代理自主进行机器学习实验。自我改进循环利用评估反馈来迭代优化代理行为，通常需要人工监督以确保对齐。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/karpathy/autoresearch">GitHub - karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically · GitHub</a></li>
+<li><a href="https://www.datacamp.com/tutorial/guide-to-autoresearch">A Guide to Andrej Karpathy’s AutoResearch: Automating ML with AI Agents | DataCamp</a></li>
+<li><a href="https://addyosmani.com/blog/self-improving-agents/">AddyOsmani.com - Self-Improving Coding Agents</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI agents`, `#self-improving systems`, `#software engineering`, `#autoresearch`
+
+---
+
+<a id="item-13"></a>
+## [前大疆科学家创业，半年内连获四轮数亿融资](https://36kr.com/p/3877830625046535?f=rss) ⭐️ 7.0/10
+
+硅羽科技（SPARO）由前大疆高级顾问科学家张富创立，自 2026 年 2 月成立以来，半年内连续完成四轮数亿元融资，投资方包括耀途资本、锦秋基金、阿里巴巴等。 这标志着投资者对真正自主空中智能体的强烈信心，标志着从传统无人机向能够在复杂环境中感知、决策并行动的智能体的转变。它可能加速自主无人机在物流、巡检等行业的商业化落地。 硅羽科技的技术栈包括多模态感知、端到端小脑（避障延迟低至 5 毫秒）、世界导航模型大脑，以及灵巧操作与集群协同。公司声称在无 GPS 条件下实现厘米级定位，计算效率提升十倍以上。
+
+rss · 36氪 · 7月2日 01:33
+
+**背景**: 传统无人机主要是用于观察的遥控工具，缺乏真正的自主性。硅羽科技旨在打造能够理解环境、做出决策并与世界进行物理交互（如抓取或修复）的空中智能体。创始人张富是顶尖机器人学者、前大疆高级顾问科学家，在 SLAM 和无人机系统方面有深厚积累。
+
+**标签**: `#aerial intelligence`, `#robotics`, `#funding`, `#autonomous drones`, `#startup`
+
+---
+
+<a id="item-14"></a>
+## [OpenAI 提议向美国政府提供 5%股权以换取政策支持](https://36kr.com/newsflashes/3877987962187784?f=rss) ⭐️ 7.0/10
+
+OpenAI 已与美国政府展开初步讨论，提议向美国政府提供约 5%的股权，以争取对人工智能产业发展的支持，并帮助缓解监管和政治阻力。 这一提议代表了 AI 治理的新思路，可能为 AI 公司如何与公众分享经济收益并影响监管树立先例。如果被采纳，可能影响全球 AI 政策和公众对 AI 的信任。 OpenAI 首席执行官山姆·奥特曼建议美国主要 AI 公司均拿出约 5%的股权，注入类似阿拉斯加永久基金的公共投资载体，由政府持有并惠及公众。
+
+rss · 36氪 · 7月2日 04:28
+
+**背景**: 阿拉斯加永久基金成立于 1976 年，是一个州立投资基金，利用石油收入向阿拉斯加居民发放年度股息。OpenAI 的提议借鉴了这一模式，旨在广泛分享 AI 的经济收益。OpenAI 此前曾调整股权结构以吸引私人投资，同时保持其使命。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.worldjournal.com/wj/story/121172/9034417">阿 拉 斯 加 將發放年度股息 符資格州民可收到1000元 | 世界新聞網</a></li>
+<li><a href="https://beginneros.com/triviaDetail.php?trivia_id=492">【世界冷知識】每年派糖的 阿 拉 斯 加 永 久 基 金 - Beginneros</a></li>
+<li><a href="https://www.10100.com/article/112420860">一文读懂 OpenAI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AI regulation`, `#government equity`, `#public benefit`, `#AI policy`
+
+---
+
+<a id="item-15"></a>
+## [Bending Spoons 上市首日大涨 40%，逆势突破 SaaS 低迷](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) ⭐️ 7.0/10
+
+意大利科技集团 Bending Spoons 上市首日股价飙升 40%，逆势突破了 SaaS 行业的整体低迷。 此次成功上市表明投资者对 Bending Spoons 收购并复兴老牌科技品牌的独特策略充满信心，可能重塑科技行业的并购趋势。 该公司通过收购并改造 AOL、Eventbrite、Evernote、Meetup 和 Vimeo 等上一代科技品牌实现了快速增长。
 
 rss · TechCrunch · 7月1日 22:47
 
-**背景**: Bending Spoons S.p.A. 是一家意大利科技集团，成立于 2013 年，总部位于米兰。该公司通常收购已有产品市场契合度的产品并进行长期管理，从一家失败的初创公司发展成为欧洲最成熟的数字收购平台，营收超过 12 亿美元。
+**背景**: Bending Spoons 是一家成立于 2013 年的意大利科技集团，总部位于米兰。它通常收购已有产品市场契合度的产品并进行长期管理，从一家失败的初创公司发展成为欧洲最成熟的数字收购平台，收入超过 12 亿美元。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Bending_Spoons">Bending Spoons - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/pulse/bending-spoons-acquisition-strategy-wetransfer-case-nicola-verrini-uts8f">Bending Spoons ' acquisition strategy : the WeTransfer case</a></li>
 <li><a href="https://globaltalent.co/gtc-podcasts/from-10k-to-500m-deals-bending-spoons-acquisition-playbook/">From $10K to $500M Deals: Bending Spoons ' Acquisition Playbook</a></li>
 
 </ul>
 </details>
 
-**标签**: `#SaaS`, `#IPO`, `#acquisitions`, `#tech business`, `#market trends`
-
----
-
-<a id="item-12"></a>
-## [Together AI 融资 8 亿美元，估值跃升至 83 亿](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/) ⭐️ 7.0/10
-
-专注于开源 AI 模型的 neocloud 提供商 Together AI 完成了 8 亿美元的 C 轮融资，估值从 2025 年初的 33 亿美元跃升至 83 亿美元。 这笔巨额融资凸显了市场对专用 AI 基础设施日益增长的需求，并验证了 neocloud 商业模式的可行性——该模式为训练和运行开源模型提供了经济高效的 GPU 集群访问。 Together AI 提供 GPU 即服务以及涵盖推理、模型调整和预训练的 AI 开发全栈平台。其客户包括多家大型企业，并与 CoreWeave 等其他 neocloud 公司竞争。
-
-rss · TechCrunch · 7月1日 18:29
-
-**背景**: Neocloud 是专为 AI 和高性能计算工作负载构建的云服务商，提供 GPU 集群即服务。与传统超大规模云厂商不同，它们针对 AI 任务进行了优化，并通常提供最新的 Nvidia GPU 访问。Together AI 专注于开源模型，使 AI 更易获取且成本更低。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://blog.equinix.com/blog/2025/10/14/what-is-a-neocloud/">What Is a Neocloud? - Interconnections - The Equinix Blog</a></li>
-<li><a href="https://www.forbes.com/companies/together-ai/">Together AI | Company Overview & News - Forbes Together AI - LinkedIn Neocloud Together AI raises $800M, leaps to $8.3B valuation Together AI Raises $800 Million at $8.3 Billion Valuation to ... As Companies Race for Cheaper A.I. Options, This Start-Up ... Top Stories</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#funding`, `#neocloud`, `#open-source`, `#infrastructure`
-
----
-
-<a id="item-13"></a>
-## [本田转向数据中心电池生产](https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/) ⭐️ 7.0/10
-
-本田已在其俄亥俄州工厂开始生产用于数据中心储能系统的电池，将重心从电动汽车电池转向人工智能数据中心的电力解决方案。 此举标志着汽车制造商在应对电动汽车需求波动的同时，进军蓬勃发展的数据中心储能市场，这对支持人工智能和云计算增长至关重要。 本田与 LG 新能源合作，在原本用于生产电动汽车电池的工厂生产这些电池，旨在争取时间，直到电动汽车需求复苏。
-
-rss · TechCrunch · 7月1日 17:13
-
-**背景**: 由于人工智能和云计算的发展，数据中心正经历爆炸式增长，预计到 2030 年全球电力消耗将翻一番。储能系统对于电网稳定性和备用电源至关重要，这为像本田这样的汽车制造商创造了一个利润丰厚的市场。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/">Even Honda is pivoting to data centers - TechCrunch</a></li>
-<li><a href="https://www.autoblog.com/news/honda-found-a-new-use-for-its-ev-battery-plant-ai-data-centers">Honda Found A New Use For Its EV Battery Plant: AI Data Centers</a></li>
-<li><a href="https://asia.nikkei.com/business/technology/artificial-intelligence/honda-starts-ai-data-center-battery-production-in-us-after-ev-pivot">Honda starts AI data center battery production in US after EV ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#energy storage`, `#data centers`, `#Honda`, `#batteries`, `#industry shift`
-
----
-
-<a id="item-14"></a>
-## [从微分几何看哈密顿神经网络：诺特定理在 ML 中的应用](https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/) ⭐️ 7.0/10
-
-一篇博客文章从微分几何角度解释哈密顿神经网络（HNN），将其与诺特定理联系起来，展示对称性如何导致守恒定律并提升泛化能力。 这一视角提供了对 HNN 为何泛化良好的更深入理解，可能激发新的物理启发架构，利用对称性在科学和工程应用中实现更好的学习。 该文章数学内容较多，但包含交互式可视化以帮助理解，并强调诺特定理——对称性与守恒定律之间的基本联系——作为机器学习中泛化的关键见解。
-
-reddit · r/MachineLearning · /u/FlameOfIgnis · 7月1日 21:55
-
-**背景**: 哈密顿神经网络（HNN）是一类受哈密顿力学启发的神经网络，旨在从数据中学习并遵守守恒定律。诺特定理指出，物理系统的每一个连续对称性都对应一个守恒量。微分几何提供了研究此类系统几何结构的工具，为理解 HNN 提供了自然框架。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/1906.01563">[1906.01563] Hamiltonian Neural Networks - arXiv.org Hamiltonian Neural Networks Hamiltonian Neural Networks - NIPS Hamiltonian Neural Networks - GitHub Pages Hamiltonian neural networks | Proceedings of the 33rd ... A generalized framework of neural networks for Hamiltonian ... Hamiltonian Neural Networks - GitHub</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Noether's_theorem">Noether's theorem</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Differential_geometry">Differential geometry - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Hamiltonian Neural Networks`, `#differential geometry`, `#Noether's theorem`, `#physics-informed ML`, `#deep learning`
-
----
-
-<a id="item-15"></a>
-## [ZCode 桌面应用：GLM-5.2 的编程助手](https://zcode.z.ai/en) ⭐️ 6.0/10
-
-Z.ai 发布了 ZCode，这是一款桌面应用程序，作为 GLM-5.2 模型的编程助手，集成了流行的 CLI 编码代理。 ZCode 为偏好桌面应用而非终端工具的开发者提供了图形界面，可能扩大 GLM-5.2 在编码任务中的采用。 ZCode 基于 Electron 构建，提供基础使用配额但定价层级模糊；与 OpenCode 或 MiMo Code 等替代品不同，它并非开源。
-
-hackernews · chvid · 7月1日 22:03 · [社区讨论](https://news.ycombinator.com/item?id=48753715)
-
-**背景**: GLM-5.2 是 Z.ai 推出的大规模推理模型，拥有 100 万 token 的上下文窗口，专为复杂代理工作流和软件工程设计。ZCode 作为运行该模型的桌面代理，以桌面应用形式辅助编码，类似于 Claude Code 或 Cursor CLI 但采用桌面界面。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://zcode.z.ai/en">ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2</a></li>
-<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM - 5 . 2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
-<li><a href="https://openrouter.ai/z-ai/glm-5.2">GLM 5 . 2 - API Pricing & Benchmarks | OpenRouter</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论对 ZCode 模糊的定价和缺乏开源表示怀疑，一些用户将其与 OpenCode 和 MiMo Code 等开源替代品进行不利比较。不过，有用户报告称已使用数周，体验良好。
-
-**标签**: `#AI coding agent`, `#GLM-5.2`, `#desktop app`, `#pricing transparency`
+**标签**: `#SaaS`, `#IPO`, `#Tech M&A`, `#Business Strategy`
 
 ---
 
 <a id="item-16"></a>
-## [Android 17 QPR1 Beta 6 发布，达到平台稳定性里程碑](https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/) ⭐️ 6.0/10
+## [苹果与 Epic 同意暂停 App Store 诉讼，等待最高法院裁决](https://9to5mac.com/2026/07/01/apple-to-ask-court-to-halt-epic-games-proceedings-pending-supreme-court-ruling/) ⭐️ 6.0/10
 
-谷歌为 Pixel 设备发布了 Android 17 QPR1 Beta 6，该版本达到了平台稳定性里程碑，API 已最终确定。 这一里程碑对开发者至关重要，因为 API 现已稳定，他们可以在正式版发布前完成应用的兼容性测试和最终调整。 此次更新紧随上周的 Beta 5，包含针对 Pixel 设备的第三波错误修复。平台稳定性里程碑意味着所有面向应用的 API 和行为都已最终确定。
+苹果与 Epic Games 已共同请求法院暂时中止其 App Store 反垄断诉讼的程序，以便苹果寻求在最高法院对其上诉作出裁决前暂停审理。 这一程序性举措可能推迟这一备受瞩目的反垄断案件的最终解决，影响等待 App Store 支付政策和佣金结构明确化的开发者和消费者。 暂停程序的协议取决于下级法院是否批准苹果的暂停请求；若被拒绝，案件可能按原计划进行。
 
-rss · 9to5Google · 7月1日 20:17
+rss · 9to5Mac · 7月2日 01:52
 
-**背景**: Android QPR（季度平台发布）更新是主要版本之间的中期功能更新，带来新功能和改进。平台稳定性里程碑自 Android 11 引入，确保开发者在正式版发布前拥有稳定的 API 接口。
+**背景**: 苹果与 Epic Games 的诉讼始于 2020 年，当时 Epic 挑战苹果的应用内支付要求为反竞争行为。该案经历了多次裁决，最高法院最近同意审理苹果就某些反垄断问题提出的上诉。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-everything-new/">Here's everything new in Android 17 QPR1 Beta 6 [Gallery]</a></li>
-<li><a href="https://developer.android.com/about/versions/16/get-qpr">Get Android 16 QPR beta builds | Android Developers</a></li>
-<li><a href="https://android-developers.googleblog.com/2020/07/android-11-beta-2-and-platform-stability.html">Android Developers Blog: Android 11 Beta 2 and Platform Stability</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Android`, `#Pixel`, `#Beta`, `#Platform Stability`
+**标签**: `#Apple`, `#Epic Games`, `#App Store`, `#antitrust`, `#legal`
 
 ---
 
 <a id="item-17"></a>
-## [SpaceX 开发比 iPhone 更薄的 AI 硬件](https://9to5mac.com/2026/07/01/spacex-developing-ai-hardware-product-thats-slimmer-than-an-iphone-reports-wsj/) ⭐️ 6.0/10
+## [可立点科技获融资，研发 AI 养老机器人](https://36kr.com/p/3877863381741577?f=rss) ⭐️ 6.0/10
 
-据《华尔街日报》报道，SpaceX 正在开发一款比 iPhone 更薄的 AI 硬件原型。 这标志着 SpaceX 可能进入消费级 AI 硬件领域，从航空航天和卫星通信扩展到由科技巨头主导的竞争激烈的市场。 该报道未提供该设备的功能、规格或发布时间的具体细节，且信息来自二手来源而非官方公告。
+深圳可立点科技完成由力合科创领投的战略融资，用于研发 AI+机器人养老产品，包括与华西医院联合开发的康复助行转运机器人。 此次融资凸显了银发经济领域投资的增长，中国养老市场规模预计 2035 年将突破 30 万亿元。这些机器人旨在满足老龄化人口在居家和机构养老中的关键需求。 GR-150 康复助行转运机器人采用高精度 SLAM 和多传感器融合技术实现室内自主导航；陪伴机器人具备健康监测、跌倒检测和多模态情感识别功能。公司计划于 2026 年第三季度完成产品定型，第四季度启动量产。
 
-rss · 9to5Mac · 7月1日 18:17
+rss · 36氪 · 7月2日 02:07
 
-**背景**: 由埃隆·马斯克领导的 SpaceX 主要以火箭和 Starlink 卫星互联网闻名。马斯克还共同创立了 OpenAI，并一直对 AI 发表言论，但 SpaceX 此前并未与消费级 AI 硬件相关联。
-
-**标签**: `#SpaceX`, `#AI hardware`, `#consumer electronics`
-
----
-
-<a id="item-18"></a>
-## [Xbox 测试光盘转数字功能](https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection) ⭐️ 6.0/10
-
-微软正在内部测试一项名为 Disc2Digital 的光盘转数字功能，允许 Xbox Series X 和 Xbox One 用户将实体游戏光盘转换为绑定到其账户的数字授权。 该功能标志着微软逐步放弃实体光盘，顺应行业向全数字游戏发展的趋势，同时为现有实体游戏玩家提供过渡方案，无需光盘即可继续游玩。 数字授权与实体光盘绑定；如果光盘被借出或出售，授权将转移给新所有者，原所有者失去访问权限。该功能支持 Xbox Series X 和 Xbox One 光盘，但不支持 Xbox 360 或初代 Xbox 游戏。
-
-rss · The Verge · 7月1日 17:41
-
-**背景**: 微软与索尼一样正迈向无光盘未来；索尼已宣布从 2028 年 1 月起停止发行第一方实体游戏。Xbox Play Anywhere 和 Xbox Cloud Gaming 是现有的数字计划，支持跨平台游玩和串流，光盘转数字功能可能与之整合。
+**背景**: SLAM（同步定位与地图构建）是机器人自主导航的核心技术，能让机器人在未知环境中同时构建地图并定位自身位置。多传感器融合技术通过结合激光雷达、摄像头、雷达等多种传感器数据，提升定位精度和可靠性。在中国，二类医疗器械注册针对中等风险产品，需经省级药品监督管理部门审评审批。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection">Xbox testing disc-to-digital feature that digitizes... | The Verge</a></li>
-<li><a href="https://insider-gaming.com/xbox-working-disc-to-digital-games/">Xbox Working On Disc-To-Digital Feature For Games - Insider Gaming</a></li>
-<li><a href="https://www.videogameschronicle.com/news/xbox-is-reportedly-planning-a-way-for-players-to-convert-their-discs-into-digital-copies/">Xbox is reportedly planning a way for players to convert their discs into...</a></li>
+<li><a href="https://www.researching.cn/ArticlePdf/m00002/2026/63/8/0800001.pdf">激光与视觉 SLAM 的算法综述</a></li>
+<li><a href="https://linpowave.com/zh-Hans/blog/multi-modal-sensor-fusion-revolutionizing-autonomous-driving">多 模态 传 感 器 融 合 ，实现更安全的驾驶 | Ningbo Linpowave</a></li>
+<li><a href="https://c.m.163.com/news/a/JVUGTK8M0514CJ09.html">一文读懂 医 疗 器 械 注 册 编号：产地、风险等级全解析</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Xbox`, `#gaming`, `#digital distribution`, `#Microsoft`
-
----
-
-<a id="item-19"></a>
-## [现代起亚发布车内远紫外线消毒系统](https://www.ithome.com/0/971/412.htm) ⭐️ 6.0/10
-
-现代和起亚推出了 Plasma Care UVC，一种车内远紫外线消毒系统，可在 30 秒内消灭 99.9%的肺炎致病菌，并在 30 分钟内使空气传播病毒减少 96.8%。 该技术允许在乘客在场时持续对车厢进行消毒，解决了传统 UVC 系统的一大局限。它可能成为未来车辆的标准配置，提升乘客健康安全。 该系统使用波长 200–230 纳米的远 UVC 光，无法穿透人体皮肤但能有效破坏微生物。现代和起亚增加了光学滤镜以限制波长，并缩小了设备尺寸和功耗以适应汽车使用。
-
-rss · IT之家 · 7月2日 00:07
-
-**背景**: 传统 UVC 光（254 纳米）具有杀菌作用，但对人体皮肤和眼睛有害，因此只能用于无人空间。远 UVC（200–230 纳米）对有人环境更安全，因为它被死皮细胞外层和泪膜吸收，不会损伤深层组织。远 UVC 的研究主要由哥伦比亚大学辐射研究中心领导。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Far-UVC">Far-UVC - Wikipedia</a></li>
-<li><a href="https://cleantechnica.com/2026/06/23/hyundai-kia-unveil-worlds-1st-in-vehicle-plasma-care-uvc-sanitization-technology/">Hyundai & Kia Unveil World’s 1st In-Vehicle " Plasma Care UVC ..."</a></li>
-<li><a href="https://thenextweb.com/news/hyundai-kia-plasma-care-uvc-cabin-sanitization">Hyundai and Kia built a UV system that kills bacteria inside a car while...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#automotive`, `#UV sterilization`, `#health tech`, `#Hyundai`, `#Kia`
-
----
-
-<a id="item-20"></a>
-## [华为联合上海电信演示 5G-A×AI 大上行，峰值 1Gbps](https://www.ithome.com/0/971/407.htm) ⭐️ 6.0/10
-
-华为与上海电信在上海西岸美术馆建立了 5G-A×AI 大上行样板点，实测上行峰值速率达 1Gbps，并演示了 AI 眼镜和多模态 AI 交互场景。 这标志着网络从下行优先转向上下行并重，对 AI 眼镜、实时 AIGC 等移动 AI 应用至关重要，并设定了到 2026 年底中心城区实现 20Mbps 上行连续覆盖的目标。 该网络采用 F+T 5G-A 多载波聚合，已建成 3400 余个 3CC 站点，实现上行峰值 1Gbps、下行峰值近 4Gbps。2.1GHz 8T8R 配置相比 1.8GHz 4T4R，上行覆盖提升 3-5dB，上行容量翻倍。
-
-rss · IT之家 · 7月1日 23:54
-
-**背景**: 5G-A（5G-Advanced）是 5G 的增强版本，关键能力提升高达 10 倍，包括千兆上行。GigaUplink 倡议在 2026 年世界移动通信大会上发布，将上行性能列为移动 AI 的优先方向，目标是“泛在 20Mbps、峰值 1Gbps”。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.huawei.com/en/news/2026/6/mwcs-mobileai-gigauplink-solution">Huawei Unveils GigaUplink Solution to Advance Mobile AI - Huawei</a></li>
-<li><a href="https://m.c114.com.cn/w5459-1313002.html">上海电信携手华为打造 5 G - A ×AI大上行样板点，加速Mobile AI...</a></li>
-<li><a href="https://post.smzdm.com/p/a7gmn5ng/">5 G - A 网 络 在 大 型活动中通信保障效果如何？ 我们用87+...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#5G-A`, `#AI`, `#telecommunications`, `#Huawei`, `#network infrastructure`
-
----
-
-<a id="item-21"></a>
-## [华泰证券看好锂电涨价周期](https://36kr.com/newsflashes/3877734956855555?f=rss) ⭐️ 6.0/10
-
-华泰证券发布报告，引用鑫椤锂电 7 月预排产数据，显示电池排产 181.4 GWh（环比增长 3.2%），全产业链需求强劲。该机构重申看好本轮锂电涨价周期，并强调钠电池和固态电池的产业化进展。 这表明在储能需求和电动汽车普及的推动下，锂电池行业持续增长，可能影响定价和投资策略。对钠电池和固态电池的关注表明行业正向下一代储能技术转型。 报告指出，7 月正极材料排产 23.7 万吨（环比增长 6.2%），负极 19.9 万吨（环比增长 4.5%），隔膜 22.1 亿平方米（环比增长 1.4%），电解液 13.3 万吨（环比增长 6.8%）。华泰预计下半年排产将加速提升，受年底出口退税抢出口和储能并网旺季推动。
-
-rss · 36氪 · 7月1日 23:55
-
-**背景**: 锂电池主导电动汽车和储能市场，但锂价上涨激发了对钠电池和固态电池等替代技术的兴趣。钠电池成本更低且材料丰富，固态电池则有望提供更高能量密度和安全性。这两项技术正接近商业化，多家公司已宣布量产时间表。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="http://icbattery.com/">鑫 椤 资讯</a></li>
-<li><a href="https://news.pedaily.cn/202605/563811.shtml">锂的对手，正式入场_投资界</a></li>
-<li><a href="https://news.qq.com/rain/a/20260319A04VNP00">固态电池产业化提速，2026年成半固态电池量产元年_腾讯新闻</a></li>
-
-</ul>
-</details>
-
-**标签**: `#lithium battery`, `#energy storage`, `#EV`, `#sodium battery`, `#solid-state battery`
-
----
-
-<a id="item-22"></a>
-## [AI 硬件稀缺创造投资机会](https://seekingalpha.com/article/4919300-the-physical-limits-of-ai-where-scarcity-is-creating-opportunity?source=feed_all_articles) ⭐️ 6.0/10
-
-这一观点强调，AI 的增长不仅仅是软件的故事，还越来越受到硬件和能源的制约，这可能会将投资焦点转向解决这些瓶颈的公司。 文章讨论了具体的物理限制，包括 GPU 制造能力、数据中心的功耗和冷却需求，并指出半导体制造和能源基础设施等领域是潜在受益者。
-
-rss · Seeking Alpha · 7月1日 22:05
-
-**背景**: AI 模型需要大量的计算资源，主要来自 GPU，由于需求高和制造复杂，GPU 供应短缺。此外，训练和运行大型模型消耗大量电力，给能源电网带来压力。这些物理限制正成为 AI 进一步发展的关键瓶颈。
-
-**标签**: `#AI`, `#hardware`, `#investment`, `#scarcity`
-
----
-
-<a id="item-23"></a>
-## [Meta 承认 AI 算力过剩](https://seekingalpha.com/article/4919289-ai-bubble-burst-meta-admits-excess-compute-capacity?source=feed_all_articles) ⭐️ 6.0/10
-
-Meta 承认其 AI 算力过剩，并正在构建云业务，将多余的 AI 计算能力出售给其他公司。 这一承认表明科技行业可能在 AI 基础设施上过度投资，而 Meta 将过剩算力变现的举措可能重塑云计算市场格局。 消息公布后 Meta 股价上涨超过 6%，且该公司据报道承诺向 AI 基础设施合作伙伴投入高达 270 亿美元，表明这是战略调整而非全面撤退。
-
-rss · Seeking Alpha · 7月1日 21:02
-
-**背景**: 亚马逊、微软、谷歌和 Meta 等科技巨头在 2026 年共同向 AI 基础设施投资超过 6500 亿美元。对错过 AI 热潮的恐惧推动了巨额支出，但现在产能过剩的迹象开始显现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html">Meta stock pops on cloud push to sell excess AI compute power ...</a></li>
-<li><a href="https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/">Meta building cloud business to sell excess AI capacity ...</a></li>
-<li><a href="https://intellectia.ai/blog/big-tech-ai-infrastructure-investment-2026">Big Tech's $650B AI Infrastructure Investment: 2026 Market Analysis</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Meta`, `#compute capacity`, `#industry news`
+**标签**: `#AI+Robotics`, `#Elderly Care`, `#Healthcare Robotics`, `#Funding`
 
 ---
