@@ -5,7 +5,7 @@ date: 2026-08-15
 lang: en
 ---
 
-> Analyzed 239 items, but none met the importance threshold.
+> Analyzed 233 items, but none met the importance threshold.
 
 No significant developments today. This might indicate:
 - A quiet day in your tracked sources
